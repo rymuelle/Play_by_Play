@@ -1,0 +1,61 @@
+262570277,West Virginia,Maryland
+262572393,Middle Tennessee,Tennessee Tech
+262582649,Toledo,Kansas
+262590194,Ohio State,Cincinnati
+262590087,Notre Dame,Michigan
+262590002,Auburn,LSU
+262590030,USC,Nebraska
+262592633,Tennessee,Florida
+262590242,Rice,Texas
+262590052,Florida State,Clemson
+262590061,Georgia,UAB
+262590097,Louisville,Miami
+262590259,Virginia Tech,Duke
+262592483,Oregon,Oklahoma
+262592294,Iowa,Iowa State
+262592628,TCU,Texas Tech
+262590025,California,Portland State
+262590038,Colorado,Arizona State
+262590103,Boston College,BYU
+262590213,Penn State,Youngstown State
+262590041,Connecticut,Wake Forest
+262590221,Pittsburgh,Michigan State
+262590356,Illinois,Syracuse
+262592306,Kansas State,Marshall
+262590238,Vanderbilt,Arkansas
+262592117,Central Michigan,Akron
+262592509,Purdue,Ball State
+262590059,Georgia Tech,Troy
+262590135,Minnesota,Temple
+262590193,Miami (OH),Kent State
+262590077,Northwestern,Eastern Michigan
+262592116,UCF,South Florida
+262590258,Virginia,Western Michigan
+262590275,Wisconsin,San Diego State
+262592751,Wyoming,Boise State
+262590164,Rutgers,Ohio
+262590084,Indiana,Southern Illinois
+262590070,Idaho,Idaho State
+262590265,Washington State,Baylor
+262592229,Florida Intl,Bowling Green
+262590096,Kentucky,Ole Miss
+262590264,Washington,Fresno State
+262590248,Houston,Grambling State
+262592348,Louisiana Tech,Nicholls State
+262592572,Southern Mississippi,NC State
+262592579,South Carolina,Wofford
+262590344,Mississippi State,Tulane
+262590197,Oklahoma State,Florida Atlantic
+262590202,Tulsa,North Texas
+262590151,East Carolina,Memphis
+262590153,North Carolina,Furman
+262590333,Alabama,Louisiana Monroe
+262592459,Northern Illinois,Buffalo
+262590166,New Mexico State,Texas Southern
+262590167,New Mexico,Missouri
+262592567,SMU,Sam Houston State
+262590328,Utah State,Utah
+262592440,Nevada,Colorado State
+262590245,Texas A&M,Army
+262590012,Arizona,Stephen F Austin
+262590024,Stanford,Navy

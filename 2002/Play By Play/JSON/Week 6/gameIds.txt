@@ -1,0 +1,52 @@
+222690097,Louisville,Florida State
+222700167,New Mexico,Texas Tech
+222710201,Oklahoma,South Florida
+222712655,Tulane,Texas
+222712711,Western Michigan,Virginia Tech
+222710194,Ohio State,Indiana
+222710057,Florida,Kentucky
+222710061,Georgia,New Mexico State
+222712633,Tennessee,Rutgers
+222710213,Penn State,Iowa
+222710264,Washington,Idaho
+222710356,Illinois,Michigan
+222710025,California,Washington State
+222710152,NC State,Massachusetts
+222710030,USC,Oregon State
+222710066,Iowa State,Nebraska
+222710099,LSU,Mississippi State
+222710245,Texas A&M,Louisiana Tech
+222712440,Nevada,Colorado State
+222710103,Boston College,Central Michigan
+222710218,Temple,Cincinnati
+222710277,West Virginia,East Carolina
+222712426,Navy,Duke
+222710041,Connecticut,Ball State
+222710349,Army,Southern Mississippi
+222710127,Michigan State,Northwestern
+222710221,Pittsburgh,Toledo
+222710142,Missouri,Troy
+222710021,San Diego State,UCLA
+222712459,Northern Illinois,Kent State
+222710254,Utah,Air Force
+222710009,Arizona State,Stanford
+222710153,North Carolina,Georgia Tech
+222710120,Maryland,Wofford
+222712509,Purdue,Minnesota
+222712006,Akron,Miami (OH)
+222712116,UCF,Liberty
+222712199,Eastern Michigan,Southern Illinois
+222710154,Wake Forest,Virginia
+222710005,UAB,Memphis
+222710238,Vanderbilt,South Carolina
+222710195,Ohio,Buffalo
+222710202,Tulsa,Kansas
+222712393,Middle Tennessee,Southeast Missouri State
+222712032,Arkansas State,Tennessee-Martin
+222710008,Arkansas,Alabama
+222710242,Rice,Fresno State
+222710068,Boise State,Utah State
+222710002,Auburn,Syracuse
+222710012,Arizona,North Texas
+222710023,San José State,UTEP
+222710062,Hawaii,SMU

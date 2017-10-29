@@ -1,0 +1,55 @@
+263042567,SMU,UAB
+263050068,Boise State,Fresno State
+263060097,Louisville,West Virginia
+263070349,Army,Air Force
+263080356,Illinois,Ohio State
+263080130,Michigan,Ball State
+263080251,Texas,Oklahoma State
+263080002,Auburn,Arkansas State
+263080238,Vanderbilt,Florida
+263082633,Tennessee,LSU
+263080024,Stanford,USC
+263080025,California,UCLA
+263080087,Notre Dame,North Carolina
+263082579,South Carolina,Arkansas
+263080154,Wake Forest,Boston College
+263080275,Wisconsin,Penn State
+263080245,Texas A&M,Oklahoma
+263080228,Clemson,Maryland
+263080152,NC State,Georgia Tech
+263082390,Miami,Virginia Tech
+263082483,Oregon,Washington
+263080265,Washington State,Arizona
+263080052,Florida State,Virginia
+263080058,South Florida,Pittsburgh
+263080135,Minnesota,Indiana
+263080158,Nebraska,Missouri
+263082641,Texas Tech,Baylor
+263082294,Iowa,Northwestern
+263080333,Alabama,Mississippi State
+263082006,Akron,Bowling Green
+263082084,Buffalo,Kent State
+263080218,Temple,Central Michigan
+263080150,Duke,Navy
+263080096,Kentucky,Georgia
+263082199,Eastern Michigan,Ohio
+263080145,Ole Miss,Northwestern State
+263080066,Iowa State,Kansas
+263080328,Utah State,Hawaii
+263082439,UNLV,TCU
+263082751,Wyoming,San Diego State
+263082393,Middle Tennessee,Florida Atlantic
+263082711,Western Michigan,Miami (OH)
+263080248,Houston,Tulsa
+263080127,Michigan State,Purdue
+263080038,Colorado,Kansas State
+263082116,UCF,East Carolina
+263082653,Troy,Louisiana Lafayette
+263080204,Oregon State,Arizona State
+263080070,Idaho,Nevada
+263080036,Colorado State,BYU
+263080249,North Texas,Louisiana Tech
+263080276,Marshall,Tulane
+263080166,New Mexico State,San José State
+263082638,UTEP,Rice
+263090235,Memphis,Southern Mississippi

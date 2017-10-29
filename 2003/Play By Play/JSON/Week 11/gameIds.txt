@@ -1,0 +1,49 @@
+233030249,North Texas,Troy
+233040252,BYU,Boise State
+233050058,South Florida,Cincinnati
+233050201,Oklahoma,Oklahoma State
+233050259,Virginia Tech,Miami
+233050030,USC,Washington State
+233050057,Florida,Georgia
+233050087,Notre Dame,Florida State
+233050099,LSU,Louisiana Tech
+233050213,Penn State,Ohio State
+233050127,Michigan State,Michigan
+233050251,Texas,Nebraska
+233052294,Iowa,Illinois
+233052509,Purdue,Northwestern
+233052633,Tennessee,Duke
+233050145,Ole Miss,South Carolina
+233052459,Northern Illinois,Ball State
+233050135,Minnesota,Indiana
+233050103,Boston College,Pittsburgh
+233050120,Maryland,North Carolina
+233050041,Connecticut,Western Michigan
+233052005,Air Force,Utah
+233052117,Central Michigan,Eastern Michigan
+233050277,West Virginia,UCF
+233050245,Texas A&M,Kansas
+233052426,Navy,Tulane
+233050235,Memphis,East Carolina
+233052306,Kansas State,Baylor
+233050002,Auburn,Louisiana Monroe
+233050023,San José State,Hawaii
+233050242,Rice,Nevada
+233050328,Utah State,Middle Tennessee
+233052567,SMU,Fresno State
+233052572,Southern Mississippi,Louisiana Lafayette
+233052751,Wyoming,Colorado State
+233050152,NC State,Virginia
+233050154,Wake Forest,Clemson
+233050024,Stanford,UCLA
+233050009,Arizona State,California
+233050005,UAB,Army
+233050204,Oregon State,Arizona
+233050276,Marshall,Akron
+233052638,UTEP,Tulsa
+233052641,Texas Tech,Colorado
+233052649,Toledo,Buffalo
+233050166,New Mexico State,Arkansas State
+233050096,Kentucky,Arkansas
+233050167,New Mexico,UNLV
+233050264,Washington,Oregon

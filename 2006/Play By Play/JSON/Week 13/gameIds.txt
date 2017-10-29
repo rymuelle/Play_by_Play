@@ -1,0 +1,46 @@
+263252649,Toledo,Bowling Green
+263272390,Miami,Boston College
+263280008,Arkansas,LSU
+263280251,Texas,Texas A&M
+263280158,Nebraska,Colorado
+263282199,Eastern Michigan,Northern Illinois
+263282050,Ball State,Kent State
+263280193,Miami (OH),Ohio
+263282084,Buffalo,Central Michigan
+263280202,Tulsa,Tulane
+263280204,Oregon State,Oregon
+263282006,Akron,Western Michigan
+263282439,UNLV,Air Force
+263282348,Louisiana Tech,Fresno State
+263290030,USC,Notre Dame
+263290052,Florida State,Florida
+263290277,West Virginia,South Florida
+263290221,Pittsburgh,Louisville
+263292440,Nevada,Boise State
+263290197,Oklahoma State,Oklahoma
+263290164,Rutgers,Syracuse
+263290061,Georgia,Georgia Tech
+263290259,Virginia Tech,Virginia
+263292633,Tennessee,Kentucky
+263290120,Maryland,Wake Forest
+263290254,Utah,BYU
+263290228,Clemson,South Carolina
+263290062,Hawaii,Purdue
+263290041,Connecticut,Cincinnati
+263290142,Missouri,Kansas
+263290150,Duke,North Carolina
+263292116,UCF,UAB
+263290145,Ole Miss,Mississippi State
+263290167,New Mexico,San Diego State
+263290242,Rice,SMU
+263290328,Utah State,New Mexico State
+263292393,Middle Tennessee,Troy
+263290309,Louisiana Lafayette,Arkansas State
+263290070,Idaho,San José State
+263290012,Arizona,Arizona State
+263290152,NC State,East Carolina
+263292433,Louisiana Monroe,North Texas
+263290036,Colorado State,TCU
+263292226,Florida Atlantic,Florida Intl
+263292572,Southern Mississippi,Marshall
+263292638,UTEP,Memphis

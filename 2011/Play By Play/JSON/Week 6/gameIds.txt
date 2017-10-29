@@ -1,0 +1,52 @@
+312792483,Oregon,California
+312792393,Middle Tennessee,Western Kentucky
+312800278,Fresno State,Boise State
+312810099,LSU,Florida
+312810333,Alabama,Vanderbilt
+312810251,Texas,Oklahoma
+312810197,Oklahoma State,Kansas
+312810024,Stanford,Colorado
+312810228,Clemson,Boston College
+312810008,Arkansas,Auburn
+312810077,Northwestern,Michigan
+312810059,Georgia Tech,Maryland
+312810158,Nebraska,Ohio State
+312810277,West Virginia,Connecticut
+312812579,South Carolina,Kentucky
+312810084,Indiana,Illinois
+312812306,Kansas State,Missouri
+312810259,Virginia Tech,Miami
+312810254,Utah,Arizona State
+312810154,Wake Forest,Florida State
+312812641,Texas Tech,Texas A&M
+312810239,Baylor,Iowa State
+312810005,UAB,Mississippi State
+312810153,North Carolina,Louisville
+312812509,Purdue,Minnesota
+312810242,Rice,Memphis
+312810193,Miami (OH),Army
+312812006,Akron,Florida Intl
+312812050,Ball State,Temple
+312812711,Western Michigan,Bowling Green
+312812649,Toledo,Eastern Michigan
+312810164,Rutgers,Pittsburgh
+312812459,Northern Illinois,Kent State
+312812426,Navy,Southern Mississippi
+312812084,Buffalo,Ohio
+312810087,Notre Dame,Air Force
+312810152,NC State,Central Michigan
+312810204,Oregon State,Arizona
+312810213,Penn State,Iowa
+312810070,Idaho,Louisiana Tech
+312810309,Louisiana Lafayette,Troy
+312812116,UCF,Marshall
+312810248,Houston,East Carolina
+312812433,Louisiana Monroe,Arkansas State
+312812440,Nevada,UNLV
+312812633,Tennessee,Georgia
+312810249,North Texas,Florida Atlantic
+312810328,Utah State,Wyoming
+312812655,Tulane,Syracuse
+312810252,BYU,San José State
+312810026,UCLA,Washington State
+312810021,San Diego State,TCU

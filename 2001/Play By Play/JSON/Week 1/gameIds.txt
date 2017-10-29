@@ -1,0 +1,6 @@
+212350097,Louisville,New Mexico State
+212370201,Oklahoma,North Carolina
+212370275,Wisconsin,Virginia
+212370252,BYU,Tulane
+212380183,Syracuse,Georgia Tech
+212380038,Colorado,Fresno State

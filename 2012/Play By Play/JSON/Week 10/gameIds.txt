@@ -1,0 +1,56 @@
+323060195,Ohio,Eastern Michigan
+323062390,Miami,Virginia Tech
+323060098,Western Kentucky,Middle Tennessee
+323070025,California,Washington
+323080099,LSU,Alabama
+323082306,Kansas State,Oklahoma State
+323080087,Notre Dame,Pittsburgh
+323080030,USC,Oregon
+323080061,Georgia,Ole Miss
+323080057,Florida,Missouri
+323080097,Louisville,Temple
+323080204,Oregon State,Arizona State
+323080066,Iowa State,Oklahoma
+323080150,Duke,Clemson
+323080038,Colorado,Stanford
+323080344,Mississippi State,Texas A&M
+323082641,Texas Tech,Texas
+323080068,Boise State,San Diego State
+323080127,Michigan State,Nebraska
+323080277,West Virginia,TCU
+323080026,UCLA,Arizona
+323082348,Louisiana Tech,Texas San Antonio
+323080096,Kentucky,Vanderbilt
+323080151,East Carolina,Houston
+323080135,Minnesota,Michigan
+323080349,Army,Air Force
+323082084,Buffalo,Miami (OH)
+323082132,Cincinnati,Syracuse
+323082633,Tennessee,Troy
+323080008,Arkansas,Tulsa
+323080002,Auburn,New Mexico State
+323080152,NC State,Virginia
+323080120,Maryland,Georgia Tech
+323082117,Central Michigan,Western Michigan
+323082309,Kent State,Akron
+323080276,Marshall,Memphis
+323080254,Utah,Washington State
+323080328,Utah State,Texas State
+323082426,Navy,Florida Atlantic
+323082655,Tulane,Rice
+323082459,Northern Illinois,Massachusetts
+323082509,Purdue,Penn State
+323080239,Baylor,Kansas
+323080154,Wake Forest,Boston College
+323080194,Ohio State,Illinois
+323080084,Indiana,Iowa
+323080006,South Alabama,Florida Intl
+323082433,Louisiana Monroe,Louisiana Lafayette
+323082439,UNLV,New Mexico
+323082751,Wyoming,Colorado State
+323080249,North Texas,Arkansas State
+323080070,Idaho,San José State
+323080278,Fresno State,Hawai'i
+323080058,South Florida,Connecticut
+323082116,UCF,SMU
+323082572,Southern Mississippi,UAB

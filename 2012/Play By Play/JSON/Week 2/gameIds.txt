@@ -1,0 +1,72 @@
+322502132,Cincinnati,Pittsburgh
+322510328,Utah State,Utah
+322520333,Alabama,Western Kentucky
+322520183,Syracuse,USC
+322520099,LSU,Washington
+322522483,Oregon,Fresno State
+322520201,Oklahoma,Florida A&M
+322520052,Florida State,Savannah State
+322520142,Missouri,Georgia
+322520008,Arkansas,Louisiana Monroe
+322522579,South Carolina,East Carolina
+322522117,Central Michigan,Michigan State
+322520228,Clemson,Ball State
+322520204,Oregon State,Wisconsin
+322520194,Ohio State,UCF
+322520259,Virginia Tech,Austin Peay
+322520026,UCLA,Nebraska
+322520251,Texas,New Mexico
+322520012,Arizona,Oklahoma State
+322520130,Michigan,Air Force
+322522628,TCU,Grambling State
+322522306,Kansas State,Miami
+322520087,Notre Dame,Purdue
+322520097,Louisville,Missouri State
+322520245,Texas A&M,Florida
+322520024,Stanford,Duke
+322520041,Connecticut,NC State
+322520135,Minnesota,New Hampshire
+322520218,Temple,Maryland
+322520202,Tulsa,Tulane
+322520258,Virginia,Penn State
+322520344,Mississippi State,Auburn
+322520103,Boston College,Maine
+322520193,Miami (OH),Southern Illinois
+322522199,Eastern Michigan,Illinois State
+322522636,Texas San Antonio,Texas A&M-Commerce
+322520265,Washington State,Eastern Washington
+322520252,BYU,Weber State
+322520038,Colorado,Sacramento State
+322520025,California,Southern Utah
+322520113,Massachusetts,Indiana
+322520164,Rutgers,Howard
+322522294,Iowa,Iowa State
+322522305,Kansas,Rice
+322522440,Nevada,South Florida
+322522633,Tennessee,Georgia State
+322522751,Wyoming,Toledo
+322520154,Wake Forest,North Carolina
+322520006,South Alabama,Nicholls State
+322522084,Buffalo,Morgan State
+322522229,Florida Intl,Akron
+322522459,Northern Illinois,Tennessee-Martin
+322522393,Middle Tennessee,Florida Atlantic
+322522653,Troy,Louisiana Lafayette
+322522711,Western Michigan,Eastern Illinois
+322522032,Arkansas State,Memphis
+322520249,North Texas,Texas Southern
+322520276,Marshall,Western Carolina
+322520326,Texas State,Texas Tech
+322520059,Georgia Tech,Presbyterian College
+322520036,Colorado State,North Dakota State
+322520145,Ole Miss,UTEP
+322520189,Bowling Green,Idaho
+322520195,Ohio,New Mexico State
+322520021,San Diego State,Army
+322520096,Kentucky,Kent State
+322520023,San José State,UC Davis
+322520077,Northwestern,Vanderbilt
+322520248,Houston,Louisiana Tech
+322522567,SMU,Stephen F Austin
+322522439,UNLV,Northern Arizona
+322520009,Arizona State,Illinois

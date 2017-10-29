@@ -1,0 +1,55 @@
+322780254,Utah,USC
+322782229,Florida Intl,Arkansas State
+322782116,UCF,East Carolina
+322790183,Syracuse,Pittsburgh
+322790252,BYU,Utah State
+322802483,Oregon,Washington
+322800152,NC State,Florida State
+322800057,Florida,LSU
+322802579,South Carolina,Georgia
+322802306,Kansas State,Kansas
+322800251,Texas,West Virginia
+322800087,Notre Dame,Miami
+322800194,Ohio State,Nebraska
+322800204,Oregon State,Washington State
+322802628,TCU,Iowa State
+322800228,Clemson,Georgia Tech
+322802641,Texas Tech,Oklahoma
+322800024,Stanford,Arizona
+322800096,Kentucky,Mississippi State
+322800164,Rutgers,Connecticut
+322800213,Penn State,Northwestern
+322800025,California,UCLA
+322802005,Air Force,Navy
+322800218,Temple,South Florida
+322800195,Ohio,Buffalo
+322800002,Auburn,Arkansas
+322800084,Indiana,Michigan State
+322800349,Army,Boston College
+322802572,Southern Mississippi,Boise State
+322800153,North Carolina,Virginia Tech
+322802199,Eastern Michigan,Kent State
+322802711,Western Michigan,Massachusetts
+322802006,Akron,Bowling Green
+322802050,Ball State,Northern Illinois
+322800150,Duke,Virginia
+322800005,UAB,Southeastern Louisiana
+322802649,Toledo,Central Michigan
+322800275,Wisconsin,Illinois
+322800276,Marshall,Tulsa
+322802393,Middle Tennessee,Louisiana Monroe
+322800120,Maryland,Wake Forest
+322802509,Purdue,Michigan
+322800309,Louisiana Lafayette,Tulane
+322800070,Idaho,New Mexico State
+322800167,New Mexico,Texas State
+322800036,Colorado State,Fresno State
+322800235,Memphis,Rice
+322800248,Houston,North Texas
+322802132,Cincinnati,Miami (OH)
+322800142,Missouri,Vanderbilt
+322800145,Ole Miss,Texas A&M
+322802348,Louisiana Tech,UNLV
+322802440,Nevada,Wyoming
+322800021,San Diego State,Hawai'i
+322802638,UTEP,SMU

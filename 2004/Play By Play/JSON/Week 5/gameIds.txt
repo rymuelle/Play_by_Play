@@ -1,0 +1,51 @@
+242670248,Houston,Miami
+242672309,Kent State,Akron
+242680068,Boise State,BYU
+242682459,Northern Illinois,Bowling Green
+242690024,Stanford,USC
+242690251,Texas,Rice
+242690277,West Virginia,James Madison
+242690052,Florida State,Clemson
+242690002,Auburn,The Citadel
+242692633,Tennessee,Louisiana Tech
+242690258,Virginia,Syracuse
+242690099,LSU,Mississippi State
+242690254,Utah,Air Force
+242690356,Illinois,Purdue
+242690057,Florida,Kentucky
+242690130,Michigan,Iowa
+242690135,Minnesota,Northwestern
+242690275,Wisconsin,Penn State
+242690009,Arizona State,Oregon State
+242690150,Duke,Maryland
+242690153,North Carolina,Louisville
+242690084,Indiana,Michigan State
+242690041,Connecticut,Army
+242690154,Wake Forest,Boston College
+242690259,Virginia Tech,NC State
+242690221,Pittsburgh,Furman
+242692426,Navy,Vanderbilt
+242690036,Colorado State,Montana State
+242692751,Wyoming,Ole Miss
+242692483,Oregon,Idaho
+242692305,Kansas,Texas Tech
+242690008,Arkansas,Alabama
+242690012,Arizona,Washington State
+242690087,Notre Dame,Washington
+242692199,Eastern Michigan,Eastern Illinois
+242692579,South Carolina,Troy
+242692628,TCU,South Florida
+242692649,Toledo,Temple
+242690309,Louisiana Lafayette,Middle Tennessee
+242690239,Baylor,North Texas
+242690151,East Carolina,Cincinnati
+242690195,Ohio,Buffalo
+242690202,Tulsa,Missouri State
+242690005,UAB,Memphis
+242692433,Louisiana Monroe,Arkansas State
+242692567,SMU,San José State
+242692050,Ball State,Western Michigan
+242692655,Tulane,Southern Mississippi
+242690166,New Mexico State,New Mexico
+242690021,San Diego State,Nevada
+242692439,UNLV,Utah State

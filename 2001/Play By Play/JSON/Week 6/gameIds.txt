@@ -1,0 +1,55 @@
+212700221,Pittsburgh,Miami
+212720057,Florida,Mississippi State
+212720201,Oklahoma,Kansas State
+212720142,Missouri,Nebraska
+212720251,Texas,Texas Tech
+212720328,Utah State,Oregon
+212722633,Tennessee,LSU
+212720259,Virginia Tech,UCF
+212720059,Georgia Tech,Clemson
+212720278,Fresno State,Louisiana Tech
+212720204,Oregon State,UCLA
+212720025,California,Washington
+212722579,South Carolina,Alabama
+212720077,Northwestern,Michigan State
+212720130,Michigan,Illinois
+212720052,Florida State,Wake Forest
+212722439,UNLV,BYU
+212720135,Minnesota,Purdue
+212722649,Toledo,Northern Illinois
+212720103,Boston College,Army
+212720120,Maryland,West Virginia
+212720152,NC State,North Carolina
+212720084,Indiana,Ohio State
+212722294,Iowa,Penn State
+212720258,Virginia,Duke
+212720183,Syracuse,East Carolina
+212720096,Kentucky,Ole Miss
+212720097,Louisville,Memphis
+212720066,Iowa State,Baylor
+212722050,Ball State,Miami (OH)
+212720275,Wisconsin,Western Kentucky
+212720254,Utah,New Mexico
+212722751,Wyoming,Colorado State
+212722655,Tulane,Southern University
+212720245,Texas A&M,Notre Dame
+212722006,Akron,Kent State
+212722199,Eastern Michigan,Western Michigan
+212720030,USC,Stanford
+212720061,Georgia,Arkansas
+212720058,South Florida,North Texas
+212720164,Rutgers,Connecticut
+212720238,Vanderbilt,Auburn
+212720276,Marshall,Bowling Green
+212722433,Louisiana-Monroe,New Mexico State
+212722572,Southern Mississippi,UAB
+212722084,Buffalo,Central Michigan
+212720309,Louisiana-Lafayette,Middle Tennessee
+212720248,Houston,TCU
+212720197,Oklahoma State,Northwestern State
+212722638,UTEP,Tulsa
+212720009,Arizona State,San Jose State
+212720012,Arizona,Washington State
+212720070,Idaho,Boise State
+212720021,San Diego State,Air Force
+212720062,Hawaii,Rice

@@ -1,0 +1,48 @@
+253190193,Miami (OH),Bowling Green
+253192006,Akron,Ohio
+253202649,Toledo,Northern Illinois
+253230030,USC,Fresno State
+253232390,Miami,Georgia Tech
+253230145,Ole Miss,LSU
+253230127,Michigan State,Penn State
+253230087,Notre Dame,Syracuse
+253230258,Virginia,Virginia Tech
+253230002,Auburn,Alabama
+253230130,Michigan,Ohio State
+253232483,Oregon,Oregon State
+253230061,Georgia,Kentucky
+253232579,South Carolina,Clemson
+253232641,Texas Tech,Oklahoma
+253230120,Maryland,Boston College
+253232638,UTEP,UAB
+253230058,South Florida,Cincinnati
+253230349,Army,Arkansas State
+253230356,Illinois,Northwestern
+253232050,Ball State,Central Michigan
+253232294,Iowa,Minnesota
+253232633,Tennessee,Vanderbilt
+253230084,Indiana,Purdue
+253230152,NC State,Middle Tennessee
+253230153,North Carolina,Duke
+253232084,Buffalo,Eastern Michigan
+253232426,Navy,Temple
+253232655,Tulane,Tulsa
+253230239,Baylor,Oklahoma State
+253230008,Arkansas,Mississippi State
+253232306,Kansas State,Missouri
+253230167,New Mexico,Air Force
+253230242,Rice,UCF
+253230252,BYU,Utah
+253230328,Utah State,Nevada
+253230068,Boise State,Idaho
+253230264,Washington,Washington State
+253232439,UNLV,Colorado State
+253230276,Marshall,East Carolina
+253230248,Houston,SMU
+253232229,Florida Intl,Western Kentucky
+253230023,San José State,New Mexico State
+253230024,Stanford,California
+253230249,North Texas,Louisiana Monroe
+253230021,San Diego State,Wyoming
+253232572,Southern Mississippi,Memphis
+253250195,Ohio,Miami (OH)

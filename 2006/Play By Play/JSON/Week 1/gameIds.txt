@@ -1,0 +1,73 @@
+262430009,Arizona State,Northern Arizona
+262432117,Central Michigan,Boston College
+262430202,Tulsa,Stephen F Austin
+262432084,Buffalo,Temple
+262432393,Middle Tennessee,Florida Intl
+262432050,Ball State,Eastern Michigan
+262430193,Miami (OH),Northwestern
+262430041,Connecticut,Rhode Island
+262432309,Kent State,Minnesota
+262430066,Iowa State,Toledo
+262430344,Mississippi State,South Carolina
+262432433,Louisiana Monroe,Alcorn State
+262430068,Boise State,Sacramento State
+262430166,New Mexico State,Southeastern Louisiana
+262430204,Oregon State,Eastern Washington
+262430021,San Diego State,UTEP
+262440278,Fresno State,Nevada
+262450194,Ohio State,Northern Illinois
+262450059,Georgia Tech,Notre Dame
+262450251,Texas,North Texas
+262450002,Auburn,Washington State
+262450277,West Virginia,Marshall
+262450008,Arkansas,USC
+262450057,Florida,Southern Mississippi
+262450099,LSU,Louisiana Lafayette
+262452633,Tennessee,California
+262450201,Oklahoma,UAB
+262450130,Michigan,Vanderbilt
+262450061,Georgia,Western Kentucky
+262452294,Iowa,Montana
+262450259,Virginia Tech,Northeastern
+262450228,Clemson,Florida Atlantic
+262450213,Penn State,Akron
+262450158,Nebraska,Louisiana Tech
+262452483,Oregon,Stanford
+262452641,Texas Tech,SMU
+262450127,Michigan State,Idaho
+262452509,Purdue,Indiana State
+262450264,Washington,San José State
+262450153,North Carolina,Rutgers
+262450038,Colorado,Montana State
+262452751,Wyoming,Utah State
+262450036,Colorado State,Weber State
+262452426,Navy,East Carolina
+262452116,UCF,Villanova
+262450150,Duke,Richmond
+262450152,NC State,Appalachian State
+262450084,Indiana,Western Michigan
+262450120,Maryland,William & Mary
+262450154,Wake Forest,Syracuse
+262450195,Ohio,Tennessee-Martin
+262450197,Oklahoma State,Missouri State
+262450189,Bowling Green,Wisconsin
+262450221,Pittsburgh,Virginia
+262452305,Kansas,Northwestern State
+262450333,Alabama,Hawaii
+262450356,Illinois,Eastern Illinois
+262452653,Troy,Alabama State
+262450245,Texas A&M,The Citadel
+262450142,Missouri,Murray State
+262450058,South Florida,McNeese State
+262450026,UCLA,Utah
+262452032,Arkansas State,Army
+262452306,Kansas State,Illinois State
+262452132,Cincinnati,Eastern Kentucky
+262450167,New Mexico,Portland State
+262450242,Rice,Houston
+262452439,UNLV,Idaho State
+262450012,Arizona,BYU
+262450097,Louisville,Kentucky
+262450239,Baylor,TCU
+262450145,Ole Miss,Memphis
+262472390,Miami,Florida State

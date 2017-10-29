@@ -1,0 +1,51 @@
+333030235,Memphis,Cincinnati
+333040248,Houston,South Florida
+333040249,North Texas,Rice
+333042653,Troy,Louisiana Monroe
+333040265,Washington State,Arizona State
+333050204,Oregon State,USC
+333060052,Florida State,Miami
+333062509,Purdue,Ohio State
+333060258,Virginia,Clemson
+333060142,Missouri,Tennessee
+333060008,Arkansas,Auburn
+333060245,Texas A&M,UTEP
+333062579,South Carolina,Mississippi State
+333062641,Texas Tech,Oklahoma State
+333060278,Fresno State,Nevada
+333060113,Massachusetts,Northern Illinois
+333060026,UCLA,Colorado
+333060127,Michigan State,Michigan
+333062294,Iowa,Wisconsin
+333060087,Notre Dame,Navy
+333060103,Boston College,Virginia Tech
+333060164,Rutgers,Temple
+333060213,Penn State,Illinois
+333060276,Marshall,Southern Mississippi
+333062005,Air Force,Army
+333060183,Syracuse,Wake Forest
+333060152,NC State,North Carolina
+333060005,UAB,Middle Tennessee
+333062247,Georgia State,Western Kentucky
+333060295,Old Dominion,Rhode Island
+333062006,Akron,Kent State
+333062306,Kansas State,Iowa State
+333062628,TCU,West Virginia
+333060025,California,Arizona
+333060057,Florida,Georgia
+333060158,Nebraska,Northwestern
+333060084,Indiana,Minnesota
+333060202,Tulsa,Texas San Antonio
+333060251,Texas,Kansas
+333062439,UNLV,San José State
+333060328,Utah State,Hawaii
+333060070,Idaho,Texas State
+333060309,Louisiana Lafayette,New Mexico State
+333062226,Florida Atlantic,Tulane
+333062229,Florida Intl,East Carolina
+333060059,Georgia Tech,Pittsburgh
+333062649,Toledo,Eastern Michigan
+333060096,Kentucky,Alabama State
+333060006,South Alabama,Arkansas State
+333060036,Colorado State,Boise State
+333060021,San Diego State,New Mexico

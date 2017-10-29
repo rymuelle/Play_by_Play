@@ -1,0 +1,55 @@
+212840059,Georgia Tech,Maryland
+212860002,Auburn,Florida
+212860052,Florida State,Miami
+212862305,Kansas,Oklahoma
+212860239,Baylor,Nebraska
+212860025,California,Oregon
+212860259,Virginia Tech,Boston College
+212860026,UCLA,Washington
+212860036,Colorado State,Fresno State
+212860008,Arkansas,South Carolina
+212860197,Oklahoma State,Texas
+212860130,Michigan,Purdue
+212860152,NC State,Clemson
+212860167,New Mexico,BYU
+212860238,Vanderbilt,Georgia
+212860038,Colorado,Texas A&M
+212860194,Ohio State,Wisconsin
+212860024,Stanford,Washington State
+212862641,Texas Tech,Kansas State
+212860077,Northwestern,Minnesota
+212860221,Pittsburgh,Syracuse
+212862426,Navy,Rice
+212860127,Michigan State,Iowa
+212860145,Ole Miss,Alabama
+212860349,Army,East Carolina
+212862084,Buffalo,Marshall
+212862117,Central Michigan,Ohio
+212862711,Western Michigan,Bowling Green
+212860150,Duke,Wake Forest
+212860153,North Carolina,Virginia
+212860142,Missouri,Iowa State
+212860193,Miami (OH),Akron
+212860084,Indiana,Illinois
+212862309,Kent State,Northern Illinois
+212860344,Mississippi State,Troy
+212860087,Notre Dame,West Virginia
+212862005,Air Force,Wyoming
+212862032,Arkansas State,Louisiana-Lafayette
+212862655,Tulane,TCU
+212860218,Temple,Rutgers
+212860249,North Texas,Middle Tennessee
+212862440,Nevada,Louisiana Tech
+212860023,San Jose State,Southern Methodist
+212860005,UAB,Cincinnati
+212862199,Eastern Michigan,Ball State
+212862116,UCF,Liberty
+212860030,USC,Arizona State
+212860058,South Florida,Connecticut
+212860096,Kentucky,LSU
+212862439,UNLV,San Diego State
+212860248,Houston,Memphis
+212860166,New Mexico State,Idaho
+212860068,Boise State,Tulsa
+212860204,Oregon State,Arizona
+212860062,Hawaii,UTEP

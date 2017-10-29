@@ -1,0 +1,54 @@
+212770097,Louisville,Colorado State
+212780252,BYU,Utah State
+212792390,Miami,Troy
+212790099,LSU,Florida
+212790251,Texas,Oklahoma
+212790158,Nebraska,Iowa State
+212792633,Tennessee,Georgia
+212790012,Arizona,Oregon
+212790277,West Virginia,Virginia Tech
+212790264,Washington,USC
+212792306,Kansas State,Colorado
+212792579,South Carolina,Kentucky
+212790194,Ohio State,Northwestern
+212790213,Penn State,Michigan
+212790150,Duke,Georgia Tech
+212792509,Purdue,Iowa
+212790195,Ohio,Toledo
+212790245,Texas A&M,Baylor
+212790120,Maryland,Virginia
+212790164,Rutgers,Syracuse
+212792426,Navy,Air Force
+212792567,Southern Methodist,Hawaii
+212790356,Illinois,Minnesota
+212790349,Army,Houston
+212790041,Connecticut,Eastern Michigan
+212790189,Bowling Green,Kent State
+212790193,Miami (OH),Buffalo
+212790275,Wisconsin,Indiana
+212792459,Northern Illinois,Marshall
+212790087,Notre Dame,Pittsburgh
+212790333,Alabama,UTEP
+212790202,Tulsa,New Mexico State
+212792751,Wyoming,New Mexico
+212790103,Boston College,Temple
+212790153,North Carolina,East Carolina
+212792440,Nevada,UNLV
+212790265,Washington State,Oregon State
+212792711,Western Michigan,Akron
+212792116,UCF,UAB
+212790154,Wake Forest,NC State
+212790002,Auburn,Mississippi State
+212790008,Arkansas,Weber State
+212792032,Arkansas State,Ole Miss
+212792132,Cincinnati,Tulane
+212792348,Louisiana Tech,San Jose State
+212792433,Louisiana-Monroe,North Texas
+212792393,Middle Tennessee,Idaho
+212790197,Oklahoma State,Missouri
+212790254,Utah,South Florida
+212790235,Memphis,Southern Mississippi
+212790242,Rice,Boise State
+212792641,Texas Tech,Kansas
+212790009,Arizona State,Louisiana-Lafayette
+212790021,San Diego State,Eastern Illinois

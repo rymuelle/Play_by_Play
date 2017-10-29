@@ -1,0 +1,59 @@
+400787349,Ohio,Kent State
+400787350,Central Michigan,Toledo
+400787351,Buffalo,Northern Illinois
+400787352,Western Michigan,Bowling Green
+400787469,South Alabama,Louisiana Lafayette
+400756979,Georgia Tech,Virginia Tech
+400757073,Colorado,USC
+400756980,Syracuse,Clemson
+400603933,Mississippi State,Alabama
+400763564,Illinois,Ohio State
+400756985,Notre Dame,Wake Forest
+400763566,Iowa,Minnesota
+400763454,Baylor,Oklahoma
+400757077,Stanford,Oregon
+400763455,Iowa State,Oklahoma State
+400603932,LSU,Arkansas
+400757074,Arizona,Utah
+400603934,South Carolina,Florida
+400763567,Michigan State,Maryland
+400763565,Indiana,Michigan
+400763456,TCU,Kansas
+400756982,Florida State,NC State
+400763568,Northwestern,Purdue
+400757076,UCLA,Washington State
+400764909,Navy,SMU
+400764908,Houston,Memphis
+400764910,South Florida,Temple
+400756984,North Carolina,Miami
+400756981,Duke,Pittsburgh
+400603931,Auburn,Georgia
+400603935,Tennessee,North Texas
+400760498,Army,Tulane
+400763458,West Virginia,Texas
+400763650,Florida Atlantic,Middle Tennessee
+400787353,Miami (OH),Akron
+400763652,Old Dominion,UTEP
+400756983,Louisville,Virginia
+400763649,Charlotte,Texas San Antonio
+400787280,Air Force,Utah State
+400787354,Eastern Michigan,Massachusetts
+400787471,Louisiana Monroe,Arkansas State
+400757075,Arizona State,Washington
+400763651,Marshall,Florida Intl
+400763569,Rutgers,Nebraska
+400763457,Texas Tech,Kansas State
+400787472,Troy,Georgia Southern
+400763653,Rice,Southern Mississippi
+400787284,Nevada,San José State
+400787473,Texas State,Georgia State
+400603937,Vanderbilt,Kentucky
+400787470,Idaho,Appalachian State
+400787282,Colorado State,UNLV
+400603936,Texas A&M,Western Carolina
+400785063,Missouri,BYU
+400764907,Cincinnati,Tulsa
+400787281,Boise State,New Mexico
+400787285,San Diego State,Wyoming
+400757078,California,Oregon State
+400787283,Hawaii,Fresno State

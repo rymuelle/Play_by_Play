@@ -1,0 +1,59 @@
+332620152,NC State,Clemson
+332630278,Fresno State,Boise State
+332640333,Alabama,Colorado State
+332640194,Ohio State,Florida A&M
+332640024,Stanford,Arizona State
+332640099,LSU,Auburn
+332640097,Louisville,Florida Intl
+332640052,Florida State,Bethune-Cookman
+332640061,Georgia,North Texas
+332640245,Texas A&M,SMU
+332640026,UCLA,New Mexico State
+332640041,Connecticut,Michigan
+332642390,Miami,Savannah State
+332640264,Washington,Idaho State
+332640077,Northwestern,Maine
+332640057,Florida,Tennessee
+332640239,Baylor,Louisiana Monroe
+332640087,Notre Dame,Michigan State
+332640275,Wisconsin,Purdue
+332642641,Texas Tech,Texas State
+332640059,Georgia Tech,North Carolina
+332640135,Minnesota,San José State
+332640113,Massachusetts,Vanderbilt
+332640259,Virginia Tech,Marshall
+332640349,Army,Wake Forest
+332642117,Central Michigan,Toledo
+332642226,Florida Atlantic,Middle Tennessee
+332642294,Iowa,Western Michigan
+332642305,Kansas,Louisiana Tech
+332640183,Syracuse,Tulane
+332640150,Duke,Pittsburgh
+332642199,Eastern Michigan,Ball State
+332642247,Georgia State,Jacksonville State
+332640195,Ohio,Austin Peay
+332640242,Rice,Houston
+332640005,UAB,Northwestern State
+332640258,Virginia,VMI
+332640030,USC,Utah State
+332640213,Penn State,Kent State
+332640158,Nebraska,South Dakota State
+332640164,Rutgers,Arkansas
+332640189,Bowling Green,Murray State
+332640120,Maryland,West Virginia
+332640193,Miami (OH),Cincinnati
+332640235,Memphis,Arkansas State
+332640295,Old Dominion,The Citadel
+332642006,Akron,Louisiana Lafayette
+332642459,Northern Illinois,Eastern Illinois
+332640098,Western Kentucky,Morgan State
+332640021,San Diego State,Oregon State
+332640344,Mississippi State,Troy
+332640084,Indiana,Missouri
+332640251,Texas,Kansas State
+332642638,UTEP,Texas San Antonio
+332642440,Nevada,Hawaii
+332642439,UNLV,Western Illinois
+332642005,Air Force,Wyoming
+332640252,BYU,Utah
+332640265,Washington State,Idaho

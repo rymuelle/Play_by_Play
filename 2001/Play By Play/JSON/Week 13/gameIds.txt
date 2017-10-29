@@ -1,0 +1,52 @@
+213190151,East Carolina,Louisville
+213212390,Miami,Syracuse
+213212641,Texas Tech,Oklahoma
+213210057,Florida,Florida State
+213210096,Kentucky,Tennessee
+213210264,Washington,Washington State
+213210024,Stanford,California
+213210194,Ohio State,Illinois
+213210275,Wisconsin,Michigan
+213210152,NC State,Maryland
+213210252,BYU,Utah
+213210077,Northwestern,Bowling Green
+213210154,Wake Forest,Georgia Tech
+213210164,Rutgers,Boston College
+213210213,Penn State,Indiana
+213212509,Purdue,Michigan State
+213212305,Kansas,Iowa State
+213212653,Troy,Jacksonville State
+213210145,Ole Miss,Georgia
+213210277,West Virginia,Temple
+213212084,Buffalo,Akron
+213212579,South Carolina,Clemson
+213212294,Iowa,Minnesota
+213210153,North Carolina,Duke
+213210235,Memphis,Army
+213210239,Baylor,Oklahoma State
+213210008,Arkansas,Mississippi State
+213212459,Northern Illinois,Ball State
+213212306,Kansas State,Louisiana Tech
+213210087,Notre Dame,Navy
+213210202,Tulsa,Southern Methodist
+213212005,Air Force,UNLV
+213212032,Arkansas State,Louisiana-Monroe
+213210309,Louisiana-Lafayette,New Mexico State
+213210167,New Mexico,Colorado State
+213212393,Middle Tennessee,Connecticut
+213210276,Marshall,Ohio
+213212572,Southern Mississippi,Tulane
+213212711,Western Michigan,Central Michigan
+213212440,Nevada,Fresno State
+213210068,Boise State,San Jose State
+213210328,Utah State,Weber State
+213210258,Virginia,Virginia Tech
+213210002,Auburn,Alabama
+213210204,Oregon State,Northern Arizona
+213210030,USC,UCLA
+213212649,Toledo,Eastern Michigan
+213210242,Rice,UTEP
+213210248,Houston,UAB
+213210070,Idaho,North Texas
+213210021,San Diego State,Wyoming
+213210062,Hawaii,Miami (OH)

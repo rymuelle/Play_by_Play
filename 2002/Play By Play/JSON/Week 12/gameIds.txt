@@ -1,0 +1,54 @@
+223110097,Louisville,Cincinnati
+223130245,Texas A&M,Oklahoma
+223132633,Tennessee,Miami
+223132509,Purdue,Ohio State
+223130251,Texas,Baylor
+223130265,Washington State,Oregon
+223132294,Iowa,Northwestern
+223130061,Georgia,Ole Miss
+223130183,Syracuse,Virginia Tech
+223132426,Navy,Notre Dame
+223130024,Stanford,USC
+223130333,Alabama,Mississippi State
+223132306,Kansas State,Iowa State
+223130135,Minnesota,Michigan
+223130120,Maryland,NC State
+223130096,Kentucky,LSU
+223130059,Georgia Tech,Florida State
+223130142,Missouri,Colorado
+223130213,Penn State,Virginia
+223132459,Northern Illinois,Bowling Green
+223130221,Pittsburgh,Temple
+223130238,Vanderbilt,Florida
+223130009,Arizona State,California
+223130041,Connecticut,Kent State
+223130153,North Carolina,Clemson
+223130277,West Virginia,Boston College
+223130275,Wisconsin,Illinois
+223132579,South Carolina,Arkansas
+223132084,Buffalo,UCF
+223132711,Western Michigan,Eastern Michigan
+223130084,Indiana,Michigan State
+223130158,Nebraska,Kansas
+223130195,Ohio,Akron
+223130002,Auburn,Louisiana Monroe
+223132641,Texas Tech,Oklahoma State
+223132628,TCU,Tulane
+223130349,Army,Air Force
+223130005,UAB,Southern Mississippi
+223130248,Houston,East Carolina
+223130068,Boise State,Rice
+223130328,Utah State,New Mexico State
+223132440,Nevada,UTEP
+223130264,Washington,Oregon State
+223130023,San José State,Louisiana Tech
+223130309,Louisiana Lafayette,Arkansas State
+223132653,Troy,Florida A&M
+223130252,BYU,Wyoming
+223130167,New Mexico,San Diego State
+223130058,South Florida,Memphis
+223130254,Utah,UNLV
+223130278,Fresno State,Tulsa
+223132649,Toledo,Central Michigan
+223130249,North Texas,Idaho
+223130012,Arizona,UCLA

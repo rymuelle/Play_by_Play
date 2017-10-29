@@ -1,0 +1,19 @@
+323340164,Rutgers,Louisville
+323350024,Stanford,UCLA
+323352309,Kent State,Northern Illinois
+323360061,Georgia,Alabama
+323362306,Kansas State,Texas
+323362628,TCU,Oklahoma
+323360275,Wisconsin,Nebraska
+323360059,Georgia Tech,Florida State
+323360204,Oregon State,Nicholls State
+323362440,Nevada,Boise State
+323360239,Baylor,Oklahoma State
+323360202,Tulsa,UCF
+323360277,West Virginia,Kansas
+323362032,Arkansas State,Middle Tennessee
+323362226,Florida Atlantic,Louisiana Lafayette
+323360041,Connecticut,Cincinnati
+323360326,Texas State,New Mexico State
+323360058,South Florida,Pittsburgh
+323360062,Hawai'i,South Alabama

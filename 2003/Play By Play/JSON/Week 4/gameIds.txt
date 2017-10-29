@@ -1,0 +1,59 @@
+232540254,Utah,California
+232550276,Marshall,Toledo
+232560201,Oklahoma,Fresno State
+232562390,Miami,East Carolina
+232560194,Ohio State,NC State
+232560030,USC,Hawaii
+232560130,Michigan,Notre Dame
+232560251,Texas,Arkansas
+232562306,Kansas State,Massachusetts
+232560061,Georgia,South Carolina
+232560052,Florida State,Georgia Tech
+232560221,Pittsburgh,Ball State
+232560099,LSU,Western Illinois
+232560275,Wisconsin,UNLV
+232560009,Arizona State,Utah State
+232560038,Colorado,Washington State
+232560158,Nebraska,Penn State
+232560057,Florida,Florida A&M
+232560154,Wake Forest,Purdue
+232560066,Iowa State,Iowa
+232560041,Connecticut,Boston College
+232560077,Northwestern,Miami (OH)
+232560277,West Virginia,Cincinnati
+232560127,Michigan State,Louisiana Tech
+232560238,Vanderbilt,Auburn
+232562117,Central Michigan,Eastern Kentucky
+232560183,Syracuse,Louisville
+232560142,Missouri,Eastern Illinois
+232562005,Air Force,North Texas
+232562711,Western Michigan,Virginia
+232560195,Ohio,Minnesota
+232560036,Colorado State,Weber State
+232560349,Army,Rutgers
+232562751,Wyoming,Kansas
+232560228,Clemson,Middle Tennessee
+232560189,Bowling Green,Liberty
+232560120,Maryland,The Citadel
+232560150,Duke,Rice
+232562309,Kent State,Youngstown State
+232562006,Akron,Eastern Michigan
+232562084,Buffalo,Colgate
+232562116,UCF,Florida Atlantic
+232560204,Oregon State,New Mexico State
+232560239,Baylor,SMU
+232562032,Arkansas State,Southeast Missouri State
+232562572,Southern Mississippi,Memphis
+232560084,Indiana,Indiana State
+232560005,UAB,Troy
+232560145,Ole Miss,Louisiana Monroe
+232560197,Oklahoma State,Missouri State
+232560202,Tulsa,Texas State
+232560070,Idaho,Boise State
+232560333,Alabama,Kentucky
+232560309,Louisiana Lafayette,Houston
+232562655,Tulane,Mississippi State
+232560026,UCLA,Illinois
+232560167,New Mexico,BYU
+232562638,UTEP,San Diego State
+232560012,Arizona,Oregon

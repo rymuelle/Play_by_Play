@@ -1,0 +1,41 @@
+400876038,UT San Antonio,New Mexico
+400876039,San Diego State,Houston
+400876040,Toledo,Appalachian State
+400903611,UCF,Arkansas State
+400876041,Louisiana,Southern Mississippi
+400876042,Tulsa,Central Michigan
+400876043,Western Kentucky,Memphis
+400876044,Wyoming,BYU
+400876045,Colorado State,Idaho
+400876047,Navy,Louisiana Tech
+400876046,Old Dominion,Eastern Michigan
+400876048,Troy,Ohio
+400876049,Middle Tennessee,Hawai'i
+400876090,Mississippi State,Miami (OH)
+400876091,Boston College,Maryland
+400876092,Vanderbilt,NC State
+400876094,Wake Forest,Temple
+400876093,North Texas,Army
+400876095,Washington State,Minnesota
+400876096,Baylor,Boise State
+400876098,Miami,West Virginia
+400903226,Utah,Indiana
+400876097,Northwestern,Pittsburgh
+400876099,Kansas State,Texas A&M
+400876102,Colorado,Oklahoma State
+400876101,Virginia Tech,Arkansas
+400876100,South Carolina,South Florida
+400876105,Florida State,Michigan
+400878692,North Carolina,Stanford
+400876104,Tennessee,Nebraska
+400876103,TCU,Georgia
+400928102,Air Force,South Alabama
+400876107,Alabama,Washington
+400876108,Clemson,Ohio State
+400876106,Louisville,LSU
+400876113,Kentucky,Georgia Tech
+400876111,Penn State,USC
+400876112,Oklahoma,Auburn
+400876110,Wisconsin,Western Michigan
+400876109,Iowa,Florida
+400876570,Alabama,Clemson

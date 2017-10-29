@@ -1,0 +1,48 @@
+243020059,Georgia Tech,Virginia Tech
+243030068,Boise State,Hawaii
+243040265,Washington State,USC
+243040197,Oklahoma State,Oklahoma
+243040145,Ole Miss,Auburn
+243040153,North Carolina,Miami
+243040120,Maryland,Florida State
+243040025,California,Arizona State
+243040038,Colorado,Texas
+243040021,San Diego State,Utah
+243040061,Georgia,Florida
+243042579,South Carolina,Tennessee
+243040130,Michigan,Michigan State
+243040164,Rutgers,West Virginia
+243040239,Baylor,Texas A&M
+243040077,Northwestern,Purdue
+243040099,LSU,Vanderbilt
+243040356,Illinois,Iowa
+243040084,Indiana,Minnesota
+243040154,Wake Forest,Duke
+243040158,Nebraska,Missouri
+243040228,Clemson,NC State
+243040194,Ohio State,Penn State
+243042117,Central Michigan,Western Michigan
+243042426,Navy,Delaware
+243040183,Syracuse,Connecticut
+243040066,Iowa State,Kansas
+243040276,Marshall,UCF
+243040344,Mississippi State,Kentucky
+243042132,Cincinnati,TCU
+243042393,Middle Tennessee,Utah State
+243042751,Wyoming,Air Force
+243040151,East Carolina,Army
+243040036,Colorado State,New Mexico
+243040026,UCLA,Stanford
+243042309,Kent State,Ohio
+243042653,Troy,Idaho
+243042050,Ball State,Northern Illinois
+243040023,San José State,UTEP
+243040248,Houston,Tulane
+243040189,Bowling Green,Eastern Michigan
+243040012,Arizona,Oregon State
+243042306,Kansas State,Texas Tech
+243042483,Oregon,Washington
+243040249,North Texas,Louisiana Monroe
+243040202,Tulsa,Rice
+243040166,New Mexico State,Florida Intl
+243040278,Fresno State,SMU

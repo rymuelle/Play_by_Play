@@ -1,0 +1,53 @@
+272980259,Virginia Tech,Boston College
+272980167,New Mexico,Air Force
+272990278,Fresno State,Boise State
+273000213,Penn State,Ohio State
+273000009,Arizona State,California
+273002483,Oregon,USC
+273000164,Rutgers,West Virginia
+273000245,Texas A&M,Kansas
+273000041,Connecticut,South Florida
+273000061,Florida,Georgia
+273000142,Missouri,Iowa State
+273000096,Kentucky,Mississippi State
+273000152,NC State,Virginia
+273002633,Tennessee,South Carolina
+273000062,Hawaii,New Mexico State
+273000251,Texas,Nebraska
+273000130,Michigan,Minnesota
+273000002,Auburn,Ole Miss
+273000097,Louisville,Pittsburgh
+273000154,Wake Forest,North Carolina
+273000275,Wisconsin,Indiana
+273000356,Illinois,Ball State
+273002294,Iowa,Michigan State
+273002509,Purdue,Northwestern
+273002641,Texas Tech,Colorado
+273002309,Kent State,Central Michigan
+273002426,Navy,Delaware
+273002084,Buffalo,Akron
+273002751,Wyoming,UNLV
+273000008,Arkansas,Florida Intl
+273000238,Vanderbilt,Miami (OH)
+273000202,Tulsa,SMU
+273000328,Utah State,Louisiana Tech
+273002655,Tulane,Memphis
+273000264,Washington,Arizona
+273000151,East Carolina,UAB
+273000120,Maryland,Clemson
+273002306,Kansas State,Baylor
+273002199,Eastern Michigan,Western Michigan
+273002226,Florida Atlantic,Louisiana Monroe
+273002440,Nevada,Idaho
+273000276,Marshall,Rice
+273000036,Colorado State,Utah
+273000189,Bowling Green,Ohio
+273000265,Washington State,UCLA
+273000204,Oregon State,Stanford
+273000249,North Texas,Middle Tennessee
+273002032,Arkansas State,Troy
+273000098,Western Kentucky,North Carolina Central
+273002649,Toledo,Northern Illinois
+273000052,Florida State,Duke
+273002638,UTEP,Houston
+273012572,Southern Mississippi,UCF

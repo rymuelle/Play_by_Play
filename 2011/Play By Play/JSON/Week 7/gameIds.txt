@@ -1,0 +1,50 @@
+312862005,Air Force,San Diego State
+312860025,California,USC
+312870023,San José State,Hawaii
+312882633,Tennessee,LSU
+312880145,Ole Miss,Alabama
+312882305,Kansas,Oklahoma
+312880275,Wisconsin,Indiana
+312880036,Colorado State,Boise State
+312880251,Texas,Oklahoma State
+312880265,Washington State,Stanford
+312880120,Maryland,Clemson
+312882483,Oregon,Arizona State
+312880127,Michigan State,Michigan
+312880258,Virginia,Georgia Tech
+312880344,Mississippi State,South Carolina
+312880356,Illinois,Ohio State
+312882641,Texas Tech,Kansas State
+312880154,Wake Forest,Virginia Tech
+312880245,Texas A&M,Baylor
+312880002,Auburn,Florida
+312880189,Bowling Green,Toledo
+312880213,Penn State,Purdue
+312880221,Pittsburgh,Utah
+312882132,Cincinnati,Louisville
+312880153,North Carolina,Miami
+312880218,Temple,Buffalo
+312880164,Rutgers,Navy
+312880142,Missouri,Iowa State
+312882751,Wyoming,UNLV
+312882117,Central Michigan,Eastern Michigan
+312880150,Duke,Florida State
+312880276,Marshall,Rice
+312880264,Washington,Colorado
+312880195,Ohio,Ball State
+312880041,Connecticut,South Florida
+312882309,Kent State,Miami (OH)
+312882567,SMU,UCF
+312882655,Tulane,UTEP
+312882459,Northern Illinois,Western Michigan
+312880204,Oregon State,BYU
+312882226,Florida Atlantic,Western Kentucky
+312882440,Nevada,New Mexico
+312880309,Louisiana Lafayette,North Texas
+312882294,Iowa,Northwestern
+312880235,Memphis,East Carolina
+312880238,Vanderbilt,Georgia
+312882653,Troy,Louisiana Monroe
+312880166,New Mexico State,Idaho
+312880202,Tulsa,UAB
+312880278,Fresno State,Utah State

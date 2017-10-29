@@ -1,0 +1,14 @@
+400547724,East Carolina,UCF
+400609076,Oregon,Arizona
+400609055,Bowling Green,Northern Illinois
+400609098,Missouri,Alabama
+400547902,TCU,Iowa State
+400608167,Georgia Tech,Florida State
+400609096,Ohio State,Wisconsin
+400547903,Baylor,Kansas State
+400547901,Oklahoma,Oklahoma State
+400609154,Boise State,Fresno State
+400609077,Marshall,Louisiana Tech
+400547725,Cincinnati,Houston
+400547726,Connecticut,SMU
+400547727,Tulane,Temple

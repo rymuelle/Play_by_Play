@@ -1,0 +1,61 @@
+332552641,Texas Tech,TCU
+332552032,Arkansas State,Troy
+332552348,Louisiana Tech,Tulane
+332560068,Boise State,Air Force
+332570245,Texas A&M,Alabama
+332572483,Oregon,Tennessee
+332570025,California,Ohio State
+332570349,Army,Stanford
+332570096,Kentucky,Louisville
+332570099,LSU,Kent State
+332570052,Florida State,Nevada
+332570130,Michigan,Akron
+332570197,Oklahoma State,Lamar
+332572579,South Carolina,Vanderbilt
+332570201,Oklahoma,Tulsa
+332570158,Nebraska,UCLA
+332570077,Northwestern,Western Michigan
+332570356,Illinois,Washington
+332570009,Arizona State,Wisconsin
+332572509,Purdue,Notre Dame
+332570251,Texas,Ole Miss
+332570084,Indiana,Bowling Green
+332570135,Minnesota,Western Illinois
+332570151,East Carolina,Virginia Tech
+332570277,West Virginia,Georgia State
+332570008,Arkansas,Southern Mississippi
+332570221,Pittsburgh,New Mexico
+332570154,Wake Forest,Louisiana Monroe
+332570164,Rutgers,Eastern Michigan
+332570218,Temple,Fordham
+332570127,Michigan State,Youngstown State
+332570030,USC,Boston College
+332570036,Colorado State,Cal Poly
+332570150,Duke,Georgia Tech
+332572084,Buffalo,Stony Brook
+332572426,Navy,Delaware
+332572751,Wyoming,Northern Colorado
+332570249,North Texas,Ball State
+332570183,Syracuse,Wagner
+332570070,Idaho,Northern Illinois
+332570066,Iowa State,Iowa
+332570213,Penn State,UCF
+332570295,Old Dominion,Howard
+332572229,Florida Intl,Bethune-Cookman
+332570265,Washington State,Southern Utah
+332572306,Kansas State,Massachusetts
+332572393,Middle Tennessee,Memphis
+332572132,Cincinnati,Northwestern State
+332570309,Louisiana Lafayette,Nicholls State
+332572649,Toledo,Eastern Washington
+332570058,South Florida,Florida Atlantic
+332570002,Auburn,Mississippi State
+332570006,South Alabama,Western Kentucky
+332570041,Connecticut,Maryland
+332570242,Rice,Kansas
+332570195,Ohio,Marshall
+332570166,New Mexico State,UTEP
+332570328,Utah State,Weber State
+332570254,Utah,Oregon State
+332572439,UNLV,Central Michigan
+332570012,Arizona,Texas San Antonio

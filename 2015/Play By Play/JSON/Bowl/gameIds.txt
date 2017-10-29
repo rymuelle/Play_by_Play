@@ -1,0 +1,41 @@
+400852684,Utah,BYU
+400852668,New Mexico,Arizona
+400852685,Appalachian State,Ohio
+400852683,Georgia State,San José State
+400852686,Louisiana Tech,Arkansas State
+400852687,South Florida,Western Kentucky
+400852709,Toledo,Temple
+400852708,Utah State,Akron
+400852710,Northern Illinois,Boise State
+400852711,Bowling Green,Georgia Southern
+400852713,Western Michigan,Middle Tennessee
+400852714,Cincinnati,San Diego State
+400852715,Marshall,Connecticut
+400852716,Washington State,Miami
+400852717,Southern Mississippi,Washington
+400852718,Duke,Indiana
+400852719,Virginia Tech,Tulsa
+400852720,Nebraska,UCLA
+400852721,Navy,Pittsburgh
+400852722,Minnesota,Central Michigan
+400852724,Baylor,North Carolina
+400852726,Texas Tech,LSU
+400852723,Air Force,California
+400852725,Colorado State,Nevada
+400852730,Wisconsin,USC
+400852727,Memphis,Auburn
+400852728,Mississippi State,NC State
+400852729,Louisville,Texas A&M
+400852733,Clemson,Oklahoma
+400852732,Alabama,Michigan State
+400852731,Florida State,Houston
+400852737,Iowa,Stanford
+400852736,Ohio State,Notre Dame
+400852738,Ole Miss,Oklahoma State
+400852734,Tennessee,Northwestern
+400852735,Florida,Michigan
+400852741,TCU,Oregon
+400852739,Georgia,Penn State
+400852740,Arkansas,Kansas State
+400852742,Arizona State,West Virginia
+400852743,Clemson,Alabama

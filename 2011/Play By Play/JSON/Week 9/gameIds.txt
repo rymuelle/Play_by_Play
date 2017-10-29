@@ -1,0 +1,54 @@
+312982229,Florida Intl,Troy
+312990221,Pittsburgh,Connecticut
+313000248,Houston,Rice
+313002390,Miami,Virginia
+313012628,TCU,BYU
+313020197,Oklahoma State,Baylor
+313020059,Georgia Tech,Clemson
+313020030,USC,Stanford
+313022483,Oregon,Washington State
+313022306,Kansas State,Oklahoma
+313020238,Vanderbilt,Arkansas
+313020158,Nebraska,Michigan State
+313020150,Duke,Virginia Tech
+313022633,Tennessee,South Carolina
+313020194,Ohio State,Wisconsin
+313020245,Texas A&M,Missouri
+313020130,Michigan,Purdue
+313020213,Penn State,Illinois
+313022641,Texas Tech,Iowa State
+313020009,Arizona State,Colorado
+313020057,Florida,Georgia
+313020002,Auburn,Ole Miss
+313020251,Texas,Kansas
+313020164,Rutgers,West Virginia
+313020052,Florida State,NC State
+313020084,Indiana,Northwestern
+313020097,Louisville,Syracuse
+313020276,Marshall,UAB
+313022006,Akron,Central Michigan
+313022309,Kent State,Bowling Green
+313022711,Western Michigan,Ball State
+313020167,New Mexico,Air Force
+313020120,Maryland,Boston College
+313022433,Louisiana Monroe,Western Kentucky
+313020135,Minnesota,Iowa
+313020087,Notre Dame,Navy
+313020193,Miami (OH),Buffalo
+313020202,Tulsa,SMU
+313020151,East Carolina,Tulane
+313020153,North Carolina,Wake Forest
+313020349,Army,Fordham
+313022116,UCF,Memphis
+313022348,Louisiana Tech,San José State
+313020070,Idaho,Hawaii
+313022439,UNLV,Colorado State
+313020026,UCLA,California
+313020096,Kentucky,Mississippi State
+313020254,Utah,Oregon State
+313022032,Arkansas State,North Texas
+313022393,Middle Tennessee,Louisiana Lafayette
+313022638,UTEP,Southern Mississippi
+313020166,New Mexico State,Nevada
+313020021,San Diego State,Wyoming
+313020264,Washington,Arizona

@@ -1,0 +1,78 @@
+292460068,Boise State,Oregon
+292460254,Utah,Utah State
+292460152,NC State,South Carolina
+292460189,Bowling Green,Troy
+292460218,Temple,Villanova
+292462309,Kent State,Coastal Carolina
+292462050,Ball State,North Texas
+292460084,Indiana,Eastern Kentucky
+292460066,Iowa State,North Dakota State
+292472655,Tulane,Tulsa
+292480062,Hawaii,Central Arkansas
+292480057,Florida,Charleston Southern
+292480251,Texas,Louisiana Monroe
+292480201,Oklahoma,BYU
+292480030,USC,San José State
+292480259,Virginia Tech,Alabama
+292480194,Ohio State,Navy
+292480213,Penn State,Akron
+292480197,Oklahoma State,Georgia
+292480264,Washington,LSU
+292480025,California,Maryland
+292480059,Georgia Tech,Jacksonville State
+292480153,North Carolina,The Citadel
+292482294,Iowa,Northern Iowa
+292480087,Notre Dame,Nevada
+292480158,Nebraska,Florida Atlantic
+292482305,Kansas,Northern Colorado
+292480077,Northwestern,Towson
+292480127,Michigan State,Montana State
+292480151,East Carolina,Appalachian State
+292480183,Syracuse,Minnesota
+292480193,Miami (OH),Kentucky
+292480277,West Virginia,Liberty
+292482509,Purdue,Toledo
+292482633,Tennessee,Western Kentucky
+292480221,Pittsburgh,Youngstown State
+292480103,Boston College,Northeastern
+292482005,Air Force,Nicholls State
+292480204,Oregon State,Portland State
+292482751,Wyoming,Weber State
+292480344,Mississippi State,Jackson State
+292480130,Michigan,Western Michigan
+292480154,Wake Forest,Baylor
+292480356,Illinois,Missouri
+292480005,UAB,Rice
+292480276,Marshall,Southern Illinois
+292480228,Clemson,Middle Tennessee
+292480265,Washington State,Stanford
+292480258,Virginia,William & Mary
+292480195,Ohio,Connecticut
+292480150,Duke,Richmond
+292480008,Arkansas,Missouri State
+292480002,Auburn,Louisiana Tech
+292480245,Texas A&M,New Mexico
+292480248,Houston,Northwestern State
+292480275,Wisconsin,Northern Illinois
+292480309,Louisiana Lafayette,Southern
+292482199,Eastern Michigan,Army
+292482572,Southern Mississippi,Alcorn State
+292482641,Texas Tech,North Dakota
+292482032,Arkansas State,Mississippi Valley State
+292482306,Kansas State,Massachusetts
+292482116,UCF,Samford
+292480238,Vanderbilt,Western Carolina
+292480058,South Florida,Wofford
+292480026,UCLA,San Diego State
+292480097,Louisville,Indiana State
+292480166,New Mexico State,Idaho
+292482567,SMU,Stephen F Austin
+292482638,UTEP,Buffalo
+292482439,UNLV,Sacramento State
+292480278,Fresno State,UC Davis
+292480009,Arizona State,Idaho State
+292480012,Arizona,Central Michigan
+292490235,Memphis,Ole Miss
+292490038,Colorado,Colorado State
+292500052,Florida State,Miami
+292500164,Rutgers,Cincinnati

@@ -1,0 +1,54 @@
+212982390,Miami,West Virginia
+212990062,Hawaii,Fresno State
+213000158,Nebraska,Oklahoma
+213000024,Stanford,UCLA
+213000259,Virginia Tech,Syracuse
+213000142,Missouri,Texas
+213002294,Iowa,Michigan
+213000052,Florida State,Maryland
+213002633,Tennessee,South Carolina
+213000265,Washington State,Oregon
+213000057,Florida,Georgia
+213000009,Arizona State,Washington
+213000154,Wake Forest,Clemson
+213000218,Temple,Pittsburgh
+213000275,Wisconsin,Michigan State
+213000213,Penn State,Ohio State
+213002509,Purdue,Northwestern
+213000008,Arkansas,Auburn
+213000150,Duke,Vanderbilt
+213000195,Ohio,Kent State
+213000349,Army,Tulane
+213002117,Central Michigan,Northern Illinois
+213000152,NC State,Virginia
+213000041,Connecticut,Ball State
+213000245,Texas A&M,Iowa State
+213000235,Memphis,UAB
+213002132,Cincinnati,Louisville
+213002348,Louisiana Tech,Rice
+213000193,Miami (OH),Western Michigan
+213000135,Minnesota,Murray State
+213000036,Colorado State,Utah
+213000239,Baylor,Texas Tech
+213002393,Middle Tennessee,New Mexico State
+213002653,Troy,Southern Utah
+213002567,Southern Methodist,UTEP
+213002572,Southern Mississippi,Houston
+213002199,Eastern Michigan,Buffalo
+213002032,Arkansas State,Idaho
+213002306,Kansas State,Kansas
+213000204,Oregon State,California
+213000023,San Jose State,Tulsa
+213000309,Louisiana-Lafayette,Louisiana-Monroe
+213000328,Utah State,UCF
+213002751,Wyoming,UNLV
+213000167,New Mexico,Air Force
+213000012,Arizona,USC
+213000058,South Florida,Liberty
+213000197,Oklahoma State,Colorado
+213000276,Marshall,Akron
+213002649,Toledo,Navy
+213000103,Boston College,Notre Dame
+213000068,Boise State,Nevada
+213000099,LSU,Ole Miss
+213000021,San Diego State,BYU

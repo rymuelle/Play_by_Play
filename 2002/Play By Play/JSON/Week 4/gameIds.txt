@@ -1,0 +1,57 @@
+222550259,Virginia Tech,Marshall
+222570218,Temple,Miami
+222570201,Oklahoma,UTEP
+222570153,North Carolina,Texas
+222570120,Maryland,Florida State
+222570194,Ohio State,Washington State
+222570087,Notre Dame,Michigan
+222570213,Penn State,Nebraska
+222572579,South Carolina,Georgia
+222570057,Florida,Ohio
+222572483,Oregon,Idaho
+222570127,Michigan State,California
+222570038,Colorado,USC
+222570152,NC State,Wake Forest
+222570275,Wisconsin,Northern Illinois
+222570197,Oklahoma State,UCLA
+222570036,Colorado State,Louisville
+222570099,LSU,Miami (OH)
+222570228,Clemson,Georgia Tech
+222570356,Illinois,Arkansas State
+222570002,Auburn,Vanderbilt
+222570077,Northwestern,Duke
+222572050,Ball State,Indiana State
+222572309,Kent State,Cal Poly
+222572348,Louisiana Tech,Tulsa
+222572509,Purdue,Western Michigan
+222572306,Kansas State,Eastern Illinois
+222570135,Minnesota,Toledo
+222570183,Syracuse,Rhode Island
+222572641,Texas Tech,Ole Miss
+222572751,Wyoming,Boise State
+222572440,Nevada,BYU
+222572199,Eastern Michigan,Southeast Missouri State
+222570189,Bowling Green,Missouri
+222572006,Akron,Central Michigan
+222572294,Iowa,Iowa State
+222570151,East Carolina,Tulane
+222570096,Kentucky,Indiana
+222570005,UAB,Pittsburgh
+222570008,Arkansas,South Florida
+222570333,Alabama,North Texas
+222570344,Mississippi State,Jacksonville State
+222570164,Rutgers,Army
+222570204,Oregon State,UNLV
+222572305,Kansas,Missouri State
+222572433,Louisiana Monroe,McNeese State
+222572132,Cincinnati,West Virginia
+222572572,Southern Mississippi,Memphis
+222572653,Troy,Southern Utah
+222572628,TCU,SMU
+222572084,Buffalo,Connecticut
+222570248,Houston,Louisiana Lafayette
+222570167,New Mexico,Baylor
+222570328,Utah State,Idaho State
+222570024,Stanford,San José State
+222570012,Arizona,Utah
+222570021,San Diego State,Arizona State

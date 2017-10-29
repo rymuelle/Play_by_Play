@@ -1,0 +1,54 @@
+313260195,Ohio,Miami (OH)
+313280245,Texas A&M,Texas
+313290099,LSU,Arkansas
+313290202,Tulsa,Houston
+313290158,Nebraska,Iowa
+313282459,Northern Illinois,Eastern Michigan
+313290058,South Florida,Louisville
+313280218,Temple,Kent State
+313292084,Buffalo,Bowling Green
+313292711,Western Michigan,Akron
+313282050,Ball State,Toledo
+313292390,Miami,Boston College
+313290254,Utah,Colorado
+313290277,West Virginia,Pittsburgh
+313292116,UCF,UTEP
+313290009,Arizona State,California
+313300002,Auburn,Alabama
+313300258,Virginia,Virginia Tech
+313300024,Stanford,Notre Dame
+313300068,Boise State,Wyoming
+313300201,Oklahoma,Iowa State
+313302483,Oregon,Oregon State
+313302579,South Carolina,Clemson
+313300059,Georgia Tech,Georgia
+313300077,Northwestern,Michigan State
+313300130,Michigan,Ohio State
+313300275,Wisconsin,Penn State
+313300239,Baylor,Texas Tech
+313300041,Connecticut,Rutgers
+313300183,Syracuse,Cincinnati
+313302567,SMU,Rice
+313300096,Kentucky,Tennessee
+313300098,Western Kentucky,Troy
+313300152,NC State,Maryland
+313300328,Utah State,Nevada
+313300084,Indiana,Purdue
+313300135,Minnesota,Illinois
+313292393,Middle Tennessee,Florida Intl
+313302305,Kansas,Missouri
+313300153,North Carolina,Duke
+313300154,Wake Forest,Vanderbilt
+313300276,Marshall,East Carolina
+313302226,Florida Atlantic,UAB
+313302572,Southern Mississippi,Memphis
+313302348,Louisiana Tech,New Mexico State
+313300012,Arizona,Louisiana Lafayette
+313300036,Colorado State,Air Force
+313300057,Florida,Florida State
+313300344,Mississippi State,Ole Miss
+313300264,Washington,Washington State
+313300278,Fresno State,San José State
+313300030,USC,UCLA
+313302439,UNLV,San Diego State
+313300062,Hawaii,Tulane

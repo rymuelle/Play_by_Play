@@ -1,0 +1,87 @@
+400869090,California,Hawai'i
+400868977,Tennessee,Appalachian State
+400869341,Louisville,Charlotte
+400869257,Central Michigan,Presbyterian College
+400869421,Wake Forest,Tulane
+400869502,Cincinnati,UT Martin
+400869503,Connecticut,Maine
+400869422,NC State,William & Mary
+400869342,Florida Intl,Indiana
+400868968,Vanderbilt,South Carolina
+400869091,Utah,Southern Utah
+400869173,Utah State,Weber State
+400869347,Western Kentucky,Rice
+400869092,Minnesota,Oregon State
+400869177,New Mexico,South Dakota
+400869725,Idaho,Montana State
+400869174,UNLV,Jackson State
+400869094,Stanford,Kansas State
+400869651,Michigan State,Furman
+400868876,Baylor,Northwestern State
+400869263,Eastern Michigan,Mississippi Valley State
+400869258,Georgia State,Ball State
+400869259,Buffalo,Albany
+400869423,Syracuse,Colgate
+400868910,Temple,Army
+400869093,Colorado,Colorado State
+400869265,Arkansas State,Toledo
+400869181,Nevada,Cal Poly
+400868969,Alabama,USC
+400868971,Auburn,Clemson
+400869507,Houston,Oklahoma
+400868974,Wisconsin,LSU
+400869260,Ohio State,Bowling Green
+400869180,Michigan,Hawai'i
+400869624,TCU,South Dakota State
+400869097,Washington,Rutgers
+400868978,Texas A&M,UCLA
+400869262,Iowa,Miami (OH)
+400868972,North Carolina,Georgia
+400869619,Oklahoma State,Southeastern Louisiana
+400869096,Oregon,UC Davis
+400868957,Florida,Massachusetts
+400869424,Boston College,Georgia Tech
+400869509,Navy,Fordham
+400869578,Purdue,Eastern Kentucky
+400869267,Northwestern,Western Michigan
+400869176,Louisiana Lafayette,Boise State
+400868975,Mississippi State,South Alabama
+400868976,West Virginia,Missouri
+400869653,Maryland,Howard
+400869428,Virginia Tech,Liberty
+400869426,Pittsburgh,Villanova
+400869175,Air Force,Abilene Christian
+400869427,Virginia,Richmond
+400869261,Penn State,Kent State
+400869264,Ohio,Texas State
+400869652,Illinois,Murray State
+400868970,Arkansas,Louisiana Tech
+400869343,Florida Atlantic,Southern Illinois
+400869425,Duke,North Carolina Central
+400869505,East Carolina,Western Carolina
+400869718,Miami,Florida A&M
+400869808,Georgia Southern,Savannah State
+400869810,Troy,Austin Peay
+400869266,Akron,VMI
+400869344,Middle Tennessee,Alabama A&M
+400869345,North Texas,SMU
+400869183,Tulsa,San José State
+400869506,South Florida,Towson
+400869504,UCF,South Carolina State
+400869597,Kansas,Rhode Island
+400869508,Memphis,Southeast Missouri State
+400869349,Texas San Antonio,Alabama State
+400869809,Louisiana Monroe,Southern
+400868973,Kentucky,Southern Mississippi
+400868887,Iowa State,Northern Iowa
+400869179,Nebraska,Fresno State
+400869098,Washington State,Eastern Washington
+400869348,UTEP,New Mexico State
+400869625,Texas Tech,Stephen F Austin
+400869182,San Diego State,New Hampshire
+400868922,Arizona,BYU
+400869178,Wyoming,Northern Illinois
+400869095,Arizona State,Northern Arizona
+400868946,Texas,Notre Dame
+400869346,Old Dominion,Hampton
+400868979,Florida State,Ole Miss

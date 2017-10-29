@@ -1,0 +1,60 @@
+242532653,Troy,Missouri
+242542390,Miami,Florida State
+242540068,Boise State,Oregon State
+242550030,USC,Colorado State
+242550201,Oklahoma,Houston
+242552579,South Carolina,Georgia
+242550099,LSU,Arkansas State
+242550008,Arkansas,Texas
+242550087,Notre Dame,Michigan
+242550194,Ohio State,Marshall
+242552116,UCF,West Virginia
+242550057,Florida,Eastern Michigan
+242550025,California,New Mexico State
+242552306,Kansas State,Fresno State
+242550258,Virginia,North Carolina
+242552294,Iowa,Iowa State
+242550012,Arizona,Utah
+242550344,Mississippi State,Auburn
+242550228,Clemson,Georgia Tech
+242550275,Wisconsin,UNLV
+242550135,Minnesota,Illinois State
+242550120,Maryland,Temple
+242552483,Oregon,Indiana
+242552509,Purdue,Ball State
+242550077,Northwestern,Arizona State
+242550041,Connecticut,Duke
+242550127,Michigan State,Central Michigan
+242550158,Nebraska,Southern Mississippi
+242550356,Illinois,UCLA
+242550349,Army,Louisville
+242550259,Virginia Tech,Western Michigan
+242552426,Navy,Northeastern
+242552005,Air Force,Eastern Washington
+242550265,Washington State,Colorado
+242550245,Texas A&M,Wyoming
+242552440,Nevada,Sacramento State
+242552459,Northern Illinois,Southern Illinois
+242552006,Akron,Middle Tennessee
+242552084,Buffalo,Syracuse
+242550189,Bowling Green,Southeast Missouri State
+242552628,TCU,SMU
+242552132,Cincinnati,Miami (OH)
+242552305,Kansas,Toledo
+242552309,Kent State,Liberty
+242552348,Louisiana Tech,Louisiana Lafayette
+242552655,Tulane,Florida A&M
+242550151,East Carolina,Wake Forest
+242550058,South Florida,Tennessee Tech
+242550164,Rutgers,New Hampshire
+242550197,Oklahoma State,Tulsa
+242550221,Pittsburgh,Ohio
+242550239,Baylor,Texas State
+242550249,North Texas,Florida Atlantic
+242550235,Memphis,Chattanooga
+242550167,New Mexico,Texas Tech
+242550103,Boston College,Penn State
+242550328,Utah State,Idaho
+242550333,Alabama,Ole Miss
+242552638,UTEP,Weber State
+242550024,Stanford,BYU

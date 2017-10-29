@@ -1,0 +1,55 @@
+312720221,Pittsburgh,South Florida
+312722638,UTEP,Houston
+312730252,BYU,Utah State
+312740099,LSU,Kentucky
+312740201,Oklahoma,Ball State
+312740057,Florida,Alabama
+312740068,Boise State,Nevada
+312740024,Stanford,UCLA
+312740275,Wisconsin,Nebraska
+312742579,South Carolina,Auburn
+312740259,Virginia Tech,Clemson
+312740008,Arkansas,Texas A&M
+312742306,Kansas State,Baylor
+312740066,Iowa State,Texas
+312740130,Michigan,Minnesota
+312742628,TCU,SMU
+312740152,NC State,Georgia Tech
+312740277,West Virginia,Bowling Green
+312740356,Illinois,Northwestern
+312740009,Arizona State,Oregon State
+312740061,Georgia,Mississippi State
+312740084,Indiana,Penn State
+312740183,Syracuse,Rutgers
+312740218,Temple,Toledo
+312740349,Army,Tulane
+312742305,Kansas,Texas Tech
+312742426,Navy,Air Force
+312740103,Boston College,Wake Forest
+312742633,Tennessee,Buffalo
+312742199,Eastern Michigan,Akron
+312740193,Miami (OH),Cincinnati
+312740195,Ohio,Kent State
+312742117,Central Michigan,Northern Illinois
+312740258,Virginia,Idaho
+312740194,Ohio State,Michigan State
+312740120,Maryland,Towson
+312740097,Louisville,Marshall
+312740030,USC,Arizona
+312740038,Colorado,Washington State
+312740041,Connecticut,Western Michigan
+312742390,Miami,Bethune-Cookman
+312740036,Colorado State,San José State
+312740098,Western Kentucky,Arkansas State
+312740309,Louisiana Lafayette,Florida Atlantic
+312740202,Tulsa,North Texas
+312740254,Utah,Washington
+312742653,Troy,UAB
+312742393,Middle Tennessee,Memphis
+312742348,Louisiana Tech,Hawaii
+312742229,Florida Intl,Duke
+312742572,Southern Mississippi,Rice
+312742509,Purdue,Notre Dame
+312740151,East Carolina,North Carolina
+312740167,New Mexico,New Mexico State
+312740278,Fresno State,Ole Miss

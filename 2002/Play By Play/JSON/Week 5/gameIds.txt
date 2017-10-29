@@ -1,0 +1,53 @@
+222620344,Mississippi State,Auburn
+222630276,Marshall,UCF
+222642390,Miami,Boston College
+222640251,Texas,Houston
+222642633,Tennessee,Florida
+222640052,Florida State,Duke
+222642132,Cincinnati,Ohio State
+222640245,Texas A&M,Virginia Tech
+222640061,Georgia,Northwestern State
+222642483,Oregon,Portland State
+222642306,Kansas State,USC
+222640127,Michigan State,Notre Dame
+222640264,Washington,Wyoming
+222640130,Michigan,Utah
+222640213,Penn State,Louisiana Tech
+222640265,Washington State,Montana State
+222642641,Texas Tech,NC State
+222640026,UCLA,Colorado
+222640066,Iowa State,Troy
+222640275,Wisconsin,Arizona
+222640025,California,Air Force
+222640041,Connecticut,Ohio
+222640221,Pittsburgh,Rutgers
+222642426,Navy,Northwestern
+222640145,Ole Miss,Vanderbilt
+222640228,Clemson,Ball State
+222640349,Army,Louisville
+222640096,Kentucky,Middle Tennessee
+222640356,Illinois,San José State
+222640193,Miami (OH),Kent State
+222642509,Purdue,Wake Forest
+222640135,Minnesota,Buffalo
+222640258,Virginia,Akron
+222642294,Iowa,Utah State
+222640059,Georgia Tech,BYU
+222642440,Nevada,Rice
+222640070,Idaho,San Diego State
+222640084,Indiana,Central Michigan
+222640120,Maryland,Eastern Michigan
+222640204,Oregon State,Fresno State
+222640197,Oklahoma State,SMU
+222640239,Baylor,Tulsa
+222642305,Kansas,Bowling Green
+222640309,Louisiana Lafayette,UAB
+222640333,Alabama,Southern Mississippi
+222642433,Louisiana Monroe,Arkansas State
+222642579,South Carolina,Temple
+222642628,TCU,North Texas
+222642649,Toledo,UNLV
+222642459,Northern Illinois,Western Illinois
+222640235,Memphis,Tulane
+222640166,New Mexico State,New Mexico
+222642638,UTEP,Hawaii

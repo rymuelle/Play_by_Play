@@ -1,0 +1,55 @@
+302990068,Boise State,Louisiana Tech
+303010152,NC State,Florida State
+303020041,Connecticut,West Virginia
+303030145,Ole Miss,Auburn
+303030030,USC,Oregon
+303032439,UNLV,TCU
+303032294,Iowa,Michigan State
+303030158,Nebraska,Missouri
+303032005,Air Force,Utah
+303030201,Oklahoma,Colorado
+303030135,Minnesota,Ohio State
+303030264,Washington,Stanford
+303030026,UCLA,Arizona
+303032306,Kansas State,Oklahoma State
+303030008,Arkansas,Vanderbilt
+303032579,South Carolina,Tennessee
+303030344,Mississippi State,Kentucky
+303030258,Virginia,Miami
+303032440,Nevada,Utah State
+303030251,Texas,Baylor
+303030084,Indiana,Northwestern
+303030103,Boston College,Clemson
+303030221,Pittsburgh,Louisville
+303030349,Army,VMI
+303030356,Illinois,Purdue
+303032132,Cincinnati,Syracuse
+303032572,Southern Mississippi,UAB
+303032711,Western Michigan,Northern Illinois
+303030218,Temple,Akron
+303030195,Ohio,Louisiana Lafayette
+303030066,Iowa State,Kansas
+303032751,Wyoming,San Diego State
+303030087,Notre Dame,Tulsa
+303030098,Western Kentucky,North Texas
+303030276,Marshall,UTEP
+303030245,Texas A&M,Texas Tech
+303030204,Oregon State,California
+303030120,Maryland,Wake Forest
+303030153,North Carolina,William & Mary
+303030061,Georgia,Florida
+303032655,Tulane,SMU
+303032309,Kent State,Ball State
+303032426,Navy,Duke
+303032433,Louisiana Monroe,Troy
+303032084,Buffalo,Miami (OH)
+303032116,UCF,East Carolina
+303032117,Central Michigan,Bowling Green
+303032199,Eastern Michigan,Toledo
+303032226,Florida Atlantic,Florida Intl
+303030166,New Mexico State,San José State
+303030036,Colorado State,New Mexico
+303030235,Memphis,Houston
+303030009,Arizona State,Washington State
+303030213,Penn State,Michigan
+303030062,Hawaii,Idaho

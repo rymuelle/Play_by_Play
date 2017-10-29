@@ -1,0 +1,66 @@
+282480238,Vanderbilt,South Carolina
+282492050,Ball State,Navy
+282500061,Georgia,Central Michigan
+282500194,Ohio State,Ohio
+282500201,Oklahoma,Cincinnati
+282500057,Florida,Miami
+282500142,Missouri,Southeast Missouri State
+282500151,East Carolina,West Virginia
+282500002,Auburn,Southern Mississippi
+282502638,UTEP,Texas
+282500275,Wisconsin,Marshall
+282502440,Nevada,Texas Tech
+282500333,Alabama,Tulane
+282502305,Kansas,Louisiana Tech
+282500264,Washington,BYU
+282500009,Arizona State,Stanford
+282502116,UCF,South Florida
+282502483,Oregon,Utah State
+282500213,Penn State,Oregon State
+282500154,Wake Forest,Ole Miss
+282500254,Utah,UNLV
+282500356,Illinois,Eastern Illinois
+282500103,Boston College,Georgia Tech
+282500130,Michigan,Miami (OH)
+282500218,Temple,Connecticut
+282502509,Purdue,Northern Colorado
+282500127,Michigan State,Eastern Michigan
+282502294,Iowa,Florida Intl
+282500158,Nebraska,San José State
+282500349,Army,New Hampshire
+282500259,Virginia Tech,Furman
+282500228,Clemson,The Citadel
+282502751,Wyoming,Air Force
+282500036,Colorado State,Sacramento State
+282500183,Syracuse,Akron
+282500097,Louisville,Tennessee Tech
+282500038,Colorado,Eastern Washington
+282500087,Notre Dame,San Diego State
+282500258,Virginia,Richmond
+282502226,Florida Atlantic,UAB
+282500070,Idaho,Idaho State
+282500167,New Mexico,Texas A&M
+282500152,NC State,William & Mary
+282500096,Kentucky,Norfolk State
+282500052,Florida State,Western Carolina
+282500221,Pittsburgh,Buffalo
+282502198,Eastern Kentucky,Western Kentucky
+282500265,Washington State,California
+282500344,Mississippi State,Southeastern Louisiana
+282502032,Arkansas State,Texas Southern
+282500239,Baylor,Northwestern State
+282502393,Middle Tennessee,Maryland
+282502433,Louisiana Monroe,Arkansas
+282502711,Western Michigan,Northern Illinois
+282502628,TCU,Stephen F Austin
+282500084,Indiana,Murray State
+282500066,Iowa State,Kent State
+282500150,Duke,Northwestern
+282500197,Oklahoma State,Houston
+282500249,North Texas,Tulsa
+282502306,Kansas State,Montana State
+282500189,Bowling Green,Minnesota
+282502567,SMU,Texas State
+282500235,Memphis,Rice
+282500012,Arizona,Toledo
+282500062,Hawaii,Weber State

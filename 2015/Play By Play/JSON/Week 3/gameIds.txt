@@ -1,0 +1,69 @@
+400756919,Louisville,Clemson
+400756920,Boston College,Florida State
+400787120,Boise State,Idaho State
+400787241,Arizona State,New Mexico
+400763514,Ohio State,Northern Illinois
+400603850,Alabama,Ole Miss
+400763420,TCU,SMU
+400763512,Michigan State,Air Force
+400757026,USC,Stanford
+400603852,Georgia,South Carolina
+400756922,Notre Dame,Georgia Tech
+400757027,UCLA,BYU
+400757030,Oregon,Georgia State
+400603854,LSU,Auburn
+400763418,Oklahoma,Tulsa
+400603858,Texas A&M,Nevada
+400757024,Arizona,Northern Arizona
+400757029,Fresno State,Utah
+400603856,Missouri,Connecticut
+400756921,Duke,Northwestern
+400763516,Wisconsin,Troy
+400763419,Oklahoma State,Texas San Antonio
+400787310,Akron,Savannah State
+400763510,Maryland,South Florida
+400763511,Michigan,UNLV
+400763513,Minnesota,Kent State
+400763600,Florida Atlantic,Buffalo
+400756924,North Carolina,Illinois
+400756930,Army,Wake Forest
+400756927,Syracuse,Central Michigan
+400787309,Ohio,Southeastern Louisiana
+400763605,North Texas,Rice
+400764869,Massachusetts,Temple
+400787311,Eastern Michigan,Ball State
+400764864,Bowling Green,Memphis
+400763417,Kansas State,Louisiana Tech
+400764865,Miami (OH),Cincinnati
+400764866,Navy,East Carolina
+400763602,Marshall,Norfolk State
+400756928,Virginia,William & Mary
+400756929,Purdue,Virginia Tech
+400756923,Miami,Nebraska
+400603855,Mississippi State,Northwestern State
+400603859,Vanderbilt,Austin Peay
+400763509,Indiana,Western Kentucky
+400787442,Idaho,Wofford
+400757032,Washington,Utah State
+400787441,Georgia Southern,The Citadel
+400764868,UCF,Furman
+400763601,Florida Intl,North Carolina Central
+400763603,Middle Tennessee,Charlotte
+400763606,Texas State,Southern Mississippi
+400787312,Western Michigan,Murray State
+400787420,Arkansas State,Missouri State
+400603851,Arkansas,Texas Tech
+400603857,Tennessee,Western Carolina
+400756925,Old Dominion,NC State
+400757028,Colorado State,Colorado
+400603853,Kentucky,Florida
+400757034,Texas,California
+400763515,Penn State,Rutgers
+400763604,New Mexico State,UTEP
+400764867,Tulane,Maine
+400787243,San Diego State,South Alabama
+400756926,Iowa,Pittsburgh
+400757031,Oregon State,San José State
+400763421,Toledo,Iowa State
+400757033,Washington State,Wyoming
+400787242,Hawaii,UC Davis

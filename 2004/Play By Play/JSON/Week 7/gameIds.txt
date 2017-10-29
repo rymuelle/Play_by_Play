@@ -1,0 +1,49 @@
+242810258,Virginia,Clemson
+242812572,Southern Mississippi,Houston
+242820252,BYU,UNLV
+242830030,USC,California
+242830201,Oklahoma,Texas
+242830061,Georgia,Tennessee
+242830002,Auburn,Louisiana Tech
+242830183,Syracuse,Florida State
+242830213,Penn State,Purdue
+242830057,Florida,LSU
+242830130,Michigan,Minnesota
+242830194,Ohio State,Wisconsin
+242830038,Colorado,Oklahoma State
+242830120,Maryland,Georgia Tech
+242832579,South Carolina,Ole Miss
+242830077,Northwestern,Indiana
+242830127,Michigan State,Illinois
+242830154,Wake Forest,Virginia Tech
+242830218,Temple,Pittsburgh
+242830096,Kentucky,Alabama
+242830195,Ohio,Marshall
+242830349,Army,Cincinnati
+242832117,Central Michigan,Bowling Green
+242830193,Miami (OH),Kent State
+242830151,East Carolina,Tulane
+242830087,Notre Dame,Stanford
+242830344,Mississippi State,UAB
+242832393,Middle Tennessee,Arkansas State
+242832751,Wyoming,San Diego State
+242832050,Ball State,Eastern Michigan
+242830264,Washington,San José State
+242830265,Washington State,Oregon
+242830070,Idaho,Louisiana Monroe
+242832116,UCF,Northern Illinois
+242832006,Akron,Buffalo
+242830153,North Carolina,NC State
+242830026,UCLA,Arizona
+242832005,Air Force,New Mexico
+242832641,Texas Tech,Nebraska
+242832711,Western Michigan,Toledo
+242830066,Iowa State,Texas A&M
+242832305,Kansas,Kansas State
+242830242,Rice,SMU
+242830238,Vanderbilt,Rutgers
+242830166,New Mexico State,Louisiana Lafayette
+242830328,Utah State,North Texas
+242830239,Baylor,Missouri
+242830278,Fresno State,UTEP
+242830062,Hawaii,Nevada

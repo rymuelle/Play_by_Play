@@ -1,0 +1,58 @@
+302660221,Pittsburgh,Miami
+302672567,SMU,TCU
+302680008,Arkansas,Alabama
+302680194,Ohio State,Eastern Michigan
+302680068,Boise State,Oregon State
+302680009,Arizona State,Oregon
+302680158,Nebraska,South Dakota State
+302680251,Texas,UCLA
+302682132,Cincinnati,Oklahoma
+302680057,Florida,Kentucky
+302680275,Wisconsin,Austin Peay
+302680002,Auburn,South Carolina
+302680254,Utah,San José State
+302680012,Arizona,California
+302680099,LSU,West Virginia
+302680087,Notre Dame,Stanford
+302682294,Iowa,Ball State
+302680265,Washington State,USC
+302680130,Michigan,Bowling Green
+302680213,Penn State,Temple
+302680127,Michigan State,Northern Colorado
+302680041,Connecticut,Buffalo
+302680059,Georgia Tech,NC State
+302680077,Northwestern,Central Michigan
+302680103,Boston College,Virginia Tech
+302680120,Maryland,Florida Intl
+302682509,Purdue,Toledo
+302682633,Tennessee,UAB
+302682306,Kansas State,UCF
+302680258,Virginia,VMI
+302682751,Wyoming,Air Force
+302680142,Missouri,Miami (OH)
+302680150,Duke,Army
+302680248,Houston,Tulane
+302682653,Troy,Arkansas State
+302680164,Rutgers,North Carolina
+302680183,Syracuse,Colgate
+302680052,Florida State,Wake Forest
+302680036,Colorado State,Idaho
+302680252,BYU,Nevada
+302682226,Florida Atlantic,North Texas
+302682348,Louisiana Tech,Southern Mississippi
+302682433,Louisiana Monroe,Southeastern Louisiana
+302680276,Marshall,Ohio
+302680309,Louisiana Lafayette,Middle Tennessee
+302680344,Mississippi State,Georgia
+302682305,Kansas,New Mexico State
+302680084,Indiana,Akron
+302680066,Iowa State,Northern Iowa
+302680202,Tulsa,Central Arkansas
+302680058,South Florida,Western Kentucky
+302680145,Ole Miss,Fresno State
+302680021,San Diego State,Utah State
+302680242,Rice,Baylor
+302680135,Minnesota,Northern Illinois
+302682638,UTEP,Memphis
+302682439,UNLV,New Mexico
+302680062,Hawaii,Charleston Southern

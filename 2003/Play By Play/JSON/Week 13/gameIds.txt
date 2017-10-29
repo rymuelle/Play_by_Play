@@ -1,0 +1,54 @@
+233160193,Miami (OH),Marshall
+233170120,Maryland,Virginia
+233190201,Oklahoma,Baylor
+233190012,Arizona,USC
+233190333,Alabama,LSU
+233190194,Ohio State,Purdue
+233190077,Northwestern,Michigan
+233190251,Texas,Texas Tech
+233190061,Georgia,Auburn
+233190265,Washington State,Arizona State
+233192633,Tennessee,Mississippi State
+233192628,TCU,Cincinnati
+233190218,Temple,Virginia Tech
+233190052,Florida State,NC State
+233192390,Miami,Syracuse
+233192579,South Carolina,Florida
+233190277,West Virginia,Pittsburgh
+233190158,Nebraska,Kansas State
+233192294,Iowa,Minnesota
+233190275,Wisconsin,Michigan State
+233192649,Toledo,Northern Illinois
+233190068,Boise State,UTEP
+233190189,Bowling Green,Kent State
+233190059,Georgia Tech,North Carolina
+233192006,Akron,Ohio
+233190213,Penn State,Indiana
+233190142,Missouri,Texas A&M
+233192199,Eastern Michigan,Ball State
+233190349,Army,Houston
+233190228,Clemson,Duke
+233190238,Vanderbilt,Kentucky
+233190197,Oklahoma State,Kansas
+233190066,Iowa State,Colorado
+233190008,Arkansas,New Mexico State
+233192711,Western Michigan,Central Michigan
+233190087,Notre Dame,BYU
+233190097,Louisville,Memphis
+233190167,New Mexico,Air Force
+233190202,Tulsa,Louisiana Tech
+233190036,Colorado State,San Diego State
+233192393,Middle Tennessee,Louisiana Lafayette
+233192572,Southern Mississippi,Tulane
+233192440,Nevada,Hawaii
+233190328,Utah State,Troy
+233190154,Wake Forest,Connecticut
+233190164,Rutgers,Boston College
+233190025,California,Washington
+233190026,UCLA,Oregon
+233192567,SMU,Rice
+233190204,Oregon State,Stanford
+233190249,North Texas,Arkansas State
+233190254,Utah,Wyoming
+233190278,Fresno State,San José State
+233192433,Louisiana Monroe,Idaho

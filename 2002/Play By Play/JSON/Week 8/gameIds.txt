@@ -1,0 +1,54 @@
+222810235,Memphis,Louisville
+222830103,Boston College,Virginia Tech
+222830135,Minnesota,Northwestern
+222852390,Miami,Florida State
+222850201,Oklahoma,Texas
+222850194,Ohio State,San José State
+222850061,Georgia,Tennessee
+222850026,UCLA,Oregon
+222850087,Notre Dame,Pittsburgh
+222850066,Iowa State,Texas Tech
+222850024,Stanford,Washington State
+222850130,Michigan,Penn State
+222850153,North Carolina,NC State
+222850057,Florida,LSU
+222852294,Iowa,Michigan State
+222852306,Kansas State,Oklahoma State
+222850030,USC,California
+222852005,Air Force,BYU
+222850264,Washington,Arizona
+222850084,Indiana,Wisconsin
+222850002,Auburn,Arkansas
+222850145,Ole Miss,Arkansas State
+222850218,Temple,Syracuse
+222850258,Virginia,Clemson
+222852426,Navy,Rice
+222850158,Nebraska,Missouri
+222850239,Baylor,Texas A&M
+222850349,Army,TCU
+222850356,Illinois,Purdue
+222852117,Central Michigan,Bowling Green
+222850193,Miami (OH),Northern Illinois
+222852305,Kansas,Colorado
+222852006,Akron,Liberty
+222850195,Ohio,Eastern Michigan
+222850344,Mississippi State,Troy
+222850036,Colorado State,Wyoming
+222850005,UAB,Houston
+222850154,Wake Forest,Duke
+222850164,Rutgers,West Virginia
+222852655,Tulane,Cincinnati
+222852711,Western Michigan,UCF
+222850276,Marshall,Buffalo
+222850096,Kentucky,South Carolina
+222850058,South Florida,Southern Mississippi
+222850021,San Diego State,Utah
+222850238,Vanderbilt,Middle Tennessee
+222850202,Tulsa,Boise State
+222852433,Louisiana Monroe,Idaho
+222852439,UNLV,New Mexico
+222852649,Toledo,Ball State
+222850166,New Mexico State,Louisiana Lafayette
+222850009,Arizona State,Oregon State
+222850278,Fresno State,SMU
+222850062,Hawaii,Nevada

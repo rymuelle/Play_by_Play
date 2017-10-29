@@ -1,0 +1,53 @@
+313052649,Toledo,Northern Illinois
+313060195,Ohio,Temple
+313070193,Miami (OH),Akron
+313072116,UCF,Tulsa
+313070103,Boston College,Florida State
+313082309,Kent State,Central Michigan
+313080038,Colorado,USC
+313090333,Alabama,LSU
+313090197,Oklahoma State,Kansas State
+313090204,Oregon State,Stanford
+313092439,UNLV,Boise State
+313090201,Oklahoma,Texas A&M
+313090008,Arkansas,South Carolina
+313090264,Washington,Oregon
+313090158,Nebraska,Northwestern
+313090005,UAB,Houston
+313092294,Iowa,Michigan
+313090127,Michigan State,Minnesota
+313090061,Georgia,New Mexico State
+313090026,UCLA,Arizona State
+313090275,Wisconsin,Purdue
+313090251,Texas,Texas Tech
+313090277,West Virginia,Louisville
+313090151,East Carolina,Southern Mississippi
+313090041,Connecticut,Syracuse
+313090194,Ohio State,Indiana
+313092199,Eastern Michigan,Ball State
+313090057,Florida,Vanderbilt
+313090066,Iowa State,Kansas
+313090120,Maryland,Virginia
+313090152,NC State,North Carolina
+313092751,Wyoming,TCU
+313092567,SMU,Tulane
+313092390,Miami,Duke
+313092426,Navy,Troy
+313092005,Air Force,Army
+313090309,Louisiana Lafayette,Louisiana Monroe
+313090242,Rice,UTEP
+313090096,Kentucky,Ole Miss
+313090098,Western Kentucky,Florida Intl
+313090023,San José State,Idaho
+313092226,Florida Atlantic,Arkansas State
+313090025,California,Washington State
+313090012,Arizona,Utah
+313090164,Rutgers,South Florida
+313090221,Pittsburgh,Cincinnati
+313090239,Baylor,Missouri
+313092633,Tennessee,Middle Tennessee
+313090344,Mississippi State,Tennessee-Martin
+313090021,San Diego State,New Mexico
+313090154,Wake Forest,Notre Dame
+313090278,Fresno State,Louisiana Tech
+313090062,Hawaii,Utah State

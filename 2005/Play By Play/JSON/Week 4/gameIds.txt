@@ -1,0 +1,47 @@
+252640068,Boise State,Bowling Green
+252650254,Utah,Air Force
+252652226,Florida Atlantic,Louisiana Monroe
+252650245,Texas A&M,Texas State
+252660166,New Mexico State,California
+252670349,Army,Iowa State
+252672483,Oregon,USC
+252670259,Virginia Tech,Georgia Tech
+252670096,Kentucky,Florida
+252670344,Mississippi State,Georgia
+252670194,Ohio State,Iowa
+252670058,South Florida,Louisville
+252670135,Minnesota,Purdue
+252672390,Miami,Colorado
+252670275,Wisconsin,Michigan
+252670264,Washington,Notre Dame
+252670356,Illinois,Michigan State
+252670204,Oregon State,Arizona State
+252672641,Texas Tech,Indiana State
+252670333,Alabama,Arkansas
+252670258,Virginia,Duke
+252670077,Northwestern,Penn State
+252670152,NC State,North Carolina
+252670228,Clemson,Boston College
+252670277,West Virginia,East Carolina
+252670218,Temple,Western Michigan
+252672117,Central Michigan,Eastern Michigan
+252672567,SMU,Tulane
+252670221,Pittsburgh,Youngstown State
+252670195,Ohio,Kent State
+252672306,Kansas State,North Texas
+252670002,Auburn,Western Kentucky
+252670252,BYU,TCU
+252670154,Wake Forest,Maryland
+252672032,Arkansas State,Florida Intl
+252672116,UCF,Marshall
+252672006,Akron,Northern Illinois
+252670036,Colorado State,Nevada
+252670145,Ole Miss,Wyoming
+252662579,South Carolina,Troy
+252670202,Tulsa,Memphis
+252670238,Vanderbilt,Richmond
+252670021,San Diego State,San José State
+252670328,Utah State,UNLV
+252672638,UTEP,New Mexico
+252670070,Idaho,Hawaii
+252690099,LSU,Tennessee

@@ -1,0 +1,54 @@
+322710264,Washington,Stanford
+322720252,BYU,Hawai'i
+322730333,Alabama,Ole Miss
+322730265,Washington State,Oregon
+322730099,LSU,Towson
+322730058,South Florida,Florida State
+322730061,Georgia,Tennessee
+322730096,Kentucky,South Carolina
+322730277,West Virginia,Baylor
+322730197,Oklahoma State,Texas
+322730127,Michigan State,Ohio State
+322732567,SMU,TCU
+322730103,Boston College,Clemson
+322730012,Arizona,Oregon State
+322732572,Southern Mississippi,Louisville
+322730158,Nebraska,Wisconsin
+322730167,New Mexico,Boise State
+322730041,Connecticut,Buffalo
+322730059,Georgia Tech,Middle Tennessee
+322730077,Northwestern,Indiana
+322730349,Army,Stony Brook
+322730356,Illinois,Penn State
+322732116,UCF,Missouri
+322732294,Iowa,Minnesota
+322732309,Kent State,Ball State
+322732390,Miami,NC State
+322730245,Texas A&M,Arkansas
+322730154,Wake Forest,Duke
+322732005,Air Force,Colorado State
+322732006,Akron,Miami (OH)
+322730326,Texas State,Nevada
+322730005,UAB,Tulsa
+322732509,Purdue,Marshall
+322732655,Tulane,Louisiana Monroe
+322732132,Cincinnati,Virginia Tech
+322732426,Navy,San José State
+322732459,Northern Illinois,Central Michigan
+322730006,South Alabama,Troy
+322730113,Massachusetts,Ohio
+322730242,Rice,Houston
+322730153,North Carolina,Idaho
+322730258,Virginia,Louisiana Tech
+322730189,Bowling Green,Rhode Island
+322730025,California,Arizona State
+322732226,Florida Atlantic,North Texas
+322730038,Colorado,UCLA
+322730309,Louisiana Lafayette,Florida Intl
+322732032,Arkansas State,Western Kentucky
+322730151,East Carolina,UTEP
+322730066,Iowa State,Texas Tech
+322732711,Western Michigan,Toledo
+322730166,New Mexico State,Texas San Antonio
+322730328,Utah State,UNLV
+322730278,Fresno State,San Diego State

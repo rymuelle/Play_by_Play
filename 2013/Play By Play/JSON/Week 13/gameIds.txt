@@ -1,0 +1,59 @@
+333230193,Miami (OH),Buffalo
+333230195,Ohio,Kent State
+333242649,Toledo,Northern Illinois
+333252116,UCF,Rutgers
+333250005,UAB,Rice
+333252005,Air Force,UNLV
+333260023,San José State,Navy
+333270333,Alabama,Chattanooga
+333270052,Florida State,Idaho
+333270194,Ohio State,Indiana
+333270197,Oklahoma State,Baylor
+333270012,Arizona,Oregon
+333270228,Clemson,The Citadel
+333270145,Ole Miss,Missouri
+333270024,Stanford,California
+333272579,South Carolina,Coastal Carolina
+333270099,LSU,Texas A&M
+333270077,Northwestern,Michigan State
+333270026,UCLA,Arizona State
+333270278,Fresno State,New Mexico
+333270135,Minnesota,Wisconsin
+333272306,Kansas State,Oklahoma
+333270097,Louisville,Memphis
+333270038,Colorado,USC
+333270153,North Carolina,Old Dominion
+333270154,Wake Forest,Duke
+333270248,Houston,Cincinnati
+333272294,Iowa,Michigan
+333272390,Miami,Virginia
+333272509,Purdue,Illinois
+333270008,Arkansas,Mississippi State
+333270152,NC State,East Carolina
+333270183,Syracuse,Pittsburgh
+333272117,Central Michigan,Massachusetts
+333272199,Eastern Michigan,Bowling Green
+333270059,Georgia Tech,Alabama A&M
+333270057,Florida,Georgia Southern
+333272751,Wyoming,Hawaii
+333272032,Arkansas State,Georgia State
+333272226,Florida Atlantic,New Mexico State
+333270328,Utah State,Colorado State
+333272655,Tulane,UTEP
+333272572,Southern Mississippi,Middle Tennessee
+333270087,Notre Dame,BYU
+333270120,Maryland,Boston College
+333270213,Penn State,Nebraska
+333270249,North Texas,Texas San Antonio
+333270265,Washington State,Utah
+333272229,Florida Intl,Marshall
+333272348,Louisiana Tech,Tulsa
+333272633,Tennessee,Vanderbilt
+333270058,South Florida,SMU
+333270061,Georgia,Kentucky
+333270006,South Alabama,Louisiana Monroe
+333270326,Texas State,Western Kentucky
+333270218,Temple,Connecticut
+333270066,Iowa State,Kansas
+333270021,San Diego State,Boise State
+333270204,Oregon State,Washington

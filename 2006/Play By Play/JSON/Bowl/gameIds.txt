@@ -1,0 +1,32 @@
+263532628,TCU,Northern Illinois
+263552483,Oregon,BYU
+263562653,Troy,Rice
+263570151,East Carolina,South Florida
+263570023,San José State,New Mexico
+263570254,Utah,Tulsa
+263580062,Hawai'i,Arizona State
+263602117,Central Michigan,Middle Tennessee
+263610026,UCLA,Florida State
+263622306,Kansas State,Rutgers
+263620025,California,Texas A&M
+263620333,Alabama,Oklahoma State
+263630142,Missouri,Oregon State
+263630096,Kentucky,Clemson
+263632579,South Carolina,Houston
+263630135,Minnesota,Texas Tech
+263630120,Maryland,Purdue
+263640259,Virginia Tech,Georgia
+263642294,Iowa,Texas
+263640103,Boston College,Navy
+263652440,Nevada,Miami
+270010130,Michigan,USC
+270010275,Wisconsin,Arkansas
+270010201,Oklahoma,Boise State
+270010158,Nebraska,Auburn
+270010277,West Virginia,Georgia Tech
+270010213,Penn State,Tennessee
+270020154,Wake Forest,Louisville
+270030099,LSU,Notre Dame
+270062132,Cincinnati,Western Michigan
+270072572,Southern Mississippi,Ohio
+270080194,Ohio State,Florida

@@ -1,0 +1,78 @@
+312440275,Wisconsin,UNLV
+312440235,Memphis,Mississippi State
+312440097,Louisville,Murray State
+312440218,Temple,Villanova
+312442117,Central Michigan,South Carolina State
+312442229,Florida Intl,North Texas
+312442649,Toledo,New Hampshire
+312440059,Georgia Tech,Western Carolina
+312440164,Rutgers,North Carolina Central
+312440183,Syracuse,Wake Forest
+312440254,Utah,Montana State
+312440070,Idaho,Bowling Green
+312440098,Western Kentucky,Kentucky
+312440009,Arizona State,UC Davis
+312450239,Baylor,TCU
+312450127,Michigan State,Youngstown State
+312460201,Oklahoma,Tulsa
+312460333,Alabama,Kent State
+312460099,LSU,Oregon
+312460061,Georgia,Boise State
+312460052,Florida State,Louisiana Monroe
+312460024,Stanford,San José State
+312460197,Oklahoma State,Louisiana Lafayette
+312460158,Nebraska,Chattanooga
+312462579,South Carolina,East Carolina
+312460259,Virginia Tech,Appalachian State
+312460008,Arkansas,Missouri State
+312460087,Notre Dame,South Florida
+312460194,Ohio State,Akron
+312460142,Missouri,Miami (OH)
+312460057,Florida,Florida Atlantic
+312460002,Auburn,Utah State
+312460030,USC,Minnesota
+312460103,Boston College,Northwestern
+312460041,Connecticut,Fordham
+312460213,Penn State,Indiana State
+312462294,Iowa,Tennessee Tech
+312462509,Purdue,Middle Tennessee
+312462655,Tulane,Southeastern Louisiana
+312462005,Air Force,South Dakota
+312460356,Illinois,Arkansas State
+312462426,Navy,Delaware
+312460248,Houston,UCLA
+312460228,Clemson,Troy
+312460153,North Carolina,James Madison
+312460130,Michigan,Western Michigan
+312460204,Oregon State,Sacramento State
+312460145,Ole Miss,BYU
+312460265,Washington State,Idaho State
+312460258,Virginia,William & Mary
+312462633,Tennessee,Montana
+312460167,New Mexico,Colorado State
+312460152,NC State,Liberty
+312460221,Pittsburgh,Buffalo
+312460264,Washington,Eastern Washington
+312460066,Iowa State,Northern Iowa
+312462459,Northern Illinois,Army
+312462305,Kansas,McNeese State
+312462306,Kansas State,Eastern Kentucky
+312462050,Ball State,Indiana
+312462116,UCF,Charleston Southern
+312462132,Cincinnati,Austin Peay
+312460025,California,Fresno State
+312460150,Duke,Richmond
+312462641,Texas Tech,Texas State
+312460238,Vanderbilt,Elon
+312460251,Texas,Rice
+312460166,New Mexico State,Ohio
+312462638,UTEP,Stony Brook
+312462751,Wyoming,Weber State
+312462572,Southern Mississippi,Louisiana Tech
+312460012,Arizona,Northern Arizona
+312460021,San Diego State,Cal Poly
+312460062,Hawaii,Colorado
+312470245,Texas A&M,SMU
+312470277,West Virginia,Marshall
+312472199,Eastern Michigan,Howard
+312480120,Maryland,Miami

@@ -1,0 +1,29 @@
+233290166,New Mexico State,North Texas
+233310344,Mississippi State,Ole Miss
+233320099,LSU,Arkansas
+233320245,Texas A&M,Texas
+233322116,UCF,Miami (OH)
+233320038,Colorado,Nebraska
+233322132,Cincinnati,Louisville
+233320276,Marshall,Ohio
+233320009,Arizona State,Arizona
+233330059,Georgia Tech,Georgia
+233330096,Kentucky,Tennessee
+233330057,Florida,Florida State
+233330221,Pittsburgh,Miami
+233330068,Boise State,Nevada
+233332567,SMU,TCU
+233330258,Virginia,Virginia Tech
+233320189,Bowling Green,Toledo
+233330277,West Virginia,Temple
+233330164,Rutgers,Syracuse
+233330142,Missouri,Iowa State
+233330235,Memphis,South Florida
+233332751,Wyoming,UNLV
+233330151,East Carolina,Southern Mississippi
+233332348,Louisiana Tech,Rice
+233330154,Wake Forest,Maryland
+233330248,Houston,UAB
+233332638,UTEP,Fresno State
+233330062,Hawaii,Alabama
+233330024,Stanford,Notre Dame

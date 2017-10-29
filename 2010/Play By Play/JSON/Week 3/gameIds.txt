@@ -1,0 +1,58 @@
+302590152,NC State,Cincinnati
+302602572,Southern Mississippi,Kansas
+302602440,Nevada,California
+302610150,Duke,Alabama
+302610194,Ohio State,Ohio
+302612751,Wyoming,Boise State
+302612628,TCU,Baylor
+302612483,Oregon,Portland State
+302612641,Texas Tech,Texas
+302610201,Oklahoma,Air Force
+302610264,Washington,Nebraska
+302610012,Arizona,Iowa
+302612633,Tennessee,Florida
+302610275,Wisconsin,Arizona State
+302610061,Georgia,Arkansas
+302612579,South Carolina,Furman
+302610167,New Mexico,Utah
+302610099,LSU,Mississippi State
+302610002,Auburn,Clemson
+302610135,Minnesota,USC
+302610024,Stanford,Wake Forest
+302610130,Michigan,Massachusetts
+302610277,West Virginia,Maryland
+302610213,Penn State,Kent State
+302610026,UCLA,Houston
+302610204,Oregon State,Louisville
+302610153,North Carolina,Georgia Tech
+302610218,Temple,Connecticut
+302610349,Army,North Texas
+302610356,Illinois,Northern Illinois
+302612306,Kansas State,Iowa State
+302612509,Purdue,Ball State
+302610145,Ole Miss,Vanderbilt
+302610259,Virginia Tech,East Carolina
+302610193,Miami (OH),Colorado State
+302612567,SMU,Washington State
+302610038,Colorado,Hawaii
+302610052,Florida State,BYU
+302610005,UAB,Troy
+302612199,Eastern Michigan,Central Michigan
+302610098,Western Kentucky,Indiana
+302612348,Louisiana Tech,Navy
+302612084,Buffalo,UCF
+302612711,Western Michigan,Toledo
+302610197,Oklahoma State,Tulsa
+302610235,Memphis,Middle Tennessee
+302610242,Rice,Northwestern
+302610245,Texas A&M,Florida Intl
+302610142,Missouri,San Diego State
+302610189,Bowling Green,Marshall
+302610096,Kentucky,Akron
+302610183,Syracuse,Maine
+302610023,San José State,Southern Utah
+302610127,Michigan State,Notre Dame
+302612032,Arkansas State,Louisiana Monroe
+302610328,Utah State,Fresno State
+302612638,UTEP,New Mexico State
+302610070,Idaho,UNLV

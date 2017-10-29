@@ -1,0 +1,60 @@
+293142084,Buffalo,Ohio
+293152117,Central Michigan,Toledo
+293160164,Rutgers,South Florida
+293160193,Miami (OH),Bowling Green
+293162459,Northern Illinois,Ball State
+293172132,Cincinnati,West Virginia
+293172006,Akron,Temple
+293182579,South Carolina,Florida
+293180344,Mississippi State,Alabama
+293180239,Baylor,Texas
+293182628,TCU,Utah
+293180068,Boise State,Idaho
+293180150,Duke,Georgia Tech
+293180099,LSU,Louisiana Tech
+293180030,USC,Stanford
+293180194,Ohio State,Iowa
+293180221,Pittsburgh,Notre Dame
+293182483,Oregon,Arizona State
+293180153,North Carolina,Miami
+293182116,UCF,Houston
+293180025,California,Arizona
+293180213,Penn State,Indiana
+293180197,Oklahoma State,Texas Tech
+293180275,Wisconsin,Michigan
+293180120,Maryland,Virginia Tech
+293180167,New Mexico,BYU
+293180204,Oregon State,Washington
+293180097,Louisville,Syracuse
+293180135,Minnesota,South Dakota State
+293180145,Ole Miss,Tennessee
+293180152,NC State,Clemson
+293180154,Wake Forest,Florida State
+293180349,Army,VMI
+293180356,Illinois,Northwestern
+293182509,Purdue,Michigan State
+293180238,Vanderbilt,Kentucky
+293182306,Kansas State,Missouri
+293182199,Eastern Michigan,Western Michigan
+293180235,Memphis,UAB
+293180066,Iowa State,Colorado
+293180328,Utah State,San José State
+293182567,SMU,UTEP
+293182305,Kansas,Nebraska
+293182426,Navy,Delaware
+293180242,Rice,Tulane
+293180258,Virginia,Boston College
+293182433,Louisiana Monroe,Western Kentucky
+293182440,Nevada,Fresno State
+293182226,Florida Atlantic,Arkansas State
+293182393,Middle Tennessee,Louisiana Lafayette
+293180276,Marshall,Southern Mississippi
+293180265,Washington State,UCLA
+293182005,Air Force,UNLV
+293182229,Florida Intl,North Texas
+293180201,Oklahoma,Texas A&M
+293180061,Georgia,Auburn
+293180008,Arkansas,Troy
+293180021,San Diego State,Wyoming
+293180062,Hawaii,New Mexico State
+293190202,Tulsa,East Carolina

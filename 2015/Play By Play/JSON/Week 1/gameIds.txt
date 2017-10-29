@@ -1,0 +1,85 @@
+400763398,Minnesota,TCU
+400756895,Georgia Tech,Alcorn State
+400756882,Arizona,Texas San Antonio
+400603840,South Carolina,North Carolina
+400763593,UCF,Florida Intl
+400763399,Central Michigan,Oklahoma State
+400756896,Wake Forest,Elon
+400787299,Ball State,VMI
+400764854,Connecticut,Villanova
+400603839,Vanderbilt,Western Kentucky
+400756883,Utah,Michigan
+400787302,Idaho,Ohio
+400787110,Utah State,Southern Utah
+400756894,Tulane,Duke
+400787108,Nevada,UC Davis
+400787109,San José State,New Hampshire
+400799923,Fresno State,Abilene Christian
+400787107,Hawaii,Colorado
+400764855,SMU,Baylor
+400763470,Western Michigan,Michigan State
+400756888,Boise State,Washington
+400763587,Georgia State,Charlotte
+400756903,Syracuse,Rhode Island
+400760491,Army,Fordham
+400756887,Oregon State,Weber State
+400603827,Alabama,Wisconsin
+400603829,Auburn,Louisville
+400756886,Oregon,Eastern Washington
+400756884,USC,Arkansas State
+400603831,Georgia,Louisiana Monroe
+400756899,Florida State,Texas State
+400763403,Notre Dame,Texas
+400756898,Clemson,Wofford
+400756904,UCLA,Virginia
+400603838,Texas A&M,Arizona State
+400603835,Ole Miss,Tennessee-Martin
+400603828,Arkansas,UTEP
+400763404,Oklahoma,Akron
+400756891,Northwestern,Stanford
+400603834,Missouri,Southeast Missouri State
+400834350,Tennessee,Bowling Green
+400764860,Navy,Colgate
+400763496,Rutgers,Norfolk State
+400763473,Iowa,Illinois State
+400763494,Maryland,Richmond
+400763401,Kansas,South Dakota State
+400756902,Pittsburgh,Youngstown State
+400756897,Boston College,Maine
+400756889,Washington State,Portland State
+400835430,Illinois,Kent State
+400787111,Air Force,Morgan State
+400787303,Buffalo,Albany
+400787304,Miami (OH),Presbyterian College
+400787412,Appalachian State,Howard
+400763406,Texas Tech,Sam Houston State
+400763495,Nebraska,BYU
+400763588,Eastern Michigan,Old Dominion
+400763497,Temple,Penn State
+400763592,Tulsa,Florida Atlantic
+400763472,Indiana,Southern Illinois
+400787112,Colorado State,Savannah State
+400787116,Wyoming,North Dakota
+400763591,Rice,Wagner
+400756890,California,Grambling State
+400756900,Miami,Bethune-Cookman
+400756901,NC State,Troy
+400764857,East Carolina,Towson
+400787414,South Alabama,Gardner-Webb
+400764861,South Florida,Florida A&M
+400764859,Memphis,Missouri State
+400763589,Louisiana Tech,Southern
+400763590,Middle Tennessee,Jackson State
+400603832,Kentucky,Louisiana Lafayette
+400763402,Kansas State,South Dakota
+400763407,West Virginia,Georgia Southern
+400603830,Florida,New Mexico State
+400787115,Northern Illinois,UNLV
+400791346,San Diego State,San Diego
+400763400,Iowa State,Northern Iowa
+400764858,Houston,Tennessee Tech
+400787114,New Mexico,Mississippi Valley State
+400764856,Cincinnati,Alabama A&M
+400603836,Southern Mississippi,Mississippi State
+400763498,Marshall,Purdue
+400756905,Virginia Tech,Ohio State

@@ -1,0 +1,54 @@
+263112459,Northern Illinois,Toledo
+263130164,Rutgers,Louisville
+263130252,BYU,Wyoming
+263132006,Akron,Buffalo
+263142117,Central Michigan,Western Michigan
+263140005,UAB,UTEP
+263150077,Northwestern,Ohio State
+263150084,Indiana,Michigan
+263152306,Kansas State,Texas
+263150002,Auburn,Georgia
+263150057,Florida,South Carolina
+263150030,USC,Oregon
+263150012,Arizona,California
+263152005,Air Force,Notre Dame
+263150277,West Virginia,Cincinnati
+263150008,Arkansas,Tennessee
+263150099,LSU,Alabama
+263150023,San José State,Boise State
+263152294,Iowa,Wisconsin
+263150201,Oklahoma,Texas Tech
+263150052,Florida State,Wake Forest
+263150153,North Carolina,Georgia Tech
+263150259,Virginia Tech,Kent State
+263150103,Boston College,Duke
+263150120,Maryland,Miami
+263150245,Texas A&M,Nebraska
+263150058,South Florida,Syracuse
+263150127,Michigan State,Minnesota
+263150228,Clemson,NC State
+263150356,Illinois,Purdue
+263150197,Oklahoma State,Baylor
+263150151,East Carolina,Marshall
+263150096,Kentucky,Vanderbilt
+263152199,Eastern Michigan,Navy
+263152655,Tulane,Southern Mississippi
+263150254,Utah,Colorado State
+263152567,SMU,Houston
+263150202,Tulsa,Rice
+263150038,Colorado,Iowa State
+263150041,Connecticut,Pittsburgh
+263150213,Penn State,Temple
+263150264,Washington,Stanford
+263152440,Nevada,Utah State
+263152226,Florida Atlantic,Troy
+263152032,Arkansas State,Middle Tennessee
+263150278,Fresno State,New Mexico State
+263150309,Louisiana Lafayette,North Texas
+263150167,New Mexico,TCU
+263150026,UCLA,Oregon State
+263152229,Florida Intl,Louisiana Monroe
+263150235,Memphis,UCF
+263150021,San Diego State,UNLV
+263150009,Arizona State,Washington State
+263150062,Hawaii,Louisiana Tech

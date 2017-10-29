@@ -1,0 +1,17 @@
+263340195,Ohio,Central Michigan
+263350248,Houston,Southern Mississippi
+263360026,UCLA,USC
+263360057,Florida,Arkansas
+263360097,Louisville,Connecticut
+263360201,Oklahoma,Nebraska
+263360277,West Virginia,Rutgers
+263360059,Georgia Tech,Wake Forest
+263360025,California,Stanford
+263360062,Hawaii,Oregon State
+263362426,Navy,Army
+263360166,New Mexico State,Louisiana Tech
+263362628,TCU,Air Force
+263360023,San José State,Fresno State
+263360309,Louisiana Lafayette,Louisiana Monroe
+263362229,Florida Intl,Troy
+263360021,San Diego State,Colorado State

@@ -1,0 +1,18 @@
+273330097,Louisville,Rutgers
+273340166,New Mexico State,Fresno State
+273350142,Missouri,Oklahoma
+273350277,West Virginia,Pittsburgh
+273350103,Boston College,Virginia Tech
+273350099,LSU,Tennessee
+273350030,USC,UCLA
+273350062,Hawaii,Washington
+273350009,Arizona State,Arizona
+273352483,Oregon,Oregon State
+273350021,San Diego State,BYU
+273352117,Central Michigan,Miami (OH)
+273352426,Navy,Army
+273352116,UCF,Tulsa
+273352653,Troy,Florida Atlantic
+273352440,Nevada,Louisiana Tech
+273352229,Florida Intl,North Texas
+273350024,Stanford,California

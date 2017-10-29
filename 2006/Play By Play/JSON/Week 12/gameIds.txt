@@ -1,0 +1,56 @@
+263182649,Toledo,Ball State
+263190189,Bowling Green,Miami (OH)
+263200221,Pittsburgh,West Virginia
+263200195,Ohio,Akron
+263212309,Kent State,Eastern Michigan
+263212459,Northern Illinois,Central Michigan
+263220194,Ohio State,Michigan
+263220057,Florida,Western Carolina
+263220030,USC,California
+263220344,Mississippi State,Arkansas
+263220087,Notre Dame,Army
+263222132,Cincinnati,Rutgers
+263220099,LSU,Ole Miss
+263220097,Louisville,South Florida
+263220275,Wisconsin,Buffalo
+263220068,Boise State,Utah State
+263220154,Wake Forest,Virginia Tech
+263220333,Alabama,Auburn
+263220239,Baylor,Oklahoma
+263220059,Georgia Tech,Duke
+263220103,Boston College,Maryland
+263220238,Vanderbilt,Tennessee
+263220252,BYU,New Mexico
+263220135,Minnesota,Iowa
+263220153,North Carolina,NC State
+263220183,Syracuse,Connecticut
+263220213,Penn State,Michigan State
+263220258,Virginia,Miami
+263222509,Purdue,Indiana
+263222579,South Carolina,Middle Tennessee
+263222426,Navy,Temple
+263220096,Kentucky,Louisiana Monroe
+263220077,Northwestern,Illinois
+263220066,Iowa State,Missouri
+263220052,Florida State,Western Michigan
+263220235,Memphis,Houston
+263222641,Texas Tech,Oklahoma State
+263222655,Tulane,UCF
+263220242,Rice,East Carolina
+263222567,SMU,Tulsa
+263222305,Kansas,Kansas State
+263222483,Oregon,Arizona
+263220024,Stanford,Oregon State
+263222439,UNLV,Wyoming
+263222628,TCU,San Diego State
+263220276,Marshall,UTEP
+263220278,Fresno State,Idaho
+263222229,Florida Intl,Louisiana Lafayette
+263220265,Washington State,Washington
+263220249,North Texas,Florida Atlantic
+263222653,Troy,Arkansas State
+263222005,Air Force,Utah
+263222348,Louisiana Tech,Nevada
+263222572,Southern Mississippi,UAB
+263220009,Arizona State,UCLA
+263220062,Hawaii,San José State

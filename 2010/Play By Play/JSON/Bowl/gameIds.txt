@@ -1,0 +1,35 @@
+303522638,UTEP,BYU
+303520278,Fresno State,Northern Illinois
+303522653,Troy,Ohio
+303550097,Louisville,Southern Mississippi
+303560068,Boise State,Utah
+303570021,San Diego State,Navy
+303580202,Tulsa,Hawai'i
+303602649,Toledo,Florida Intl
+303610059,Georgia Tech,Air Force
+303622294,Iowa,Missouri
+303620152,NC State,West Virginia
+303630012,Arizona,Oklahoma State
+303630120,Maryland,East Carolina
+303630239,Baylor,Illinois
+303640264,Washington,Nebraska
+303642567,SMU,Army
+303640183,Syracuse,Kansas State
+303642633,Tennessee,North Carolina
+303650052,Florida State,South Carolina
+303652116,UCF,Georgia
+303650228,Clemson,South Florida
+303652390,Miami,Notre Dame
+310012628,TCU,Wisconsin
+310010201,Oklahoma,Connecticut
+310010127,Michigan State,Alabama
+310010130,Michigan,Mississippi State
+310012641,Texas Tech,Northwestern
+310010213,Penn State,Florida
+310030259,Virginia Tech,Stanford
+310040008,Arkansas,Ohio State
+310060193,Miami (OH),Middle Tennessee
+310070245,Texas A&M,LSU
+310080096,Kentucky,Pittsburgh
+310090103,Boston College,Nevada
+310102483,Oregon,Auburn

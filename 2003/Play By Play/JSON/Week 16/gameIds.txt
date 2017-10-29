@@ -1,0 +1,7 @@
+233380189,Bowling Green,Miami (OH)
+233400201,Oklahoma,Kansas State
+233400030,USC,Oregon State
+233400061,Georgia,LSU
+233400062,Hawaii,Boise State
+233400183,Syracuse,Notre Dame
+233402426,Navy,Army

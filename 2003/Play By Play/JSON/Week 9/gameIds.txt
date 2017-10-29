@@ -1,0 +1,51 @@
+232890309,Louisiana Lafayette,New Mexico State
+232890152,NC State,Clemson
+232890036,Colorado State,Air Force
+232900097,Louisville,Tulane
+232910201,Oklahoma,Missouri
+232912390,Miami,Temple
+232910238,Vanderbilt,Georgia
+232910087,Notre Dame,USC
+232910024,Stanford,Washington State
+232910258,Virginia,Florida State
+232910194,Ohio State,Iowa
+232902579,South Carolina,LSU
+232910008,Arkansas,Florida
+232912459,Northern Illinois,Western Michigan
+232910275,Wisconsin,Purdue
+232910135,Minnesota,Michigan State
+232912628,TCU,UAB
+232910130,Michigan,Illinois
+232910158,Nebraska,Texas A&M
+232910002,Auburn,Mississippi State
+232910066,Iowa State,Texas
+232910204,Oregon State,Washington
+232910197,Oklahoma State,Texas Tech
+232910150,Duke,Wake Forest
+232910183,Syracuse,Boston College
+232910145,Ole Miss,Alabama
+232910349,Army,East Carolina
+232912084,Buffalo,Marshall
+232912117,Central Michigan,Toledo
+232910164,Rutgers,Pittsburgh
+232910153,North Carolina,Arizona State
+232912305,Kansas,Baylor
+232912309,Kent State,Connecticut
+232912306,Kansas State,Colorado
+232910242,Rice,Navy
+232912050,Ball State,Miami (OH)
+232910202,Tulsa,Nevada
+232912348,Louisiana Tech,Hawaii
+232912439,UNLV,Utah
+232912567,SMU,Boise State
+232912653,Troy,Florida Intl
+232910026,UCLA,California
+232910249,North Texas,Utah State
+232910070,Idaho,Middle Tennessee
+232912006,Akron,UCF
+232912199,Eastern Michigan,Bowling Green
+232912751,Wyoming,BYU
+232910096,Kentucky,Ohio
+232910058,South Florida,Charleston Southern
+232910248,Houston,Memphis
+232910021,San Diego State,New Mexico

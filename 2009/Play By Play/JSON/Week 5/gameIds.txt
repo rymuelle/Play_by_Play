@@ -1,0 +1,52 @@
+292732348,Louisiana Tech,Hawaii
+292740277,West Virginia,Colorado
+292740005,UAB,Southern Mississippi
+292750252,BYU,Utah State
+292750097,Louisville,Pittsburgh
+292760096,Kentucky,Alabama
+292760061,Georgia,LSU
+292760068,Boise State,UC Davis
+292760150,Duke,Virginia Tech
+292760025,California,USC
+292762390,Miami,Oklahoma
+292760084,Indiana,Ohio State
+292760193,Miami (OH),Cincinnati
+292762628,TCU,SMU
+292762638,UTEP,Houston
+292762294,Iowa,Arkansas State
+292760356,Illinois,Penn State
+292762483,Oregon,Washington State
+292760238,Vanderbilt,Ole Miss
+292760127,Michigan State,Michigan
+292760344,Mississippi State,Georgia Tech
+292760120,Maryland,Clemson
+292760135,Minnesota,Wisconsin
+292760153,North Carolina,Virginia
+292760183,Syracuse,South Florida
+292760276,Marshall,East Carolina
+292760349,Army,Tulane
+292762050,Ball State,Toledo
+292762509,Purdue,Northwestern
+292762199,Eastern Michigan,Temple
+292760066,Iowa State,Kansas State
+292760024,Stanford,UCLA
+292760103,Boston College,Florida State
+292760154,Wake Forest,NC State
+292762084,Buffalo,Central Michigan
+292762116,UCF,Memphis
+292762426,Navy,Air Force
+292762459,Northern Illinois,Western Michigan
+292760087,Notre Dame,Washington
+292762641,Texas Tech,New Mexico
+292762433,Louisiana Monroe,Florida Intl
+292762226,Florida Atlantic,Wyoming
+292760189,Bowling Green,Ohio
+292762440,Nevada,UNLV
+292762579,South Carolina,South Carolina State
+292760239,Baylor,Kent State
+292760009,Arizona State,Oregon State
+292760008,Arkansas,Texas A&M
+292760242,Rice,Tulsa
+292762633,Tennessee,Auburn
+292760021,San Diego State,New Mexico State
+292760070,Idaho,Colorado State

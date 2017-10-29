@@ -1,0 +1,76 @@
+400763599,Western Kentucky,Louisiana Tech
+400787981,Utah,Utah State
+400756912,Florida Atlantic,Miami
+400763505,Ohio State,Hawaii
+400603860,Alabama,Middle Tennessee
+400763412,TCU,Stephen F Austin
+400763408,Baylor,Lamar
+400757018,Michigan State,Oregon
+400603863,Auburn,Jacksonville State
+400757014,USC,Idaho
+400756917,Virginia,Notre Dame
+400603870,Vanderbilt,Georgia
+400792601,Florida State,South Florida
+400756907,Clemson,Appalachian State
+400757015,UNLV,UCLA
+400603865,Mississippi State,LSU
+400756910,Georgia Tech,Tulane
+400603869,Texas A&M,Ball State
+400603866,Ole Miss,Fresno State
+400603861,Arkansas,Toledo
+400603868,Tennessee,Oklahoma
+400787118,BYU,Boise State
+400603862,Arkansas State,Missouri
+400756892,Nevada,Arizona
+400757019,Michigan,Oregon State
+400760492,Connecticut,Army
+400763414,Texas San Antonio,Kansas State
+400763500,Illinois,Western Illinois
+400763502,Maryland,Bowling Green
+400756911,Louisville,Houston
+400763506,Penn State,Buffalo
+400763507,Purdue,Indiana State
+400763508,Wisconsin,Miami (OH)
+400763594,Charlotte,Presbyterian College
+400756916,Syracuse,Wake Forest
+400756906,Boston College,Howard
+400757016,Colorado,Massachusetts
+400757020,Washington,Sacramento State
+400763415,Texas Tech,UTEP
+400763416,West Virginia,Liberty
+400787306,Central Michigan,Monmouth
+400787307,Northern Illinois,Murray State
+400763499,Colorado State,Minnesota
+400757021,Rutgers,Washington State
+400756918,Virginia Tech,Furman
+400763598,Southern Mississippi,Austin Peay
+400763504,Northwestern,Eastern Illinois
+400787119,Wyoming,Eastern Michigan
+400763409,Iowa State,Iowa
+400757022,California,San Diego State
+400756908,Duke,North Carolina Central
+400756913,North Carolina,North Carolina A&T
+400756914,NC State,Eastern Kentucky
+400756915,Akron,Pittsburgh
+400787305,Kent State,Delaware State
+400787308,Georgia Southern,Western Michigan
+400787416,Louisiana Lafayette,Northwestern State
+400787417,Louisiana Monroe,Nicholls State
+400787418,Texas State,Prairie View A&M
+400787419,Troy,Charleston Southern
+400763597,SMU,North Texas
+400763595,Ohio,Marshall
+400603864,Florida,East Carolina
+400763410,Kansas,Memphis
+400763596,Old Dominion,Norfolk State
+400763411,Oklahoma State,Central Arkansas
+400603867,South Carolina,Kentucky
+400763503,Nebraska,South Alabama
+400763413,Texas,Rice
+400763501,Indiana,Florida Intl
+400764862,Cincinnati,Temple
+400764863,New Mexico,Tulsa
+400787415,New Mexico State,Georgia State
+400787117,Air Force,San José State
+400757023,Stanford,UCF
+400756893,Arizona State,Cal Poly

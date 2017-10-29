@@ -1,0 +1,14 @@
+333392132,Cincinnati,Louisville
+333402459,Northern Illinois,Bowling Green
+333410052,Florida State,Duke
+333410127,Michigan State,Ohio State
+333410002,Auburn,Missouri
+333410197,Oklahoma State,Oklahoma
+333410009,Arizona State,Stanford
+333410239,Baylor,Texas
+333412567,SMU,UCF
+333410278,Fresno State,Utah State
+333410242,Rice,Marshall
+333410041,Connecticut,Memphis
+333410164,Rutgers,South Florida
+333410006,South Alabama,Louisiana Lafayette

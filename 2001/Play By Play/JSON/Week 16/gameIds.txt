@@ -1,0 +1,3 @@
+213412572,Southern Mississippi,TCU
+213420099,LSU,Tennessee
+213420062,Hawaii,BYU

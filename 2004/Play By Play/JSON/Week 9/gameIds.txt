@@ -1,0 +1,54 @@
+242950277,West Virginia,Syracuse
+242960097,Louisville,South Florida
+242960036,Colorado State,Wyoming
+242970030,USC,Washington
+242970201,Oklahoma,Kansas
+242970002,Auburn,Kentucky
+242970152,NC State,Miami
+242970154,Wake Forest,Florida State
+242970275,Wisconsin,Northwestern
+242970012,Arizona,California
+242972641,Texas Tech,Texas
+242970254,Utah,UNLV
+242970008,Arkansas,Georgia
+242972633,Tennessee,Alabama
+242972509,Purdue,Michigan
+242970150,Duke,Virginia
+242970245,Texas A&M,Colorado
+242970099,LSU,Troy
+242970068,Boise State,Fresno State
+242970344,Mississippi State,Florida
+242970009,Arizona State,UCLA
+242970142,Missouri,Oklahoma State
+242970087,Notre Dame,Boston College
+242970213,Penn State,Iowa
+242970041,Connecticut,Temple
+242970194,Ohio State,Indiana
+242970221,Pittsburgh,Rutgers
+242970228,Clemson,Maryland
+242972426,Navy,Rice
+242970238,Vanderbilt,Eastern Kentucky
+242970195,Ohio,Bowling Green
+242970135,Minnesota,Illinois
+242972306,Kansas State,Nebraska
+242972348,Louisiana Tech,UTEP
+242972393,Middle Tennessee,Idaho
+242972711,Western Michigan,Northern Illinois
+242970239,Baylor,Iowa State
+242972005,Air Force,BYU
+242972655,Tulane,UAB
+242972226,Florida Atlantic,Louisiana Monroe
+242970204,Oregon State,Washington State
+242970276,Marshall,Buffalo
+242970309,Louisiana Lafayette,Arkansas State
+242970024,Stanford,Oregon
+242972006,Akron,Ball State
+242970167,New Mexico,San Diego State
+242970193,Miami (OH),UCF
+242972132,Cincinnati,Memphis
+242970249,North Texas,New Mexico State
+242972649,Toledo,Central Michigan
+242972572,Southern Mississippi,East Carolina
+242972628,TCU,Houston
+242972440,Nevada,Tulsa
+242970062,Hawaii,San José State

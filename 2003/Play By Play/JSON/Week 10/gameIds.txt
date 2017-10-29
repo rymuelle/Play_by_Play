@@ -1,0 +1,56 @@
+232950277,West Virginia,Virginia Tech
+232960059,Georgia Tech,Maryland
+232980038,Colorado,Oklahoma
+232980061,Georgia,UAB
+232980264,Washington,USC
+232980052,Florida State,Wake Forest
+232980265,Washington State,Oregon State
+232980084,Indiana,Ohio State
+232980099,LSU,Auburn
+232980130,Michigan,Purdue
+232980189,Bowling Green,Northern Illinois
+232980158,Nebraska,Iowa State
+232980248,Houston,TCU
+232982294,Iowa,Penn State
+232980245,Texas A&M,Oklahoma State
+232980239,Baylor,Texas
+232980077,Northwestern,Wisconsin
+232980145,Ole Miss,Arkansas
+232980333,Alabama,Tennessee
+232980254,Utah,New Mexico
+232980041,Connecticut,Akron
+232980103,Boston College,Notre Dame
+232980221,Pittsburgh,Syracuse
+232980228,Clemson,North Carolina
+232980356,Illinois,Minnesota
+232980142,Missouri,Texas Tech
+232980096,Kentucky,Mississippi State
+232980218,Temple,Rutgers
+232980150,Duke,NC State
+232982084,Buffalo,Ohio
+232982426,Navy,Delaware
+232982309,Kent State,Miami (OH)
+232982050,Ball State,Toledo
+232980151,East Carolina,Louisville
+232982306,Kansas State,Kansas
+232982655,Tulane,Memphis
+232982711,Western Michigan,Marshall
+232982572,Southern Mississippi,South Florida
+232980328,Utah State,Arkansas State
+232982132,Cincinnati,Army
+232980202,Tulsa,SMU
+232980258,Virginia,Troy
+232980068,Boise State,San José State
+232980025,California,Arizona
+232982483,Oregon,Stanford
+232982116,UCF,Central Michigan
+232982440,Nevada,Louisiana Tech
+232980309,Louisiana Lafayette,Idaho
+232980278,Fresno State,Rice
+232982439,UNLV,BYU
+232982393,Middle Tennessee,North Texas
+232982579,South Carolina,Vanderbilt
+232982433,Louisiana Monroe,New Mexico State
+232980026,UCLA,Arizona State
+232980021,San Diego State,Wyoming
+232980062,Hawaii,UTEP

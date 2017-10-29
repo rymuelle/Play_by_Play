@@ -1,0 +1,28 @@
+223512132,Cincinnati,North Texas
+223520276,Marshall,Louisville
+223572641,Texas Tech,Clemson
+223590167,New Mexico,UCLA
+223590062,Hawai'i,Tulane
+223600204,Oregon State,Pittsburgh
+223602649,Toledo,Boston College
+223610009,Arizona State,Kansas State
+223610197,Oklahoma State,Southern Mississippi
+223610145,Ole Miss,Nebraska
+223620275,Wisconsin,Colorado
+223620258,Virginia,West Virginia
+223640135,Minnesota,Arkansas
+223640154,Wake Forest,Oregon
+223650259,Virginia Tech,Air Force
+223650068,Boise State,Iowa State
+223652633,Tennessee,Maryland
+223650036,Colorado State,TCU
+223650264,Washington,Purdue
+223650278,Fresno State,Georgia Tech
+230010052,Florida State,Georgia
+230010265,Washington State,Oklahoma
+230010099,LSU,Texas
+230010002,Auburn,Penn State
+230010087,Notre Dame,NC State
+230010057,Florida,Michigan
+230020030,USC,Iowa
+230032390,Miami,Ohio State

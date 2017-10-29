@@ -1,0 +1,50 @@
+283020195,Ohio,Buffalo
+283020276,Marshall,Houston
+283042132,Cincinnati,South Florida
+283062641,Texas Tech,Texas
+283060333,Alabama,Arkansas State
+283060201,Oklahoma,Nebraska
+283060030,USC,Washington
+283060061,Georgia,Florida
+283060197,Oklahoma State,Iowa State
+283060167,New Mexico,Utah
+283060166,New Mexico State,Boise State
+283062439,UNLV,TCU
+283060239,Baylor,Missouri
+283060059,Georgia Tech,Florida State
+283060135,Minnesota,Northwestern
+283060008,Arkansas,Tulsa
+283060099,LSU,Tulane
+283060036,Colorado State,BYU
+283060127,Michigan State,Wisconsin
+283060025,California,Oregon
+283060041,Connecticut,West Virginia
+283060084,Indiana,Central Michigan
+283060258,Virginia,Miami
+283060349,Army,Air Force
+283062509,Purdue,Michigan
+283060145,Ole Miss,Auburn
+283062305,Kansas,Kansas State
+283062711,Western Michigan,Eastern Michigan
+283062751,Wyoming,San Diego State
+283060189,Bowling Green,Kent State
+283060245,Texas A&M,Colorado
+283060344,Mississippi State,Kentucky
+283062348,Louisiana Tech,Fresno State
+283060087,Notre Dame,Pittsburgh
+283060328,Utah State,Hawaii
+283060154,Wake Forest,Duke
+283060103,Boston College,Clemson
+283062426,Navy,Temple
+283060356,Illinois,Iowa
+283060098,Western Kentucky,North Texas
+283060070,Idaho,San José State
+283060024,Stanford,Washington State
+283060309,Louisiana Lafayette,Florida Intl
+283060183,Syracuse,Louisville
+283062433,Louisiana Monroe,Troy
+283062579,South Carolina,Tennessee
+283062572,Southern Mississippi,UAB
+283062638,UTEP,Rice
+283060204,Oregon State,Arizona State
+283072116,UCF,East Carolina

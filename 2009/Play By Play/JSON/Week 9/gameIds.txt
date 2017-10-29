@@ -1,0 +1,55 @@
+293000235,Memphis,East Carolina
+293020259,Virginia Tech,North Carolina
+293030058,South Florida,West Virginia
+293040057,Florida,Georgia
+293040197,Oklahoma State,Texas
+293042294,Iowa,Indiana
+293042483,Oregon,USC
+293042628,TCU,UNLV
+293040068,Boise State,San José State
+293040183,Syracuse,Cincinnati
+293040099,LSU,Tulane
+293040238,Vanderbilt,Georgia Tech
+293040077,Northwestern,Penn State
+293040254,Utah,Wyoming
+293040194,Ohio State,New Mexico State
+293040248,Houston,Southern Mississippi
+293040154,Wake Forest,Miami
+293042633,Tennessee,South Carolina
+293040087,Notre Dame,Washington State
+293040009,Arizona State,California
+293040002,Auburn,Ole Miss
+293040041,Connecticut,Rutgers
+293040052,Florida State,NC State
+293040275,Wisconsin,Purdue
+293042229,Florida Intl,Louisiana Lafayette
+293042050,Ball State,Ohio
+293042459,Northern Illinois,Akron
+293040239,Baylor,Nebraska
+293040228,Clemson,Coastal Carolina
+293040038,Colorado,Missouri
+293040202,Tulsa,SMU
+293042309,Kent State,Western Michigan
+293042638,UTEP,UAB
+293040097,Louisville,Arkansas State
+293040245,Texas A&M,Iowa State
+293040193,Miami (OH),Toledo
+293040103,Boston College,Central Michigan
+293042641,Texas Tech,Kansas
+293042426,Navy,Temple
+293040258,Virginia,Duke
+293040356,Illinois,Michigan
+293042226,Florida Atlantic,Middle Tennessee
+293040204,Oregon State,UCLA
+293040036,Colorado State,Air Force
+293042440,Nevada,Hawaii
+293040249,North Texas,Western Kentucky
+293040070,Idaho,Louisiana Tech
+293040278,Fresno State,Utah State
+293040201,Oklahoma,Kansas State
+293042653,Troy,Louisiana Monroe
+293040008,Arkansas,Eastern Michigan
+293040096,Kentucky,Mississippi State
+293040021,San Diego State,New Mexico
+293040135,Minnesota,Michigan State
+293052116,UCF,Marshall

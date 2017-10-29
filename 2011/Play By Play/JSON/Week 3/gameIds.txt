@@ -1,0 +1,64 @@
+312580344,Mississippi State,LSU
+312592649,Toledo,Boise State
+312590041,Connecticut,Iowa State
+312600052,Florida State,Oklahoma
+312600333,Alabama,North Texas
+312600012,Arizona,Stanford
+312602459,Northern Illinois,Wisconsin
+312600202,Tulsa,Oklahoma State
+312600245,Texas A&M,Idaho
+312602579,South Carolina,Navy
+312600158,Nebraska,Washington
+312602483,Oregon,Missouri State
+312600259,Virginia Tech,Arkansas State
+312600008,Arkansas,Troy
+312600087,Notre Dame,Michigan State
+312600057,Florida,Tennessee
+312602390,Miami,Ohio State
+312600120,Maryland,West Virginia
+312600239,Baylor,Stephen F Austin
+312600058,South Florida,Florida A&M
+312600228,Clemson,Auburn
+312600356,Illinois,Arizona State
+312602628,TCU,Louisiana Monroe
+312600026,UCLA,Texas
+312600130,Michigan,Eastern Michigan
+312600189,Bowling Green,Wyoming
+312600218,Temple,Penn State
+312602294,Iowa,Pittsburgh
+312602509,Purdue,Southeast Missouri State
+312602711,Western Michigan,Central Michigan
+312600238,Vanderbilt,Ole Miss
+312600103,Boston College,Duke
+312600059,Georgia Tech,Kansas
+312600061,Georgia,Coastal Carolina
+312600038,Colorado,Colorado State
+312600349,Army,Northwestern
+312602132,Cincinnati,Akron
+312600084,Indiana,South Carolina State
+312600153,North Carolina,Virginia
+312600135,Minnesota,Miami (OH)
+312600167,New Mexico,Texas Tech
+312600023,San José State,Nevada
+312600005,UAB,Tulane
+312600025,California,Presbyterian College
+312600152,NC State,South Alabama
+312602229,Florida Intl,UCF
+312600154,Wake Forest,Gardner-Webb
+312600021,San Diego State,Washington State
+312600142,Missouri,Western Illinois
+312600235,Memphis,Austin Peay
+312600195,Ohio,Marshall
+312600096,Kentucky,Louisville
+312600098,Western Kentucky,Indiana State
+312602572,Southern Mississippi,Southeastern Louisiana
+312602050,Ball State,Buffalo
+312602306,Kansas State,Kent State
+312602348,Louisiana Tech,Houston
+312600309,Louisiana Lafayette,Nicholls State
+312600030,USC,Syracuse
+312600166,New Mexico State,UTEP
+312602567,SMU,Northwestern State
+312600252,BYU,Utah
+312600278,Fresno State,North Dakota
+312602439,UNLV,Hawaii

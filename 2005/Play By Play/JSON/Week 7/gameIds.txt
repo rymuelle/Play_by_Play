@@ -1,0 +1,54 @@
+252860152,NC State,Clemson
+252862032,Arkansas State,Louisiana Lafayette
+252872655,Tulane,UTEP
+252880087,Notre Dame,USC
+252880251,Texas,Colorado
+252880258,Virginia,Florida State
+252880238,Vanderbilt,Georgia
+252880145,Ole Miss,Alabama
+252880218,Temple,Miami
+252870130,Michigan,Penn State
+252880099,LSU,Florida
+252880265,Washington State,UCLA
+252882641,Texas Tech,Kansas State
+252880103,Boston College,Wake Forest
+252880194,Ohio State,Michigan State
+252880025,California,Oregon State
+252880277,West Virginia,Louisville
+252882483,Oregon,Washington
+252880008,Arkansas,Auburn
+252880135,Minnesota,Wisconsin
+252882628,TCU,Army
+252880183,Syracuse,Rutgers
+252882005,Air Force,UNLV
+252882294,Iowa,Indiana
+252882117,Central Michigan,Ohio
+252882509,Purdue,Northwestern
+252882426,Navy,Kent State
+252882084,Buffalo,Bowling Green
+252880221,Pittsburgh,South Florida
+252880142,Missouri,Iowa State
+252880193,Miami (OH),Akron
+252882050,Ball State,Toledo
+252882567,SMU,East Carolina
+252882751,Wyoming,New Mexico
+252882433,Louisiana Monroe,Troy
+252880245,Texas A&M,Oklahoma State
+252880150,Duke,Georgia Tech
+252880242,Rice,Tulsa
+252882132,Cincinnati,Connecticut
+252882226,Florida Atlantic,Middle Tennessee
+252882440,Nevada,Louisiana Tech
+252882459,Northern Illinois,Eastern Michigan
+252880276,Marshall,UAB
+252880248,Houston,Memphis
+252882229,Florida Intl,North Texas
+252880254,Utah,San Diego State
+252880239,Baylor,Nebraska
+252880012,Arizona,Stanford
+252882305,Kansas,Oklahoma
+252882572,Southern Mississippi,UCF
+252880068,Boise State,San José State
+252880252,BYU,Colorado State
+252880278,Fresno State,Utah State
+252880062,Hawaii,New Mexico State

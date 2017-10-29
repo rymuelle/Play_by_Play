@@ -1,0 +1,59 @@
+333302459,Northern Illinois,Western Michigan
+333320251,Texas,Texas Tech
+333320344,Mississippi State,Ole Miss
+333332483,Oregon,Oregon State
+333330023,San José State,Fresno State
+333330099,LSU,Arkansas
+333332116,UCF,South Florida
+333330158,Nebraska,Iowa
+333330248,Houston,SMU
+333330276,Marshall,East Carolina
+333332006,Akron,Toledo
+333332050,Ball State,Miami (OH)
+333332084,Buffalo,Bowling Green
+333332117,Central Michigan,Eastern Michigan
+333332653,Troy,Texas State
+333330195,Ohio,Massachusetts
+333332226,Florida Atlantic,Florida Intl
+333330221,Pittsburgh,Miami
+333330264,Washington,Washington State
+333340002,Auburn,Alabama
+333340057,Florida,Florida State
+333340130,Michigan,Ohio State
+333340142,Missouri,Texas A&M
+333342579,South Carolina,Clemson
+333340024,Stanford,Notre Dame
+333342628,TCU,Baylor
+333340127,Michigan State,Minnesota
+333340009,Arizona State,Arizona
+333340275,Wisconsin,Penn State
+333340030,USC,UCLA
+333340153,North Carolina,Duke
+333340041,Connecticut,Rutgers
+333340235,Memphis,Temple
+333342305,Kansas,Kansas State
+333340238,Vanderbilt,Wake Forest
+333340152,NC State,Maryland
+333340005,UAB,Southern Mississippi
+333340036,Colorado State,Air Force
+333340254,Utah,Colorado
+333340328,Utah State,Wyoming
+333342247,Georgia State,South Alabama
+333340202,Tulsa,North Texas
+333340242,Rice,Tulane
+333342440,Nevada,BYU
+333340356,Illinois,Northwestern
+333340166,New Mexico State,Idaho
+333340183,Syracuse,Boston College
+333340258,Virginia,Virginia Tech
+333342636,Texas San Antonio,Louisiana Tech
+333340084,Indiana,Purdue
+333340059,Georgia Tech,Georgia
+333342393,Middle Tennessee,UTEP
+333340277,West Virginia,Iowa State
+333340098,Western Kentucky,Arkansas State
+333340096,Kentucky,Tennessee
+333340309,Louisiana Lafayette,Louisiana Monroe
+333340068,Boise State,New Mexico
+333342439,UNLV,San Diego State
+333340062,Hawaii,Army

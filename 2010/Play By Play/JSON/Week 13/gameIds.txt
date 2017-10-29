@@ -1,0 +1,54 @@
+303270193,Miami (OH),Temple
+303290251,Texas,Texas A&M
+303302483,Oregon,Arizona
+303300333,Alabama,Auburn
+303302440,Nevada,Boise State
+303300158,Nebraska,Colorado
+303300164,Rutgers,Louisville
+303302309,Kent State,Ohio
+303302199,Eastern Michigan,Northern Illinois
+303300221,Pittsburgh,West Virginia
+303300189,Bowling Green,Western Michigan
+303300151,East Carolina,SMU
+303302006,Akron,Buffalo
+303302649,Toledo,Central Michigan
+303300009,Arizona State,UCLA
+303300202,Tulsa,Southern Mississippi
+303310167,New Mexico,TCU
+303310008,Arkansas,LSU
+303310024,Stanford,Oregon State
+303310275,Wisconsin,Northwestern
+303310194,Ohio State,Michigan
+303310197,Oklahoma State,Oklahoma
+303310213,Penn State,Michigan State
+303310142,Missouri,Kansas
+303310259,Virginia Tech,Virginia
+303310228,Clemson,South Carolina
+303310254,Utah,BYU
+303310052,Florida State,Florida
+303310120,Maryland,NC State
+303310135,Minnesota,Iowa
+303310145,Ole Miss,Mississippi State
+303310041,Connecticut,Cincinnati
+303310183,Syracuse,Boston College
+303310235,Memphis,UCF
+303310276,Marshall,Tulane
+303312390,Miami,South Florida
+303312509,Purdue,Indiana
+303312633,Tennessee,Kentucky
+303310166,New Mexico State,Hawaii
+303310025,California,Washington
+303312229,Florida Intl,Arkansas State
+303312653,Troy,Western Kentucky
+303312393,Middle Tennessee,Florida Atlantic
+303312433,Louisiana Monroe,Louisiana Lafayette
+303310150,Duke,North Carolina
+303310242,Rice,UAB
+303310249,North Texas,Kansas State
+303310238,Vanderbilt,Wake Forest
+303310061,Georgia,Georgia Tech
+303310030,USC,Notre Dame
+303310021,San Diego State,UNLV
+303310023,San José State,Louisiana Tech
+303312641,Texas Tech,Houston
+303310278,Fresno State,Idaho

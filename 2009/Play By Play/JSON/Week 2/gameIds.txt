@@ -1,0 +1,62 @@
+292530059,Georgia Tech,Clemson
+292542649,Toledo,Colorado
+292550057,Florida,Troy
+292552751,Wyoming,Texas
+292550194,Ohio State,USC
+292550333,Alabama,Florida Intl
+292550197,Oklahoma State,Houston
+292550213,Penn State,Syracuse
+292552655,Tulane,BYU
+292550025,California,Eastern Washington
+292550099,LSU,Vanderbilt
+292550068,Boise State,Miami (OH)
+292550201,Oklahoma,Idaho State
+292550259,Virginia Tech,Marshall
+292550258,Virginia,TCU
+292550023,San José State,Utah
+292550130,Michigan,Notre Dame
+292550041,Connecticut,North Carolina
+292550061,Georgia,South Carolina
+292550158,Nebraska,Arkansas State
+292552132,Cincinnati,Southeast Missouri State
+292552638,UTEP,Kansas
+292550142,Missouri,Bowling Green
+292550077,Northwestern,Eastern Michigan
+292550084,Indiana,Western Michigan
+292550127,Michigan State,Central Michigan
+292550154,Wake Forest,Stanford
+292550275,Wisconsin,Fresno State
+292550349,Army,Duke
+292552084,Buffalo,Pittsburgh
+292550066,Iowa State,Iowa
+292552006,Akron,Morgan State
+292550103,Boston College,Kent State
+292550164,Rutgers,Howard
+292552426,Navy,Louisiana Tech
+292550264,Washington,Idaho
+292550277,West Virginia,East Carolina
+292552633,Tennessee,UCLA
+292550005,UAB,SMU
+292550036,Colorado State,Weber State
+292550052,Florida State,Jacksonville State
+292550120,Maryland,James Madison
+292550152,NC State,Murray State
+292550135,Minnesota,Air Force
+292550249,North Texas,Ohio
+292550002,Auburn,Mississippi State
+292552572,Southern Mississippi,UCF
+292552641,Texas Tech,Rice
+292550309,Louisiana Lafayette,Kansas State
+292550265,Washington State,Hawaii
+292550356,Illinois,Illinois State
+292552433,Louisiana Monroe,Texas Southern
+292552393,Middle Tennessee,Memphis
+292552050,Ball State,New Hampshire
+292552459,Northern Illinois,Western Illinois
+292550098,Western Kentucky,South Florida
+292550166,New Mexico State,Prairie View A&M
+292550167,New Mexico,Tulsa
+292550021,San Diego State,Southern Utah
+292550012,Arizona,Northern Arizona
+292552483,Oregon,Purdue
+292552439,UNLV,Oregon State

@@ -1,0 +1,55 @@
+302782393,Middle Tennessee,Troy
+302792116,UCF,UAB
+302802306,Kansas State,Nebraska
+302810309,Louisiana Lafayette,Oklahoma State
+302810164,Rutgers,Connecticut
+302822579,South Carolina,Alabama
+302820194,Ohio State,Indiana
+302820265,Washington State,Oregon
+302820068,Boise State,Toledo
+302822628,TCU,Wyoming
+302820096,Kentucky,Auburn
+302820012,Arizona,Oregon State
+302820066,Iowa State,Utah
+302820245,Texas A&M,Arkansas
+302820057,Florida,LSU
+302822390,Miami,Florida State
+302820024,Stanford,USC
+302820130,Michigan,Michigan State
+302820275,Wisconsin,Minnesota
+302822440,Nevada,San José State
+302820142,Missouri,Colorado
+302822005,Air Force,Colorado State
+302820058,South Florida,Syracuse
+302820152,NC State,Boston College
+302820213,Penn State,Illinois
+302820259,Virginia Tech,Central Michigan
+302822050,Ball State,Western Michigan
+302822459,Northern Illinois,Temple
+302822641,Texas Tech,Baylor
+302820061,Georgia,Tennessee
+302820195,Ohio,Bowling Green
+302820097,Louisville,Memphis
+302822655,Tulane,Army
+302822229,Florida Intl,Western Kentucky
+302822309,Kent State,Akron
+302820277,West Virginia,UNLV
+302820087,Notre Dame,Pittsburgh
+302820153,North Carolina,Clemson
+302820059,Georgia Tech,Virginia
+302820025,California,UCLA
+302822348,Louisiana Tech,Utah State
+302820252,BYU,San Diego State
+302820154,Wake Forest,Navy
+302820249,North Texas,Arkansas State
+302820238,Vanderbilt,Eastern Michigan
+302822132,Cincinnati,Miami (OH)
+302822433,Louisiana Monroe,Florida Atlantic
+302822572,Southern Mississippi,East Carolina
+302820077,Northwestern,Purdue
+302820166,New Mexico State,New Mexico
+302820248,Houston,Mississippi State
+302822567,SMU,Tulsa
+302822638,UTEP,Rice
+302820264,Washington,Arizona State
+302820278,Fresno State,Hawaii

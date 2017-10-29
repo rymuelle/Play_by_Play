@@ -1,0 +1,62 @@
+232400189,Bowling Green,Eastern Kentucky
+232400195,Ohio,Southeast Missouri State
+232402199,Eastern Michigan,East Tennessee State
+232402348,Louisiana Tech,Miami
+232402006,Akron,Kent State
+232402459,Northern Illinois,Maryland
+232402050,Ball State,Indiana State
+232402393,Middle Tennessee,Florida Atlantic
+232400254,Utah,Utah State
+232400252,BYU,Georgia Tech
+232400204,Oregon State,Sacramento State
+232412439,UNLV,Toledo
+232420333,Alabama,South Florida
+232420041,Connecticut,Indiana
+232420142,Missouri,Illinois
+232420228,Clemson,Georgia
+232420277,West Virginia,Wisconsin
+232422294,Iowa,Miami (OH)
+232420130,Michigan,Central Michigan
+232420238,Vanderbilt,Ole Miss
+232420103,Boston College,Wake Forest
+232422426,Navy,VMI
+232422005,Air Force,Wofford
+232422633,Tennessee,Fresno State
+232420213,Penn State,Temple
+232420158,Nebraska,Oklahoma State
+232420127,Michigan State,Western Michigan
+232420025,California,Southern Mississippi
+232422751,Wyoming,Montana State
+232420276,Marshall,Hofstra
+232420057,Florida,San José State
+232420002,Auburn,USC
+232420152,NC State,Western Carolina
+232420201,Oklahoma,North Texas
+232420164,Rutgers,Buffalo
+232420135,Minnesota,Tulsa
+232420066,Iowa State,Northern Iowa
+232420258,Virginia,Duke
+232420239,Baylor,UAB
+232422579,South Carolina,Louisiana Lafayette
+232422305,Kansas,Northwestern
+232422641,Texas Tech,SMU
+232422306,Kansas State,Troy
+232420036,Colorado State,Colorado
+232420099,LSU,Louisiana Monroe
+232420167,New Mexico,Texas State
+232420153,North Carolina,Florida State
+232420245,Texas A&M,Arkansas State
+232420248,Houston,Rice
+232420235,Memphis,Tennessee Tech
+232420194,Ohio State,Washington
+232420344,Mississippi State,Oregon
+232420021,San Diego State,Eastern Washington
+232420012,Arizona,UTEP
+232422440,Nevada,Southern Utah
+232420070,Idaho,Washington State
+232420062,Hawaii,Appalachian State
+232430259,Virginia Tech,UCF
+232430096,Kentucky,Louisville
+232430251,Texas,New Mexico State
+232442132,Cincinnati,East Carolina
+232442655,Tulane,TCU

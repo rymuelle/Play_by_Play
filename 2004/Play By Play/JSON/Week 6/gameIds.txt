@@ -1,0 +1,56 @@
+242730276,Marshall,Miami (OH)
+242740041,Connecticut,Pittsburgh
+242742005,Air Force,Navy
+242750167,New Mexico,Utah
+242760201,Oklahoma,Texas Tech
+242760061,Georgia,LSU
+242760059,Georgia Tech,Miami
+242760251,Texas,Baylor
+242760259,Virginia Tech,West Virginia
+242760077,Northwestern,Ohio State
+242762633,Tennessee,Auburn
+242760052,Florida State,North Carolina
+242760204,Oregon State,California
+242760087,Notre Dame,Purdue
+242760057,Florida,Arkansas
+242762348,Louisiana Tech,Fresno State
+242760135,Minnesota,Penn State
+242760084,Indiana,Michigan
+242760275,Wisconsin,Illinois
+242762483,Oregon,Arizona State
+242760097,Louisville,East Carolina
+242760068,Boise State,SMU
+242760197,Oklahoma State,Iowa State
+242760152,NC State,Wake Forest
+242760183,Syracuse,Rutgers
+242762294,Iowa,Michigan State
+242760103,Boston College,Massachusetts
+242760349,Army,TCU
+242762117,Central Michigan,Kent State
+242762199,Eastern Michigan,Idaho
+242760145,Ole Miss,Arkansas State
+242760150,Duke,The Citadel
+242760218,Temple,Bowling Green
+242760235,Memphis,Houston
+242762751,Wyoming,Louisiana Monroe
+242762653,Troy,Utah State
+242760142,Missouri,Colorado
+242762459,Northern Illinois,Akron
+242760024,Stanford,Washington
+242760333,Alabama,South Carolina
+242762084,Buffalo,UCF
+242762229,Florida Intl,Louisiana Lafayette
+242762132,Cincinnati,UAB
+242762649,Toledo,Ball State
+242760026,UCLA,San Diego State
+242760058,South Florida,Southern Mississippi
+242760096,Kentucky,Ohio
+242760238,Vanderbilt,Mississippi State
+242760245,Texas A&M,Kansas State
+242760249,North Texas,Middle Tennessee
+242760158,Nebraska,Kansas
+242760023,San José State,Rice
+242762638,UTEP,New Mexico State
+242762439,UNLV,Nevada
+242760036,Colorado State,BYU
+242760062,Hawaii,Tulsa

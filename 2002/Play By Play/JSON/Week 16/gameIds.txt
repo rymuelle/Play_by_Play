@@ -1,0 +1,9 @@
+223392348,Louisiana Tech,Fresno State
+223400151,East Carolina,Cincinnati
+223412390,Miami,Virginia Tech
+223410008,Arkansas,Georgia
+223410026,UCLA,Washington State
+223410038,Colorado,Oklahoma
+223412426,Navy,Army
+223410276,Marshall,Toledo
+223410062,Hawaii,San Diego State

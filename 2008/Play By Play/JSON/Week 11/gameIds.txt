@@ -1,0 +1,54 @@
+283092084,Buffalo,Miami (OH)
+283102050,Ball State,Northern Illinois
+283102006,Akron,Toledo
+283110254,Utah,TCU
+283110259,Virginia Tech,Maryland
+283120278,Fresno State,Nevada
+283130099,LSU,Alabama
+283132641,Texas Tech,Oklahoma State
+283132294,Iowa,Penn State
+283130251,Texas,Baylor
+283130238,Vanderbilt,Florida
+283130245,Texas A&M,Oklahoma
+283130030,USC,California
+283130068,Boise State,Utah State
+283130077,Northwestern,Ohio State
+283130096,Kentucky,Georgia
+283130142,Missouri,Kansas State
+283130252,BYU,San Diego State
+283130127,Michigan State,Purdue
+283130153,North Carolina,Georgia Tech
+283130052,Florida State,Clemson
+283130277,West Virginia,Cincinnati
+283130084,Indiana,Wisconsin
+283130135,Minnesota,Michigan
+283130164,Rutgers,Syracuse
+283130221,Pittsburgh,Louisville
+283132711,Western Michigan,Illinois
+283132579,South Carolina,Arkansas
+283132633,Tennessee,Wyoming
+283130038,Colorado,Iowa State
+283130195,Ohio,Bowling Green
+283130158,Nebraska,Kansas
+283130002,Auburn,Tennessee-Martin
+283130242,Rice,Army
+283132567,SMU,Memphis
+283132483,Oregon,Stanford
+283132653,Troy,Western Kentucky
+283132116,UCF,Southern Mississippi
+283132393,Middle Tennessee,Louisiana Monroe
+283130154,Wake Forest,Virginia
+283130150,Duke,NC State
+283130151,East Carolina,Marshall
+283130166,New Mexico State,Hawaii
+283132226,Florida Atlantic,North Texas
+283130265,Washington State,Arizona
+283132005,Air Force,Colorado State
+283130026,UCLA,Oregon State
+283130309,Louisiana Lafayette,UTEP
+283132229,Florida Intl,Arkansas State
+283130264,Washington,Arizona State
+283130248,Houston,Tulane
+283130103,Boston College,Notre Dame
+283130023,San José State,Louisiana Tech
+283132439,UNLV,New Mexico

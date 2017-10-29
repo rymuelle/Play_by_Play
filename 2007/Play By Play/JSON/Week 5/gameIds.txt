@@ -1,0 +1,59 @@
+272702032,Arkansas State,Memphis
+272700068,Boise State,Southern Mississippi
+272710058,South Florida,West Virginia
+272720264,Washington,USC
+272722655,Tulane,LSU
+272720038,Colorado,Oklahoma
+272720057,Florida,Auburn
+272722483,Oregon,California
+272720251,Texas,Kansas State
+272720135,Minnesota,Ohio State
+272720275,Wisconsin,Michigan State
+272720164,Rutgers,Maryland
+272720103,Boston College,Massachusetts
+272720059,Georgia Tech,Clemson
+272720096,Kentucky,Florida Atlantic
+272720061,Georgia,Ole Miss
+272722579,South Carolina,Mississippi State
+272720259,Virginia Tech,North Carolina
+272720070,Idaho,Hawaii
+272720356,Illinois,Penn State
+272720052,Florida State,Alabama
+272720024,Stanford,Arizona State
+272720021,San Diego State,Cincinnati
+272720158,Nebraska,Iowa State
+272720041,Connecticut,Akron
+272720077,Northwestern,Michigan
+272720349,Army,Temple
+272722050,Ball State,Buffalo
+272722117,Central Michigan,Northern Illinois
+272722390,Miami,Duke
+272722509,Purdue,Notre Dame
+272722294,Iowa,Indiana
+272720245,Texas A&M,Baylor
+272722426,Navy,Air Force
+272720193,Miami (OH),Syracuse
+272720195,Ohio,Kent State
+272720254,Utah,Utah State
+272720152,NC State,Louisville
+272720023,San José State,UC Davis
+272722440,Nevada,UNLV
+272722567,SMU,UTEP
+272720189,Bowling Green,Western Kentucky
+272722116,UCF,Louisiana Lafayette
+272720204,Oregon State,UCLA
+272720238,Vanderbilt,Eastern Michigan
+272720202,Tulsa,UAB
+272720258,Virginia,Pittsburgh
+272720248,Houston,East Carolina
+272720008,Arkansas,North Texas
+272722393,Middle Tennessee,Florida Intl
+272722628,TCU,Colorado State
+272722641,Texas Tech,Northwestern State
+272720197,Oklahoma State,Sam Houston State
+272722649,Toledo,Western Michigan
+272722653,Troy,Louisiana Monroe
+272720166,New Mexico State,Arkansas-Pine Bluff
+272720167,New Mexico,BYU
+272720012,Arizona,Washington State
+272720278,Fresno State,Louisiana Tech

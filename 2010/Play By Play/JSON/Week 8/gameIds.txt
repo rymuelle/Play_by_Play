@@ -1,0 +1,51 @@
+302942483,Oregon,UCLA
+302952132,Cincinnati,South Florida
+302960142,Missouri,Oklahoma
+302960002,Auburn,LSU
+302962628,TCU,Air Force
+302960077,Northwestern,Michigan State
+302962633,Tennessee,Alabama
+302960254,Utah,Colorado State
+302960194,Ohio State,Purdue
+302960024,Stanford,Washington State
+302962294,Iowa,Wisconsin
+302960197,Oklahoma State,Nebraska
+302960012,Arizona,Washington
+302960251,Texas,Iowa State
+302960277,West Virginia,Syracuse
+302960238,Vanderbilt,South Carolina
+302960239,Baylor,Kansas State
+302960008,Arkansas,Ole Miss
+302960344,Mississippi State,UAB
+302960259,Virginia Tech,Duke
+302960135,Minnesota,Penn State
+302960221,Pittsburgh,Rutgers
+302960356,Illinois,Indiana
+302962084,Buffalo,Temple
+302962426,Navy,Notre Dame
+302960103,Boston College,Maryland
+302960193,Miami (OH),Ohio
+302962032,Arkansas State,Florida Atlantic
+302960252,BYU,Wyoming
+302960189,Bowling Green,Kent State
+302962006,Akron,Western Michigan
+302960228,Clemson,Georgia Tech
+302960097,Louisville,Connecticut
+302960025,California,Arizona State
+302960038,Colorado,Texas Tech
+302962116,UCF,Rice
+302962567,SMU,Houston
+302962459,Northern Illinois,Central Michigan
+302960151,East Carolina,Marshall
+302962393,Middle Tennessee,Louisiana Monroe
+302960070,Idaho,New Mexico State
+302960309,Louisiana Lafayette,Western Kentucky
+302960328,Utah State,Hawaii
+302960258,Virginia,Eastern Michigan
+302962649,Toledo,Ball State
+302962305,Kansas,Texas A&M
+302962390,Miami,North Carolina
+302960096,Kentucky,Georgia
+302960023,San José State,Fresno State
+302962638,UTEP,Tulane
+302960167,New Mexico,San Diego State

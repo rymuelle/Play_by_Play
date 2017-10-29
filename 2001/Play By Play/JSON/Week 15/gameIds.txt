@@ -1,0 +1,25 @@
+213330333,Alabama,Southern Mississippi
+213342649,Toledo,Marshall
+213350259,Virginia Tech,Miami
+213350057,Florida,Tennessee
+213350251,Texas,Colorado
+213352483,Oregon,Oregon State
+213350023,San Jose State,Stanford
+213350344,Mississippi State,BYU
+213350061,Georgia,Houston
+213350127,Michigan State,Missouri
+213352426,Navy,Army
+213350258,Virginia,Penn State
+213350145,Ole Miss,Vanderbilt
+213350084,Indiana,Kentucky
+213350228,Clemson,Duke
+213352132,Cincinnati,Louisiana-Monroe
+213350153,North Carolina,Southern Methodist
+213350221,Pittsburgh,UAB
+213352005,Air Force,Utah
+213352653,Troy,North Texas
+213350278,Fresno State,Utah State
+213350052,Florida State,Georgia Tech
+213352509,Purdue,Notre Dame
+213350026,UCLA,Arizona State
+213350099,LSU,Auburn

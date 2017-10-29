@@ -1,0 +1,54 @@
+282550164,Rutgers,North Carolina
+282560058,South Florida,Kansas
+282562433,Louisiana Monroe,Alabama A&M
+282570239,Baylor,Washington State
+282570030,USC,Ohio State
+282572579,South Carolina,Georgia
+282570264,Washington,Oklahoma
+282570142,Missouri,Nevada
+282570099,LSU,North Texas
+282570344,Mississippi State,Auburn
+282570278,Fresno State,Wisconsin
+282570333,Alabama,Western Kentucky
+282572641,Texas Tech,SMU
+282572655,Tulane,East Carolina
+282570009,Arizona State,UNLV
+282572509,Purdue,Oregon
+282570183,Syracuse,Penn State
+282570252,BYU,UCLA
+282570328,Utah State,Utah
+282570120,Maryland,California
+282570356,Illinois,Louisiana Lafayette
+282570248,Houston,Air Force
+282570228,Clemson,NC State
+282570150,Duke,Navy
+282570127,Michigan State,Florida Atlantic
+282570135,Minnesota,Montana State
+282572084,Buffalo,Temple
+282572199,Eastern Michigan,Toledo
+282570077,Northwestern,Southern Illinois
+282572294,Iowa,Iowa State
+282572633,Tennessee,UAB
+282572006,Akron,Ball State
+282572628,TCU,Stanford
+282570197,Oklahoma State,Missouri State
+282572309,Kent State,Delaware State
+282570195,Ohio,Central Michigan
+282572751,Wyoming,North Dakota State
+282570193,Miami (OH),Charleston Southern
+282570259,Virginia Tech,Georgia Tech
+282570087,Notre Dame,Michigan
+282570052,Florida State,Chattanooga
+282570204,Oregon State,Hawaii
+282570070,Idaho,Western Michigan
+282570158,Nebraska,New Mexico State
+282570238,Vanderbilt,Rice
+282570276,Marshall,Memphis
+282570096,Kentucky,Middle Tennessee
+282570145,Ole Miss,Samford
+282572032,Arkansas State,Southern Mississippi
+282572653,Troy,Alcorn State
+282570041,Connecticut,Virginia
+282570167,New Mexico,Arizona
+282570068,Boise State,Bowling Green
+282570023,San José State,San Diego State

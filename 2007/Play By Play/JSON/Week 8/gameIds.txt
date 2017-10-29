@@ -1,0 +1,56 @@
+272910164,Rutgers,South Florida
+272912628,TCU,Utah
+272922199,Eastern Michigan,Northwestern
+272920041,Connecticut,Louisville
+272930194,Ohio State,Michigan State
+272930099,LSU,Auburn
+272930066,Iowa State,Oklahoma
+272932579,South Carolina,Vanderbilt
+272930096,Kentucky,Florida
+272930277,West Virginia,Mississippi State
+272930264,Washington,Oregon
+272930026,UCLA,California
+272930038,Colorado,Kansas
+272930087,Notre Dame,USC
+272930142,Missouri,Texas Tech
+272930120,Maryland,Virginia
+272930333,Alabama,Tennessee
+272930239,Baylor,Texas
+272930221,Pittsburgh,Cincinnati
+272930356,Illinois,Michigan
+272930084,Indiana,Penn State
+272930059,Georgia Tech,Army
+272930135,Minnesota,North Dakota State
+272930218,Temple,Miami (OH)
+272930228,Clemson,Central Michigan
+272932509,Purdue,Iowa
+272930275,Wisconsin,Northern Illinois
+272932426,Navy,Wake Forest
+272932005,Air Force,Wyoming
+272932711,Western Michigan,Ball State
+272930282,Indiana State,Western Kentucky
+272930145,Ole Miss,Arkansas
+272930158,Nebraska,Texas A&M
+272930242,Rice,Memphis
+272930328,Utah State,Nevada
+272932393,Middle Tennessee,Arkansas State
+272932653,Troy,North Texas
+272930052,Florida State,Miami
+272930183,Syracuse,Buffalo
+272932116,UCF,Tulsa
+272932309,Kent State,Bowling Green
+272930151,East Carolina,NC State
+272930278,Fresno State,San José State
+272930309,Louisiana Lafayette,Florida Atlantic
+272930252,BYU,Eastern Washington
+272930005,UAB,Houston
+272932348,Louisiana Tech,Boise State
+272932649,Toledo,Ohio
+272932433,Louisiana Monroe,Florida Intl
+272930197,Oklahoma State,Kansas State
+272930012,Arizona,Stanford
+272930166,New Mexico State,Idaho
+272932567,SMU,Tulane
+272930021,San Diego State,New Mexico
+272932439,UNLV,Colorado State
+272940276,Marshall,Southern Mississippi

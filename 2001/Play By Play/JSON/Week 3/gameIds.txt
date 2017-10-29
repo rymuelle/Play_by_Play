@@ -1,0 +1,61 @@
+212490152,NC State,Indiana
+212492751,Wyoming,Texas A&M
+212502439,UNLV,Northwestern
+212512390,Miami,Rutgers
+212510057,Florida,Louisiana-Monroe
+212510201,Oklahoma,North Texas
+212510251,Texas,North Carolina
+212510158,Nebraska,Notre Dame
+212510052,Florida State,UAB
+212512483,Oregon,Utah
+212510008,Arkansas,Tennessee
+212510259,Virginia Tech,Western Michigan
+212512426,Navy,Georgia Tech
+212510264,Washington,Michigan
+212510030,USC,Kansas State
+212510099,LSU,Utah State
+212512305,Kansas,UCLA
+212510275,Wisconsin,Fresno State
+212510228,Clemson,Wofford
+212510061,Georgia,South Carolina
+212510166,New Mexico State,Oregon State
+212510194,Ohio State,Akron
+212510183,Syracuse,UCF
+212510356,Illinois,Northern Illinois
+212512294,Iowa,Miami (OH)
+212510238,Vanderbilt,Alabama
+212510277,West Virginia,Ohio
+212510349,Army,Cincinnati
+212510127,Michigan State,Central Michigan
+212510041,Connecticut,Eastern Washington
+212510096,Kentucky,Ball State
+212510221,Pittsburgh,South Florida
+212512005,Air Force,Tennessee Tech
+212510135,Minnesota,Louisiana-Lafayette
+212510038,Colorado,San Jose State
+212510002,Auburn,Ole Miss
+212512655,Tulane,East Carolina
+212510218,Temple,Toledo
+212510036,Colorado State,Nevada
+212510025,California,BYU
+212510120,Maryland,Eastern Michigan
+212510189,Bowling Green,Buffalo
+212512309,Kent State,Bucknell
+212510154,Wake Forest,Appalachian State
+212510097,Louisville,Western Carolina
+212512393,Middle Tennessee,Troy
+212510276,Marshall,Massachusetts
+212510239,Baylor,Arkansas State
+212512567,Southern Methodist,TCU
+212510066,Iowa State,Northern Iowa
+212510142,Missouri,Texas State
+212510197,Oklahoma State,Louisiana Tech
+212512641,Texas Tech,New Mexico
+212510242,Rice,Duke
+212510235,Memphis,Chattanooga
+212510068,Boise State,Washington State
+212512638,UTEP,Texas Southern
+212510009,Arizona State,San Diego State
+212510012,Arizona,Idaho
+212510024,Stanford,Boston College
+212510062,Hawaii,Montana

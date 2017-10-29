@@ -1,0 +1,52 @@
+282902628,TCU,BYU
+282900152,NC State,Florida State
+282910068,Boise State,Hawaii
+282920251,Texas,Missouri
+282920333,Alabama,Ole Miss
+282920213,Penn State,Michigan
+282920201,Oklahoma,Kansas
+282920265,Washington State,USC
+282920245,Texas A&M,Texas Tech
+282920197,Oklahoma State,Baylor
+282920061,Georgia,Vanderbilt
+282920127,Michigan State,Ohio State
+282922579,South Carolina,LSU
+282920254,Utah,Colorado State
+282920103,Boston College,Virginia Tech
+282920258,Virginia,North Carolina
+282920058,South Florida,Syracuse
+282920120,Maryland,Wake Forest
+282922426,Navy,Pittsburgh
+282920012,Arizona,California
+282920077,Northwestern,Purdue
+282920164,Rutgers,Connecticut
+282920189,Bowling Green,Miami (OH)
+282920228,Clemson,Georgia Tech
+282922117,Central Michigan,Western Michigan
+282922294,Iowa,Wisconsin
+282920151,East Carolina,Memphis
+282920066,Iowa State,Nebraska
+282922199,Eastern Michigan,Akron
+282920242,Rice,Southern Mississippi
+282920150,Duke,Miami
+282920097,Louisville,Middle Tennessee
+282922084,Buffalo,Army
+282922440,Nevada,Utah State
+282922459,Northern Illinois,Toledo
+282920005,UAB,Marshall
+282920026,UCLA,Stanford
+282920167,New Mexico,San Diego State
+282920309,Louisiana Lafayette,Arkansas State
+282920264,Washington,Oregon State
+282920098,Western Kentucky,Florida Atlantic
+282920096,Kentucky,Arkansas
+282922433,Louisiana Monroe,North Texas
+282922348,Louisiana Tech,Idaho
+282922633,Tennessee,Mississippi State
+282922653,Troy,Florida Intl
+282920038,Colorado,Kansas State
+282920166,New Mexico State,San José State
+282920356,Illinois,Indiana
+282920202,Tulsa,UTEP
+282922567,SMU,Houston
+282922439,UNLV,Air Force

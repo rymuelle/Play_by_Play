@@ -1,0 +1,15 @@
+400852680,Northern Illinois,Bowling Green
+400852676,Clemson,North Carolina
+400852681,Alabama,Florida
+400852682,Iowa,Michigan State
+400852677,Stanford,USC
+400763468,Baylor,Texas
+400852678,Houston,Temple
+400852672,Western Kentucky,Southern Mississippi
+400787484,Georgia Southern,Georgia State
+400787483,Arkansas State,Texas State
+400787486,Louisiana Monroe,New Mexico State
+400763469,Kansas State,West Virginia
+400787485,Louisiana Lafayette,Troy
+400787482,South Alabama,Appalachian State
+400852675,San Diego State,Air Force

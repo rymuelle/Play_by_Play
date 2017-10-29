@@ -1,0 +1,58 @@
+252440009,Arizona State,Temple
+252440154,Wake Forest,Vanderbilt
+252440248,Houston,Oregon
+252440276,Marshall,William & Mary
+252442132,Cincinnati,Eastern Michigan
+252442649,Toledo,Western Illinois
+252442579,South Carolina,UCF
+252440041,Connecticut,Buffalo
+252442433,Louisiana Monroe,Northwestern State
+252440265,Washington State,Idaho
+252440202,Tulsa,Minnesota
+252452117,Central Michigan,Indiana
+252450254,Utah,Arizona
+252460062,Hawaii,USC
+252460251,Texas,Louisiana Lafayette
+252462633,Tennessee,UAB
+252460130,Michigan,Northern Illinois
+252460194,Ohio State,Miami (OH)
+252460201,Oklahoma,TCU
+252460057,Florida,Wyoming
+252462294,Iowa,Ball State
+252460061,Georgia,Boise State
+252460002,Auburn,Georgia Tech
+252460228,Clemson,Texas A&M
+252460025,California,Sacramento State
+252460252,BYU,Boston College
+252460221,Pittsburgh,Notre Dame
+252460258,Virginia,Western Michigan
+252460077,Northwestern,Ohio
+252460127,Michigan State,Kent State
+252460275,Wisconsin,Bowling Green
+252460356,Illinois,Rutgers
+252462032,Arkansas State,Missouri
+252460151,East Carolina,Duke
+252462306,Kansas State,Florida Intl
+252462005,Air Force,Washington
+252460213,Penn State,South Florida
+252460038,Colorado,Colorado State
+252460204,Oregon State,Portland State
+252460023,San José State,Eastern Washington
+252462426,Navy,Maryland
+252460333,Alabama,Middle Tennessee
+252460344,Mississippi State,Murray State
+252462305,Kansas,Florida Atlantic
+252462653,Troy,Cal Poly
+252460008,Arkansas,Missouri State
+252460158,Nebraska,Maine
+252460197,Oklahoma State,Montana State
+252460066,Iowa State,Illinois State
+252462567,SMU,Baylor
+252460021,San Diego State,UCLA
+252460166,New Mexico State,UTEP
+252470152,NC State,Virginia Tech
+252470096,Kentucky,Louisville
+252470183,Syracuse,West Virginia
+252480052,Florida State,Miami
+252480167,New Mexico,UNLV
+252480235,Memphis,Ole Miss

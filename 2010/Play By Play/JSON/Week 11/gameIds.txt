@@ -1,0 +1,56 @@
+303132459,Northern Illinois,Toledo
+303140189,Bowling Green,Miami (OH)
+303150041,Connecticut,Pittsburgh
+303150005,UAB,East Carolina
+303160070,Idaho,Boise State
+303162084,Buffalo,Ball State
+303170025,California,Oregon
+303170002,Auburn,Georgia
+303172628,TCU,San Diego State
+303170099,LSU,Louisiana Monroe
+303170009,Arizona State,Stanford
+303170275,Wisconsin,Indiana
+303170158,Nebraska,Kansas
+303170194,Ohio State,Penn State
+303170251,Texas,Oklahoma State
+303170333,Alabama,Mississippi State
+303170077,Northwestern,Iowa
+303170087,Notre Dame,Utah
+303170008,Arkansas,UTEP
+303170201,Oklahoma,Texas Tech
+303170142,Missouri,Kansas State
+303170012,Arizona,USC
+303170153,North Carolina,Virginia Tech
+303170278,Fresno State,Nevada
+303170057,Florida,South Carolina
+303170239,Baylor,Texas A&M
+303170059,Georgia Tech,Miami
+303170150,Duke,Boston College
+303170097,Louisville,South Florida
+303170277,West Virginia,Cincinnati
+303170356,Illinois,Minnesota
+303172116,UCF,Southern Mississippi
+303172509,Purdue,Michigan
+303172633,Tennessee,Ole Miss
+303170096,Kentucky,Vanderbilt
+303170038,Colorado,Iowa State
+303170036,Colorado State,BYU
+303170152,NC State,Wake Forest
+303172309,Kent State,Army
+303172711,Western Michigan,Eastern Michigan
+303170276,Marshall,Memphis
+303172032,Arkansas State,Western Kentucky
+303172393,Middle Tennessee,North Texas
+303172426,Navy,Central Michigan
+303172653,Troy,Florida Intl
+303172655,Tulane,Rice
+303170258,Virginia,Maryland
+303170164,Rutgers,Syracuse
+303170204,Oregon State,Washington State
+303172005,Air Force,New Mexico
+303170166,New Mexico State,Louisiana Tech
+303172226,Florida Atlantic,Louisiana Lafayette
+303170023,San José State,Utah State
+303170052,Florida State,Clemson
+303170248,Houston,Tulsa
+303172439,UNLV,Wyoming

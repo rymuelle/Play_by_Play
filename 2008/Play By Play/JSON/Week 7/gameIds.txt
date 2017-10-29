@@ -1,0 +1,52 @@
+282812226,Florida Atlantic,Troy
+282830154,Wake Forest,Clemson
+282830248,Houston,UAB
+282840235,Memphis,Louisville
+282850201,Oklahoma,Texas
+282850142,Missouri,Oklahoma State
+282850057,Florida,LSU
+282850275,Wisconsin,Penn State
+282852641,Texas Tech,Nebraska
+282850030,USC,Arizona State
+282850252,BYU,New Mexico
+282850061,Georgia,Tennessee
+282850194,Ohio State,Purdue
+282850344,Mississippi State,Vanderbilt
+282852751,Wyoming,Utah
+282852572,Southern Mississippi,Boise State
+282852305,Kansas,Colorado
+282850002,Auburn,Arkansas
+282850153,North Carolina,Notre Dame
+282850077,Northwestern,Michigan State
+282850098,Western Kentucky,Ball State
+282850130,Michigan,Toledo
+282850258,Virginia,East Carolina
+282850277,West Virginia,Syracuse
+282850356,Illinois,Minnesota
+282852132,Cincinnati,Rutgers
+282850084,Indiana,Iowa
+282850096,Kentucky,South Carolina
+282850349,Army,Eastern Michigan
+282850245,Texas A&M,Kansas State
+282852309,Kent State,Ohio
+282852084,Buffalo,Western Michigan
+282850059,Georgia Tech,Gardner-Webb
+282850036,Colorado State,TCU
+282852390,Miami,UCF
+282852440,Nevada,New Mexico State
+282852459,Northern Illinois,Miami (OH)
+282852117,Central Michigan,Temple
+282850024,Stanford,Arizona
+282852006,Akron,Bowling Green
+282850204,Oregon State,Washington State
+282850249,North Texas,Louisiana Lafayette
+282852032,Arkansas State,Louisiana Monroe
+282852229,Florida Intl,Middle Tennessee
+282850239,Baylor,Iowa State
+282850023,San José State,Utah State
+282852567,SMU,Tulsa
+282852638,UTEP,Tulane
+282850021,San Diego State,Air Force
+282850278,Fresno State,Idaho
+282852483,Oregon,UCLA
+282850062,Hawaii,Louisiana Tech

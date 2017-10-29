@@ -1,0 +1,57 @@
+222480218,Temple,Oregon State
+222490252,BYU,Hawaii
+222500057,Florida,Miami
+222500201,Oklahoma,Alabama
+222502633,Tennessee,Middle Tennessee
+222500130,Michigan,Western Michigan
+222500194,Ohio State,Kent State
+222500158,Nebraska,Utah State
+222500265,Washington State,Idaho
+222502483,Oregon,Fresno State
+222500264,Washington,San José State
+222500127,Michigan State,Rice
+222500038,Colorado,San Diego State
+222500026,UCLA,Colorado State
+222500221,Pittsburgh,Texas A&M
+222502426,Navy,NC State
+222500258,Virginia,South Carolina
+222500087,Notre Dame,Purdue
+222500099,LSU,The Citadel
+222500275,Wisconsin,West Virginia
+222500041,Connecticut,Georgia Tech
+222502572,Southern Mississippi,Illinois
+222500193,Miami (OH),Iowa
+222500145,Ole Miss,Memphis
+222500228,Clemson,Louisiana Tech
+222500077,Northwestern,TCU
+222500349,Army,Holy Cross
+222502117,Central Michigan,Wyoming
+222500096,Kentucky,UTEP
+222502005,Air Force,New Mexico
+222500103,Boston College,Stanford
+222500002,Auburn,Western Carolina
+222500120,Maryland,Akron
+222502199,Eastern Michigan,Toledo
+222500025,California,New Mexico State
+222500154,Wake Forest,East Carolina
+222500164,Rutgers,Buffalo
+222500142,Missouri,Ball State
+222500238,Vanderbilt,Furman
+222500239,Baylor,Samford
+222500150,Duke,Louisville
+222500058,South Florida,Northern Illinois
+222500066,Iowa State,Tennessee Tech
+222500005,UAB,Troy
+222500008,Arkansas,Boise State
+222502032,Arkansas State,Tulsa
+222500197,Oklahoma State,Northern Iowa
+222502306,Kansas State,Louisiana Monroe
+222500254,Utah,Indiana
+222500309,Louisiana Lafayette,Minnesota
+222502567,SMU,Texas Tech
+222500195,Ohio,Northeastern
+222500248,Houston,Tulane
+222500183,Syracuse,North Carolina
+222500249,North Texas,Nicholls State
+222500009,Arizona State,UCF
+222502439,UNLV,Kansas

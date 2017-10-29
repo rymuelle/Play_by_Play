@@ -1,0 +1,55 @@
+273102711,Western Michigan,Central Michigan
+273112006,Akron,Ohio
+273120277,West Virginia,Louisville
+273120252,BYU,TCU
+273132199,Eastern Michigan,Bowling Green
+273130349,Army,Rutgers
+273140194,Ohio State,Illinois
+273140099,LSU,Louisiana Tech
+273140197,Oklahoma State,Kansas
+273140201,Oklahoma,Baylor
+273140142,Missouri,Texas A&M
+273140120,Maryland,Boston College
+273140026,UCLA,Arizona State
+273140061,Georgia,Auburn
+273140259,Virginia Tech,Florida State
+273140275,Wisconsin,Michigan
+273142132,Cincinnati,Connecticut
+273140251,Texas,Texas Tech
+273142579,South Carolina,Florida
+273140062,Hawaii,Fresno State
+273140025,California,USC
+273142390,Miami,Virginia
+273140328,Utah State,Boise State
+273140228,Clemson,Wake Forest
+273140344,Mississippi State,Alabama
+273140218,Temple,Penn State
+273142633,Tennessee,Arkansas
+273140238,Vanderbilt,Kentucky
+273140077,Northwestern,Indiana
+273140152,NC State,North Carolina
+273140183,Syracuse,South Florida
+273142509,Purdue,Michigan State
+273142294,Iowa,Minnesota
+273140158,Nebraska,Kansas State
+273140066,Iowa State,Colorado
+273140150,Duke,Georgia Tech
+273140087,Notre Dame,Air Force
+273140167,New Mexico,Colorado State
+273142567,SMU,Rice
+273140202,Tulsa,Houston
+273140254,Utah,Wyoming
+273142393,Middle Tennessee,Louisiana Lafayette
+273142226,Florida Atlantic,Arkansas State
+273140023,San José State,New Mexico State
+273140249,North Texas,Navy
+273142459,Northern Illinois,Kent State
+273142572,Southern Mississippi,Memphis
+273140276,Marshall,East Carolina
+273142433,Louisiana Monroe,Grambling State
+273140098,Western Kentucky,Troy
+273140265,Washington State,Stanford
+273142655,Tulane,UTEP
+273140005,UAB,UCF
+273140204,Oregon State,Washington
+273142439,UNLV,San Diego State

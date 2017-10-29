@@ -1,0 +1,19 @@
+303360012,Arizona,Arizona State
+303370193,Miami (OH),Northern Illinois
+303370278,Fresno State,Illinois
+303382579,South Carolina,Auburn
+303380204,Oregon State,Oregon
+303380158,Nebraska,Oklahoma
+303380068,Boise State,Utah State
+303380259,Virginia Tech,Florida State
+303382348,Louisiana Tech,Nevada
+303380277,West Virginia,Rutgers
+303382116,UCF,SMU
+303382132,Cincinnati,Pittsburgh
+303382226,Florida Atlantic,Troy
+303380070,Idaho,San José State
+303382229,Florida Intl,Middle Tennessee
+303380265,Washington State,Washington
+303380058,South Florida,Connecticut
+303380062,Hawaii,UNLV
+303380026,UCLA,USC

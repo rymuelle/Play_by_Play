@@ -1,0 +1,65 @@
+400869330,Bowling Green,Kent State
+400869331,Central Michigan,Ohio
+400869332,Toledo,Ball State
+400869333,Eastern Michigan,Northern Illinois
+400869562,Houston,Louisville
+400869847,Troy,Arkansas State
+400869246,Boise State,UNLV
+400869563,Cincinnati,Memphis
+400869056,Alabama,Chattanooga
+400869649,Michigan State,Ohio State
+400869695,Michigan,Indiana
+400869491,Wake Forest,Clemson
+400869162,Washington,Arizona State
+400869698,Purdue,Wisconsin
+400869641,Rutgers,Penn State
+400869617,West Virginia,Oklahoma
+400869164,Colorado,Washington State
+400869623,TCU,Oklahoma State
+400869165,Utah,Oregon
+400869163,UCLA,USC
+400869057,Auburn,Alabama A&M
+400922862,LSU,Florida
+400869493,Syracuse,Florida State
+400869697,Nebraska,Maryland
+400869064,Tennessee,Missouri
+400869334,Western Michigan,Buffalo
+400869166,California,Stanford
+400869065,Texas A&M,Texas San Antonio
+400868884,Baylor,Kansas State
+400868920,Army,Morgan State
+400869059,Georgia,Louisiana Lafayette
+400869414,Rice,UTEP
+400869694,Illinois,Iowa
+400869494,Georgia Tech,Virginia
+400869495,NC State,Miami
+400869490,Boston College,Connecticut
+400869410,Charlotte,Middle Tennessee
+400868932,BYU,Massachusetts
+400869849,Georgia State,Georgia Southern
+400869848,Appalachian State,Louisiana Monroe
+400869492,Pittsburgh,Duke
+400869250,Wyoming,San Diego State
+400868955,Notre Dame,Virginia Tech
+400869496,North Carolina,The Citadel
+400869566,Tulane,Temple
+400869595,Iowa State,Texas Tech
+400869603,Kansas,Texas
+400869696,Minnesota,Northwestern
+400922541,East Carolina,Navy
+400869063,South Carolina,Western Carolina
+400869249,Nevada,Utah State
+400869060,Kentucky,Austin Peay
+400869850,New Mexico State,Texas State
+400869413,North Texas,Southern Mississippi
+400869412,Florida Atlantic,Old Dominion
+400869411,Florida Intl,Marshall
+400869251,Fresno State,Hawai'i
+400869062,Mississippi State,Arkansas
+400869565,SMU,South Florida
+400925661,South Alabama,Presbyterian College
+400869066,Vanderbilt,Ole Miss
+400869564,UCF,Tulsa
+400869248,Colorado State,New Mexico
+400869161,Oregon State,Arizona
+400869247,San José State,Air Force

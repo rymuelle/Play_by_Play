@@ -1,0 +1,55 @@
+272830221,Pittsburgh,Navy
+272840154,Wake Forest,Florida State
+272850023,San José State,Hawaii
+272860096,Kentucky,LSU
+272860025,California,Oregon State
+272860194,Ohio State,Kent State
+272860087,Notre Dame,Boston College
+272860058,South Florida,UCF
+272860201,Oklahoma,Missouri
+272860153,North Carolina,South Carolina
+272862483,Oregon,Washington State
+272860030,USC,Arizona
+272860150,Duke,Virginia Tech
+272860009,Arizona State,Washington
+272862132,Cincinnati,Louisville
+272862294,Iowa,Illinois
+272860213,Penn State,Wisconsin
+272862305,Kansas,Baylor
+272860008,Arkansas,Auburn
+272860066,Iowa State,Texas
+272860238,Vanderbilt,Georgia
+272860344,Mississippi State,Tennessee
+272860130,Michigan,Purdue
+272860183,Syracuse,Rutgers
+272860195,Ohio,Eastern Michigan
+272862390,Miami,Georgia Tech
+272860077,Northwestern,Minnesota
+272860145,Ole Miss,Alabama
+272860158,Nebraska,Oklahoma State
+272862084,Buffalo,Toledo
+272862050,Ball State,Western Kentucky
+272862751,Wyoming,New Mexico
+272860254,Utah,San Diego State
+272860193,Miami (OH),Bowling Green
+272860258,Virginia,Connecticut
+272860248,Houston,Rice
+272862641,Texas Tech,Texas A&M
+272862117,Central Michigan,Army
+272862459,Northern Illinois,Western Michigan
+272860070,Idaho,Fresno State
+272860024,Stanford,TCU
+272860036,Colorado State,Air Force
+272862006,Akron,Temple
+272860202,Tulsa,Marshall
+272860249,North Texas,Louisiana Monroe
+272860005,UAB,Tulane
+272862032,Arkansas State,Louisiana Lafayette
+272862348,Louisiana Tech,New Mexico State
+272860127,Michigan State,Indiana
+272862572,Southern Mississippi,SMU
+272860235,Memphis,Middle Tennessee
+272862638,UTEP,East Carolina
+272862306,Kansas State,Colorado
+272862439,UNLV,BYU
+272870068,Boise State,Nevada

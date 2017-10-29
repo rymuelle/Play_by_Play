@@ -1,0 +1,53 @@
+243070193,Miami (OH),Toledo
+243080005,UAB,South Florida
+243090235,Memphis,Louisville
+243102006,Akron,Marshall
+243100309,Louisiana Lafayette,North Texas
+243110204,Oregon State,USC
+243110245,Texas A&M,Oklahoma
+243110025,California,Oregon
+243110275,Wisconsin,Minnesota
+243110251,Texas,Oklahoma State
+243110254,Utah,Colorado State
+243110096,Kentucky,Georgia
+243112633,Tennessee,Notre Dame
+243112390,Miami,Clemson
+243110258,Virginia,Maryland
+243110052,Florida State,Duke
+243110277,West Virginia,Temple
+243110153,North Carolina,Virginia Tech
+243112294,Iowa,Purdue
+243112572,Southern Mississippi,Cincinnati
+243110009,Arizona State,Stanford
+243110103,Boston College,Rutgers
+243110127,Michigan State,Ohio State
+243110152,NC State,Georgia Tech
+243110183,Syracuse,Pittsburgh
+243110213,Penn State,Northwestern
+243110142,Missouri,Kansas State
+243112579,South Carolina,Arkansas
+243110189,Bowling Green,Western Michigan
+243110349,Army,Air Force
+243112084,Buffalo,Kent State
+243112305,Kansas,Colorado
+243112641,Texas Tech,Baylor
+243110356,Illinois,Indiana
+243110238,Vanderbilt,Florida
+243110066,Iowa State,Nebraska
+243110242,Rice,Fresno State
+243110252,BYU,San Diego State
+243112567,SMU,Tulsa
+243112653,Troy,Florida Atlantic
+243110264,Washington,Arizona
+243110026,UCLA,Washington State
+243112116,UCF,Ohio
+243112199,Eastern Michigan,Central Michigan
+243110070,Idaho,Arkansas State
+243110248,Houston,East Carolina
+243110333,Alabama,Mississippi State
+243112439,UNLV,Wyoming
+243112655,Tulane,Navy
+243112433,Louisiana Monroe,Utah State
+243110166,New Mexico State,Middle Tennessee
+243112440,Nevada,San José State
+243110062,Hawaii,Louisiana Tech

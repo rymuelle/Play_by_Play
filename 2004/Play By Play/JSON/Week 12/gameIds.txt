@@ -1,0 +1,54 @@
+243142459,Northern Illinois,Toledo
+243150097,Louisville,TCU
+243160152,NC State,Florida State
+243162032,Arkansas State,Utah State
+243170235,Memphis,Southern Mississippi
+243170278,Fresno State,Hawaii
+243180030,USC,Arizona
+243180201,Oklahoma,Nebraska
+243180002,Auburn,Georgia
+243180127,Michigan State,Wisconsin
+243180264,Washington,California
+243182305,Kansas,Texas
+243182751,Wyoming,Utah
+243180130,Michigan,Northwestern
+243180258,Virginia,Miami
+243180277,West Virginia,Boston College
+243180023,San José State,Boise State
+243180099,LSU,Alabama
+243180135,Minnesota,Iowa
+243180009,Arizona State,Washington State
+243180245,Texas A&M,Texas Tech
+243182638,UTEP,Rice
+243180087,Notre Dame,Pittsburgh
+243180197,Oklahoma State,Baylor
+243180036,Colorado State,UNLV
+243180084,Indiana,Penn State
+243180154,Wake Forest,North Carolina
+243180189,Bowling Green,Marshall
+243180218,Temple,Syracuse
+243180252,BYU,New Mexico
+243180008,Arkansas,Ole Miss
+243180150,Duke,Clemson
+243180195,Ohio,Akron
+243180096,Kentucky,Vanderbilt
+243180059,Georgia Tech,Connecticut
+243182084,Buffalo,Central Michigan
+243180038,Colorado,Kansas State
+243182005,Air Force,San Diego State
+243182393,Middle Tennessee,Louisiana Monroe
+243182483,Oregon,UCLA
+243182509,Purdue,Ohio State
+243182711,Western Michigan,Miami (OH)
+243180309,Louisiana Lafayette,Troy
+243180005,UAB,Houston
+243182309,Kent State,Eastern Michigan
+243182050,Ball State,UCF
+243182226,Florida Atlantic,New Mexico State
+243180024,Stanford,Oregon State
+243182567,SMU,Nevada
+243182348,Louisiana Tech,Tulsa
+243182655,Tulane,Army
+243180057,Florida,South Carolina
+243180058,South Florida,East Carolina
+243180249,North Texas,Idaho

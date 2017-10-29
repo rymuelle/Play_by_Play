@@ -1,0 +1,57 @@
+323112649,Toledo,Ball State
+323120195,Ohio,Bowling Green
+323130259,Virginia Tech,Florida State
+323132032,Arkansas State,Louisiana Monroe
+323140041,Connecticut,Pittsburgh
+323150333,Alabama,Texas A&M
+323152628,TCU,Kansas State
+323150025,California,Oregon
+323150103,Boston College,Notre Dame
+323150002,Auburn,Georgia
+323150057,Florida,Louisiana Lafayette
+323150099,LSU,Mississippi State
+323152579,South Carolina,Arkansas
+323150183,Syracuse,Louisville
+323150024,Stanford,Oregon State
+323150201,Oklahoma,Baylor
+323150228,Clemson,Maryland
+323150158,Nebraska,Penn State
+323150251,Texas,Iowa State
+323150265,Washington State,UCLA
+323150030,USC,Arizona State
+323150326,Texas State,Louisiana Tech
+323152641,Texas Tech,Kansas
+323150164,Rutgers,Army
+323150130,Michigan,Northwestern
+323150084,Indiana,Wisconsin
+323150218,Temple,Cincinnati
+323150258,Virginia,Miami
+323152294,Iowa,Purdue
+323152633,Tennessee,Missouri
+323150153,North Carolina,Georgia Tech
+323150193,Miami (OH),Kent State
+323150098,Western Kentucky,Florida Atlantic
+323152199,Eastern Michigan,Central Michigan
+323150012,Arizona,Colorado
+323152006,Akron,Massachusetts
+323150152,NC State,Wake Forest
+323150166,New Mexico State,San José State
+323150167,New Mexico,Wyoming
+323150197,Oklahoma State,West Virginia
+323150021,San Diego State,Air Force
+323152084,Buffalo,Western Michigan
+323150356,Illinois,Minnesota
+323152653,Troy,Navy
+323150005,UAB,Marshall
+323150248,Houston,Tulsa
+323150249,North Texas,South Alabama
+323152636,Texas San Antonio,McNeese State
+323152638,UTEP,UCF
+323152567,SMU,Southern Mississippi
+323150235,Memphis,Tulane
+323150145,Ole Miss,Vanderbilt
+323150036,Colorado State,UNLV
+323150062,Hawai'i,Boise State
+323150252,BYU,Idaho
+323150264,Washington,Utah
+323152440,Nevada,Fresno State

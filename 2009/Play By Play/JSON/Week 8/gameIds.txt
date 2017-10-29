@@ -1,0 +1,56 @@
+292942638,UTEP,Tulsa
+292950153,North Carolina,Florida State
+292960349,Army,Rutgers
+292970344,Mississippi State,Florida
+292970333,Alabama,Tennessee
+292970142,Missouri,Texas
+292970062,Hawaii,Boise State
+292972132,Cincinnati,Louisville
+292970127,Michigan State,Iowa
+292970030,USC,Oregon State
+292970252,BYU,TCU
+292970099,LSU,Auburn
+292972390,Miami,Clemson
+292970264,Washington,Oregon
+292970258,Virginia,Georgia Tech
+292970130,Michigan,Penn State
+292970239,Baylor,Oklahoma State
+292970248,Houston,SMU
+292970254,Utah,Air Force
+292970194,Ohio State,Minnesota
+292970221,Pittsburgh,South Florida
+292970012,Arizona,UCLA
+292970277,West Virginia,Connecticut
+292972579,South Carolina,Vanderbilt
+292972305,Kansas,Oklahoma
+292970077,Northwestern,Indiana
+292970189,Bowling Green,Central Michigan
+292970276,Marshall,UAB
+292972509,Purdue,Illinois
+292970145,Ole Miss,Arkansas
+292970158,Nebraska,Iowa State
+292972306,Kansas State,Colorado
+292972199,Eastern Michigan,Ball State
+292970193,Miami (OH),Northern Illinois
+292970150,Duke,Maryland
+292970195,Ohio,Kent State
+292972711,Western Michigan,Buffalo
+292970328,Utah State,Louisiana Tech
+292972393,Middle Tennessee,Western Kentucky
+292972426,Navy,Wake Forest
+292972653,Troy,North Texas
+292970242,Rice,UCF
+292970183,Syracuse,Akron
+292970087,Notre Dame,Boston College
+292970036,Colorado State,San Diego State
+292972440,Nevada,Idaho
+292970025,California,Washington State
+292970309,Louisiana Lafayette,Florida Atlantic
+292970096,Kentucky,Louisiana Monroe
+292972032,Arkansas State,Florida Intl
+292972572,Southern Mississippi,Tulane
+292972641,Texas Tech,Texas A&M
+292972649,Toledo,Temple
+292970167,New Mexico,UNLV
+292970166,New Mexico State,Fresno State
+292970024,Stanford,Arizona State

@@ -1,0 +1,49 @@
+233232116,UCF,Marshall
+233242572,Southern Mississippi,TCU
+233242032,Arkansas State,Middle Tennessee
+233250278,Fresno State,Boise State
+233262641,Texas Tech,Oklahoma
+233260030,USC,UCLA
+233260145,Ole Miss,LSU
+233260130,Michigan,Ohio State
+233260061,Georgia,Kentucky
+233260264,Washington,Washington State
+233262633,Tennessee,Vanderbilt
+233260259,Virginia Tech,Boston College
+233262390,Miami,Rutgers
+233260084,Indiana,Purdue
+233260275,Wisconsin,Iowa
+233260195,Ohio,Miami (OH)
+233262306,Kansas State,Missouri
+233260218,Temple,Pittsburgh
+233262050,Ball State,Bowling Green
+233260239,Baylor,Oklahoma State
+233260183,Syracuse,West Virginia
+233260127,Michigan State,Penn State
+233260258,Virginia,Georgia Tech
+233260356,Illinois,Northwestern
+233262653,Troy,Louisiana Monroe
+233260153,North Carolina,Duke
+233262426,Navy,Central Michigan
+233262751,Wyoming,New Mexico
+233260235,Memphis,Cincinnati
+233262305,Kansas,Iowa State
+233260008,Arkansas,Mississippi State
+233262459,Northern Illinois,Eastern Michigan
+233262655,Tulane,East Carolina
+233260097,Louisville,Houston
+233260023,San José State,Tulsa
+233260252,BYU,Utah
+233262483,Oregon,Oregon State
+233260024,Stanford,California
+233260152,NC State,Maryland
+233260242,Rice,UTEP
+233262309,Kent State,Buffalo
+233260070,Idaho,Utah State
+233260058,South Florida,UAB
+233262649,Toledo,Western Michigan
+233262579,South Carolina,Clemson
+233262439,UNLV,Colorado State
+233260002,Auburn,Alabama
+233260021,San Diego State,Air Force
+233260062,Hawaii,Army

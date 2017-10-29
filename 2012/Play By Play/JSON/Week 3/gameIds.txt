@@ -1,0 +1,68 @@
+322570058,South Florida,Rutgers
+322582439,UNLV,Washington State
+322590008,Arkansas,Alabama
+322590024,Stanford,USC
+322590099,LSU,Idaho
+322592483,Oregon,Tennessee Tech
+322590052,Florida State,Wake Forest
+322590061,Georgia,Florida Atlantic
+322592579,South Carolina,UAB
+322590277,West Virginia,James Madison
+322590127,Michigan State,Notre Dame
+322590228,Clemson,Furman
+322590194,Ohio State,California
+322590221,Pittsburgh,Virginia Tech
+322590145,Ole Miss,Texas
+322592306,Kansas State,North Texas
+322592305,Kansas,TCU
+322590130,Michigan,Massachusetts
+322592633,Tennessee,Florida
+322590097,Louisville,North Carolina
+322590026,UCLA,Houston
+322590012,Arizona,South Carolina State
+322590254,Utah,BYU
+322590135,Minnesota,Western Michigan
+322590158,Nebraska,Arkansas State
+322590197,Oklahoma State,Louisiana Lafayette
+322590349,Army,Northern Illinois
+322590356,Illinois,Charleston Southern
+322592509,Purdue,Eastern Michigan
+322592390,Miami,Bethune-Cookman
+322590002,Auburn,Louisiana Monroe
+322590120,Maryland,Connecticut
+322590238,Vanderbilt,Presbyterian College
+322590059,Georgia Tech,Virginia
+322590077,Northwestern,Boston College
+322592567,SMU,Texas A&M
+322592572,Southern Mississippi,East Carolina
+322590213,Penn State,Navy
+322592294,Iowa,Northern Iowa
+322592006,Akron,Morgan State
+322592116,UCF,Florida Intl
+322590264,Washington,Portland State
+322590068,Boise State,Miami (OH)
+322590183,Syracuse,Stony Brook
+322592247,Georgia State,Texas San Antonio
+322592751,Wyoming,Cal Poly
+322590152,NC State,South Alabama
+322590276,Marshall,Ohio
+322592348,Louisiana Tech,Rice
+322592132,Cincinnati,Delaware State
+322592641,Texas Tech,New Mexico
+322592649,Toledo,Bowling Green
+322592653,Troy,Mississippi State
+322590150,Duke,North Carolina Central
+322590235,Memphis,Middle Tennessee
+322590202,Tulsa,Nicholls State
+322590096,Kentucky,Western Kentucky
+322590142,Missouri,Arizona State
+322592440,Nevada,Northwestern State
+322590239,Baylor,Sam Houston State
+322590021,San Diego State,North Dakota
+322590023,San José State,Colorado State
+322590066,Iowa State,Western Illinois
+322590084,Indiana,Ball State
+322590275,Wisconsin,Utah State
+322590278,Fresno State,Colorado
+322592638,UTEP,New Mexico State
+322590062,Hawai'i,Lamar

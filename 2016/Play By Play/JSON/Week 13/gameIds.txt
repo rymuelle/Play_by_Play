@@ -1,0 +1,61 @@
+400869335,Ohio,Akron
+400869336,Miami (OH),Ball State
+400869337,Eastern Michigan,Central Michigan
+400869067,Texas A&M,LSU
+400869168,Washington State,Washington
+400869699,Iowa,Nebraska
+400869252,Air Force,Boise State
+400869568,Memphis,Houston
+400869340,Western Michigan,Toledo
+400869339,Kent State,Northern Illinois
+400869497,North Carolina,NC State
+400869338,Bowling Green,Buffalo
+400869073,Missouri,Arkansas
+400869632,Texas,TCU
+400869418,Southern Mississippi,Louisiana Tech
+400868885,Texas Tech,Baylor
+400869567,Tulsa,Cincinnati
+400869167,Arizona,Arizona State
+400869068,Alabama,Auburn
+400869650,Ohio State,Michigan
+400869074,Clemson,South Carolina
+400869703,Wisconsin,Minnesota
+400869702,Penn State,Michigan State
+400869170,Colorado,Utah
+400869071,Louisville,Kentucky
+400868956,USC,Notre Dame
+400869069,Florida State,Florida
+400869075,Vanderbilt,Tennessee
+400869596,Iowa State,West Virginia
+400869172,Stanford,Rice
+400869572,SMU,Navy
+400869070,Georgia,Georgia Tech
+400869604,Kansas State,Kansas
+400869642,Maryland,Rutgers
+400869700,Indiana,Purdue
+400869701,Northwestern,Illinois
+400869569,South Florida,UCF
+400869501,Virginia Tech,Virginia
+400869852,Louisiana Lafayette,Arkansas State
+400869500,Pittsburgh,Syracuse
+400869498,Wake Forest,Boston College
+400869499,Miami,Duke
+400869416,Old Dominion,Florida Intl
+400869255,Fresno State,San José State
+400869072,Ole Miss,Mississippi State
+400869853,Idaho,South Alabama
+400869854,Texas State,Troy
+400869851,New Mexico State,Appalachian State
+400869570,Connecticut,Tulane
+400869171,Oregon State,Oregon
+400869256,UNLV,Nevada
+400869420,UTEP,North Texas
+400869417,Middle Tennessee,Florida Atlantic
+400869419,Marshall,Western Kentucky
+400869415,Texas San Antonio,Charlotte
+400869169,California,UCLA
+400869571,Temple,East Carolina
+400869253,San Diego State,Colorado State
+400869254,New Mexico,Wyoming
+400868933,BYU,Utah State
+400868967,Hawai'i,Massachusetts

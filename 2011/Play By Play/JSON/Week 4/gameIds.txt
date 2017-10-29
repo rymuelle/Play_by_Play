@@ -1,0 +1,60 @@
+312652132,Cincinnati,NC State
+312660252,BYU,UCF
+312670201,Oklahoma,Missouri
+312670277,West Virginia,LSU
+312670333,Alabama,Arkansas
+312670068,Boise State,Tulsa
+312670275,Wisconsin,South Dakota
+312670245,Texas A&M,Oklahoma State
+312672751,Wyoming,Nebraska
+312670012,Arizona,Oregon
+312670228,Clemson,Florida State
+312672579,South Carolina,Vanderbilt
+312670276,Marshall,Virginia Tech
+312670096,Kentucky,Florida
+312670239,Baylor,Rice
+312670058,South Florida,UTEP
+312672628,TCU,Portland State
+312670130,Michigan,San Diego State
+312670009,Arizona State,USC
+312670356,Illinois,Western Michigan
+312670059,Georgia Tech,North Carolina
+312670127,Michigan State,Central Michigan
+312670183,Syracuse,Toledo
+312670213,Penn State,Eastern Michigan
+312670221,Pittsburgh,Notre Dame
+312670235,Memphis,SMU
+312672294,Iowa,Louisiana Monroe
+312670145,Ole Miss,Georgia
+312670120,Maryland,Temple
+312670193,Miami (OH),Bowling Green
+312670103,Boston College,Massachusetts
+312670164,Rutgers,Ohio
+312672050,Ball State,Army
+312672006,Akron,VMI
+312672005,Air Force,Tennessee State
+312672459,Northern Illinois,Cal Poly
+312672309,Kent State,South Alabama
+312670204,Oregon State,UCLA
+312670194,Ohio State,Colorado
+312670258,Virginia,Southern Mississippi
+312670264,Washington,California
+312670150,Duke,Tulane
+312670151,East Carolina,UAB
+312672390,Miami,Kansas State
+312670023,San José State,New Mexico State
+312672653,Troy,Middle Tennessee
+312670070,Idaho,Fresno State
+312670167,New Mexico,Sam Houston State
+312672084,Buffalo,Connecticut
+312672229,Florida Intl,Louisiana Lafayette
+312670344,Mississippi State,Louisiana Tech
+312670249,North Texas,Indiana
+312672641,Texas Tech,Nevada
+312670135,Minnesota,North Dakota State
+312670002,Auburn,Florida Atlantic
+312672032,Arkansas State,Central Arkansas
+312670248,Houston,Georgia State
+312670328,Utah State,Colorado State
+312672439,UNLV,Southern Utah
+312670062,Hawaii,UC Davis

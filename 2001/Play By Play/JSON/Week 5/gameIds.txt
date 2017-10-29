@@ -1,0 +1,54 @@
+212630158,Nebraska,Rice
+212630344,Mississippi State,South Carolina
+212650096,Kentucky,Florida
+212650248,Houston,Texas
+212650153,North Carolina,Florida State
+212652483,Oregon,USC
+212650164,Rutgers,Virginia Tech
+212650202,Tulsa,Fresno State
+212652306,Kansas State,New Mexico State
+212650264,Washington,Idaho
+212650026,UCLA,Ohio State
+212650150,Duke,Northwestern
+212650228,Clemson,Virginia
+212650130,Michigan,Western Michigan
+212650087,Notre Dame,Michigan State
+212650356,Illinois,Louisville
+212652426,Navy,Boston College
+212652509,Purdue,Akron
+212650213,Penn State,Wisconsin
+212650245,Texas A&M,Oklahoma State
+212650195,Ohio,Iowa State
+212650041,Connecticut,Buffalo
+212652117,Central Michigan,Toledo
+212650277,West Virginia,Kent State
+212650193,Miami (OH),Cincinnati
+212652050,Ball State,Northern Iowa
+212650333,Alabama,Arkansas
+212652655,Tulane,UCF
+212650151,East Carolina,William & Mary
+212650038,Colorado,Kansas
+212650154,Wake Forest,Maryland
+212652440,Nevada,Hawaii
+212650265,Washington State,California
+212650005,UAB,Army
+212650084,Indiana,Utah
+212650189,Bowling Green,Temple
+212650309,Louisiana-Lafayette,Southern Mississippi
+212652199,Eastern Michigan,Indiana State
+212652567,Southern Methodist,NC State
+212652628,TCU,Northwestern State
+212652653,Troy,Nicholls State
+212652433,Louisiana-Monroe,Middle Tennessee
+212652032,Arkansas State,Jacksonville State
+212650036,Colorado State,San Diego State
+212650238,Vanderbilt,Richmond
+212650239,Baylor,New Mexico
+212652459,Northern Illinois,Sam Houston State
+212650183,Syracuse,Auburn
+212650235,Memphis,South Florida
+212650068,Boise State,UTEP
+212650249,North Texas,Texas Tech
+212650328,Utah State,Wyoming
+212650012,Arizona,UNLV
+212650024,Stanford,Arizona State

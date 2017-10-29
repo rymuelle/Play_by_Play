@@ -1,0 +1,45 @@
+213260356,Illinois,Northwestern
+213262032,Arkansas State,Nicholls State
+213260344,Mississippi State,Ole Miss
+213270038,Colorado,Nebraska
+213270245,Texas A&M,Texas
+213270151,East Carolina,Southern Mississippi
+213270164,Rutgers,California
+213270099,LSU,Arkansas
+213270009,Arizona State,Arizona
+213270278,Fresno State,San Jose State
+213272628,TCU,Louisville
+213270189,Bowling Green,Toledo
+213282390,Miami,Washington
+213280201,Oklahoma,Oklahoma State
+213282633,Tennessee,Vanderbilt
+213280024,Stanford,Notre Dame
+213280130,Michigan,Ohio State
+213280218,Temple,Connecticut
+213280277,West Virginia,Pittsburgh
+213282306,Kansas State,Missouri
+213282309,Kent State,Miami (OH)
+213280084,Indiana,Purdue
+213280135,Minnesota,Wisconsin
+213280066,Iowa State,Iowa
+213280152,NC State,Ohio
+213280154,Wake Forest,Northern Illinois
+213280239,Baylor,Southern Illinois
+213282116,UCF,Louisiana-Lafayette
+213282711,Western Michigan,Ball State
+213282305,Kansas,Wyoming
+213282641,Texas Tech,Stephen F. Austin
+213280235,Memphis,Cincinnati
+213280149,Montana,Idaho
+213280167,New Mexico,New Mexico State
+213280202,Tulsa,Louisiana Tech
+213282567,Southern Methodist,Rice
+213280068,Boise State,Central Michigan
+213280127,Michigan State,Penn State
+213282006,Akron,Eastern Michigan
+213280276,Marshall,Youngstown State
+213280183,Syracuse,Boston College
+213280058,South Florida,Utah State
+213280059,Georgia Tech,Georgia
+213282638,UTEP,Nevada
+213280062,Hawaii,Air Force

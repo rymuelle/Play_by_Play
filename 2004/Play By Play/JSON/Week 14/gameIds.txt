@@ -1,0 +1,27 @@
+243282116,UCF,Kent State
+243282649,Toledo,Bowling Green
+243300221,Pittsburgh,West Virginia
+243300164,Rutgers,Connecticut
+243310251,Texas,Texas A&M
+243320008,Arkansas,LSU
+243310012,Arizona,Arizona State
+243310158,Nebraska,Colorado
+243320030,USC,Notre Dame
+243320097,Louisville,Cincinnati
+243320061,Georgia,Georgia Tech
+243322440,Nevada,Boise State
+243320259,Virginia Tech,Virginia
+243322633,Tennessee,Kentucky
+243320103,Boston College,Syracuse
+243322641,Texas Tech,Oklahoma State
+243320202,Tulsa,UTEP
+243320058,South Florida,Memphis
+243320120,Maryland,Wake Forest
+243320151,NC State,East Carolina
+243320066,Iowa State,Missouri
+243320145,Ole Miss,Mississippi State
+243322572,Southern Mississippi,UAB
+243322628,TCU,Tulane
+243320023,San José State,Fresno State
+243320062,Hawaii,Northwestern
+243340242,Rice,Louisiana Tech

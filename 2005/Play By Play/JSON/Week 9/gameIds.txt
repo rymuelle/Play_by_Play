@@ -1,0 +1,46 @@
+253000259,Virginia Tech,Boston College
+253020167,New Mexico,Colorado State
+253020030,USC,Washington State
+253020197,Oklahoma State,Texas
+253010057,Florida,Georgia
+253020333,Alabama,Utah State
+253022390,Miami,North Carolina
+253020099,LSU,North Texas
+253020024,Stanford,UCLA
+253020052,Florida State,Maryland
+253020213,Penn State,Purdue
+253020135,Minnesota,Ohio State
+253020356,Illinois,Wisconsin
+253020239,Baylor,Texas Tech
+253020002,Auburn,Ole Miss
+253020021,San Diego State,TCU
+253020077,Northwestern,Michigan
+253020062,Hawaii,Fresno State
+253022633,Tennessee,South Carolina
+253020183,Syracuse,Cincinnati
+253020152,NC State,Southern Mississippi
+253020158,Nebraska,Oklahoma
+253020150,Duke,Wake Forest
+253010127,Michigan State,Indiana
+253020218,Temple,Miami (OH)
+253022117,Central Michigan,Toledo
+253022305,Kansas,Missouri
+253022084,Buffalo,Ohio
+253022711,Western Michigan,Kent State
+253020151,East Carolina,UCF
+253022306,Kansas State,Colorado
+253020252,BYU,Air Force
+253020068,Boise State,Nevada
+253020059,Georgia Tech,Clemson
+253020245,Texas A&M,Iowa State
+253020164,Rutgers,Navy
+253020189,Bowling Green,Akron
+253020204,Oregon State,Arizona
+253022459,Northern Illinois,Ball State
+253020309,Louisiana Lafayette,Troy
+253020242,Rice,UTEP
+253020009,Arizona State,Washington
+253020096,Kentucky,Mississippi State
+253022348,Louisiana Tech,San José State
+253022655,Tulane,Marshall
+253020166,New Mexico State,Idaho

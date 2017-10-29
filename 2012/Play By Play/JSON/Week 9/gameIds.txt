@@ -1,0 +1,58 @@
+322970309,Louisiana Lafayette,Arkansas State
+322990154,Wake Forest,Clemson
+323000097,Louisville,Cincinnati
+323002005,Air Force,Nevada
+323010333,Alabama,Mississippi State
+323010061,Georgia,Florida
+323012306,Kansas State,Texas Tech
+323012483,Oregon,Colorado
+323010201,Oklahoma,Notre Dame
+323010264,Washington,Oregon State
+323010012,Arizona,USC
+323010052,Florida State,Duke
+323012579,South Carolina,Tennessee
+323010164,Rutgers,Kent State
+323010024,Stanford,Washington State
+323010002,Auburn,Texas A&M
+323012751,Wyoming,Boise State
+323010158,Nebraska,Michigan
+323012305,Kansas,Texas
+323010193,Miami (OH),Ohio
+323010275,Wisconsin,Michigan State
+323010077,Northwestern,Iowa
+323010142,Missouri,Kentucky
+323010221,Pittsburgh,Temple
+323010349,Army,Ball State
+323010356,Illinois,Indiana
+323012711,Western Michigan,Northern Illinois
+323010008,Arkansas,Ole Miss
+323010153,North Carolina,NC State
+323010242,Rice,Southern Mississippi
+323010103,Boston College,Maryland
+323012636,Texas San Antonio,Utah State
+323012567,SMU,Memphis
+323010059,Georgia Tech,BYU
+323010009,Arizona State,UCLA
+323010135,Minnesota,Purdue
+323010151,East Carolina,Navy
+323010167,New Mexico,Fresno State
+323010189,Bowling Green,Eastern Michigan
+323010197,Oklahoma State,TCU
+323012655,Tulane,UAB
+323012393,Middle Tennessee,North Texas
+323012084,Buffalo,Toledo
+323012117,Central Michigan,Akron
+323010023,San José State,Texas State
+323010248,Houston,UTEP
+323012226,Florida Atlantic,Troy
+323010213,Penn State,Ohio State
+323012229,Florida Intl,Western Kentucky
+323010036,Colorado State,Hawai'i
+323010058,South Florida,Syracuse
+323010066,Iowa State,Baylor
+323010238,Vanderbilt,Massachusetts
+323012433,Louisiana Monroe,South Alabama
+323010276,Marshall,UCF
+323010166,New Mexico State,Louisiana Tech
+323010021,San Diego State,UNLV
+323010254,Utah,California

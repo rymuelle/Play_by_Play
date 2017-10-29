@@ -1,0 +1,53 @@
+273172050,Ball State,Toledo
+273180193,Miami (OH),Akron
+273190012,Arizona,Oregon
+273192032,Arkansas State,North Texas
+273202440,Nevada,Hawaii
+273202117,Central Michigan,Eastern Michigan
+273210145,Ole Miss,LSU
+273212305,Kansas,Iowa State
+273212641,Texas Tech,Oklahoma
+273212306,Kansas State,Missouri
+273212132,Cincinnati,West Virginia
+273210130,Michigan,Ohio State
+273210061,Georgia,Kentucky
+273210259,Virginia Tech,Miami
+273210057,Florida,Florida Atlantic
+273210228,Clemson,Boston College
+273210068,Boise State,Idaho
+273210356,Illinois,Northwestern
+273212633,Tennessee,Vanderbilt
+273210041,Connecticut,Syracuse
+273210135,Minnesota,Wisconsin
+273210052,Florida State,Maryland
+273210059,Georgia Tech,North Carolina
+273210164,Rutgers,Pittsburgh
+273210349,Army,Tulsa
+273210218,Temple,Kent State
+273212084,Buffalo,Bowling Green
+273212751,Wyoming,BYU
+273210008,Arkansas,Mississippi State
+273210166,New Mexico State,Utah State
+273210036,Colorado State,Georgia Southern
+273212005,Air Force,San Diego State
+273210087,Notre Dame,Duke
+273210333,Alabama,Louisiana Monroe
+273210242,Rice,Tulane
+273212567,SMU,UCF
+273212426,Navy,Northern Illinois
+273210248,Houston,Marshall
+273210235,Memphis,UAB
+273210127,Michigan State,Penn State
+273210264,Washington,California
+273210084,Indiana,Purdue
+273212294,Iowa,Western Michigan
+273210154,Wake Forest,NC State
+273210098,Western Kentucky,Morehead State
+273210254,Utah,New Mexico
+273210265,Washington State,Oregon State
+273210239,Baylor,Oklahoma State
+273212229,Florida Intl,Louisiana Lafayette
+273212348,Louisiana Tech,San José State
+273212628,TCU,UNLV
+273212638,UTEP,Southern Mississippi
+273210058,South Florida,Louisville

@@ -1,0 +1,28 @@
+253542032,Arkansas State,Southern Mississippi
+253552638,UTEP,Toledo
+253560025,California,BYU
+253562426,Navy,Colorado State
+253570248,Houston,Kansas
+253582116,UCF,Nevada
+253602006,Akron,Memphis
+253610038,Colorado,Clemson
+253610164,Rutgers,Arizona State
+253620103,Boston College,Boise State
+253620158,Nebraska,Michigan
+253630201,Oklahoma,Oregon
+253630254,Utah,Georgia Tech
+253640099,LSU,Miami
+253640026,UCLA,Northwestern
+253640258,Minnesota,Virginia
+253640142,Missouri,South Carolina
+253650066,Iowa State,TCU
+253650152,NC State,South Florida
+253650278,Tulsa,Fresno State
+260020194,Ohio State,Notre Dame
+260020002,Auburn,Wisconsin
+260020061,Georgia,West Virginia
+260020259,Virginia Tech,Louisville
+260020333,Alabama,Texas Tech
+260020057,Florida,Iowa
+260030052,Florida State,Penn State
+260040030,Texas,USC

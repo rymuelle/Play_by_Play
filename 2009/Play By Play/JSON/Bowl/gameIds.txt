@@ -1,0 +1,34 @@
+293532751,Wyoming,Fresno State
+293530164,Rutgers,UCF
+293542393,Middle Tennessee,Southern Mississippi
+293560252,BYU,Oregon State
+293570025,California,Utah
+293582567,SMU,Nevada
+293600153,North Carolina,Pittsburgh
+293600030,USC,Boston College
+293600195,Ohio,Marshall
+293610228,Clemson,Kentucky
+293620061,Georgia,Texas A&M
+293630275,Wisconsin,Miami
+293630218,Temple,UCLA
+293640158,Nebraska,Arizona
+293640070,Idaho,Bowling Green
+293652633,Tennessee,Virginia Tech
+293650024,Stanford,Oklahoma
+293652005,Air Force,Houston
+293650142,Missouri,Navy
+293650066,Iowa State,Minnesota
+300010057,Florida,Cincinnati
+300012483,Oregon,Ohio State
+300010099,LSU,Penn State
+300010052,Florida State,West Virginia
+300010002,Auburn,Northwestern
+300020145,Ole Miss,Oklahoma State
+300022459,Northern Illinois,South Florida
+300020041,Connecticut,South Carolina
+300020151,East Carolina,Arkansas
+300022641,Texas Tech,Michigan State
+300042628,TCU,Boise State
+300050059,Georgia Tech,Iowa
+300062653,Troy,Central Michigan
+300070333,Alabama,Texas

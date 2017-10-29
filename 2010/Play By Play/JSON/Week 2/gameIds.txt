@@ -1,0 +1,70 @@
+302520344,Mississippi State,Auburn
+302520218,Temple,Central Michigan
+302530276,Marshall,West Virginia
+302530248,Houston,UTEP
+302540333,Alabama,Penn State
+302540194,Ohio State,Miami
+302542628,TCU,Tennessee Tech
+302540251,Texas,Wyoming
+302540158,Nebraska,Idaho
+302542633,Tennessee,Oregon
+302540057,Florida,South Florida
+302542294,Iowa,Iowa State
+302540201,Oklahoma,Florida State
+302540275,Wisconsin,San José State
+302540259,Virginia Tech,James Madison
+302542433,Louisiana Monroe,Arkansas
+302542305,Kansas,Georgia Tech
+302540030,USC,Virginia
+302540238,Vanderbilt,LSU
+302540254,Utah,UNLV
+302542579,South Carolina,Georgia
+302540026,UCLA,Stanford
+302540041,Connecticut,Texas Southern
+302540077,Northwestern,Illinois State
+302540151,East Carolina,Memphis
+302540154,Wake Forest,Duke
+302540135,Minnesota,South Dakota
+302540349,Army,Hawaii
+302542006,Akron,Gardner-Webb
+302542132,Cincinnati,Indiana State
+302542226,Florida Atlantic,Michigan State
+302542509,Purdue,Western Illinois
+302540221,Pittsburgh,New Hampshire
+302540193,Miami (OH),Eastern Michigan
+302540309,Louisiana Lafayette,Arkansas State
+302540228,Clemson,Presbyterian College
+302540087,Notre Dame,Michigan
+302540097,Louisville,Eastern Kentucky
+302540103,Boston College,Kent State
+302540025,California,Colorado
+302542426,Navy,Georgia Southern
+302542005,Air Force,BYU
+302540120,Maryland,Morgan State
+302540239,Baylor,Buffalo
+302540245,Texas A&M,Louisiana Tech
+302540249,North Texas,Rice
+302540264,Washington,Syracuse
+302540265,Washington State,Montana State
+302540202,Tulsa,Bowling Green
+302540142,Missouri,McNeese State
+302540195,Ohio,Toledo
+302540197,Oklahoma State,Troy
+302542050,Ball State,Liberty
+302542393,Middle Tennessee,Austin Peay
+302542459,Northern Illinois,North Dakota
+302542572,Southern Mississippi,Prairie View A&M
+302542711,Western Michigan,Nicholls State
+302542306,Kansas State,Missouri State
+302542116,UCF,NC State
+302540356,Illinois,Southern Illinois
+302540096,Kentucky,Western Kentucky
+302540166,New Mexico State,San Diego State
+302540167,New Mexico,Texas Tech
+302540328,Utah State,Idaho State
+302542229,Florida Intl,Rutgers
+302542567,SMU,UAB
+302542655,Tulane,Ole Miss
+302540009,Arizona State,Northern Arizona
+302540012,Arizona,The Citadel
+302542440,Nevada,Colorado State

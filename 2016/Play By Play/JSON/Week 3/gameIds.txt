@@ -1,0 +1,67 @@
+400869517,Cincinnati,Houston
+400869361,Rice,Baylor
+400869193,Utah State,Arkansas State
+400869109,Texas San Antonio,Arizona State
+400868997,Ole Miss,Alabama
+400869440,Louisville,Florida State
+400869613,Oklahoma,Ohio State
+400869111,Michigan,Colorado
+400869438,Clemson,South Carolina State
+400869110,Stanford,USC
+400869115,Washington,Portland State
+400869657,Wisconsin,Georgia State
+400869117,California,Texas
+400868948,Notre Dame,Michigan State
+400869656,Iowa,North Dakota State
+400869000,Tennessee,Ohio
+400868998,Missouri,Georgia
+400868993,Auburn,Texas A&M
+400868996,LSU,Mississippi State
+400869113,Nebraska,Oregon
+400868994,Florida,North Texas
+400868992,Arkansas,Texas State
+400869720,Appalachian State,Miami
+400868889,TCU,Iowa State
+400869278,Marshall,Akron
+400869192,Rutgers,New Mexico
+400869281,Bowling Green,Middle Tennessee
+400869519,Penn State,Temple
+400869520,Memphis,Kansas
+400869001,Georgia Tech,Vanderbilt
+400869444,Connecticut,Virginia
+400869523,Tulsa,North Carolina A&T
+400869116,Washington State,Idaho
+400869358,Kansas State,Florida Atlantic
+400869279,Ball State,Eastern Kentucky
+400869198,Central Michigan,UNLV
+400869195,Toledo,Fresno State
+400869197,Northern Illinois,San Diego State
+400868959,Massachusetts,Florida Intl
+400869282,Kent State,Monmouth
+400869283,Miami (OH),Western Kentucky
+400869441,North Carolina,James Madison
+400869442,Oklahoma State,Pittsburgh
+400869443,Syracuse,South Florida
+400869437,Virginia Tech,Boston College
+400869284,Illinois,Western Michigan
+400868995,Kentucky,New Mexico State
+400868999,South Carolina,East Carolina
+400869191,Colorado State,Northern Colorado
+400869194,Wyoming,UC Davis
+400869114,Oregon State,Idaho State
+400869280,Charlotte,Eastern Michigan
+400869360,NC State,Old Dominion
+400869813,Georgia Southern,Louisiana Monroe
+400869445,Wake Forest,Delaware
+400869518,UCF,Maryland
+400869521,Tulane,Navy
+400869522,SMU,Liberty
+400869814,Louisiana Lafayette,South Alabama
+400869359,Texas Tech,Louisiana Tech
+400869362,Southern Mississippi,Troy
+400868912,UTEP,Army
+400869439,Northwestern,Duke
+400869196,Nevada,Buffalo
+400868924,BYU,UCLA
+400869112,San José State,Utah
+400869108,Arizona,Hawai'i

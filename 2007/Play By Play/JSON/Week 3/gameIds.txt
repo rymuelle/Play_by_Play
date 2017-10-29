@@ -1,0 +1,66 @@
+272560120,Maryland,West Virginia
+272562005,Air Force,TCU
+272572653,Troy,Oklahoma State
+272580158,Nebraska,USC
+272580099,LSU,Middle Tennessee
+272580201,Oklahoma,Utah State
+272580057,Florida,Tennessee
+272582116,UCF,Texas
+272580275,Wisconsin,The Citadel
+272580025,California,Louisiana Tech
+272580096,Kentucky,Louisville
+272580264,Washington,Ohio State
+272580254,Utah,UCLA
+272580213,Penn State,Buffalo
+272580164,Rutgers,Norfolk State
+272580059,Georgia Tech,Boston College
+272580333,Alabama,Arkansas
+272582579,South Carolina,South Carolina State
+272580259,Virginia Tech,Ohio
+272582483,Oregon,Fresno State
+272580228,Clemson,Furman
+272580061,Georgia,Western Carolina
+272582439,UNLV,Hawaii
+272580245,Texas A&M,Louisiana Monroe
+272580041,Connecticut,Temple
+272580084,Indiana,Akron
+272580127,Michigan State,Pittsburgh
+272580153,North Carolina,Virginia
+272580183,Syracuse,Illinois
+272580193,Miami (OH),Cincinnati
+272582459,Northern Illinois,Eastern Michigan
+272582509,Purdue,Central Michigan
+272580002,Auburn,Mississippi State
+272582226,Florida Atlantic,Minnesota
+272580066,Iowa State,Iowa
+272580142,Missouri,Western Michigan
+272580098,Western Kentucky,Eastern Kentucky
+272580242,Rice,Texas Tech
+272582390,Miami,Florida Intl
+272580130,Michigan,Notre Dame
+272580154,Wake Forest,Army
+272582309,Kent State,Delaware State
+272580276,Marshall,New Hampshire
+272582426,Navy,Ball State
+272580151,East Carolina,Southern Mississippi
+272580152,NC State,Wofford
+272580204,Oregon State,Idaho State
+272582032,Arkansas State,SMU
+272582305,Kansas,Toledo
+272580309,Louisiana Lafayette,McNeese State
+272580238,Vanderbilt,Ole Miss
+272580239,Baylor,Texas State
+272582655,Tulane,Houston
+272580005,UAB,Alcorn State
+272582306,Kansas State,Missouri State
+272580068,Boise State,Wyoming
+272580235,Memphis,Jacksonville State
+272580166,New Mexico State,UTEP
+272580077,Northwestern,Duke
+272580202,Tulsa,BYU
+272582440,Nevada,Nicholls State
+272580265,Washington State,Idaho
+272580024,Stanford,San José State
+272580038,Colorado,Florida State
+272580009,Arizona State,San Diego State
+272580012,Arizona,New Mexico

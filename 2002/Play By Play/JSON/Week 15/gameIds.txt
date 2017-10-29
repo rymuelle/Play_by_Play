@@ -1,0 +1,26 @@
+223320145,Ole Miss,Mississippi State
+223330251,Texas,Texas A&M
+223330158,Nebraska,Colorado
+223330008,Arkansas,LSU
+223330012,Arizona,Arizona State
+223340183,Syracuse,Miami
+223340197,Oklahoma State,Oklahoma
+223340061,Georgia,Georgia Tech
+223340030,USC,Notre Dame
+223340062,Hawaii,Alabama
+223340052,Florida State,Florida
+223340036,Colorado State,UNLV
+223340221,Pittsburgh,West Virginia
+223340259,Virginia Tech,Virginia
+223340120,Maryland,Wake Forest
+223340103,Boston College,Rutgers
+223342633,Tennessee,Kentucky
+223342116,UCF,Ohio
+223342132,Cincinnati,UAB
+223340167,New Mexico,Wyoming
+223342393,Middle Tennessee,Utah State
+223342572,Southern Mississippi,East Carolina
+223342628,TCU,Memphis
+223340248,Houston,Louisville
+223340276,Marshall,Ball State
+223342649,Toledo,Bowling Green

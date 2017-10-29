@@ -1,0 +1,58 @@
+212422006,Akron,Ohio
+212420218,Temple,Navy
+212422649,Toledo,Minnesota
+212422711,Western Michigan,Illinois State
+212422084,Buffalo,Rutgers
+212422117,Central Michigan,Eastern Kentucky
+212420008,Arkansas,UNLV
+212422459,Northern Illinois,South Florida
+212420005,UAB,Montana State
+212420202,Tulsa,Indiana State
+212420238,Vanderbilt,Middle Tennessee
+212420265,Washington State,Idaho
+212420021,San Diego State,Arizona
+212440057,Florida,Marshall
+212440213,Penn State,Miami
+212442005,Air Force,Oklahoma
+212440158,Nebraska,Troy
+212440251,Texas,New Mexico State
+212440150,Duke,Florida State
+212442483,Oregon,Wisconsin
+212442633,Tennessee,Syracuse
+212440259,Virginia Tech,Connecticut
+212440059,Georgia Tech,Citadel
+212440130,Michigan,Miami (OH)
+212440099,LSU,Tulane
+212440333,Alabama,UCLA
+212440228,Clemson,UCF
+212442579,South Carolina,Boise State
+212440036,Colorado State,Colorado
+212440103,Boston College,West Virginia
+212440120,Maryland,North Carolina
+212442572,Southern Mississippi,Oklahoma State
+212442294,Iowa,Kent State
+212440096,Kentucky,Louisville
+212440061,Georgia,Arkansas State
+212440309,Louisiana-Lafayette,Nicholls State
+212440025,California,Illinois
+212442751,Wyoming,Furman
+212440258,Virginia,Richmond
+212440002,Auburn,Ball State
+212442199,Eastern Michigan,Southeast Missouri State
+212440221,Pittsburgh,East Tenn. St.
+212440030,USC,San Jose State
+212440151,East Carolina,Wake Forest
+212440245,Texas A&M,McNeese State
+212440145,Ole Miss,Murray State
+212442305,Kansas,Missouri State
+212442433,Louisiana-Monroe,Sam Houston State
+212440142,Missouri,Bowling Green
+212440254,Utah,Utah State
+212442348,Louisiana Tech,Southern Methodist
+212440248,Houston,Rice
+212440249,North Texas,TCU
+212440167,New Mexico,UTEP
+212440252,BYU,Nevada
+212450278,Fresno State,Oregon State
+212452132,Cincinnati,Purdue
+212460344,Mississippi State,Memphis

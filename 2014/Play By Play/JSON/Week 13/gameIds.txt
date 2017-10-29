@@ -1,0 +1,59 @@
+400548158,Akron,Massachusetts
+400548157,Ohio,Northern Illinois
+400548159,Toledo,Bowling Green
+400547893,West Virginia,Kansas State
+400547760,Duke,North Carolina
+400550421,Texas State,Arkansas State
+400548078,Rice,UTEP
+400548243,San Diego State,Air Force
+400548248,Utah State,San José State
+400548328,Alabama,Western Carolina
+400548313,Oregon,Colorado
+400547738,Florida State,Boston College
+400548335,Mississippi State,Vanderbilt
+400547926,Ohio State,Indiana
+400547896,Baylor,Oklahoma State
+400548332,Arkansas,Ole Miss
+400548312,UCLA,USC
+400548331,Georgia,Charleston Southern
+400547999,Michigan State,Rutgers
+400548311,Arizona State,Washington State
+400548329,Auburn,Samford
+400548310,Utah,Arizona
+400547934,Iowa,Wisconsin
+400548334,Tennessee,Missouri
+400547894,Oklahoma,Kansas
+400547749,Clemson,Georgia State
+400547966,Nebraska,Minnesota
+400547784,Notre Dame,Louisville
+400548330,Florida,Eastern Kentucky
+400548333,South Carolina,South Alabama
+400548460,Army,Fordham
+400547981,Purdue,Northwestern
+400548082,UAB,Marshall
+400548083,Western Kentucky,Texas San Antonio
+400547714,UCF,SMU
+400547717,Houston,Tulsa
+400547914,Illinois,Penn State
+400547828,Wake Forest,Virginia Tech
+400548081,Old Dominion,Louisiana Tech
+400548162,Central Michigan,Western Michigan
+400548245,Colorado State,New Mexico
+400548161,Ball State,Eastern Michigan
+400548450,Louisiana Lafayette,Appalachian State
+400548463,BYU,Savannah State
+400548079,North Texas,Florida Intl
+400547716,East Carolina,Tulane
+400547814,Pittsburgh,Syracuse
+400547895,Iowa State,Texas Tech
+400547941,Michigan,Maryland
+400547718,Memphis,South Florida
+400548315,California,Stanford
+400548452,New Mexico State,Louisiana Monroe
+400547793,Virginia,Miami
+400548080,Middle Tennessee,Florida Atlantic
+400547715,Connecticut,Cincinnati
+400548244,Wyoming,Boise State
+400548246,Nevada,Fresno State
+400548314,Washington,Oregon State
+400548247,Hawaii,UNLV

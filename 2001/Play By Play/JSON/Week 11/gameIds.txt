@@ -1,0 +1,52 @@
+213032628,TCU,East Carolina
+213050252,BYU,Colorado State
+213050059,Georgia Tech,North Carolina
+213072305,Kansas,Nebraska
+213070201,Oklahoma,Tulsa
+213072390,Miami,Temple
+213070127,Michigan State,Michigan
+213070239,Baylor,Texas
+213070264,Washington,Stanford
+213070087,Notre Dame,Tennessee
+213070057,Florida,Vanderbilt
+213070265,Washington State,UCLA
+213072483,Oregon,Arizona State
+213072509,Purdue,Illinois
+213070221,Pittsburgh,Virginia Tech
+213070258,Virginia,Wake Forest
+213070275,Wisconsin,Iowa
+213070213,Penn State,Southern Mississippi
+213070084,Indiana,Northwestern
+213070120,Maryland,Troy
+213070150,Duke,NC State
+213070277,West Virginia,Rutgers
+213072050,Ball State,Central Michigan
+213072084,Buffalo,Ohio
+213072579,South Carolina,Wofford
+213072348,Louisiana Tech,Boise State
+213072132,Cincinnati,Connecticut
+213072005,Air Force,Army
+213072641,Texas Tech,Texas A&M
+213070066,Iowa State,Kansas State
+213070344,Mississippi State,Kentucky
+213070038,Colorado,Missouri
+213072309,Kent State,Marshall
+213072393,Middle Tennessee,Arkansas State
+213072439,UNLV,Utah
+213072440,Nevada,Southern Methodist
+213072459,Northern Illinois,Eastern Michigan
+213072655,Tulane,Louisville
+213070025,California,Arizona
+213070030,USC,Oregon State
+213070228,Clemson,Florida State
+213070333,Alabama,LSU
+213070189,Bowling Green,Miami (OH)
+213070166,New Mexico State,North Texas
+213072116,UCF,Akron
+213070278,Fresno State,Rice
+213070058,South Florida,Houston
+213070145,Ole Miss,Arkansas
+213070135,Minnesota,Ohio State
+213070070,Idaho,Louisiana-Monroe
+213070021,San Diego State,New Mexico
+213070062,Hawaii,San Jose State

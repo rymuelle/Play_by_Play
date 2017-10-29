@@ -1,0 +1,55 @@
+322852653,Troy,Western Kentucky
+322850202,Tulsa,UTEP
+322850038,Colorado,Arizona State
+322862117,Central Michigan,Navy
+322870142,Missouri,Alabama
+322870099,LSU,South Carolina
+322870238,Vanderbilt,Florida
+322872641,Texas Tech,West Virginia
+322870066,Iowa State,Kansas State
+322870087,Notre Dame,Stanford
+322870084,Indiana,Ohio State
+322870252,BYU,Oregon State
+322870264,Washington,USC
+322870052,Florida State,Boston College
+322870201,Oklahoma,Texas
+322870221,Pittsburgh,Louisville
+322870344,Mississippi State,Tennessee
+322870164,Rutgers,Syracuse
+322872132,Cincinnati,Fordham
+322872348,Louisiana Tech,Texas A&M
+322870068,Boise State,Fresno State
+322870130,Michigan,Illinois
+322870248,Houston,UAB
+322870127,Michigan State,Iowa
+322870135,Minnesota,Northwestern
+322870349,Army,Kent State
+322872509,Purdue,Wisconsin
+322870145,Ole Miss,Auburn
+322870259,Virginia Tech,Duke
+322870041,Connecticut,Temple
+322872199,Eastern Michigan,Toledo
+322872655,Tulane,SMU
+322870195,Ohio,Akron
+322872390,Miami,North Carolina
+322872439,UNLV,Nevada
+322870258,Virginia,Maryland
+322872050,Ball State,Western Michigan
+322870026,UCLA,Utah
+322870189,Bowling Green,Miami (OH)
+322870242,Rice,Texas San Antonio
+322872459,Northern Illinois,Buffalo
+322872305,Kansas,Oklahoma State
+322870023,San José State,Utah State
+322870151,East Carolina,Memphis
+322872229,Florida Intl,Middle Tennessee
+322870021,San Diego State,Colorado State
+322870008,Arkansas,Kentucky
+322870239,Baylor,TCU
+322870326,Texas State,Idaho
+322872032,Arkansas State,South Alabama
+322872751,Wyoming,Air Force
+322872116,UCF,Southern Mississippi
+322872433,Louisiana Monroe,Florida Atlantic
+322870265,Washington State,California
+322870062,Hawai'i,New Mexico

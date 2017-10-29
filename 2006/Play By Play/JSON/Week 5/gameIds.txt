@@ -1,0 +1,54 @@
+262692116,UCF,Southern Mississippi
+262712579,South Carolina,Auburn
+262712628,TCU,BYU
+262720058,South Florida,Rutgers
+262732294,Iowa,Ohio State
+262730265,Washington State,USC
+262730057,Florida,Alabama
+262730135,Minnesota,Michigan
+262730251,Texas,Sam Houston State
+262730099,LSU,Mississippi State
+262730145,Ole Miss,Georgia
+262730259,Virginia Tech,Georgia Tech
+262730087,Notre Dame,Purdue
+262730009,Arizona State,Oregon
+262730235,Memphis,Tennessee
+262730228,Clemson,Louisiana Tech
+262730204,Oregon State,California
+262730158,Nebraska,Kansas
+262730254,Utah,Boise State
+262730142,Missouri,Colorado
+262730041,Connecticut,Navy
+262730084,Indiana,Wisconsin
+262730127,Michigan State,Illinois
+262730150,Duke,Virginia
+262730221,Pittsburgh,Toledo
+262730103,Boston College,Maine
+262730183,Syracuse,Wyoming
+262730195,Ohio,Bowling Green
+262732005,Air Force,New Mexico
+262732309,Kent State,Akron
+262730328,Utah State,Idaho
+262730349,Army,Rice
+262730213,Penn State,Northwestern
+262732132,Cincinnati,Miami (OH)
+262730245,Texas A&M,Texas Tech
+262730154,Wake Forest,Liberty
+262730309,Louisiana Lafayette,Eastern Michigan
+262732229,Florida Intl,Arkansas State
+262732390,Miami,Houston
+262730023,San José State,San Diego State
+262730096,Kentucky,Central Michigan
+262732050,Ball State,Northern Illinois
+262732433,Louisiana Monroe,Florida Atlantic
+262730066,Iowa State,Northern Iowa
+262730005,UAB,Troy
+262730249,North Texas,Middle Tennessee
+262730238,Vanderbilt,Temple
+262730239,Baylor,Kansas State
+262732655,Tulane,SMU
+262732638,UTEP,New Mexico State
+262732439,UNLV,Nevada
+262730278,Fresno State,Colorado State
+262730012,Arizona,Washington
+262730026,UCLA,Stanford

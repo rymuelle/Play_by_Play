@@ -1,0 +1,56 @@
+303200218,Temple,Ohio
+303212006,Akron,Miami (OH)
+303212649,Toledo,Bowling Green
+303220333,Alabama,Georgia State
+303220264,Washington,UCLA
+303222439,UNLV,Air Force
+303230068,Boise State,Fresno State
+303240099,LSU,Ole Miss
+303240025,California,Stanford
+303240130,Michigan,Wisconsin
+303240245,Texas A&M,Nebraska
+303242294,Iowa,Ohio State
+303242305,Kansas,Oklahoma State
+303240127,Michigan State,Purdue
+303240344,Mississippi State,Arkansas
+303240239,Baylor,Oklahoma
+303240066,Iowa State,Missouri
+303242390,Miami,Virginia Tech
+303242579,South Carolina,Troy
+303242440,Nevada,New Mexico State
+303240021,San Diego State,Utah
+303240120,Maryland,Florida State
+303240058,South Florida,Pittsburgh
+303240084,Indiana,Penn State
+303240097,Louisville,West Virginia
+303240153,North Carolina,NC State
+303240103,Boston College,Virginia
+303242050,Ball State,Northern Illinois
+303240057,Florida,Appalachian State
+303240242,Rice,East Carolina
+303240059,Georgia Tech,Duke
+303240202,Tulsa,UTEP
+303240154,Wake Forest,Clemson
+303242711,Western Michigan,Kent State
+303242751,Wyoming,Colorado State
+303242084,Buffalo,Eastern Michigan
+303240038,Colorado,Kansas State
+303242567,SMU,Marshall
+303242641,Texas Tech,Weber State
+303240328,Utah State,Idaho
+303240251,Texas,Florida Atlantic
+303242426,Navy,Arkansas State
+303242433,Louisiana Monroe,North Texas
+303242655,Tulane,UCF
+303240077,Northwestern,Illinois
+303240005,UAB,Memphis
+303240098,Western Kentucky,Middle Tennessee
+303240252,BYU,New Mexico
+303240309,Louisiana Lafayette,Florida Intl
+303240183,Syracuse,Connecticut
+303240087,Notre Dame,Army
+303240238,Vanderbilt,Tennessee
+303242132,Cincinnati,Rutgers
+303242572,Southern Mississippi,Houston
+303240204,Oregon State,USC
+303240062,Hawaii,San José State

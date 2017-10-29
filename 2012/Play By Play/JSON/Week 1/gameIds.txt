@@ -1,0 +1,76 @@
+322430238,Vanderbilt,South Carolina
+322432006,Akron,UCF
+322432050,Ball State,Eastern Michigan
+322432117,Central Michigan,Southeast Missouri State
+322432309,Kent State,Towson
+322430254,Utah,Northern Colorado
+322430242,Rice,UCLA
+322430041,Connecticut,Massachusetts
+322432393,Middle Tennessee,McNeese State
+322430166,New Mexico State,Sacramento State
+322430328,Utah State,Southern Utah
+322430070,Idaho,Eastern Washington
+322430252,BYU,Washington State
+322430009,Arizona State,Northern Arizona
+322432439,UNLV,Minnesota
+322440127,Michigan State,Boise State
+322440024,Stanford,San José State
+322440218,Temple,Villanova
+322442633,Tennessee,NC State
+322442226,Florida Atlantic,Wagner
+322450030,USC,Hawai'i
+322450333,Alabama,Michigan
+322450099,LSU,North Texas
+322452638,UTEP,Oklahoma
+322452483,Oregon,Arkansas State
+322450061,Georgia,Buffalo
+322450052,Florida State,Murray State
+322450008,Arkansas,Jacksonville State
+322450277,West Virginia,Marshall
+322450275,Wisconsin,Northern Iowa
+322450002,Auburn,Clemson
+322450251,Texas,Wyoming
+322450158,Nebraska,Southern Mississippi
+322450194,Ohio State,Miami (OH)
+322450197,Oklahoma State,Savannah State
+322452306,Kansas State,Missouri State
+322450057,Florida,Bowling Green
+322452426,Navy,Notre Dame
+322450356,Illinois,Western Michigan
+322450183,Syracuse,Northwestern
+322450151,East Carolina,Appalachian State
+322450213,Penn State,Ohio
+322450005,UAB,Troy
+322450153,North Carolina,Elon
+322452005,Air Force,Idaho State
+322450006,South Alabama,Texas San Antonio
+322450025,California,Nevada
+322450258,Virginia,Richmond
+322450120,Maryland,William & Mary
+322450103,Boston College,Miami
+322452459,Northern Illinois,Iowa
+322450066,Iowa State,Tulsa
+322452509,Purdue,Eastern Kentucky
+322450038,Colorado,Colorado State
+322450167,New Mexico,Southern
+322450154,Wake Forest,Liberty
+322450221,Pittsburgh,Youngstown State
+322450235,Memphis,Tennessee-Martin
+322450098,Western Kentucky,Austin Peay
+322450142,Missouri,Southeastern Louisiana
+322450145,Ole Miss,Central Arkansas
+322450150,Duke,Florida Intl
+322450309,Louisiana Lafayette,Lamar
+322452305,Kansas,South Dakota State
+322450058,South Florida,Chattanooga
+322450344,Mississippi State,Jackson State
+322452641,Texas Tech,Northwestern State
+322450084,Indiana,Indiana State
+322450248,Houston,Texas State
+322452655,Tulane,Rutgers
+322450278,Fresno State,Weber State
+322450264,Washington,San Diego State
+322450012,Arizona,Toledo
+322460097,Louisville,Kentucky
+322460239,Baylor,SMU
+322470259,Virginia Tech,Georgia Tech

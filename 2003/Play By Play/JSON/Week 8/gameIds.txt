@@ -1,0 +1,55 @@
+232822579,South Carolina,Kentucky
+232820252,BYU,Colorado State
+232840135,Minnesota,Michigan
+232830058,South Florida,TCU
+232840251,Texas,Oklahoma
+232840052,Florida State,Miami
+232840275,Wisconsin,Ohio State
+232840259,Virginia Tech,Syracuse
+232840099,LSU,Florida
+232840008,Arkansas,Auburn
+232842633,Tennessee,Georgia
+232840030,USC,Stanford
+232840142,Missouri,Nebraska
+232840221,Pittsburgh,Notre Dame
+232842117,Central Michigan,Northern Illinois
+232842509,Purdue,Penn State
+232840356,Illinois,Michigan State
+232840197,Oklahoma State,Kansas State
+232840228,Clemson,Virginia
+232840277,West Virginia,Rutgers
+232840084,Indiana,Northwestern
+232840152,NC State,Connecticut
+232840245,Texas A&M,Baylor
+232840238,Vanderbilt,Navy
+232840193,Miami (OH),Buffalo
+232840195,Ohio,UCF
+232840145,Ole Miss,Arkansas State
+232842711,Western Michigan,Bowling Green
+232840344,Mississippi State,Memphis
+232842655,Tulane,Houston
+232842005,Air Force,UNLV
+232842393,Middle Tennessee,New Mexico State
+232840333,Alabama,Southern Mississippi
+232840097,Louisville,Army
+232840009,Arizona State,Oregon
+232840038,Colorado,Kansas
+232840151,East Carolina,North Carolina
+232840154,Wake Forest,Georgia Tech
+232840218,Temple,Boston College
+232840264,Washington,Nevada
+232840005,UAB,Cincinnati
+232840276,Marshall,Kent State
+232840309,Louisiana Lafayette,Louisiana Monroe
+232842006,Akron,Cal Poly
+232840120,Maryland,Duke
+232840254,Utah,San Diego State
+232840070,Idaho,North Texas
+232840012,Arizona,UCLA
+232842641,Texas Tech,Iowa State
+232842649,Toledo,Eastern Michigan
+232840328,Utah State,Wyoming
+232840068,Boise State,Tulsa
+232842638,UTEP,Louisiana Tech
+232840023,San José State,SMU
+232840062,Hawaii,Fresno State

@@ -1,0 +1,16 @@
+400926942,Washington,Colorado
+400926941,Ohio,Western Michigan
+400926943,Florida,Alabama
+400926944,Virginia Tech,Clemson
+400926946,Penn State,Wisconsin
+400869618,Oklahoma,Oklahoma State
+400868886,West Virginia,Baylor
+400926947,Navy,Temple
+400869611,TCU,Kansas State
+400869856,Georgia Southern,Troy
+400926948,Western Kentucky,Louisiana Tech
+400869859,South Alabama,New Mexico State
+400869858,Louisiana Monroe,Louisiana Lafayette
+400869857,Idaho,Georgia State
+400869855,Texas State,Arkansas State
+400926949,Wyoming,San Diego State

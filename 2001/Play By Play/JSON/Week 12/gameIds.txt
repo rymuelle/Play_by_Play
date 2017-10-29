@@ -1,0 +1,55 @@
+213102649,Toledo,Western Michigan
+213120036,Colorado State,Air Force
+213140158,Nebraska,Kansas State
+213140103,Boston College,Miami
+213140201,Oklahoma,Texas A&M
+213142633,Tennessee,Memphis
+213140251,Texas,Kansas
+213140026,UCLA,Oregon
+213142579,South Carolina,Florida
+213140204,Oregon State,Washington
+213140009,Arizona State,Washington State
+213140130,Michigan,Minnesota
+213140012,Arizona,Stanford
+213140356,Illinois,Penn State
+213142751,Wyoming,BYU
+213140052,Florida State,NC State
+213140120,Maryland,Clemson
+213140041,Connecticut,Utah State
+213140153,North Carolina,Wake Forest
+213140183,Syracuse,West Virginia
+213140193,Miami (OH),Marshall
+213140218,Temple,Virginia Tech
+213142426,Navy,Tulane
+213140194,Ohio State,Purdue
+213140127,Michigan State,Indiana
+213140077,Northwestern,Iowa
+213140333,Alabama,Mississippi State
+213140349,Army,Buffalo
+213142050,Ball State,Kent State
+213142117,Central Michigan,Eastern Michigan
+213140195,Ohio,Bowling Green
+213140164,Rutgers,Pittsburgh
+213140238,Vanderbilt,Kentucky
+213140197,Oklahoma State,Texas Tech
+213140142,Missouri,Baylor
+213140097,Louisville,Houston
+213140008,Arkansas,UCF
+213142567,Southern Methodist,Fresno State
+213140254,Utah,San Diego State
+213140242,Rice,Tulsa
+213140025,California,USC
+213140061,Georgia,Auburn
+213140258,Virginia,Georgia Tech
+213142132,Cincinnati,East Carolina
+213140249,North Texas,Louisiana-Lafayette
+213140166,New Mexico State,Arkansas State
+213140005,UAB,TCU
+213140023,San Jose State,Nevada
+213140066,Iowa State,Colorado
+213140058,South Florida,Western Illinois
+213140167,New Mexico,UNLV
+213142433,Louisiana-Monroe,Troy
+213140099,LSU,Middle Tennessee
+213142638,UTEP,Louisiana Tech
+213140062,Hawaii,Boise State

@@ -1,0 +1,49 @@
+332880098,Western Kentucky,Louisiana Lafayette
+332900153,North Carolina,Miami
+332910097,Louisville,UCF
+332920333,Alabama,Arkansas
+332922483,Oregon,Washington State
+332920228,Clemson,Florida State
+332920194,Ohio State,Iowa
+332920145,Ole Miss,LSU
+332920245,Texas A&M,Auburn
+332920024,Stanford,UCLA
+332922633,Tennessee,South Carolina
+332920239,Baylor,Iowa State
+332920142,Missouri,Florida
+332920238,Vanderbilt,Georgia
+332920277,West Virginia,Texas Tech
+332920278,Fresno State,UNLV
+332922305,Kansas,Oklahoma
+332920009,Arizona State,Washington
+332920197,Oklahoma State,TCU
+332922117,Central Michigan,Northern Illinois
+332920356,Illinois,Wisconsin
+332920077,Northwestern,Minnesota
+332920127,Michigan State,Purdue
+332920151,East Carolina,Southern Mississippi
+332920235,Memphis,SMU
+332922132,Cincinnati,Connecticut
+332922649,Toledo,Navy
+332920059,Georgia Tech,Syracuse
+332920193,Miami (OH),Akron
+332920218,Temple,Army
+332922199,Eastern Michigan,Ohio
+332922711,Western Michigan,Ball State
+332922751,Wyoming,Colorado State
+332920038,Colorado,Charleston Southern
+332920006,South Alabama,Kent State
+332920154,Wake Forest,Maryland
+332920130,Michigan,Indiana
+332920248,Houston,BYU
+332920258,Virginia,Duke
+332922084,Buffalo,Massachusetts
+332922348,Louisiana Tech,North Texas
+332920326,Texas State,Georgia State
+332920221,Pittsburgh,Old Dominion
+332920087,Notre Dame,USC
+332920166,New Mexico State,Rice
+332920068,Boise State,Nevada
+332920167,New Mexico,Utah State
+332920012,Arizona,Utah
+332920025,California,Oregon State

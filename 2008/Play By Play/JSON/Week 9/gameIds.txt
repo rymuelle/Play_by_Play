@@ -1,0 +1,50 @@
+282950218,Temple,Ohio
+282970277,West Virginia,Auburn
+282972005,Air Force,New Mexico
+282980023,San José State,Boise State
+282990251,Texas,Oklahoma State
+282992633,Tennessee,Alabama
+282990194,Ohio State,Penn State
+282992306,Kansas State,Oklahoma
+282990012,Arizona,USC
+282990099,LSU,Georgia
+282992305,Kansas,Texas Tech
+282990057,Florida,Kentucky
+282992628,TCU,Wyoming
+282990142,Missouri,Colorado
+282990097,Louisville,South Florida
+282990221,Pittsburgh,Rutgers
+282990059,Georgia Tech,Virginia
+282992050,Ball State,Eastern Michigan
+282990252,BYU,UNLV
+282990084,Indiana,Northwestern
+282992509,Purdue,Minnesota
+282990052,Florida State,Virginia Tech
+282990041,Connecticut,Cincinnati
+282990153,North Carolina,Boston College
+282990275,Wisconsin,Illinois
+282992390,Miami,Wake Forest
+282992649,Toledo,Central Michigan
+282990158,Nebraska,Baylor
+282990349,Army,Louisiana Tech
+282990328,Utah State,Fresno State
+282990238,Vanderbilt,Duke
+282992655,Tulane,Rice
+282992426,Navy,SMU
+282990193,Miami (OH),Kent State
+282990120,Maryland,NC State
+282990130,Michigan,Michigan State
+282990025,California,UCLA
+282992459,Northern Illinois,Bowling Green
+282990070,Idaho,New Mexico State
+282990066,Iowa State,Texas A&M
+282990008,Arkansas,Ole Miss
+282990344,Mississippi State,Middle Tennessee
+282990249,North Texas,Troy
+282992433,Louisiana Monroe,Florida Atlantic
+282990235,Memphis,Southern Mississippi
+282990264,Washington,Notre Dame
+282990021,San Diego State,Colorado State
+282990009,Arizona State,Oregon
+282990062,Hawaii,Nevada
+283000202,Tulsa,UCF

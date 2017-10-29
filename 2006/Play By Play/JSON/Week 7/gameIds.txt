@@ -1,0 +1,55 @@
+262850228,Temple,Clemson
+262850103,Boston College,Virginia Tech
+262852226,Florida Atlantic,Southern Utah
+262852005,Air Force,Colorado State
+262862116,UCF,Pittsburgh
+262870127,Michigan State,Ohio State
+262870002,Auburn,Florida
+262870030,USC,Arizona State
+262870213,Penn State,Michigan
+262870277,West Virginia,Syracuse
+262870251,Texas,Baylor
+262870097,Louisville,Cincinnati
+262870265,Washington State,California
+262870099,LSU,Kentucky
+262870084,Indiana,Iowa
+262870061,Georgia,Vanderbilt
+262870008,Arkansas,Southeast Missouri State
+262872483,Oregon,UCLA
+262870245,Texas A&M,Missouri
+262872306,Kansas State,Nebraska
+262870201,Oklahoma,Iowa State
+262872426,Navy,Rutgers
+262870275,Wisconsin,Minnesota
+262870077,Northwestern,Purdue
+262870041,Connecticut,Army
+262870152,NC State,Wake Forest
+262870153,North Carolina,South Florida
+262870150,Duke,Florida State
+262872084,Buffalo,Miami (OH)
+262872117,Central Michigan,Ball State
+262872711,Western Michigan,Northern Illinois
+262872305,Kansas,Oklahoma State
+262870235,Memphis,Arkansas State
+262870344,Mississippi State,Jacksonville State
+262872751,Wyoming,Utah
+262872567,SMU,Marshall
+262870151,East Carolina,Tulsa
+262870333,Alabama,Ole Miss
+262870258,Virginia,Maryland
+262870038,Colorado,Texas Tech
+262872653,Troy,Louisiana Monroe
+262872309,Kent State,Toledo
+262870189,Bowling Green,Eastern Michigan
+262870278,Fresno State,Hawaii
+262870024,Stanford,Arizona
+262870023,San José State,Utah State
+262870264,Washington,Oregon State
+262872348,Louisiana Tech,Idaho
+262872390,Miami,Florida Intl
+262870356,Illinois,Ohio
+262872572,Southern Mississippi,Houston
+262870242,Rice,UAB
+262872638,UTEP,Tulane
+262872439,UNLV,New Mexico
+262880166,New Mexico State,Boise State

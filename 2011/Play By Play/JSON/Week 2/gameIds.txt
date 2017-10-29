@@ -1,0 +1,65 @@
+312510197,Oklahoma State,Arizona
+312520009,Arizona State,Missouri
+312520097,Louisville,Florida Intl
+312530099,LSU,Northwestern State
+312530213,Penn State,Alabama
+312530052,Florida State,Charleston Southern
+312530150,Duke,Stanford
+312530275,Wisconsin,Oregon State
+312530158,Nebraska,Fresno State
+312530151,East Carolina,Virginia Tech
+312530061,Georgia,South Carolina
+312532483,Oregon,Nevada
+312530008,Arkansas,New Mexico
+312530194,Ohio State,Toledo
+312530002,Auburn,Mississippi State
+312530127,Michigan State,Florida Atlantic
+312530057,Florida,UAB
+312530277,West Virginia,Norfolk State
+312530058,South Florida,Ball State
+312530251,Texas,BYU
+312532005,Air Force,TCU
+312530066,Iowa State,Iowa
+312530096,Kentucky,Central Michigan
+312530349,Army,San Diego State
+312530356,Illinois,South Dakota State
+312530153,North Carolina,Rutgers
+312530221,Pittsburgh,Maine
+312532199,Eastern Michigan,Alabama State
+312530036,Colorado State,Northern Colorado
+312530038,Colorado,California
+312530077,Northwestern,Eastern Illinois
+312530228,Clemson,Wofford
+312530154,Wake Forest,NC State
+312530135,Minnesota,New Mexico State
+312530276,Marshall,Southern Mississippi
+312530242,Rice,Purdue
+312530264,Washington,Hawaii
+312532633,Tennessee,Cincinnati
+312532655,Tulane,Tulsa
+312530183,Syracuse,Rhode Island
+312530070,Idaho,North Dakota
+312530265,Washington State,UNLV
+312532006,Akron,Temple
+312532751,Wyoming,Texas State
+312532084,Buffalo,Stony Brook
+312530145,Ole Miss,Southern Illinois
+312530098,Western Kentucky,Navy
+312530189,Bowling Green,Morgan State
+312530195,Ohio,Gardner-Webb
+312530084,Indiana,Virginia
+312532567,SMU,UTEP
+312532711,Western Michigan,Nicholls State
+312532032,Arkansas State,Memphis
+312532305,Kansas,Northern Illinois
+312532309,Kent State,Louisiana Lafayette
+312532348,Louisiana Tech,Central Arkansas
+312532393,Middle Tennessee,Georgia Tech
+312532433,Louisiana Monroe,Grambling State
+312530249,North Texas,Houston
+312530030,USC,Utah
+312530238,Vanderbilt,Connecticut
+312530130,Michigan,Notre Dame
+312530328,Utah State,Weber State
+312532116,UCF,Boston College
+312530026,UCLA,San José State

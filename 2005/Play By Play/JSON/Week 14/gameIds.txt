@@ -1,0 +1,12 @@
+253352459,Northern Illinois,Akron
+253360278,Fresno State,Louisiana Tech
+253370030,USC,UCLA
+253370251,Colorado,Texas
+253370099,LSU,Georgia
+253370259,Florida State,Virginia Tech
+253370058,South Florida,West Virginia
+253370041,Connecticut,Louisville
+253372116,UCF,Tulsa
+253370349,Army,Navy
+253372229,Florida Intl,Middle Tennessee
+253370062,Hawaii,San Diego State

@@ -1,0 +1,59 @@
+252582628,TCU,Utah
+252592638,UTEP,Houston
+252600030,USC,Arkansas
+252600251,Texas,Rice
+252600259,Virginia Tech,Ohio
+252600057,Florida,Tennessee
+252600061,Georgia,Louisiana Monroe
+252600103,Boston College,Florida State
+252600194,Ohio State,San Diego State
+252600087,Notre Dame,Michigan State
+252600097,Louisville,Oregon State
+252600012,Arizona,Purdue
+252600228,Clemson,Miami
+252600130,Michigan,Eastern Michigan
+252600025,California,Illinois
+252600059,Georgia Tech,Connecticut
+252600009,Arizona State,Northwestern
+252602641,Texas Tech,Sam Houston State
+252600026,UCLA,Oklahoma
+252602294,Iowa,Northern Iowa
+252602483,Oregon,Fresno State
+252600183,Syracuse,Virginia
+252600120,Maryland,West Virginia
+252600238,Vanderbilt,Ole Miss
+252600245,Texas A&M,SMU
+252600218,Temple,Toledo
+252600150,Duke,VMI
+252600142,Missouri,Troy
+252602005,Air Force,Wyoming
+252600002,Auburn,Ball State
+252600349,Army,Baylor
+252600264,Washington,Idaho
+252602579,South Carolina,Alabama
+252600158,Nebraska,Pittsburgh
+252600213,Penn State,Central Michigan
+252602309,Kent State,Miami (OH)
+252602459,Northern Illinois,Tennessee Tech
+252602393,Middle Tennessee,Akron
+252600152,NC State,Eastern Kentucky
+252600154,Wake Forest,East Carolina
+252600084,Indiana,Kentucky
+252600058,South Florida,UCF
+252600005,UAB,Jacksonville State
+252600249,North Texas,Tulsa
+252600153,North Carolina,Wisconsin
+252602305,Kansas,Louisiana Tech
+252602572,Southern Mississippi,McNeese State
+252600265,Washington State,Grambling State
+252602132,Cincinnati,Western Carolina
+252602711,Western Michigan,Southern Illinois
+252600197,Oklahoma State,Arkansas State
+252600167,New Mexico,New Mexico State
+252600235,Memphis,Chattanooga
+252602084,Buffalo,Rutgers
+252600309,Louisiana Lafayette,Northwestern State
+252602655,Tulane,Mississippi State
+252600135,Minnesota,Florida Atlantic
+252600024,Stanford,UC Davis
+252602440,Nevada,UNLV

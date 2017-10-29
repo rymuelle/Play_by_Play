@@ -1,0 +1,57 @@
+282610097,Louisville,Kansas State
+282620038,Colorado,West Virginia
+282630041,Connecticut,Baylor
+282640009,Arizona State,Georgia
+282642633,Tennessee,Florida
+282640142,Missouri,Buffalo
+282640002,Auburn,LSU
+282640251,Texas,Rice
+282640008,Arkansas,Alabama
+282642641,Texas Tech,Massachusetts
+282642229,Florida Intl,South Florida
+282640194,Ohio State,Troy
+282640252,BYU,Wyoming
+282640152,NC State,East Carolina
+282640213,Penn State,Temple
+282642483,Oregon,Boise State
+282640052,Florida State,Wake Forest
+282642305,Kansas,Sam Houston State
+282642005,Air Force,Utah
+282640228,Clemson,South Carolina State
+282642649,Toledo,Fresno State
+282640059,Georgia Tech,Mississippi State
+282640135,Minnesota,Florida Atlantic
+282640221,Pittsburgh,Iowa
+282642509,Purdue,Central Michigan
+282640077,Northwestern,Ohio
+282640103,Boston College,UCF
+282640120,Maryland,Eastern Michigan
+282640349,Army,Akron
+282642459,Northern Illinois,Indiana State
+282642655,Tulane,Louisiana Monroe
+282640026,UCLA,Arizona
+282640036,Colorado State,Houston
+282640127,Michigan State,Notre Dame
+282640245,Texas A&M,Miami
+282640153,North Carolina,Virginia Tech
+282640183,Syracuse,Northeastern
+282642426,Navy,Rutgers
+282642572,Southern Mississippi,Marshall
+282640005,UAB,Alabama State
+282640328,Utah State,Idaho
+282642348,Louisiana Tech,Southeastern Louisiana
+282642579,South Carolina,Wofford
+282642032,Arkansas State,Middle Tennessee
+282640265,Washington State,Portland State
+282640309,Louisiana Lafayette,Kent State
+282640145,Ole Miss,Vanderbilt
+282640084,Indiana,Ball State
+282640098,Western Kentucky,Murray State
+282640202,Tulsa,New Mexico
+282642711,Western Michigan,Tennessee Tech
+282642132,Cincinnati,Miami (OH)
+282640235,Memphis,Nicholls State
+282642567,SMU,TCU
+282642439,UNLV,Iowa State
+282640024,Stanford,San José State
+282642638,UTEP,New Mexico State

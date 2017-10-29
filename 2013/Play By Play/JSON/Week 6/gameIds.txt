@@ -1,0 +1,56 @@
+332760254,Utah,UCLA
+332760066,Iowa State,Texas
+332762433,Louisiana Monroe,Western Kentucky
+332770328,Utah State,BYU
+332770021,San Diego State,Nevada
+332780333,Alabama,Georgia State
+332780038,Colorado,Oregon
+332780183,Syracuse,Clemson
+332780077,Northwestern,Ohio State
+332780024,Stanford,Washington
+332782633,Tennessee,Georgia
+332780218,Temple,Louisville
+332780052,Florida State,Maryland
+332780344,Mississippi State,LSU
+332780201,Oklahoma,TCU
+332782579,South Carolina,Kentucky
+332782390,Miami,Georgia Tech
+332780239,Baylor,West Virginia
+332780057,Florida,Arkansas
+332780130,Michigan,Minnesota
+332782305,Kansas,Texas Tech
+332780197,Oklahoma State,Kansas State
+332780087,Notre Dame,Arizona State
+332780070,Idaho,Fresno State
+332780002,Auburn,Ole Miss
+332782426,Navy,Air Force
+332782567,SMU,Rutgers
+332782084,Buffalo,Eastern Michigan
+332782294,Iowa,Michigan State
+332780084,Indiana,Penn State
+332780158,Nebraska,Illinois
+332780258,Virginia,Ball State
+332780259,Virginia Tech,North Carolina
+332780103,Boston College,Army
+332780193,Miami (OH),Central Michigan
+332782653,Troy,South Alabama
+332782006,Akron,Ohio
+332780276,Marshall,Texas San Antonio
+332780005,UAB,Florida Atlantic
+332782649,Toledo,Western Michigan
+332782655,Tulane,North Texas
+332780202,Tulsa,Rice
+332782309,Kent State,Northern Illinois
+332782393,Middle Tennessee,East Carolina
+332780154,Wake Forest,NC State
+332780189,Bowling Green,Massachusetts
+332780025,California,Washington State
+332782572,Southern Mississippi,Florida Intl
+332780235,Memphis,UCF
+332780295,Old Dominion,Liberty
+332780309,Louisiana Lafayette,Texas State
+332780167,New Mexico,New Mexico State
+332780058,South Florida,Cincinnati
+332782638,UTEP,Louisiana Tech
+332780238,Vanderbilt,Missouri
+332780062,Hawaii,San José State

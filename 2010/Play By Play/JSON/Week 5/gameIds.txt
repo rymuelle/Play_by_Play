@@ -1,0 +1,52 @@
+302730197,Oklahoma State,Texas A&M
+302740328,Utah State,BYU
+302750333,Alabama,Florida
+302750356,Illinois,Ohio State
+302750166,New Mexico State,Boise State
+302752483,Oregon,Stanford
+302750036,Colorado State,TCU
+302750201,Oklahoma,Texas
+302750002,Auburn,Louisiana Monroe
+302750127,Michigan State,Wisconsin
+302750099,LSU,Tennessee
+302750228,Clemson,Miami
+302752294,Iowa,Penn State
+302750030,USC,Washington
+302750084,Indiana,Michigan
+302750152,NC State,Virginia Tech
+302752439,UNLV,Nevada
+302750041,Connecticut,Vanderbilt
+302750135,Minnesota,Northwestern
+302750239,Baylor,Kansas
+302750258,Virginia,Florida State
+302750344,Mississippi State,Alcorn State
+302750349,Army,Temple
+302752199,Eastern Michigan,Ohio
+302750145,Ole Miss,Kentucky
+302750193,Miami (OH),Kent State
+302750164,Rutgers,Tulane
+302752711,Western Michigan,Idaho
+302752005,Air Force,Navy
+302752117,Central Michigan,Ball State
+302750026,UCLA,Washington State
+302750153,North Carolina,East Carolina
+302750189,Bowling Green,Buffalo
+302750221,Pittsburgh,Florida Intl
+302750167,New Mexico,UTEP
+302750120,Maryland,Duke
+302752006,Akron,Northern Illinois
+302750204,Oregon State,Arizona State
+302750066,Iowa State,Texas Tech
+302750235,Memphis,Tulsa
+302750242,Rice,SMU
+302750058,South Florida,Florida Atlantic
+302750154,Wake Forest,Georgia Tech
+302750038,Colorado,Georgia
+302752032,Arkansas State,Louisville
+302752649,Toledo,Wyoming
+302750249,North Texas,Louisiana Lafayette
+302750023,San José State,UC Davis
+302750103,Boston College,Notre Dame
+302752572,Southern Mississippi,Marshall
+302750278,Fresno State,Cal Poly
+302750062,Hawaii,Louisiana Tech

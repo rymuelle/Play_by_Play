@@ -1,0 +1,54 @@
+252930120,Maryland,Virginia Tech
+252932653,Troy,Florida Intl
+252952116,UCF,Tulane
+252940005,UAB,Southern Mississippi
+252950264,Washington,USC
+252950251,Texas,Texas Tech
+252940061,Georgia,Arkansas
+252950333,Alabama,Tennessee
+252950099,LSU,Auburn
+252950026,UCLA,Oregon State
+252950087,Notre Dame,BYU
+252950150,Duke,Florida State
+252950356,Illinois,Penn State
+252950084,Indiana,Ohio State
+252950012,Arizona,Oregon
+252950275,Wisconsin,Purdue
+252952005,Air Force,TCU
+252950127,Michigan State,Northwestern
+252950153,North Carolina,Virginia
+252950070,Idaho,Fresno State
+252950025,California,Washington State
+252950221,Pittsburgh,Syracuse
+252952132,Cincinnati,Louisville
+252952294,Iowa,Michigan
+252950228,Clemson,Temple
+252950142,Missouri,Nebraska
+252952309,Kent State,Northern Illinois
+252950145,Ole Miss,Kentucky
+252950195,Ohio,Ball State
+252950066,Iowa State,Oklahoma State
+252952306,Kansas State,Texas A&M
+252950344,Mississippi State,Houston
+252950036,Colorado State,Wyoming
+252950041,Connecticut,Rutgers
+252950202,Tulsa,SMU
+252952579,South Carolina,Vanderbilt
+252950154,Wake Forest,NC State
+252950235,Memphis,East Carolina
+252950189,Bowling Green,Western Michigan
+252952348,Louisiana Tech,North Texas
+252952393,Middle Tennessee,Louisiana Lafayette
+252950024,Stanford,Arizona State
+252950023,San José State,Hawaii
+252950242,Rice,Navy
+252952006,Akron,Army
+252952199,Eastern Michigan,Miami (OH)
+252950328,Utah State,Boise State
+252950201,Oklahoma,Baylor
+252950038,Colorado,Kansas
+252952032,Arkansas State,Florida Atlantic
+252952439,UNLV,Utah
+252952649,Toledo,Buffalo
+252952638,UTEP,Marshall
+252950021,San Diego State,New Mexico

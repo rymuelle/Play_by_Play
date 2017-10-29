@@ -1,0 +1,56 @@
+272750235,Memphis,Marshall
+272762572,Southern Mississippi,Rice
+272772579,South Carolina,Kentucky
+272780097,Louisville,Utah
+272790099,LSU,Florida
+272790030,USC,Stanford
+272792509,Purdue,Ohio State
+272790356,Illinois,Wisconsin
+272792226,Florida Atlantic,South Florida
+272790103,Boston College,Bowling Green
+272790251,Texas,Oklahoma
+272792633,Tennessee,Georgia
+272790183,Syracuse,West Virginia
+272790228,Clemson,Virginia Tech
+272790062,Hawaii,Utah State
+272790142,Missouri,Nebraska
+272790265,Washington State,Arizona State
+272790164,Rutgers,Cincinnati
+272792306,Kansas State,Kansas
+272790084,Indiana,Minnesota
+272790120,Maryland,Georgia Tech
+272790130,Michigan,Eastern Michigan
+272790153,North Carolina,Miami
+272792050,Ball State,Central Michigan
+272790127,Michigan State,Northwestern
+272790002,Auburn,Vanderbilt
+272790150,Duke,Wake Forest
+272790218,Temple,Northern Illinois
+272792084,Buffalo,Ohio
+272792751,Wyoming,TCU
+272790145,Ole Miss,Louisiana Tech
+272790344,Mississippi State,UAB
+272792309,Kent State,Miami (OH)
+272790333,Alabama,Houston
+272790213,Penn State,Iowa
+272790052,Florida State,NC State
+272792440,Nevada,Fresno State
+272790023,San José State,Idaho
+272790204,Oregon State,Arizona
+272790036,Colorado State,San Diego State
+272790239,Baylor,Colorado
+272790309,Louisiana Lafayette,North Texas
+272790349,Army,Tulane
+272790008,Arkansas,Chattanooga
+272792433,Louisiana Monroe,Arkansas State
+272792641,Texas Tech,Iowa State
+272792229,Florida Intl,Troy
+272792711,Western Michigan,Akron
+272792649,Toledo,Liberty
+272792393,Middle Tennessee,Virginia
+272790151,East Carolina,UCF
+272790245,Texas A&M,Oklahoma State
+272790026,UCLA,Notre Dame
+272792005,Air Force,UNLV
+272792638,UTEP,Tulsa
+272800068,Boise State,New Mexico State

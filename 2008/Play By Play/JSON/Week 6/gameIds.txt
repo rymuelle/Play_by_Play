@@ -1,0 +1,53 @@
+282742393,Middle Tennessee,Florida Atlantic
+282750068,Boise State,Louisiana Tech
+282760058,South Florida,Pittsburgh
+282760254,Utah,Oregon State
+282760005,UAB,Memphis
+282770328,Utah State,BYU
+282770276,Marshall,Cincinnati
+282780239,Baylor,Oklahoma
+282780333,Alabama,Kentucky
+282780158,Nebraska,Missouri
+282780038,Colorado,Texas
+282782509,Purdue,Penn State
+282782306,Kansas State,Texas Tech
+282780030,USC,Oregon
+282780008,Arkansas,Florida
+282780238,Vanderbilt,Auburn
+282780275,Wisconsin,Ohio State
+282780066,Iowa State,Kansas
+282780259,Virginia Tech,Western Kentucky
+282780197,Oklahoma State,Texas A&M
+282780278,Fresno State,Hawaii
+282780153,North Carolina,Connecticut
+282780059,Georgia Tech,Duke
+282780127,Michigan State,Iowa
+282780135,Minnesota,Indiana
+282780152,NC State,Boston College
+282780277,West Virginia,Rutgers
+282782309,Kent State,Akron
+282780166,New Mexico State,Alcorn State
+282780145,Ole Miss,South Carolina
+282780036,Colorado State,UNLV
+282782711,Western Michigan,Ohio
+282780087,Notre Dame,Stanford
+282782655,Tulane,Army
+282782390,Miami,Florida State
+282782116,UCF,SMU
+282780130,Michigan,Illinois
+282780025,California,Arizona State
+282780193,Miami (OH),Temple
+282780189,Bowling Green,Eastern Michigan
+282782005,Air Force,Navy
+282780070,Idaho,Nevada
+282782628,TCU,San Diego State
+282782633,Tennessee,Northern Illinois
+282782433,Louisiana Monroe,Louisiana Lafayette
+282782572,Southern Mississippi,UTEP
+282780249,North Texas,Florida Intl
+282780258,Virginia,Maryland
+282782649,Toledo,Ball State
+282780012,Arizona,Washington
+282780202,Tulsa,Rice
+282780167,New Mexico,Wyoming
+282780026,UCLA,Washington State

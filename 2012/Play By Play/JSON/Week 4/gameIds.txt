@@ -1,0 +1,60 @@
+322632084,Buffalo,Kent State
+322640068,Boise State,BYU
+322652433,Louisiana Monroe,Baylor
+322660333,Alabama,Florida Atlantic
+322660002,Auburn,LSU
+322662483,Oregon,Arizona
+322660052,Florida State,Clemson
+322660061,Georgia,Vanderbilt
+322660201,Oklahoma,Kansas State
+322662579,South Carolina,Missouri
+322660277,West Virginia,Maryland
+322660087,Notre Dame,Michigan
+322660030,USC,California
+322660057,Florida,Kentucky
+322660194,Ohio State,UAB
+322662628,TCU,Virginia
+322660026,UCLA,Oregon State
+322662229,Florida Intl,Louisville
+322660127,Michigan State,Eastern Michigan
+322660344,Mississippi State,South Alabama
+322660158,Nebraska,Idaho State
+322660193,Miami (OH),Massachusetts
+322660259,Virginia Tech,Bowling Green
+322660275,Wisconsin,UTEP
+322662294,Iowa,Central Michigan
+322662655,Tulane,Ole Miss
+322660154,Wake Forest,Army
+322660195,Ohio,Norfolk State
+322662636,Texas San Antonio,Northwestern Oklahoma State
+322662711,Western Michigan,Connecticut
+322660059,Georgia Tech,Miami
+322660077,Northwestern,South Dakota
+322660213,Penn State,Temple
+322660221,Pittsburgh,Gardner-Webb
+322660242,Rice,Marshall
+322660153,North Carolina,East Carolina
+322662426,Navy,VMI
+322662459,Northern Illinois,Kansas
+322660265,Washington State,Colorado
+322662050,Ball State,South Florida
+322660070,Idaho,Wyoming
+322660150,Duke,Memphis
+322660152,NC State,The Citadel
+322660098,Western Kentucky,Southern Mississippi
+322660245,Texas A&M,South Carolina State
+322660249,North Texas,Troy
+322660036,Colorado State,Utah State
+322660008,Arkansas,Rutgers
+322660326,Texas State,Stephen F Austin
+322662032,Arkansas State,Alcorn State
+322662649,Toledo,Coastal Carolina
+322662633,Tennessee,Akron
+322660202,Tulsa,Fresno State
+322660166,New Mexico State,New Mexico
+322660135,Minnesota,Syracuse
+322660021,San Diego State,San José State
+322660356,Illinois,Louisiana Tech
+322662439,UNLV,Air Force
+322660009,Arizona State,Utah
+322660062,Hawai'i,Nevada

@@ -1,0 +1,55 @@
+273050059,Georgia Tech,Virginia Tech
+273060195,Ohio,Temple
+273060189,Bowling Green,Akron
+273060166,New Mexico State,Nevada
+273070194,Ohio State,Wisconsin
+273070103,Boston College,Florida State
+273070333,Alabama,LSU
+273072483,Oregon,Arizona State
+273070201,Oklahoma,Texas A&M
+273072305,Kansas,Nebraska
+273070038,Colorado,Missouri
+273070061,Georgia,Troy
+273070127,Michigan State,Michigan
+273070041,Connecticut,Rutgers
+273070197,Oklahoma State,Texas
+273070002,Auburn,Tennessee Tech
+273070058,South Florida,Cincinnati
+273070030,USC,Oregon State
+273070057,Florida,Vanderbilt
+273070068,Boise State,San José State
+273070258,Virginia,Wake Forest
+273070150,Duke,Clemson
+273070077,Northwestern,Iowa
+273070084,Indiana,Ball State
+273070213,Penn State,Purdue
+273070221,Pittsburgh,Syracuse
+273072390,Miami,NC State
+273070066,Iowa State,Kansas State
+273070145,Ole Miss,Northwestern State
+273070235,Memphis,East Carolina
+273070236,Chattanooga,Western Kentucky
+273070252,BYU,Colorado State
+273070087,Notre Dame,Navy
+273070239,Baylor,Texas Tech
+273070242,Rice,UTEP
+273070193,Miami (OH),Buffalo
+273072032,Arkansas State,Florida Intl
+273072116,UCF,Marshall
+273072005,Air Force,Army
+273070012,Arizona,UCLA
+273070153,North Carolina,Maryland
+273072633,Tennessee,Louisiana Lafayette
+273070278,Fresno State,Utah State
+273070070,Idaho,Louisiana Tech
+273072628,TCU,New Mexico
+273070024,Stanford,Washington
+273072649,Toledo,Eastern Michigan
+273072433,Louisiana Monroe,Middle Tennessee
+273070005,UAB,Southern Mississippi
+273072655,Tulane,Tulsa
+273070008,Arkansas,South Carolina
+273070135,Minnesota,Illinois
+273070021,San Diego State,Wyoming
+273070025,California,Washington State
+273080248,Houston,SMU

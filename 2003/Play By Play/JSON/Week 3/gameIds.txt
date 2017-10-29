@@ -1,0 +1,65 @@
+232470005,UAB,Southern Mississippi
+232472199,Eastern Michigan,Western Illinois
+232480278,Fresno State,Oregon State
+232490333,Alabama,Oklahoma
+232490194,Ohio State,San Diego State
+232492390,Miami,Florida
+232490030,USC,BYU
+232490130,Michigan,Houston
+232492306,Kansas State,McNeese State
+232490061,Georgia,Middle Tennessee
+232490259,Virginia Tech,James Madison
+232490221,Pittsburgh,Kent State
+232490052,Florida State,Maryland
+232492633,Tennessee,Marshall
+232490012,Arizona,LSU
+232490154,Wake Forest,NC State
+232492579,South Carolina,Virginia
+232492509,Purdue,Bowling Green
+232490059,Georgia Tech,Auburn
+232490275,Wisconsin,Akron
+232490087,Notre Dame,Washington State
+232490009,Arizona State,Northern Arizona
+232490264,Washington,Indiana
+232490158,Nebraska,Utah State
+232490038,Colorado,UCLA
+232492628,TCU,Navy
+232490213,Penn State,Boston College
+232490235,Memphis,Ole Miss
+232490356,Illinois,Illinois State
+232492294,Iowa,Buffalo
+232492117,Central Michigan,New Hampshire
+232490349,Army,Connecticut
+232490077,Northwestern,Air Force
+232492459,Northern Illinois,Tennessee Tech
+232490153,North Carolina,Syracuse
+232490066,Iowa State,Ohio
+232492483,Oregon,Nevada
+232490127,Michigan State,Rutgers
+232490218,Temple,Villanova
+232492050,Ball State,Missouri
+232490228,Clemson,Furman
+232490150,Duke,Western Carolina
+232490025,California,Colorado State
+232490008,Arkansas,Tulsa
+232490096,Kentucky,Murray State
+232490058,South Florida,Nicholls State
+232490151,East Carolina,West Virginia
+232490197,Oklahoma State,Wyoming
+232490238,Vanderbilt,Chattanooga
+232492711,Western Michigan,William & Mary
+232492641,Texas Tech,New Mexico
+232492649,Toledo,Liberty
+232492305,Kansas,UNLV
+232492032,Arkansas State,Tennessee-Martin
+232490070,Idaho,Eastern Washington
+232490309,Louisiana Lafayette,Louisiana Tech
+232492433,Louisiana Monroe,Stephen F Austin
+232492655,Tulane,Northwestern State
+232490245,Texas A&M,Utah
+232490166,New Mexico State,Western New Mexico
+232490249,North Texas,Baylor
+232490068,Boise State,Idaho State
+232490135,Minnesota,Troy
+232492638,UTEP,Cal Poly
+232490024,Stanford,San José State

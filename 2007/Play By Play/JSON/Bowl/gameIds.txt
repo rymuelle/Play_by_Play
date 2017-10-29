@@ -1,0 +1,32 @@
+273542426,Navy,Utah
+273550235,Florida Atlantic,Memphis
+273560252,BYU,UCLA
+273562132,Cincinnati,Southern Mississippi
+273560167,New Mexico,Nevada
+273570151,East Carolina,Boise State
+273602117,Central Michigan,Purdue
+273610251,Texas,Arizona State
+273620127,Michigan State,Boston College
+273620248,Houston,TCU
+273620204,Oregon State,Maryland
+273630154,Wake Forest,Connecticut
+273630344,Mississippi State,UCF
+273630245,Texas A&M,Penn State
+273640038,Colorado,Alabama
+273650002,Auburn,Clemson
+273652483,Oregon,South Florida
+273652005,Air Force,California
+273650278,Fresno State,Georgia Tech
+273650052,Florida State,Kentucky
+273650197,Oklahoma State,Indiana
+280010061,Georgia,Hawai'i
+280010008,Arkansas,Missouri
+280010030,USC,Illinois
+280010057,Florida,Michigan
+280010275,Tennessee,Wisconsin
+280010258,Virginia,Texas Tech
+280020201,Oklahoma,West Virginia
+280030259,Virginia Tech,Kansas
+280050164,Ball State,Rutgers
+280060189,Tulsa,Bowling Green
+280070194,Ohio State,LSU

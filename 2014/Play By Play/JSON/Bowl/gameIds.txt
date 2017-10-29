@@ -1,0 +1,39 @@
+400610221,Colorado State,Utah
+400610197,Louisiana,Nevada
+400610202,UTEP,Utah State
+400610198,Air Force,Western Michigan
+400610201,Bowling Green,South Alabama
+400610225,Memphis,BYU
+400610203,Northern Illinois,Marshall
+400610199,San Diego State,Navy
+400610205,Western Kentucky,Central Michigan
+400610204,Rice,Fresno State
+400610222,Louisiana Tech,Illinois
+400610212,North Carolina,Rutgers
+400610209,UCF,NC State
+400610211,Duke,Arizona State
+400610220,USC,Nebraska
+400610207,Virginia Tech,Cincinnati
+400610216,South Carolina,Miami
+400610210,Penn State,Boston College
+400610208,Clemson,Oklahoma
+400610226,West Virginia,Texas A&M
+400610223,Texas,Arkansas
+400610215,Louisville,Georgia
+400610214,LSU,Notre Dame
+400610206,Stanford,Maryland
+400610182,TCU,Ole Miss
+400610180,Georgia Tech,Mississippi State
+400610181,Arizona,Boise State
+400610178,Ohio State,Alabama
+400610177,Florida State,Oregon
+400610179,Baylor,Michigan State
+400610217,Minnesota,Missouri
+400610219,Wisconsin,Auburn
+400610218,UCLA,Kansas State
+400610213,Pittsburgh,Houston
+400610224,Tennessee,Iowa
+400610227,Oklahoma State,Washington
+400610228,Florida,East Carolina
+400610200,Arkansas State,Toledo
+400610325,Ohio State,Oregon

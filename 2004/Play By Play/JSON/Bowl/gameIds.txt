@@ -1,0 +1,28 @@
+243492572,North Texas,Southern Mississippi
+243560059,Georgia Tech,Syracuse
+243570235,Memphis,Bowling Green
+243582132,Cincinnati,Marshall
+243582751,UCLA,Wyoming
+243590005,UAB,Hawai'i
+243620278,Fresno State,Virginia
+243622649,Connecticut,Toledo
+243630066,Iowa State,Miami (OH)
+243630087,Oregon State,Notre Dame
+243640197,Ohio State,Oklahoma State
+243642638,UTEP,Colorado
+243650025,California,Texas Tech
+243650153,North Carolina,Boston College
+243652426,Navy,New Mexico
+243652653,Northern Illinois,Troy
+243660097,Louisville,Boise State
+243660057,Florida,Miami
+243662509,Purdue,Arizona State
+243660135,Minnesota,Alabama
+250010221,Utah,Pittsburgh
+250010130,Texas,Michigan
+250010275,Wisconsin,Georgia
+250012294,Iowa,LSU
+250010245,Texas A&M,Tennessee
+250010277,West Virginia,Florida State
+250030259,Auburn,Virginia Tech
+250040030,Oklahoma,USC

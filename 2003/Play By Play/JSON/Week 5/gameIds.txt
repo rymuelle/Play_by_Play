@@ -1,0 +1,54 @@
+232610259,Virginia Tech,Texas A&M
+232610023,San José State,Nevada
+232632439,UNLV,Hawaii
+232630201,Oklahoma,UCLA
+232630103,Boston College,Miami
+232632483,Oregon,Michigan
+232630194,Ohio State,Bowling Green
+232632306,Kansas State,Marshall
+232630099,LSU,Georgia
+232632649,Toledo,Pittsburgh
+232630052,Florida State,Colorado
+232630057,Florida,Tennessee
+232630242,Rice,Texas
+232630008,Arkansas,North Texas
+232632294,Iowa,Arizona State
+232630264,Washington,Idaho
+232632628,TCU,Vanderbilt
+232630333,Alabama,Northern Illinois
+232630142,Missouri,Middle Tennessee
+232630265,Washington State,New Mexico
+232632509,Purdue,Arizona
+232630183,Syracuse,UCF
+232630152,NC State,Texas Tech
+232630275,Wisconsin,North Carolina
+232630356,Illinois,California
+232630213,Penn State,Kent State
+232632426,Navy,Eastern Michigan
+232632005,Air Force,Wyoming
+232632050,Ball State,Central Michigan
+232630150,Duke,Northwestern
+232630087,Notre Dame,Michigan State
+232630097,Louisville,UTEP
+232630036,Colorado State,Miami (OH)
+232630349,Army,Tulane
+232630084,Indiana,Kentucky
+232632084,Buffalo,Connecticut
+232630120,Maryland,West Virginia
+232630252,BYU,Stanford
+232630154,Wake Forest,East Carolina
+232630239,Baylor,Sam Houston State
+232630202,Tulsa,Arkansas State
+232630204,Oregon State,Boise State
+232630059,Georgia Tech,Clemson
+232632305,Kansas,Jacksonville State
+232632132,Cincinnati,Temple
+232632006,Akron,Howard
+232632567,SMU,Oklahoma State
+232632579,South Carolina,UAB
+232632653,Troy,Southeastern Louisiana
+232630021,San Diego State,Samford
+232630135,Minnesota,Louisiana Lafayette
+232630248,Houston,Mississippi State
+232632433,Louisiana Monroe,Northwestern State
+232630278,Fresno State,Louisiana Tech

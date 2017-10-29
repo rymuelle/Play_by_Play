@@ -1,0 +1,61 @@
+252512226,Florida Atlantic,Oklahoma State
+252520195,Ohio,Pittsburgh
+252522440,Nevada,Washington State
+252530194,Ohio State,Texas
+252530130,Michigan,Notre Dame
+252530099,Arizona State,LSU
+252530150,Duke,Virginia Tech
+252530066,Iowa State,Iowa
+252530061,Georgia,South Carolina
+252530057,Florida,Louisiana Tech
+252530052,Florida State,The Citadel
+252532509,Purdue,Akron
+252530264,Washington,California
+252530059,Georgia Tech,North Carolina
+252530201,Oklahoma,Tulsa
+252530103,Boston College,Army
+252532641,Texas Tech,Florida Intl
+252532567,SMU,TCU
+252530278,Fresno State,Weber State
+252530120,Maryland,Clemson
+252530276,Marshall,Kansas State
+252530275,Wisconsin,Temple
+252530213,Penn State,Cincinnati
+252530002,Auburn,Mississippi State
+252530041,Connecticut,Liberty
+252530193,Miami (OH),Central Michigan
+252530135,Minnesota,Colorado State
+252530356,Illinois,San José State
+252532005,Air Force,San Diego State
+252530252,BYU,Eastern Illinois
+252532751,Wyoming,Louisiana Monroe
+252532483,Oregon,Montana
+252530127,Michigan State,Hawaii
+252530164,Rutgers,Villanova
+252530183,Syracuse,Buffalo
+252530077,Northwestern,Northern Illinois
+252532309,Kent State,Southeast Missouri State
+252530084,Indiana,Nicholls State
+252530096,Kentucky,Idaho State
+252532199,Eastern Michigan,Louisiana Lafayette
+252530277,West Virginia,Wofford
+252532426,Navy,Stanford
+252530204,Oregon State,Boise State
+252530058,South Florida,Florida A&M
+252530008,Arkansas,Vanderbilt
+252530239,Baylor,Samford
+252530248,Houston,Sam Houston State
+252530142,Missouri,New Mexico
+252530158,Nebraska,Wake Forest
+252532649,Toledo,Western Michigan
+252532305,Kansas,Appalachian State
+252532393,Middle Tennessee,North Texas
+252532032,Arkansas State,Tennessee-Martin
+252530333,Alabama,Southern Mississippi
+252530254,Utah,Utah State
+252532050,Ball State,Bowling Green
+252532653,Troy,UAB
+252532439,UNLV,Idaho
+252530012,Arizona,Northern Arizona
+252530026,UCLA,Rice
+252530038,Colorado,New Mexico State

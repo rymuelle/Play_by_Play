@@ -1,0 +1,56 @@
+262912226,Florida Atlantic,Louisiana Lafayette
+262920258,Virginia,North Carolina
+262922117,Central Michigan,Bowling Green
+262920167,New Mexico,Utah
+262930041,Connecticut,West Virginia
+262940194,Ohio State,Indiana
+262940130,Michigan,Iowa
+262940158,Nebraska,Texas
+262940183,Syracuse,Louisville
+262942633,Tennessee,Alabama
+262940002,Auburn,Tulane
+262940087,Notre Dame,UCLA
+262940025,California,Washington
+262940228,Clemson,Georgia Tech
+262940099,LSU,Fresno State
+262940008,Arkansas,Ole Miss
+262940265,Washington State,Oregon
+262940070,Idaho,Boise State
+262940221,Pittsburgh,Rutgers
+262940201,Oklahoma,Colorado
+262942509,Purdue,Wisconsin
+262940052,Florida State,Boston College
+262940197,Oklahoma State,Texas A&M
+262940142,Missouri,Kansas State
+262940077,Northwestern,Michigan State
+262940120,Maryland,NC State
+262940213,Penn State,Illinois
+262940061,Georgia,Mississippi State
+262940150,Duke,Miami
+262940195,Ohio,Buffalo
+262942050,Ball State,Western Michigan
+262940151,East Carolina,SMU
+262940238,Vanderbilt,South Carolina
+262940252,BYU,UNLV
+262942199,Eastern Michigan,Toledo
+262940239,Baylor,Kansas
+262942459,Northern Illinois,Temple
+262940349,Army,TCU
+262940135,Minnesota,North Dakota State
+262940009,Arizona State,Stanford
+262940066,Iowa State,Texas Tech
+262942751,Wyoming,Colorado State
+262942116,UCF,Rice
+262942006,Akron,Miami (OH)
+262940248,Houston,UTEP
+262940259,Virginia Tech,Southern Mississippi
+262942348,Louisiana Tech,Utah State
+262942433,Louisiana Monroe,Middle Tennessee
+262942440,Nevada,San José State
+262940012,Arizona,Oregon State
+262940005,UAB,Marshall
+262942032,Arkansas State,North Texas
+262940235,Memphis,Tulsa
+262940166,New Mexico State,Hawaii
+262940021,San Diego State,Air Force
+262952132,Cincinnati,South Florida

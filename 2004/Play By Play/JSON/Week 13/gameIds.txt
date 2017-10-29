@@ -1,0 +1,46 @@
+243230259,Virginia Tech,Maryland
+243232032,Arkansas State,North Texas
+243250239,Baylor,Oklahoma
+243250333,Alabama,Auburn
+243250025,California,Stanford
+243250254,Utah,BYU
+243250194,Ohio State,Michigan
+243250248,Houston,Louisville
+243252294,Iowa,Wisconsin
+243250052,Florida State,Florida
+243252390,Miami,Wake Forest
+243250068,Boise State,Louisiana Tech
+243250099,LSU,Ole Miss
+243250238,Vanderbilt,Tennessee
+243250059,Georgia Tech,Virginia
+243250218,Temple,Boston College
+243252638,UTEP,SMU
+243250041,Connecticut,Buffalo
+243250077,Northwestern,Illinois
+243250150,Duke,North Carolina
+243250213,Penn State,Michigan State
+243250228,Clemson,South Carolina
+243252306,Kansas State,Iowa State
+243252509,Purdue,Indiana
+243250349,Army,UAB
+243252117,Central Michigan,Ball State
+243252199,Eastern Michigan,Northern Illinois
+243252426,Navy,Rutgers
+243250151,East Carolina,Memphis
+243250142,Missouri,Kansas
+243250344,Mississippi State,Arkansas
+243252628,TCU,Southern Mississippi
+243250167,New Mexico,Wyoming
+243250202,Tulsa,San José State
+243252005,Air Force,Colorado State
+243250328,Utah State,New Mexico State
+243252132,Cincinnati,South Florida
+243250276,Marshall,Western Michigan
+243252006,Akron,Miami (OH)
+243250265,Washington State,Washington
+243250204,Oregon State,Oregon
+243252653,Troy,Middle Tennessee
+243252433,Louisiana Monroe,Louisiana Lafayette
+243250278,Fresno State,Nevada
+243250021,San Diego State,UNLV
+243250062,Hawaii,Idaho

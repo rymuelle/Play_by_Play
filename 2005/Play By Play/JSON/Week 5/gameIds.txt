@@ -1,0 +1,55 @@
+252700278,Fresno State,Toledo
+252710193,Miami (OH),Cincinnati
+252720036,Colorado State,Air Force
+252730164,Rutgers,Pittsburgh
+252740009,Arizona State,USC
+252740142,Missouri,Texas
+252740277,West Virginia,Virginia Tech
+252740344,Mississippi State,LSU
+252740333,Alabama,Florida
+252740052,Florida State,Syracuse
+252742390,Miami,South Florida
+252742633,Tennessee,Ole Miss
+252740127,Michigan State,Michigan
+252740025,California,Arizona
+252742509,Purdue,Notre Dame
+252742641,Texas Tech,Kansas
+252740275,Wisconsin,Indiana
+252730213,Penn State,Minnesota
+252740120,Maryland,Virginia
+252740026,UCLA,Washington
+252740103,Boston College,Ball State
+252740158,Nebraska,Iowa State
+252740097,Louisville,Florida Atlantic
+252740349,Army,Connecticut
+252742294,Iowa,Illinois
+252740245,Texas A&M,Baylor
+252740150,Duke,Navy
+252740153,North Carolina,Utah
+252742199,Eastern Michigan,Kent State
+252740197,Oklahoma State,Colorado
+252742751,Wyoming,UNLV
+252742655,Tulane,Southeastern Louisiana
+252740154,Wake Forest,Clemson
+252740189,Bowling Green,Temple
+252740276,Marshall,SMU
+252740204,Oregon State,Washington State
+252740070,Idaho,Utah State
+252740024,Stanford,Oregon
+252740050,Florida Intl,Florida A&M
+252740151,East Carolina,Southern Mississippi
+252742006,Akron,Central Michigan
+252742348,Louisiana Tech,New Mexico State
+252742711,Western Michigan,Buffalo
+252742628,TCU,New Mexico
+252742433,Louisiana Monroe,Arkansas State
+252740023,San José State,Nevada
+252740002,Auburn,South Carolina
+252740005,UAB,Rice
+252740238,Vanderbilt,Middle Tennessee
+252740201,Oklahoma,Kansas State
+252740202,Tulsa,Houston
+252740235,Memphis,UTEP
+252740309,Louisiana Lafayette,UCF
+252740021,San Diego State,BYU
+252740062,Hawaii,Boise State

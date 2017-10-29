@@ -1,0 +1,52 @@
+312912032,Arkansas State,Florida Intl
+312930005,UAB,UCF
+312930012,Arizona,UCLA
+312940183,Syracuse,West Virginia
+312940097,Louisville,Rutgers
+312950099,LSU,Auburn
+312950333,Alabama,Tennessee
+312950201,Oklahoma,Texas Tech
+312950142,Missouri,Oklahoma State
+312950068,Boise State,Air Force
+312950127,Michigan State,Wisconsin
+312950228,Clemson,North Carolina
+312950024,Stanford,Washington
+312950145,Ole Miss,Arkansas
+312950038,Colorado,Oregon
+312952305,Kansas,Kansas State
+312950259,Virginia Tech,Boston College
+312950135,Minnesota,Nebraska
+312950066,Iowa State,Texas A&M
+312950248,Houston,Marshall
+312950077,Northwestern,Penn State
+312952390,Miami,Georgia Tech
+312952509,Purdue,Illinois
+312950058,South Florida,Cincinnati
+312950096,Kentucky,Jacksonville State
+312952084,Buffalo,Northern Illinois
+312952294,Iowa,Indiana
+312950150,Duke,Wake Forest
+312952199,Eastern Michigan,Western Michigan
+312952050,Ball State,Central Michigan
+312952628,TCU,New Mexico
+312950252,BYU,Idaho State
+312950328,Utah State,Louisiana Tech
+312950258,Virginia,NC State
+312950189,Bowling Green,Temple
+312950052,Florida State,Maryland
+312952655,Tulane,Memphis
+312952006,Akron,Ohio
+312952426,Navy,East Carolina
+312950098,Western Kentucky,Louisiana Lafayette
+312952440,Nevada,Fresno State
+312950249,North Texas,Louisiana Monroe
+312950025,California,Utah
+312950238,Vanderbilt,Army
+312950242,Rice,Tulsa
+312952649,Toledo,Miami (OH)
+312950087,Notre Dame,USC
+312952638,UTEP,Colorado State
+312952572,Southern Mississippi,SMU
+312952226,Florida Atlantic,Middle Tennessee
+312950265,Washington State,Oregon State
+312950062,Hawaii,New Mexico State

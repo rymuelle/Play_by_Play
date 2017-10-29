@@ -1,0 +1,10 @@
+243370193,Miami (OH),Toledo
+243390026,UCLA,USC
+243390038,Oklahoma,Colorado
+243390002,Tennessee,Auburn
+243392572,Southern Mississippi,California
+243392655,Tulane,Louisville
+243392390,Miami,Virginia Tech
+243380058,South Florida,Pittsburgh
+243392426,Navy,Army
+243390062,Hawaii,Michigan State

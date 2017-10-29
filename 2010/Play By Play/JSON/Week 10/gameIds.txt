@@ -1,0 +1,55 @@
+303062032,Arkansas State,Middle Tennessee
+303070058,South Florida,Rutgers
+303080259,Virginia Tech,Georgia Tech
+303080195,Ohio,Buffalo
+303092117,Central Michigan,Western Michigan
+303090248,Houston,UCF
+303102483,Oregon,Washington
+303100002,Auburn,Chattanooga
+303100254,Utah,TCU
+303100068,Boise State,Hawaii
+303100099,LSU,Alabama
+303100066,Iowa State,Nebraska
+303100245,Texas A&M,Oklahoma
+303102509,Purdue,Wisconsin
+303102641,Texas Tech,Missouri
+303100024,Stanford,Arizona
+303100127,Michigan State,Minnesota
+303100084,Indiana,Iowa
+303100197,Oklahoma State,Baylor
+303102579,South Carolina,Arkansas
+303100070,Idaho,Nevada
+303100052,Florida State,North Carolina
+303100228,Clemson,NC State
+303100130,Michigan,Illinois
+303100150,Duke,Virginia
+303100183,Syracuse,Louisville
+303100349,Army,Air Force
+303102390,Miami,Maryland
+303100238,Vanderbilt,Florida
+303100096,Kentucky,Charleston Southern
+303100061,Georgia,Idaho State
+303102050,Ball State,Akron
+303102305,Kansas,Colorado
+303100252,BYU,UNLV
+303102309,Kent State,Temple
+303100202,Tulsa,Rice
+303100328,Utah State,New Mexico State
+303102655,Tulane,Southern Mississippi
+303100213,Penn State,Northwestern
+303100151,East Carolina,Navy
+303100154,Wake Forest,Boston College
+303102348,Louisiana Tech,Fresno State
+303100265,Washington State,California
+303100005,UAB,Marshall
+303100098,Western Kentucky,Florida Atlantic
+303100167,New Mexico,Wyoming
+303100145,Ole Miss,Louisiana Lafayette
+303100249,North Texas,Troy
+303100026,UCLA,Oregon State
+303102229,Florida Intl,Louisiana Monroe
+303102306,Kansas State,Texas
+303100235,Memphis,Tennessee
+303102638,UTEP,SMU
+303100021,San Diego State,Colorado State
+303100030,USC,Arizona State

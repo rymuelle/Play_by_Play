@@ -1,0 +1,49 @@
+283232309,Kent State,Northern Illinois
+283242117,Central Michigan,Ball State
+283250059,Georgia Tech,Miami
+283260189,Bowling Green,Buffalo
+283262649,Toledo,Miami (OH)
+283260023,San José State,Fresno State
+283270201,Oklahoma,Texas Tech
+283270057,Florida,The Citadel
+283270254,Utah,BYU
+283270213,Penn State,Michigan State
+283272440,Nevada,Boise State
+283270194,Ohio State,Michigan
+283272628,TCU,Air Force
+283270099,LSU,Ole Miss
+283272132,Cincinnati,Pittsburgh
+283270012,Arizona,Oregon State
+283270153,North Carolina,NC State
+283270120,Maryland,Florida State
+283270097,Louisville,West Virginia
+283270164,Rutgers,Army
+283270258,Virginia,Clemson
+283272509,Purdue,Indiana
+283270238,Vanderbilt,Tennessee
+283270218,Temple,Eastern Michigan
+283270235,Memphis,UCF
+283272751,Wyoming,Colorado State
+283270344,Mississippi State,Arkansas
+283270087,Notre Dame,Syracuse
+283272032,Arkansas State,Florida Atlantic
+283270265,Washington State,Washington
+283270202,Tulsa,Tulane
+283270195,Ohio,Akron
+283270154,Wake Forest,Boston College
+283270242,Rice,Marshall
+283270248,Houston,UTEP
+283270025,California,Stanford
+283270275,Wisconsin,Cal Poly
+283272393,Middle Tennessee,North Texas
+283270077,Northwestern,Illinois
+283272306,Kansas State,Iowa State
+283270166,New Mexico State,Louisiana Tech
+283270259,Virginia Tech,Duke
+283270005,UAB,East Carolina
+283272229,Florida Intl,Louisiana Monroe
+283272653,Troy,Louisiana Lafayette
+283270135,Minnesota,Iowa
+283270021,San Diego State,UNLV
+283270062,Hawaii,Idaho
+283280058,South Florida,Connecticut

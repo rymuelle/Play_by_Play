@@ -1,0 +1,16 @@
+283380309,Louisiana Lafayette,Middle Tennessee
+283390164,Rutgers,Louisville
+283402084,Buffalo,Ball State
+283410057,Florida,Alabama
+283410201,Oklahoma,Missouri
+283410026,UCLA,USC
+283410062,Hawaii,Cincinnati
+283410259,Virginia Tech,Boston College
+283410041,Connecticut,Pittsburgh
+283410202,Tulsa,East Carolina
+283410349,Army,Navy
+283410025,California,Washington
+283412229,Florida Intl,Western Kentucky
+283412653,Troy,Arkansas State
+283410277,West Virginia,South Florida
+283410012,Arizona,Arizona State

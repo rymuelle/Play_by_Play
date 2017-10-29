@@ -1,0 +1,57 @@
+323252649,Toledo,Akron
+323270251,Texas,TCU
+323280008,Arkansas,LSU
+323282294,Iowa,Nebraska
+323282309,Kent State,Ohio
+323280012,Arizona,Arizona State
+323280265,Washington State,Washington
+323280218,Temple,Syracuse
+323282199,Eastern Michigan,Northern Illinois
+323280193,Miami (OH),Ball State
+323280151,East Carolina,Marshall
+323280189,Bowling Green,Buffalo
+323280038,Colorado,Utah
+323280113,Massachusetts,Central Michigan
+323280066,Iowa State,West Virginia
+323282132,Cincinnati,South Florida
+323290030,USC,Notre Dame
+323290333,Alabama,Auburn
+323290061,Georgia,Georgia Tech
+323290052,Florida State,Florida
+323290204,Oregon State,Oregon
+323290026,UCLA,Stanford
+323290245,Texas A&M,Missouri
+323290228,Clemson,South Carolina
+323290201,Oklahoma,Oklahoma State
+323290221,Pittsburgh,Rutgers
+323290194,Ohio State,Michigan
+323290097,Louisville,Connecticut
+323290077,Northwestern,Illinois
+323290259,Virginia Tech,Virginia
+323292116,UCF,UAB
+323292509,Purdue,Indiana
+323292567,SMU,Tulsa
+323292633,Tennessee,Kentucky
+323290150,Duke,Miami
+323290098,Western Kentucky,North Texas
+323292636,Texas San Antonio,Texas State
+323292641,Texas Tech,Baylor
+323290328,Utah State,Idaho
+323290152,NC State,Boston College
+323290153,North Carolina,Maryland
+323290154,Wake Forest,Vanderbilt
+323290166,New Mexico State,BYU
+323290135,Minnesota,Michigan State
+323290213,Penn State,Wisconsin
+323290278,Fresno State,Air Force
+323292751,Wyoming,San Diego State
+323290248,Houston,Tulane
+323292393,Middle Tennessee,Troy
+323290235,Memphis,Southern Mississippi
+323290309,Louisiana Lafayette,South Alabama
+323292229,Florida Intl,Louisiana Monroe
+323290036,Colorado State,New Mexico
+323290145,Ole Miss,Mississippi State
+323292638,UTEP,Rice
+323290023,San José State,Louisiana Tech
+323290062,Hawai'i,UNLV

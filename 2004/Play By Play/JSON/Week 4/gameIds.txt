@@ -1,0 +1,57 @@
+242610103,Boston College,Connecticut
+242620252,BYU,USC
+242620201,Oklahoma,Oregon
+242620061,Georgia,Marshall
+242622390,Miami,Louisiana Tech
+242620002,Auburn,LSU
+242620277,West Virginia,Maryland
+242620052,Florida State,UAB
+242620152,NC State,Ohio State
+242622633,Tennessee,Florida
+242620258,Virginia,Akron
+242620328,Utah State,Utah
+242620009,Arizona State,Iowa
+242620130,Michigan,San Diego State
+242620278,Fresno State,Portland State
+242620012,Arizona,Wisconsin
+242620036,Colorado State,Minnesota
+242622638,UTEP,Boise State
+242622032,Arkansas State,Memphis
+242620183,Syracuse,Cincinnati
+242620213,Penn State,UCF
+242620221,Pittsburgh,Nebraska
+242620259,Virginia Tech,Duke
+242622641,Texas Tech,TCU
+242620066,Iowa State,Northern Illinois
+242620145,Ole Miss,Vanderbilt
+242622117,Central Michigan,Southeast Missouri State
+242620356,Illinois,Western Michigan
+242620193,Miami (OH),Ohio
+242620142,Missouri,Ball State
+242620218,Temple,Florida A&M
+242620077,Northwestern,Kansas
+242622306,Kansas State,Louisiana Lafayette
+242622393,Middle Tennessee,Florida Atlantic
+242620204,Oregon State,New Mexico
+242620023,San José State,Morgan State
+242620153,North Carolina,Georgia Tech
+242622199,Eastern Michigan,Toledo
+242620154,Wake Forest,North Carolina A&T
+242620038,Colorado,North Texas
+242620164,Rutgers,Kent State
+242620096,Kentucky,Indiana
+242620127,Michigan State,Notre Dame
+242620202,Tulsa,Navy
+242620197,Oklahoma State,SMU
+242620264,Washington,UCLA
+242620245,Texas A&M,Clemson
+242620333,Alabama,Western Carolina
+242620344,Mississippi State,Maine
+242622433,Louisiana Monroe,Arkansas
+242622579,South Carolina,South Florida
+242620248,Houston,Army
+242620242,Rice,Hawaii
+242620166,New Mexico State,Troy
+242622440,Nevada,Buffalo
+242622439,UNLV,Air Force
+242620070,Idaho,Washington State

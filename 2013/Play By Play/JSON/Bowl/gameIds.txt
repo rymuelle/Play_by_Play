@@ -1,0 +1,35 @@
+333550030,USC,Fresno State
+333550036,Colorado State,Washington State
+333550021,San Diego State,Buffalo
+333550309,Louisiana,Tulane
+333570151,East Carolina,Ohio
+333580204,Oregon State,Boise State
+333602459,Northern Illinois,Utah State
+333600189,Bowling Green,Pittsburgh
+333610120,Maryland,Marshall
+333610135,Minnesota,Syracuse
+333610264,Washington,BYU
+333620097,Louisville,Miami
+333620087,Notre Dame,Rutgers
+333620153,North Carolina,Cincinnati
+333622306,Kansas State,Michigan
+333640251,Texas,Oregon
+333642641,Texas Tech,Arizona State
+333642426,Navy,Middle Tennessee
+333640059,Georgia Tech,Ole Miss
+333650026,UCLA,Virginia Tech
+333650245,Texas A&M,Duke
+333650103,Boston College,Arizona
+333650344,Mississippi State,Rice
+340010127,Michigan State,Stanford
+340010239,Baylor,UCF
+340012579,South Carolina,Wisconsin
+340010099,LSU,Iowa
+340010061,Georgia,Nebraska
+340010249,North Texas,UNLV
+340020333,Alabama,Oklahoma
+340030194,Ohio State,Clemson
+340030142,Missouri,Oklahoma State
+340040248,Houston,Vanderbilt
+340052050,Ball State,Arkansas State
+340060002,Auburn,Florida State

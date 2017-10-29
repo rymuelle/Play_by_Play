@@ -1,0 +1,55 @@
+302860276,Marshall,UCF
+302870277,West Virginia,South Florida
+302872305,Kansas,Kansas State
+302880097,Louisville,Cincinnati
+302890275,Wisconsin,Ohio State
+302890023,San José State,Boise State
+302892628,TCU,BYU
+302890158,Nebraska,Texas
+302890201,Oklahoma,Iowa State
+302890002,Auburn,Arkansas
+302890333,Alabama,Ole Miss
+302890099,LSU,McNeese State
+302890096,Kentucky,South Carolina
+302892751,Wyoming,Utah
+302890127,Michigan State,Illinois
+302890130,Michigan,Iowa
+302890052,Florida State,Boston College
+302890265,Washington State,Arizona
+302890062,Hawaii,Nevada
+302892641,Texas Tech,Oklahoma State
+302890245,Texas A&M,Missouri
+302890057,Florida,Mississippi State
+302890021,San Diego State,Air Force
+302890264,Washington,Oregon State
+302890084,Indiana,Arkansas State
+302890151,East Carolina,NC State
+302890183,Syracuse,Pittsburgh
+302890228,Clemson,Maryland
+302890235,Memphis,Southern Mississippi
+302892117,Central Michigan,Miami (OH)
+302892509,Purdue,Minnesota
+302890061,Georgia,Vanderbilt
+302890150,Duke,Miami
+302890218,Temple,Bowling Green
+302892050,Ball State,Eastern Michigan
+302890164,Rutgers,Army
+302890195,Ohio,Akron
+302890036,Colorado State,UNLV
+302890087,Notre Dame,Western Michigan
+302890242,Rice,Houston
+302890030,USC,California
+302890059,Georgia Tech,Middle Tennessee
+302890259,Virginia Tech,Wake Forest
+302892426,Navy,SMU
+302892459,Northern Illinois,Buffalo
+302892348,Louisiana Tech,Idaho
+302890005,UAB,UTEP
+302890258,Virginia,North Carolina
+302892649,Toledo,Kent State
+302892653,Troy,Louisiana Lafayette
+302890098,Western Kentucky,Louisiana Monroe
+302890202,Tulsa,Tulane
+302890038,Colorado,Baylor
+302890249,North Texas,Florida Intl
+302890278,Fresno State,New Mexico State

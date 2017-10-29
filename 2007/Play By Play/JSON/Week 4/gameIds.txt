@@ -1,0 +1,60 @@
+272632390,Miami,Texas A&M
+272632393,Middle Tennessee,Western Kentucky
+272640202,Tulsa,Oklahoma
+272650030,USC,Washington State
+272650099,LSU,South Carolina
+272650145,Ole Miss,Florida
+272650277,West Virginia,East Carolina
+272650025,California,Arizona
+272650251,Texas,Rice
+272650194,Ohio State,Northwestern
+272650275,Wisconsin,Iowa
+272650130,Michigan,Penn State
+272650024,Stanford,Oregon
+272650103,Boston College,Army
+272650152,NC State,Clemson
+272650333,Alabama,Georgia
+272650259,Virginia Tech,William & Mary
+272650097,Louisville,Syracuse
+272650062,Hawaii,Charleston Southern
+272650008,Arkansas,Kentucky
+272650058,South Florida,North Carolina
+272650158,Nebraska,Ball State
+272650142,Missouri,Illinois State
+272650084,Indiana,Illinois
+272650189,Bowling Green,Temple
+272650258,Virginia,Georgia Tech
+272652006,Akron,Kent State
+272652426,Navy,Duke
+272650195,Ohio,Wyoming
+272650252,BYU,Air Force
+272652199,Eastern Michigan,Howard
+272652117,Central Michigan,North Dakota State
+272650154,Wake Forest,Maryland
+272650038,Colorado,Miami (OH)
+272652116,UCF,Memphis
+272650197,Oklahoma State,Texas Tech
+272650087,Notre Dame,Michigan State
+272650248,Houston,Colorado State
+272650070,Idaho,Northern Illinois
+272652084,Buffalo,Baylor
+272650021,San Diego State,Portland State
+272650002,Auburn,New Mexico State
+272650249,North Texas,Florida Atlantic
+272650221,Pittsburgh,Connecticut
+272650309,Louisiana Lafayette,Troy
+272650344,Mississippi State,Gardner-Webb
+272652305,Kansas,Florida Intl
+272652633,Tennessee,Arkansas State
+272652711,Western Michigan,Central Connecticut
+272652649,Toledo,Iowa State
+272652132,Cincinnati,Marshall
+272650328,Utah State,San José State
+272652655,Tulane,Southeastern Louisiana
+272650167,New Mexico,Sacramento State
+272652628,TCU,SMU
+272650135,Minnesota,Purdue
+272652638,UTEP,Texas Southern
+272652439,UNLV,Utah
+272650009,Arizona State,Oregon State
+272650026,UCLA,Washington

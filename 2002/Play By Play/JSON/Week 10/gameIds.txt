@@ -1,0 +1,53 @@
+222970228,Clemson,NC State
+222970036,Colorado State,BYU
+222980278,Fresno State,Hawaii
+222990277,West Virginia,Miami
+222990259,Virginia Tech,Temple
+222990194,Ohio State,Penn State
+222990096,Kentucky,Georgia
+222990052,Florida State,Notre Dame
+222990251,Texas,Iowa State
+222990130,Michigan,Iowa
+222990012,Arizona,Washington State
+222990002,Auburn,LSU
+222992483,Oregon,USC
+222992633,Tennessee,Alabama
+222990239,Baylor,Kansas State
+222990038,Colorado,Texas Tech
+222992751,Wyoming,Air Force
+222990009,Arizona State,Washington
+222990189,Bowling Green,Ball State
+222990077,Northwestern,Purdue
+222990154,Wake Forest,North Carolina
+222990221,Pittsburgh,Boston College
+222990150,Duke,Maryland
+222990349,Army,UAB
+222992117,Central Michigan,Marshall
+222992084,Buffalo,Kent State
+222992711,Western Michigan,Northern Illinois
+222990183,Syracuse,Rutgers
+222990097,Louisville,East Carolina
+222990008,Arkansas,Ole Miss
+222990142,Missouri,Kansas
+222990238,Vanderbilt,Connecticut
+222992132,Cincinnati,Memphis
+222990356,Illinois,Indiana
+222992348,Louisiana Tech,Nevada
+222992653,Troy,Florida Atlantic
+222990242,Rice,SMU
+222990202,Tulsa,UTEP
+222990167,New Mexico,Utah
+222990070,Idaho,Middle Tennessee
+222990059,Georgia Tech,Virginia
+222992655,Tulane,Navy
+222992116,UCF,Akron
+222990204,Oregon State,California
+222990023,San José State,Boise State
+222990309,Louisiana Lafayette,North Texas
+222990026,UCLA,Stanford
+222990021,San Diego State,UNLV
+222990245,Texas A&M,Nebraska
+222992032,Arkansas State,New Mexico State
+222992433,Louisiana Monroe,Utah State
+222992649,Toledo,Miami (OH)
+222990127,Michigan State,Wisconsin

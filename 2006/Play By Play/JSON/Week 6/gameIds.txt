@@ -1,0 +1,55 @@
+262760202,Tulsa,Southern Mississippi
+262770276,Marshall,UCF
+262780152,NC State,Florida State
+262780254,Utah,TCU
+262792393,Middle Tennessee,Louisville
+262800194,Ohio State,Bowling Green
+262800002,Auburn,Arkansas
+262800030,USC,Washington
+262800344,Mississippi State,West Virginia
+262800057,Florida,LSU
+262800130,Michigan,Michigan State
+262800201,Oklahoma,Texas
+262800061,Georgia,Tennessee
+262800025,California,Oregon
+262800087,Notre Dame,Stanford
+262800154,Wake Forest,Clemson
+262800059,Georgia Tech,Maryland
+262802294,Iowa,Purdue
+262800068,Boise State,Louisiana Tech
+262800066,Iowa State,Nebraska
+262802641,Texas Tech,Missouri
+262800135,Minnesota,Penn State
+262800183,Syracuse,Pittsburgh
+262800195,Ohio,Western Michigan
+262800275,Wisconsin,Northwestern
+262800356,Illinois,Indiana
+262802305,Kansas,Texas A&M
+262802390,Miami,North Carolina
+262802084,Buffalo,Ball State
+262800349,Army,VMI
+262800218,Temple,Kent State
+262800252,BYU,San Diego State
+262800145,Ole Miss,Vanderbilt
+262802005,Air Force,Navy
+262802655,Tulane,Rice
+262800038,Colorado,Baylor
+262802132,Cincinnati,Akron
+262802306,Kansas State,Oklahoma State
+262800070,Idaho,New Mexico State
+262800036,Colorado State,UNLV
+262800151,East Carolina,Virginia
+262800026,UCLA,Arizona
+262800096,Kentucky,South Carolina
+262800248,Houston,Louisiana Lafayette
+262800249,North Texas,Florida Intl
+262800204,Oregon State,Washington State
+262800058,South Florida,Connecticut
+262800005,UAB,Memphis
+262802649,Toledo,Central Michigan
+262802032,Arkansas State,Louisiana Monroe
+262800333,Alabama,Duke
+262800167,New Mexico,Wyoming
+262800328,Utah State,Fresno State
+262802638,UTEP,SMU
+262810193,Miami (OH),Northern Illinois

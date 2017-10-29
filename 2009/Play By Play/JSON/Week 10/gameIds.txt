@@ -1,0 +1,56 @@
+293072084,Buffalo,Bowling Green
+293090151,East Carolina,Virginia Tech
+293090218,Temple,Miami (OH)
+293092459,Northern Illinois,Eastern Michigan
+293102348,Louisiana Tech,Boise State
+293110057,Florida,Vanderbilt
+293110251,Texas,UCF
+293110333,Alabama,LSU
+293112294,Iowa,Northwestern
+293112132,Cincinnati,Connecticut
+293110021,San Diego State,TCU
+293110024,Stanford,Oregon
+293110059,Georgia Tech,Wake Forest
+293110213,Penn State,Ohio State
+293110009,Arizona State,USC
+293110221,Pittsburgh,Syracuse
+293110254,Utah,New Mexico
+293110202,Tulsa,Houston
+293112390,Miami,Virginia
+293110012,Arizona,Washington State
+293110066,Iowa State,Oklahoma State
+293110025,California,Oregon State
+293110084,Indiana,Wisconsin
+293110087,Notre Dame,Navy
+293110158,Nebraska,Oklahoma
+293110127,Michigan State,Western Michigan
+293110130,Michigan,Purdue
+293110135,Minnesota,Illinois
+293110277,West Virginia,Louisville
+293110008,Arkansas,South Carolina
+293112306,Kansas State,Kansas
+293110061,Georgia,Tennessee Tech
+293110096,Kentucky,Eastern Kentucky
+293110152,NC State,Maryland
+293110038,Colorado,Texas A&M
+293110002,Auburn,Furman
+293110005,UAB,Florida Atlantic
+293110142,Missouri,Baylor
+293112751,Wyoming,BYU
+293112567,SMU,Rice
+293112655,Tulane,UTEP
+293112005,Air Force,Army
+293112006,Akron,Kent State
+293112032,Arkansas State,Louisiana Lafayette
+293110153,North Carolina,Duke
+293110026,UCLA,Washington
+293110249,North Texas,Louisiana Monroe
+293112393,Middle Tennessee,Florida Intl
+293110098,Western Kentucky,Troy
+293112633,Tennessee,Memphis
+293110145,Ole Miss,Northern Arizona
+293110228,Clemson,Florida State
+293112439,UNLV,Colorado State
+293110062,Hawaii,Utah State
+293110070,Idaho,Fresno State
+293120023,San José State,Nevada

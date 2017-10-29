@@ -1,0 +1,52 @@
+333160189,Bowling Green,Ohio
+333162649,Toledo,Buffalo
+333172459,Northern Illinois,Ball State
+333172309,Kent State,Miami (OH)
+333180228,Clemson,Georgia Tech
+333180202,Tulsa,Marshall
+333190026,UCLA,Washington
+333200344,Mississippi State,Alabama
+333200052,Florida State,Syracuse
+333200356,Illinois,Ohio State
+333200030,USC,Stanford
+333200239,Baylor,Texas Tech
+333202483,Oregon,Utah
+333200002,Auburn,Georgia
+333202579,South Carolina,Florida
+333200251,Texas,Oklahoma State
+333200158,Nebraska,Michigan State
+333200218,Temple,UCF
+333200201,Oklahoma,Iowa State
+333200009,Arizona State,Oregon State
+333200097,Louisville,Houston
+333200275,Wisconsin,Indiana
+333200150,Duke,Miami
+333200145,Ole Miss,Troy
+333200164,Rutgers,Cincinnati
+333200213,Penn State,Purdue
+333202305,Kansas,West Virginia
+333202711,Western Michigan,Central Michigan
+333200238,Vanderbilt,Kentucky
+333200221,Pittsburgh,North Carolina
+333200103,Boston College,NC State
+333202572,Southern Mississippi,Florida Atlantic
+333200259,Virginia Tech,Maryland
+333200295,Old Dominion,Campbell
+333200113,Massachusetts,Akron
+333200151,East Carolina,UAB
+333200012,Arizona,Washington State
+333202247,Georgia State,Louisiana Lafayette
+333202567,SMU,Connecticut
+333200252,BYU,Idaho State
+333202306,Kansas State,TCU
+333202426,Navy,South Alabama
+333200077,Northwestern,Michigan
+333200038,Colorado,California
+333200058,South Florida,Memphis
+333200242,Rice,Louisiana Tech
+333200167,New Mexico,Colorado State
+333202032,Arkansas State,Texas State
+333202638,UTEP,Florida Intl
+333200068,Boise State,Wyoming
+333200062,Hawaii,San Diego State
+333202440,Nevada,San José State

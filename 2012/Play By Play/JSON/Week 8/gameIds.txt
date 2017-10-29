@@ -1,0 +1,56 @@
+322900249,North Texas,Louisiana Lafayette
+322920009,Arizona State,Oregon
+322922567,SMU,Houston
+322930183,Syracuse,Connecticut
+322942633,Tennessee,Alabama
+322940057,Florida,South Carolina
+322940277,West Virginia,Kansas State
+322940087,Notre Dame,BYU
+322940245,Texas A&M,LSU
+322940204,Oregon State,Utah
+322940201,Oklahoma,Kansas
+322940030,USC,Colorado
+322940096,Kentucky,Georgia
+322940344,Mississippi State,Middle Tennessee
+322942390,Miami,Florida State
+322940218,Temple,Rutgers
+322940097,Louisville,South Florida
+322942628,TCU,Texas Tech
+322940228,Clemson,Virginia Tech
+322940025,California,Stanford
+322942649,Toledo,Cincinnati
+322940068,Boise State,UNLV
+322940197,Oklahoma State,Iowa State
+322940251,Texas,Baylor
+322940113,Massachusetts,Bowling Green
+322940194,Ohio State,Purdue
+322940275,Wisconsin,Minnesota
+322942006,Akron,Northern Illinois
+322940238,Vanderbilt,Auburn
+322940258,Virginia,Wake Forest
+322942653,Troy,Florida Intl
+322942199,Eastern Michigan,Army
+322942636,Texas San Antonio,San José State
+322940328,Utah State,New Mexico State
+322940059,Georgia Tech,Boston College
+322940006,South Alabama,Florida Atlantic
+322940077,Northwestern,Nebraska
+322940120,Maryland,NC State
+322940130,Michigan,Michigan State
+322940202,Tulsa,Rice
+322942084,Buffalo,Pittsburgh
+322942117,Central Michigan,Ball State
+322942309,Kent State,Western Michigan
+322942426,Navy,Indiana
+322940098,Western Kentucky,Louisiana Monroe
+322940005,UAB,East Carolina
+322940150,Duke,North Carolina
+322942005,Air Force,New Mexico
+322942348,Louisiana Tech,Idaho
+322942572,Southern Mississippi,Marshall
+322942638,UTEP,Tulane
+322942294,Iowa,Penn State
+322940235,Memphis,UCF
+322940012,Arizona,Washington
+322940278,Fresno State,Wyoming
+322942440,Nevada,San Diego State

@@ -1,0 +1,57 @@
+313120189,Bowling Green,Northern Illinois
+313122649,Toledo,Western Michigan
+313130218,Temple,Miami (OH)
+313140059,Georgia Tech,Virginia Tech
+313142655,Tulane,Houston
+313142117,Central Michigan,Ohio
+313150183,Syracuse,South Florida
+313160099,LSU,Western Kentucky
+313162641,Texas Tech,Oklahoma State
+313160344,Mississippi State,Alabama
+313160024,Stanford,Oregon
+313160068,Boise State,TCU
+313160008,Arkansas,Tennessee
+313160228,Clemson,Wake Forest
+313160213,Penn State,Nebraska
+313162579,South Carolina,Florida
+313162306,Kansas State,Texas A&M
+313160061,Georgia,Auburn
+313160142,Missouri,Texas
+313162294,Iowa,Michigan State
+313160135,Minnesota,Wisconsin
+313162572,Southern Mississippi,UCF
+313162132,Cincinnati,West Virginia
+313160356,Illinois,Michigan
+313162305,Kansas,Baylor
+313160077,Northwestern,Rice
+313160097,Louisville,Pittsburgh
+313160202,Tulsa,Marshall
+313162509,Purdue,Ohio State
+313160238,Vanderbilt,Kentucky
+313160103,Boston College,NC State
+313162653,Troy,North Texas
+313162199,Eastern Michigan,Buffalo
+313162005,Air Force,Wyoming
+313162006,Akron,Kent State
+313160038,Colorado,Arizona
+313162032,Arkansas State,Louisiana Lafayette
+313160258,Virginia,Duke
+313160328,Utah State,San José State
+313160349,Army,Rutgers
+313162433,Louisiana Monroe,Middle Tennessee
+313162567,SMU,Navy
+313160052,Florida State,Miami
+313160030,USC,Washington
+313160235,Memphis,UAB
+313160036,Colorado State,San Diego State
+313162229,Florida Intl,Florida Atlantic
+313160025,California,Oregon State
+313160254,Utah,UCLA
+313160145,Ole Miss,Louisiana Tech
+313160087,Notre Dame,Maryland
+313162638,UTEP,East Carolina
+313160166,New Mexico State,Fresno State
+313160252,BYU,Idaho
+313160167,New Mexico,UNLV
+313162440,Nevada,Hawaii
+313160265,Washington State,Arizona State

@@ -1,0 +1,49 @@
+332690059,Georgia Tech,Virginia Tech
+332690202,Tulsa,Iowa State
+332700023,San José State,Utah State
+332700252,BYU,Middle Tennessee
+332710333,Alabama,Ole Miss
+332712483,Oregon,California
+332710228,Clemson,Wake Forest
+332710194,Ohio State,Wisconsin
+332710265,Washington State,Stanford
+332710061,Georgia,LSU
+332710103,Boston College,Florida State
+332710008,Arkansas,Texas A&M
+332710277,West Virginia,Oklahoma State
+332712116,UCF,South Carolina
+332710087,Notre Dame,Oklahoma
+332710058,South Florida,Miami
+332710264,Washington,Arizona
+332710096,Kentucky,Florida
+332710062,Hawaii,Fresno State
+332712509,Purdue,Northern Illinois
+332712628,TCU,SMU
+332710356,Illinois,Miami (OH)
+332712633,Tennessee,South Alabama
+332710153,North Carolina,East Carolina
+332710221,Pittsburgh,Virginia
+332710098,Western Kentucky,Navy
+332710189,Bowling Green,Akron
+332710204,Oregon State,Colorado
+332710150,Duke,Troy
+332712050,Ball State,Toledo
+332712084,Buffalo,Connecticut
+332710152,NC State,Central Michigan
+332710135,Minnesota,Iowa
+332710036,Colorado State,UTEP
+332712348,Louisiana Tech,Army
+332712636,Texas San Antonio,Houston
+332710070,Idaho,Temple
+332710295,Old Dominion,Albany
+332712711,Western Michigan,Kent State
+332710326,Texas State,Wyoming
+332710242,Rice,Florida Atlantic
+332712433,Louisiana Monroe,Tulane
+332710142,Missouri,Arkansas State
+332710238,Vanderbilt,UAB
+332710166,New Mexico State,San Diego State
+332710167,New Mexico,UNLV
+332712440,Nevada,Air Force
+332710068,Boise State,Southern Mississippi
+332710009,Arizona State,USC

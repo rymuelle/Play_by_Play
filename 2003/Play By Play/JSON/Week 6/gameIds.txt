@@ -1,0 +1,51 @@
+232682572,Southern Mississippi,Nebraska
+232700025,California,USC
+232700194,Ohio State,Northwestern
+232700259,Virginia Tech,Connecticut
+232700150,Duke,Florida State
+232700344,Mississippi State,LSU
+232702633,Tennessee,South Carolina
+232700333,Alabama,Arkansas
+232702483,Oregon,Washington State
+232700130,Michigan,Indiana
+232700127,Michigan State,Iowa
+232700251,Texas,Tulane
+232700245,Texas A&M,Pittsburgh
+232700264,Washington,Stanford
+232700012,Arizona,TCU
+232702459,Northern Illinois,Iowa State
+232702509,Purdue,Notre Dame
+232702305,Kansas,Missouri
+232700213,Penn State,Minnesota
+232700096,Kentucky,Florida
+232700349,Army,South Florida
+232700103,Boston College,Ball State
+232700152,NC State,North Carolina
+232700235,Memphis,Arkansas State
+232700193,Miami (OH),Cincinnati
+232702309,Kent State,UCF
+232700252,BYU,Air Force
+232700097,Louisville,Temple
+232700149,Montana,Idaho
+232700258,Virginia,Wake Forest
+232700195,Ohio,Western Michigan
+232700002,Auburn,Western Kentucky
+232700356,Illinois,Wisconsin
+232702084,Buffalo,Akron
+232702199,Eastern Michigan,Maryland
+232700036,Colorado State,Utah
+232700183,Syracuse,Toledo
+232700238,Vanderbilt,Georgia Tech
+232700164,Rutgers,Navy
+232700145,Ole Miss,Texas Tech
+232702653,Troy,Marshall
+232700328,Utah State,Louisiana Monroe
+232700167,New Mexico,New Mexico State
+232700068,Boise State,Wyoming
+232700249,North Texas,Louisiana Lafayette
+232702638,UTEP,Sam Houston State
+232700278,Fresno State,Portland State
+232700204,Oregon State,Arizona State
+232700026,UCLA,San Diego State
+232702440,Nevada,SMU
+232700062,Hawaii,Rice

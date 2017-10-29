@@ -1,0 +1,35 @@
+253260189,Bowling Green,Toledo
+253272459,Northern Illinois,Western Michigan
+253280277,West Virginia,Pittsburgh
+253282006,Akron,Kent State
+253290245,Texas A&M,Texas
+253290099,LSU,Arkansas
+253290062,Hawaii,Wisconsin
+253290009,Arizona State,Arizona
+253290038,Colorado,Nebraska
+253300259,Virginia Tech,North Carolina
+253300024,Stanford,Notre Dame
+253302390,Miami,Virginia
+253300059,Georgia Tech,Georgia
+253302440,Nevada,Fresno State
+253300097,Louisville,Syracuse
+253300057,Florida,Florida State
+253300151,East Carolina,UAB
+253300152,NC State,Maryland
+253300096,Kentucky,Tennessee
+253302305,Kansas,Iowa State
+253300164,Rutgers,Cincinnati
+253302348,Louisiana Tech,Boise State
+253300235,Memphis,Marshall
+253300249,North Texas,Arkansas State
+253300344,Mississippi State,Ole Miss
+253302567,SMU,UTEP
+253302572,Southern Mississippi,Tulane
+253302433,Louisiana Monroe,Louisiana Lafayette
+253300201,Oklahoma,Oklahoma State
+253300041,Connecticut,South Florida
+253300166,New Mexico State,Utah State
+253300248,Houston,Rice
+253302226,Florida Atlantic,Florida Intl
+253300023,San José State,Idaho
+253302653,Troy,Middle Tennessee

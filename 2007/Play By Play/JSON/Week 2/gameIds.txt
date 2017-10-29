@@ -1,0 +1,62 @@
+272490097,Louisville,Middle Tennessee
+272492132,Cincinnati,Oregon State
+272500164,Rutgers,Navy
+272510099,LSU,Virginia Tech
+272510276,Marshall,West Virginia
+272510057,Florida,Troy
+272510201,Oklahoma,Miami
+272512439,UNLV,Wisconsin
+272510251,Texas,TCU
+272510036,Colorado State,California
+272510061,Georgia,South Carolina
+272510194,Ohio State,Akron
+272510026,UCLA,BYU
+272510213,Penn State,Notre Dame
+272510154,Wake Forest,Nebraska
+272510002,Auburn,South Florida
+272512348,Louisiana Tech,Hawaii
+272510059,Georgia Tech,Samford
+272510264,Washington,Boise State
+272510245,Texas A&M,Fresno State
+272512633,Tennessee,Southern Mississippi
+272510228,Clemson,Louisiana Monroe
+272510258,Virginia,Duke
+272512199,Eastern Michigan,Ball State
+272512509,Purdue,Eastern Illinois
+272510135,Minnesota,Miami (OH)
+272510221,Pittsburgh,Grambling State
+272510127,Michigan State,Bowling Green
+272510077,Northwestern,Nevada
+272510238,Vanderbilt,Alabama
+272510218,Temple,Buffalo
+272510349,Army,Rhode Island
+272512751,Wyoming,Utah State
+272510103,Boston College,NC State
+272510130,Michigan,Oregon
+272510070,Idaho,Cal Poly
+272510052,Florida State,UAB
+272510098,Western Kentucky,West Virginia Tech
+272510096,Kentucky,Kent State
+272510145,Ole Miss,Missouri
+272510151,East Carolina,North Carolina
+272510254,Utah,Air Force
+272510041,Connecticut,Maine
+272510066,Iowa State,Northern Iowa
+272510239,Baylor,Rice
+272510265,Washington State,San Diego State
+272510309,Louisiana Lafayette,Ohio
+272510356,Illinois,Western Illinois
+272512117,Central Michigan,Toledo
+272512641,Texas Tech,UTEP
+272512229,Florida Intl,Maryland
+272512305,Kansas,Southeastern Louisiana
+272512306,Kansas State,San José State
+272510197,Oklahoma State,Florida Atlantic
+272512655,Tulane,Mississippi State
+272512459,Northern Illinois,Southern Illinois
+272512711,Western Michigan,Indiana
+272512567,SMU,North Texas
+272512294,Iowa,Syracuse
+272510167,New Mexico,New Mexico State
+272510012,Arizona,Northern Arizona
+272510009,Arizona State,Colorado

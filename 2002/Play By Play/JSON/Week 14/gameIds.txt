@@ -1,0 +1,49 @@
+223240259,Virginia Tech,West Virginia
+223252390,Miami,Pittsburgh
+223270194,Ohio State,Michigan
+223270265,Washington State,Washington
+223270201,Oklahoma,Texas Tech
+223270026,UCLA,USC
+223270087,Notre Dame,Rutgers
+223270333,Alabama,Auburn
+223270142,Missouri,Kansas State
+223270152,NC State,Florida State
+223270213,Penn State,Michigan State
+223270258,Virginia,Maryland
+223270036,Colorado State,New Mexico
+223270099,LSU,Ole Miss
+223270151,East Carolina,TCU
+223272440,Nevada,Boise State
+223270077,Northwestern,Illinois
+223270150,Duke,North Carolina
+223270218,Temple,Boston College
+223272005,Air Force,San Diego State
+223272459,Northern Illinois,Toledo
+223270275,Wisconsin,Minnesota
+223270238,Vanderbilt,Tennessee
+223270193,Miami (OH),UCF
+223270097,Louisville,UAB
+223272050,Ball State,Buffalo
+223272117,Central Michigan,Western Michigan
+223272309,Kent State,Akron
+223270235,Memphis,Army
+223270066,Iowa State,Connecticut
+223270197,Oklahoma State,Baylor
+223270344,Mississippi State,Arkansas
+223272348,Louisiana Tech,UTEP
+223272567,SMU,Tulsa
+223270248,Houston,South Florida
+223270254,Utah,BYU
+223272655,Tulane,Southern Mississippi
+223272393,Middle Tennessee,North Texas
+223272509,Purdue,Indiana
+223270204,Oregon State,Oregon
+223270195,Ohio,Marshall
+223270025,California,Stanford
+223270154,Wake Forest,Navy
+223270070,Idaho,New Mexico State
+223270023,San José State,Fresno State
+223272433,Louisiana Monroe,Louisiana Lafayette
+223270189,Bowling Green,Eastern Michigan
+223270228,Clemson,South Carolina
+223270062,Hawaii,Cincinnati

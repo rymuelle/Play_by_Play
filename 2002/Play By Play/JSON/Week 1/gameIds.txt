@@ -1,0 +1,7 @@
+222340258,Virginia,Colorado State
+222350275,Wisconsin,Fresno State
+222360066,Iowa State,Florida State
+222360158,Nebraska,Arizona State
+222360194,Ohio State,Texas Tech
+222360152,NC State,New Mexico
+222370259,Virginia Tech,Arkansas State

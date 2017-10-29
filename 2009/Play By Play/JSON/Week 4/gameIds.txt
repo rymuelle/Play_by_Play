@@ -1,0 +1,61 @@
+292672579,South Carolina,Ole Miss
+292682440,Nevada,Missouri
+292690096,Kentucky,Florida
+292690251,Texas,UTEP
+292690333,Alabama,Arkansas
+292690213,Penn State,Iowa
+292692483,Oregon,California
+292690344,Mississippi State,LSU
+292690189,Bowling Green,Boise State
+292690259,Virginia Tech,Miami
+292690030,USC,Washington State
+292690194,Ohio State,Illinois
+292692132,Cincinnati,Fresno State
+292690228,Clemson,TCU
+292690197,Oklahoma State,Grambling State
+292690248,Houston,Texas Tech
+292690052,Florida State,South Florida
+292690252,BYU,Colorado State
+292692305,Kansas,Southern Mississippi
+292690061,Georgia,Arizona State
+292690059,Georgia Tech,North Carolina
+292690130,Michigan,Indiana
+292690024,Stanford,Washington
+292690158,Nebraska,Louisiana Lafayette
+292690041,Connecticut,Rhode Island
+292690077,Northwestern,Minnesota
+292690218,Temple,Buffalo
+292690275,Wisconsin,Michigan State
+292690235,Memphis,Marshall
+292690103,Boston College,Wake Forest
+292692005,Air Force,San Diego State
+292692306,Kansas State,Tennessee Tech
+292692751,Wyoming,UNLV
+292692655,Tulane,McNeese State
+292692426,Navy,Western Kentucky
+292692459,Northern Illinois,Idaho
+292692117,Central Michigan,Akron
+292690120,Maryland,Rutgers
+292690151,East Carolina,UCF
+292690152,NC State,Pittsburgh
+292692226,Florida Atlantic,Louisiana Monroe
+292692032,Arkansas State,Troy
+292690066,Iowa State,Army
+292690245,Texas A&M,UAB
+292690239,Baylor,Northwestern State
+292690202,Tulsa,Sam Houston State
+292690150,Duke,North Carolina Central
+292690183,Syracuse,Maine
+292690249,North Texas,Middle Tennessee
+292692229,Florida Intl,Toledo
+292692309,Kent State,Miami (OH)
+292692711,Western Michigan,Hofstra
+292692633,Tennessee,Ohio
+292690254,Utah,Louisville
+292690002,Auburn,Ball State
+292690204,Oregon State,Arizona
+292690242,Rice,Vanderbilt
+292690023,San José State,Cal Poly
+292692509,Purdue,Notre Dame
+292690328,Utah State,Southern Utah
+292690167,New Mexico,New Mexico State

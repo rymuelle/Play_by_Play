@@ -1,0 +1,51 @@
+242870041,Connecticut,West Virginia
+242882390,Miami,Louisville
+242890005,UAB,TCU
+242900030,USC,Arizona State
+242902306,Kansas State,Oklahoma
+242900002,Auburn,Arkansas
+242902509,Purdue,Wisconsin
+242900052,Florida State,Virginia
+242900025,California,UCLA
+242900251,Texas,Missouri
+242900254,Utah,North Carolina
+242900061,Georgia,Vanderbilt
+242900145,Ole Miss,Tennessee
+242900356,Illinois,Michigan
+242900197,Oklahoma State,Texas A&M
+242900127,Michigan State,Minnesota
+242900202,Tulsa,Boise State
+242900057,Florida,Middle Tennessee
+242900333,Alabama,Southern Mississippi
+242902294,Iowa,Ohio State
+242900059,Georgia Tech,Duke
+242900164,Rutgers,Temple
+242900221,Pittsburgh,Boston College
+242902426,Navy,Notre Dame
+242902649,Toledo,Ohio
+242902711,Western Michigan,Eastern Michigan
+242900259,Virginia Tech,Florida A&M
+242900228,Clemson,Utah State
+242902084,Buffalo,Miami (OH)
+242900038,Colorado,Iowa State
+242900235,Memphis,Tulane
+242900158,Nebraska,Baylor
+242902439,UNLV,New Mexico
+242902433,Louisiana Monroe,Florida Intl
+242902483,Oregon,Arizona
+242900264,Washington,Oregon State
+242900120,Maryland,NC State
+242900189,Bowling Green,Ball State
+242902309,Kent State,Marshall
+242902459,Northern Illinois,Central Michigan
+242900070,Idaho,Louisiana Lafayette
+242902567,SMU,Louisiana Tech
+242902116,UCF,Akron
+242902032,Arkansas State,Troy
+242900096,Kentucky,South Carolina
+242900021,San Diego State,Colorado State
+242900058,South Florida,Army
+242902638,UTEP,Hawaii
+242902440,Nevada,Rice
+242900252,BYU,Wyoming
+242900265,Washington State,Stanford

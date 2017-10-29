@@ -1,0 +1,35 @@
+313512751,Wyoming,Temple
+313510328,Utah State,Ohio
+313510309,Louisiana,San Diego State
+313540276,Marshall,Florida Intl
+313552348,Louisiana Tech,TCU
+313560068,Boise State,Arizona State
+313582572,Southern Mississippi,Nevada
+313600153,North Carolina,Missouri
+313612509,Purdue,Western Michigan
+313610152,NC State,Louisville
+313620251,Texas,California
+313622005,Air Force,Toledo
+313630239,Baylor,Washington
+313630087,Notre Dame,Florida State
+313640201,Oklahoma,Iowa
+313640202,Tulsa,BYU
+313640066,Iowa State,Rutgers
+313640154,Wake Forest,Mississippi State
+313650002,Auburn,Virginia
+313650077,Northwestern,Texas A&M
+313650254,Utah,Georgia Tech
+313650026,UCLA,Illinois
+313650238,Vanderbilt,Cincinnati
+320020197,Oklahoma State,Stanford
+320022483,Oregon,Wisconsin
+320022579,South Carolina,Nebraska
+320020061,Georgia,Michigan State
+320020213,Penn State,Houston
+320020057,Florida,Ohio State
+320030259,Virginia Tech,Michigan
+320040228,Clemson,West Virginia
+320060008,Arkansas,Kansas State
+320070221,Pittsburgh,SMU
+320082459,Northern Illinois,Arkansas State
+320090099,LSU,Alabama

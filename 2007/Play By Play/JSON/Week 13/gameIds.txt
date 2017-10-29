@@ -1,0 +1,48 @@
+273242653,Troy,Middle Tennessee
+273260009,Arizona State,USC
+273270099,LSU,Arkansas
+273270245,Texas A&M,Texas
+273270062,Hawaii,Boise State
+273272006,Akron,Central Michigan
+273270038,Colorado,Nebraska
+273270344,Mississippi State,Ole Miss
+273270036,Colorado State,Wyoming
+273270189,Bowling Green,Toledo
+273282305,Kansas,Missouri
+273280277,West Virginia,Connecticut
+273280059,Georgia Tech,Georgia
+273280258,Virginia,Virginia Tech
+273280026,UCLA,Oregon
+273280201,Oklahoma,Oklahoma State
+273280057,Florida,Florida State
+273280103,Boston College,Miami
+273280096,Kentucky,Tennessee
+273282579,South Carolina,Clemson
+273280221,Pittsburgh,South Florida
+273280183,Syracuse,Cincinnati
+273280252,BYU,Utah
+273280152,NC State,Maryland
+273280151,East Carolina,Tulane
+273282309,Kent State,Buffalo
+273280195,Ohio,Miami (OH)
+273280235,Memphis,SMU
+273280238,Vanderbilt,Wake Forest
+273282116,UCF,UTEP
+273282711,Western Michigan,Temple
+273282572,Southern Mississippi,Arkansas State
+273280242,Rice,Tulsa
+273280248,Houston,Texas Southern
+273280153,North Carolina,Duke
+273280278,Fresno State,Kansas State
+273280070,Idaho,Utah State
+273280024,Stanford,Notre Dame
+273280023,San José State,Nevada
+273280249,North Texas,Western Kentucky
+273282459,Northern Illinois,Ball State
+273280276,Marshall,UAB
+273280167,New Mexico,UNLV
+273280309,Louisiana Lafayette,Louisiana Monroe
+273280264,Washington,Washington State
+273282229,Florida Intl,Florida Atlantic
+273280002,Auburn,Alabama
+273280021,San Diego State,TCU

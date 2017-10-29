@@ -1,0 +1,61 @@
+242460254,Utah,Texas A&M
+242462199,Eastern Michigan,Buffalo
+242462050,Ball State,Boston College
+242462711,Western Michigan,Tennessee-Martin
+242462628,TCU,Northwestern
+242460009,Arizona State,UTEP
+242470167,New Mexico,Washington State
+242480201,Oklahoma,Bowling Green
+242480061,Georgia,Georgia Southern
+242480099,LSU,Oregon State
+242480251,Texas,North Texas
+242480130,Michigan,Miami (OH)
+242480194,Ohio State,Cincinnati
+242480277,West Virginia,East Carolina
+242482306,Kansas State,Western Kentucky
+242482005,Air Force,California
+242480228,Clemson,Wake Forest
+242480218,Temple,Virginia
+242480002,Auburn,Louisiana Monroe
+242480142,Missouri,Arkansas State
+242482294,Iowa,Kent State
+242480275,Wisconsin,UCF
+242480120,Maryland,Northern Illinois
+242480135,Minnesota,Toledo
+242480041,Connecticut,Murray State
+242480238,Vanderbilt,South Carolina
+242480059,Georgia Tech,Samford
+242480153,North Carolina,William & Mary
+242480066,Iowa State,Northern Iowa
+242482751,Wyoming,Appalachian State
+242480213,Penn State,Akron
+242480026,UCLA,Oklahoma State
+242480164,Rutgers,Michigan State
+242480276,Marshall,Troy
+242480344,Mississippi State,Tulane
+242480356,Illinois,Florida A&M
+242482426,Navy,Duke
+242480152,NC State,Richmond
+242480005,UAB,Baylor
+242480008,Arkansas,New Mexico State
+242480084,Indiana,Central Michigan
+242480195,Ohio,VMI
+242480158,Nebraska,Western Illinois
+242480145,Ole Miss,Memphis
+242480333,Alabama,Utah State
+242482305,Kansas,Tulsa
+242480309,Louisiana Lafayette,Northwestern State
+242482567,SMU,Texas Tech
+242480038,Colorado,Colorado State
+242480068,Boise State,Idaho
+242480021,San Diego State,Idaho State
+242480252,BYU,Notre Dame
+242480024,Stanford,San José State
+242480012,Arizona,Northern Arizona
+242480062,Hawaii,Florida Atlantic
+242492633,Tennessee,UNLV
+242492509,Purdue,Syracuse
+242490097,Louisville,Kentucky
+242480242,Rice,Houston
+242490264,Washington,Fresno State
+242502348,Louisiana Tech,Nevada

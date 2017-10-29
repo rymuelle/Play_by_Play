@@ -1,0 +1,17 @@
+293372483,Oregon,Oregon State
+293370098,Western Kentucky,Arkansas State
+293382117,Central Michigan,Ohio
+293390333,Alabama,Florida
+293390158,Nebraska,Texas
+293390221,Pittsburgh,Cincinnati
+293390068,Boise State,New Mexico State
+293390228,Clemson,Georgia Tech
+293390030,USC,Arizona
+293390264,Washington,California
+293390151,East Carolina,Houston
+293390164,Rutgers,West Virginia
+293390356,Illinois,Fresno State
+293392348,Louisiana Tech,San José State
+293392229,Florida Intl,Florida Atlantic
+293390041,Connecticut,South Florida
+293390062,Hawaii,Wisconsin

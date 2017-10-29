@@ -1,0 +1,49 @@
+232730151,East Carolina,Houston
+232752390,Miami,West Virginia
+232760254,Utah,Oregon
+232770066,Iowa State,Oklahoma
+232770164,Rutgers,Virginia Tech
+232770002,Auburn,Tennessee
+232772294,Iowa,Michigan
+232770009,Arizona State,USC
+232770061,Georgia,Alabama
+232770158,Nebraska,Troy
+232770251,Texas,Kansas State
+232770265,Washington State,Arizona
+232772459,Northern Illinois,Ohio
+232770026,UCLA,Washington
+232772628,TCU,Army
+232770077,Northwestern,Minnesota
+232772509,Purdue,Illinois
+232770057,Florida,Ole Miss
+232770127,Michigan State,Indiana
+232770041,Connecticut,Lehigh
+232770059,Georgia Tech,NC State
+232770213,Penn State,Wisconsin
+232770239,Baylor,Colorado
+232770153,North Carolina,Virginia
+232772426,Navy,Air Force
+232772199,Eastern Michigan,Western Michigan
+232772309,Kent State,Ball State
+232770235,Memphis,UAB
+232770193,Miami (OH),Akron
+232770344,Mississippi State,Vanderbilt
+232770036,Colorado State,Fresno State
+232772348,Louisiana Tech,Boise State
+232770120,Maryland,Clemson
+232770189,Bowling Green,Central Michigan
+232770025,California,Oregon State
+232772116,UCF,Buffalo
+232770058,South Florida,Louisville
+232772132,Cincinnati,Southern Mississippi
+232772032,Arkansas State,Louisiana Monroe
+232770197,Oklahoma State,Louisiana Lafayette
+232770202,Tulsa,Hawaii
+232772393,Middle Tennessee,Temple
+232770166,New Mexico State,Idaho
+232770167,New Mexico,Utah State
+232770242,Rice,San José State
+232772567,SMU,UTEP
+232772641,Texas Tech,Texas A&M
+232772440,Nevada,UNLV
+232770021,San Diego State,BYU

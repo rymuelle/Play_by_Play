@@ -1,0 +1,62 @@
+323192050,Ball State,Ohio
+323192459,Northern Illinois,Toledo
+323200258,Virginia,North Carolina
+323212226,Florida Atlantic,Florida Intl
+323212005,Air Force,Hawai'i
+323220239,Baylor,Kansas State
+323222483,Oregon,Stanford
+323220087,Notre Dame,Wake Forest
+323220333,Alabama,Western Carolina
+323220061,Georgia,Georgia Southern
+323220057,Florida,Jacksonville State
+323220099,LSU,Ole Miss
+323220245,Texas A&M,Sam Houston State
+323222579,South Carolina,Wofford
+323220120,Maryland,Florida State
+323220228,Clemson,NC State
+323220277,West Virginia,Oklahoma
+323220158,Nebraska,Minnesota
+323220204,Oregon State,California
+323220026,UCLA,USC
+323222348,Louisiana Tech,Utah State
+323220130,Michigan,Iowa
+323222132,Cincinnati,Rutgers
+323220197,Oklahoma State,Texas Tech
+323220038,Colorado,Washington
+323220127,Michigan State,Northwestern
+323220189,Bowling Green,Kent State
+323220213,Penn State,Indiana
+323220202,Tulsa,UCF
+323220276,Marshall,Houston
+323220349,Army,Temple
+400368353,Army,Temple
+323220344,Mississippi State,Arkansas
+323220103,Boston College,Virginia Tech
+323222117,Central Michigan,Miami (OH)
+323220002,Auburn,Alabama A&M
+323220005,UAB,Memphis
+323222711,Western Michigan,Eastern Michigan
+323222390,Miami,South Florida
+323220009,Arizona State,Washington State
+323220113,Massachusetts,Buffalo
+323220068,Boise State,Colorado State
+323220059,Georgia Tech,Duke
+323220006,South Alabama,Middle Tennessee
+323220167,New Mexico,Nevada
+323222426,Navy,Texas State
+323222653,Troy,Arkansas State
+323222655,Tulane,East Carolina
+323220356,Illinois,Purdue
+323220275,Wisconsin,Ohio State
+323220242,Rice,SMU
+323222433,Louisiana Monroe,North Texas
+323222439,UNLV,Wyoming
+323220070,Idaho,Texas San Antonio
+323220238,Vanderbilt,Tennessee
+323220142,Missouri,Syracuse
+323222305,Kansas,Iowa State
+323220309,Louisiana Lafayette,Western Kentucky
+323220096,Kentucky,Samford
+323222572,Southern Mississippi,UTEP
+323220254,Utah,Arizona
+323220023,San José State,BYU

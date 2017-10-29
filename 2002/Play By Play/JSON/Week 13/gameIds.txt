@@ -1,0 +1,52 @@
+223160276,Marshall,Miami (OH)
+223182572,Southern Mississippi,Louisville
+223200356,Illinois,Ohio State
+223200239,Baylor,Oklahoma
+223202641,Texas Tech,Texas
+223200135,Minnesota,Iowa
+223200002,Auburn,Georgia
+223200030,USC,Arizona State
+223200099,LSU,Alabama
+223202306,Kansas State,Nebraska
+223200130,Michigan,Wisconsin
+223200052,Florida State,North Carolina
+223200084,Indiana,Penn State
+223200038,Colorado,Iowa State
+223200228,Clemson,Maryland
+223200057,Florida,South Carolina
+223200021,San Diego State,Colorado State
+223200258,Virginia,NC State
+223202483,Oregon,Washington
+223200103,Boston College,Syracuse
+223202426,Navy,Connecticut
+223202653,Troy,Utah State
+223202751,Wyoming,Utah
+223200127,Michigan State,Purdue
+223200344,Mississippi State,Tennessee
+223202006,Akron,Buffalo
+223202117,Central Michigan,Ball State
+223202132,Cincinnati,Houston
+223202199,Eastern Michigan,Northern Illinois
+223200059,Georgia Tech,Duke
+223200096,Kentucky,Vanderbilt
+223200008,Arkansas,Louisiana Lafayette
+223202305,Kansas,Oklahoma State
+223200245,Texas A&M,Missouri
+223200242,Rice,Hawaii
+223200202,Tulsa,San José State
+223200005,UAB,East Carolina
+223202439,UNLV,Air Force
+223200068,Boise State,Louisiana Tech
+223200025,California,Arizona
+223200164,Rutgers,Temple
+223202393,Middle Tennessee,Louisiana Monroe
+223202655,Tulane,Army
+223202711,Western Michigan,Toledo
+223200249,North Texas,New Mexico State
+223200024,Stanford,Oregon State
+223200070,Idaho,Arkansas State
+223202638,UTEP,SMU
+223202116,UCF,Kent State
+223200252,BYU,New Mexico
+223200278,Fresno State,Nevada
+223200058,South Florida,Bowling Green

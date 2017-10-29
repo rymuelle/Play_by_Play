@@ -1,0 +1,41 @@
+283302050,Ball State,Western Michigan
+283302459,Northern Illinois,Navy
+283320251,Texas,Texas A&M
+283330068,Boise State,Fresno State
+283330221,Pittsburgh,West Virginia
+283332199,Eastern Michigan,Central Michigan
+283330145,Ole Miss,Mississippi State
+283330193,Miami (OH),Ohio
+283330218,Temple,Akron
+283330151,East Carolina,UTEP
+283332084,Buffalo,Kent State
+283330008,Arkansas,LSU
+283330158,Nebraska,Colorado
+283332649,Toledo,Bowling Green
+283330009,Arizona State,UCLA
+283340333,Alabama,Auburn
+283340197,Oklahoma State,Oklahoma
+283340052,Florida State,Florida
+283340030,USC,Notre Dame
+283342641,Texas Tech,Baylor
+283340061,Georgia,Georgia Tech
+283340142,Missouri,Kansas
+283342132,Cincinnati,Syracuse
+283340204,Oregon State,Oregon
+283340103,Boston College,Maryland
+283340152,NC State,Miami
+283340228,Clemson,South Carolina
+283340259,Virginia Tech,Virginia
+283342116,UCF,UAB
+283340249,North Texas,Arkansas State
+283342348,Louisiana Tech,Nevada
+283342567,SMU,Southern Mississippi
+283340328,Utah State,New Mexico State
+283340276,Marshall,Tulsa
+283340150,Duke,North Carolina
+283340235,Memphis,Tulane
+283340242,Rice,Houston
+283342226,Florida Atlantic,Florida Intl
+283342633,Tennessee,Kentucky
+283340154,Wake Forest,Vanderbilt
+283340062,Hawaii,Washington State

@@ -1,0 +1,25 @@
+213520036,Colorado State,North Texas
+213530276,Marshall,East Carolina
+213540152,NC State,Pittsburgh
+213590254,Utah,USC
+213610024,Stanford,Georgia Tech
+213610066,Iowa State,Alabama
+213620251,Texas,Washington
+213620245,Texas A&M,TCU
+213620061,Georgia,Boston College
+213632649,Toledo,Cincinnati
+213632641,Texas Tech,Iowa
+213632306,Kansas State,Syracuse
+213650265,Washington State,Purdue
+213650252,BYU,Louisville
+213652348,Louisiana Tech,Clemson
+213650278,Fresno State,Michigan State
+213650002,Auburn,North Carolina
+220012483,Oregon,Colorado
+220012633,Tennessee,Michigan
+220010356,Illinois,LSU
+220010201,Oklahoma,Arkansas
+220012579,South Carolina,Ohio State
+220010259,Virginia Tech,Florida State
+220020057,Florida,Maryland
+220032390,Miami,Nebraska

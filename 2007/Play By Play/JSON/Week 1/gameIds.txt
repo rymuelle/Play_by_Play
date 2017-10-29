@@ -1,0 +1,70 @@
+272420344,Mississippi State,LSU
+272420097,Louisville,Murray State
+272420164,Rutgers,Buffalo
+272420068,Boise State,Weber State
+272422050,Ball State,Miami (OH)
+272422132,Cincinnati,Southeast Missouri State
+272422433,Louisiana Monroe,Tulsa
+272420166,New Mexico State,Southeastern Louisiana
+272420066,Iowa State,Kent State
+272420328,Utah State,UNLV
+272420204,Oregon State,Utah
+272430218,Temple,Navy
+272430183,Syracuse,Washington
+272440030,USC,Idaho
+272440277,West Virginia,Western Michigan
+272440251,Texas,Arkansas State
+272440130,Michigan,Appalachian State
+272440057,Florida,Western Kentucky
+272440275,Wisconsin,Washington State
+272440201,Oklahoma,North Texas
+272440259,Virginia Tech,East Carolina
+272440194,Ohio State,Youngstown State
+272440025,California,Tennessee
+272440061,Georgia,Oklahoma State
+272440024,Stanford,UCLA
+272440213,Penn State,Florida Intl
+272440002,Auburn,Kansas State
+272440158,Nebraska,Nevada
+272440008,Arkansas,Troy
+272442628,TCU,Baylor
+272440062,Hawaii,Northern Colorado
+272440245,Texas A&M,Montana State
+272440127,Michigan State,UAB
+272440038,Colorado,Colorado State
+272442390,Miami,Marshall
+272440077,Northwestern,Northeastern
+272440150,Duke,Connecticut
+272442005,Air Force,South Carolina State
+272442751,Wyoming,Virginia
+272440356,Illinois,Missouri
+272442459,Northern Illinois,Iowa
+272442483,Oregon,Houston
+272440235,Memphis,Ole Miss
+272440103,Boston College,Wake Forest
+272440087,Notre Dame,Georgia Tech
+272442226,Florida Atlantic,Middle Tennessee
+272440252,BYU,Arizona
+272440221,Pittsburgh,Eastern Michigan
+272440096,Kentucky,Eastern Kentucky
+272440120,Maryland,Villanova
+272440152,NC State,UCF
+272440153,North Carolina,James Madison
+272442305,Kansas,Central Michigan
+272442348,Louisiana Tech,Central Arkansas
+272442572,Southern Mississippi,Tennessee-Martin
+272442649,Toledo,Purdue
+272440195,Ohio,Gardner-Webb
+272440238,Vanderbilt,Richmond
+272442006,Akron,Army
+272442579,South Carolina,Louisiana Lafayette
+272440058,South Florida,Elon
+272440333,Alabama,Western Carolina
+272440084,Indiana,Indiana State
+272440135,Minnesota,Bowling Green
+272440242,Rice,Nicholls State
+272442638,UTEP,New Mexico
+272440009,Arizona State,San José State
+272440278,Fresno State,Sacramento State
+272460228,Clemson,Florida State
+272462567,SMU,Texas Tech

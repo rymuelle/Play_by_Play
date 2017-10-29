@@ -1,0 +1,51 @@
+332830097,Louisville,Rutgers
+332832005,Air Force,San Diego State
+332830030,USC,Arizona
+332842132,Cincinnati,Temple
+332850096,Kentucky,Alabama
+332850264,Washington,Oregon
+332850228,Clemson,Boston College
+332850254,Utah,Stanford
+332850061,Georgia,Missouri
+332850145,Ole Miss,Texas A&M
+332850099,LSU,Florida
+332850026,UCLA,California
+332850251,Texas,Oklahoma
+332850008,Arkansas,South Carolina
+332852306,Kansas State,Baylor
+332850213,Penn State,Michigan
+332850275,Wisconsin,Northwestern
+332852641,Texas Tech,Iowa State
+332852459,Northern Illinois,Akron
+332850259,Virginia Tech,Pittsburgh
+332850041,Connecticut,South Florida
+332850127,Michigan State,Indiana
+332850248,Houston,Memphis
+332850349,Army,Eastern Michigan
+332852509,Purdue,Nebraska
+332852628,TCU,Kansas
+332850150,Duke,Navy
+332850002,Auburn,Western Carolina
+332850195,Ohio,Central Michigan
+332852711,Western Michigan,Buffalo
+332852050,Ball State,Kent State
+332850113,Massachusetts,Miami (OH)
+332850120,Maryland,Virginia
+332850152,NC State,Syracuse
+332850036,Colorado State,San José State
+332852247,Georgia State,Troy
+332852751,Wyoming,New Mexico
+332852655,Tulane,East Carolina
+332852636,Texas San Antonio,Rice
+332852226,Florida Atlantic,Marshall
+332852032,Arkansas State,Idaho
+332850326,Texas State,Louisiana Monroe
+332850252,BYU,Georgia Tech
+332850249,North Texas,Middle Tennessee
+332850344,Mississippi State,Bowling Green
+332852229,Florida Intl,UAB
+332852439,UNLV,Hawaii
+332852638,UTEP,Tulsa
+332850328,Utah State,Boise State
+332850009,Arizona State,Colorado
+332850265,Washington State,Oregon State

@@ -1,0 +1,53 @@
+293220193,Miami (OH),Buffalo
+293222050,Ball State,Central Michigan
+293230197,Oklahoma State,Colorado
+293240328,Utah State,Boise State
+293240189,Bowling Green,Akron
+293242649,Toledo,Eastern Michigan
+293250057,Florida,Florida Intl
+293250333,Alabama,Chattanooga
+293250251,Texas,Kansas
+293252751,Wyoming,TCU
+293250145,Ole Miss,LSU
+293250130,Michigan,Ohio State
+293250012,Arizona,Oregon
+293252294,Iowa,Minnesota
+293250127,Michigan State,Penn State
+293250259,Virginia Tech,NC State
+293250077,Northwestern,Wisconsin
+293250024,Stanford,California
+293250265,Washington State,Oregon State
+293252390,Miami,Duke
+293250254,Utah,San Diego State
+293250252,BYU,Air Force
+293250228,Clemson,Virginia
+293250248,Houston,Memphis
+293250052,Florida State,Maryland
+293250058,South Florida,Louisville
+293250103,Boston College,North Carolina
+293250008,Arkansas,Mississippi State
+293252641,Texas Tech,Oklahoma
+293250218,Temple,Kent State
+293250195,Ohio,Northern Illinois
+293250142,Missouri,Iowa State
+293252116,UCF,Tulane
+293250087,Notre Dame,Connecticut
+293250151,East Carolina,UAB
+293250183,Syracuse,Rutgers
+293250242,Rice,UTEP
+293250245,Texas A&M,Baylor
+293250084,Indiana,Purdue
+293250026,UCLA,Arizona State
+293250249,North Texas,Army
+293252653,Troy,Florida Atlantic
+293252393,Middle Tennessee,Arkansas State
+293250276,Marshall,SMU
+293250278,Fresno State,Louisiana Tech
+293250167,New Mexico,Colorado State
+293250309,Louisiana Lafayette,Louisiana Monroe
+293252633,Tennessee,Vanderbilt
+293252572,Southern Mississippi,Tulsa
+293250061,Georgia,Kentucky
+293250158,Nebraska,Kansas State
+293250023,San José State,Hawaii
+293250166,New Mexico State,Nevada

@@ -1,0 +1,52 @@
+262990259,Virginia Tech,Clemson
+263000202,Tulsa,UTEP
+263010194,Ohio State,Minnesota
+263010130,Michigan,Northwestern
+263010204,Oregon State,USC
+263012641,Texas Tech,Texas
+263010145,Ole Miss,Auburn
+263012579,South Carolina,Tennessee
+263010057,Georgia,Florida
+263012426,Navy,Notre Dame
+263010008,Louisiana Monroe,Arkansas
+263010275,Wisconsin,Illinois
+263010103,Boston College,Buffalo
+263010142,Missouri,Oklahoma
+263010197,Oklahoma State,Nebraska
+263010059,Georgia Tech,Miami
+263010239,Baylor,Texas A&M
+263010153,North Carolina,Wake Forest
+263012483,Oregon,Portland State
+263010084,Indiana,Michigan State
+263010258,Virginia,NC State
+263012132,Cincinnati,Syracuse
+263012509,Purdue,Penn State
+263012294,Iowa,Northern Illinois
+263010150,Duke,Vanderbilt
+263010218,Temple,Bowling Green
+263012005,Air Force,BYU
+263010193,Miami (OH),Ball State
+263012305,Kansas,Colorado
+263012309,Kent State,Ohio
+263012655,Tulane,Army
+263010344,Mississippi State,Kentucky
+263010333,Alabama,Florida Intl
+263010248,Houston,UCF
+263012711,Western Michigan,Eastern Michigan
+263012653,Troy,North Texas
+263012306,Kansas State,Iowa State
+263012440,Nevada,New Mexico State
+263010254,Utah,UNLV
+263012226,Florida Atlantic,Arkansas State
+263010276,Marshall,Memphis
+263010309,Louisiana Lafayette,Middle Tennessee
+263010036,Colorado State,New Mexico
+263010023,San José State,Louisiana Tech
+263010026,UCLA,Washington State
+263010264,Washington,Arizona State
+263010120,Maryland,Florida State
+263012649,Toledo,Akron
+263012628,TCU,Wyoming
+263012572,Southern Mississippi,East Carolina
+263010021,San Diego State,Cal Poly
+263020164,Rutgers,Connecticut

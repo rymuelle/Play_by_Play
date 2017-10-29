@@ -1,0 +1,68 @@
+222410058,South Florida,Florida Atlantic
+222410189,Bowling Green,Tennessee Tech
+222410218,Temple,Richmond
+222412309,Kent State,New Hampshire
+222412649,Toledo,Cal Poly
+222412711,Western Michigan,Indiana State
+222412084,Buffalo,Lehigh
+222412117,Central Michigan,Sam Houston State
+222410252,BYU,Syracuse
+222412459,Northern Illinois,Wake Forest
+222410278,Fresno State,San Diego State
+222410204,Oregon State,Eastern Kentucky
+222420202,Tulsa,Oklahoma
+222432390,Miami,Florida A&M
+222430251,Texas,North Texas
+222432633,Tennessee,Wyoming
+222430052,Florida State,Virginia
+222430057,Florida,UAB
+222430038,Colorado,Colorado State
+222430061,Georgia,Clemson
+222430158,Nebraska,Troy
+222430130,Michigan,Washington
+222430265,Washington State,Nevada
+222432483,Oregon,Mississippi State
+222430127,Michigan State,Eastern Michigan
+222430276,Marshall,Appalachian State
+222430120,Maryland,Notre Dame
+222432579,South Carolina,New Mexico State
+222430245,Texas A&M,Louisiana Lafayette
+222430213,Penn State,UCF
+222430152,NC State,East Tennessee State
+222430103,Boston College,Connecticut
+222432005,Air Force,Northwestern
+222432294,Iowa,Akron
+222430066,Iowa State,Kansas
+222430333,Alabama,Middle Tennessee
+222430153,North Carolina,Miami (OH)
+222432509,Purdue,Illinois State
+222430356,Illinois,Missouri
+222432655,Tulane,Southern
+222430025,California,Baylor
+222430084,Indiana,William & Mary
+222430277,West Virginia,Chattanooga
+222430150,Duke,East Carolina
+222430059,Georgia Tech,Vanderbilt
+222430135,Minnesota,Texas State
+222430145,Ole Miss,Louisiana Monroe
+222430164,Rutgers,Villanova
+222430221,Pittsburgh,Ohio
+222432032,Arkansas State,San José State
+222432572,Southern Mississippi,Jackson State
+222432306,Kansas State,Western Kentucky
+222430235,Memphis,Murray State
+222430242,Rice,Houston
+222432348,Louisiana Tech,Oklahoma State
+222432567,SMU,Navy
+222430068,Boise State,Idaho
+222430167,New Mexico,Weber State
+222432439,UNLV,Wisconsin
+222430328,Utah State,Utah
+222432638,UTEP,Sacramento State
+222430009,Arizona State,Eastern Washington
+222430012,Arizona,Northern Arizona
+222430062,Hawaii,Eastern Illinois
+222440259,Virginia Tech,LSU
+222440097,Louisville,Kentucky
+222450030,USC,Auburn
+222452132,Cincinnati,TCU

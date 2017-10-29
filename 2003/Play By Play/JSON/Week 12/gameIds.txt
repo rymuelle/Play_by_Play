@@ -1,0 +1,51 @@
+233080193,Miami (OH),Bowling Green
+233092628,TCU,Louisville
+233100008,Arkansas,South Carolina
+233100166,New Mexico State,Utah State
+233110167,New Mexico,Colorado State
+233120201,Oklahoma,Texas A&M
+233120228,Clemson,Florida State
+233120221,Pittsburgh,Virginia Tech
+233122390,Miami,Tennessee
+233120194,Ohio State,Michigan State
+233122509,Purdue,Iowa
+233120197,Oklahoma State,Texas
+233120265,Washington State,UCLA
+233120057,Florida,Vanderbilt
+233122305,Kansas,Nebraska
+233120002,Auburn,Ole Miss
+233120038,Colorado,Missouri
+233122084,Buffalo,Northern Illinois
+233120135,Minnesota,Wisconsin
+233120041,Connecticut,Rutgers
+233120103,Boston College,West Virginia
+233120077,Northwestern,Penn State
+233120153,North Carolina,Wake Forest
+233122199,Eastern Michigan,UCF
+233120084,Indiana,Illinois
+233120344,Mississippi State,Alabama
+233122117,Central Michigan,Akron
+233120150,Duke,Georgia Tech
+233120183,Syracuse,Temple
+233120195,Ohio,Kent State
+233122132,Cincinnati,Rhode Island
+233122005,Air Force,Army
+233120066,Iowa State,Kansas State
+233120151,East Carolina,South Florida
+233122711,Western Michigan,Ball State
+233120087,Notre Dame,Navy
+233122032,Arkansas State,Idaho
+233120239,Baylor,Texas Tech
+233120242,Rice,Tulsa
+233122439,UNLV,San Diego State
+233122348,Louisiana Tech,SMU
+233122440,Nevada,Fresno State
+233120005,UAB,Tulane
+233120024,Stanford,Arizona State
+233120248,Houston,Southern Mississippi
+233122433,Louisiana Monroe,North Texas
+233120309,Louisiana Lafayette,Florida Intl
+233122638,UTEP,San José State
+233120012,Arizona,Washington
+233122393,Middle Tennessee,Troy
+233122483,Oregon,California

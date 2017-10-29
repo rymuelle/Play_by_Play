@@ -1,0 +1,49 @@
+293282711,Western Michigan,Ball State
+293300245,Texas A&M,Texas
+293310002,Auburn,Alabama
+293312132,Cincinnati,Illinois
+293310068,Boise State,Nevada
+293310277,West Virginia,Pittsburgh
+293310097,Louisville,Rutgers
+293310195,Ohio,Temple
+293312117,Central Michigan,Northern Illinois
+293312006,Akron,Eastern Michigan
+293312309,Kent State,Buffalo
+293310189,Bowling Green,Toledo
+293310036,Colorado State,Wyoming
+293310038,Colorado,Nebraska
+293310202,Tulsa,Memphis
+293320057,Florida,Florida State
+293322628,TCU,New Mexico
+293320059,Georgia Tech,Georgia
+293320201,Oklahoma,Oklahoma State
+293320258,Virginia,Virginia Tech
+293320099,LSU,Arkansas
+293320058,South Florida,Miami
+293322579,South Carolina,Clemson
+293320252,BYU,Utah
+293320030,USC,UCLA
+293320248,Houston,Rice
+293320152,NC State,North Carolina
+293320344,Mississippi State,Ole Miss
+293320041,Connecticut,Syracuse
+293320150,Duke,Wake Forest
+293320151,East Carolina,Southern Mississippi
+293320005,UAB,UCF
+293322032,Arkansas State,North Texas
+293322638,UTEP,Marshall
+293322567,SMU,Tulane
+293322305,Kansas,Missouri
+293320120,Maryland,Boston College
+293320009,Arizona State,Arizona
+293322226,Florida Atlantic,Western Kentucky
+293322433,Louisiana Monroe,Middle Tennessee
+293320070,Idaho,Utah State
+293320239,Baylor,Texas Tech
+293320264,Washington,Washington State
+293320309,Louisiana Lafayette,Troy
+293320096,Kentucky,Tennessee
+293320023,San José State,New Mexico State
+293320024,Stanford,Notre Dame
+293322439,UNLV,San Diego State
+293320062,Hawaii,Navy

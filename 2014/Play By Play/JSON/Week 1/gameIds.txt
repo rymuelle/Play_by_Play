@@ -1,0 +1,84 @@
+400548403,Georgia State,Abilene Christian
+400548402,South Carolina,Texas A&M
+400548169,Ole Miss,Boise State
+400548255,Arizona State,Weber State
+400547829,Louisiana Monroe,Wake Forest
+400547960,Minnesota,Eastern Illinois
+400548090,Akron,Howard
+400548091,Northern Illinois,Presbyterian College
+400548092,Central Michigan,Chattanooga
+400548256,Utah,Idaho State
+400548404,New Mexico State,Cal Poly
+400547647,Tulsa,Tulane
+400547993,Washington State,Rutgers
+400553383,San José State,North Dakota
+400547640,Vanderbilt,Temple
+400547952,Michigan State,Jacksonville State
+400547641,Connecticut,BYU
+400547815,Syracuse,Villanova
+400548003,Western Kentucky,Bowling Green
+400548171,Colorado,Colorado State
+400547644,Houston,Texas San Antonio
+400548177,Arizona,UNLV
+400547762,Oklahoma State,Florida State
+400547835,Alabama,West Virginia
+400548257,Oregon,South Dakota
+400547834,Oklahoma,Louisiana Tech
+400547982,Navy,Ohio State
+400548398,Auburn,Arkansas
+400547820,Virginia,UCLA
+400548259,Stanford,UC Davis
+400547740,Georgia,Clemson
+400548000,LSU,Wisconsin
+400548172,USC,Fresno State
+400548008,Notre Dame,Rice
+400547839,Kansas State,Stephen F Austin
+400547968,Nebraska,Florida Atlantic
+400547795,North Carolina,Liberty
+400548401,Missouri,South Dakota State
+400548173,Hawaii,Washington
+400547642,UCF,Penn State
+400547808,Pittsburgh,Delaware
+400547943,Michigan,Appalachian State
+400547840,Iowa State,North Dakota State
+400547904,Illinois,Youngstown State
+400547916,Indiana,Indiana State
+400547928,Iowa,Northern Iowa
+400547988,Purdue,Western Michigan
+400548010,UAB,Troy
+400548400,Kentucky,Tennessee-Martin
+400547772,Georgia Tech,Wofford
+400547802,NC State,Georgia Southern
+400548093,Ball State,Colgate
+400548170,Air Force,Nicholls State
+400548174,Nevada,Southern Utah
+400547728,Massachusetts,Boston College
+400547936,Maryland,James Madison
+400547975,Northwestern,California
+400548094,Buffalo,Duquesne
+400548007,Old Dominion,Hampton
+400548005,Miami (OH),Marshall
+400548179,Wyoming,Montana
+400548258,Oregon State,Portland State
+400547825,Virginia Tech,William & Mary
+400547751,Duke,Elon
+400548097,Kent State,Ohio
+400548095,Eastern Michigan,Morgan State
+400548096,Toledo,New Hampshire
+400548006,Middle Tennessee,Savannah State
+400548004,Florida Intl,Bethune-Cookman
+400548175,San Diego State,Northern Arizona
+400547645,Memphis,Austin Peay
+400547646,South Florida,Western Carolina
+400547837,TCU,Samford
+400547838,Texas Tech,Central Arkansas
+400548405,Arkansas State,Montana State
+400548406,Louisiana Lafayette,Southern
+400548407,Texas State,Arkansas-Pine Bluff
+400548009,Mississippi State,Southern Mississippi
+400548011,New Mexico,UTEP
+400547836,Texas,North Texas
+400547643,East Carolina,North Carolina Central
+400547648,Baylor,SMU
+400548178,Tennessee,Utah State
+400547786,Louisville,Miami

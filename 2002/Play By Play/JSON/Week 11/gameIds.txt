@@ -1,0 +1,50 @@
+223032628,TCU,Southern Mississippi
+223042005,Air Force,Colorado State
+223060164,Rutgers,Miami
+223060201,Oklahoma,Colorado
+223060259,Virginia Tech,Pittsburgh
+223060087,Notre Dame,Boston College
+223060061,Georgia,Florida
+223060194,Ohio State,Minnesota
+223060158,Nebraska,Texas
+223060265,Washington State,Arizona State
+223062294,Iowa,Wisconsin
+223060152,NC State,Georgia Tech
+223060238,Vanderbilt,Alabama
+223062305,Kansas,Kansas State
+223060130,Michigan,Michigan State
+223060154,Wake Forest,Florida State
+223062483,Oregon,Stanford
+223060213,Penn State,Illinois
+223062309,Kent State,Bowling Green
+223060066,Iowa State,Missouri
+223062579,South Carolina,Tennessee
+223060041,Connecticut,Florida Atlantic
+223060150,Duke,Clemson
+223060218,Temple,West Virginia
+223060077,Northwestern,Indiana
+223060145,Ole Miss,Auburn
+223060197,Oklahoma State,Texas A&M
+223060193,Miami (OH),Ohio
+223062050,Ball State,Western Michigan
+223062199,Eastern Michigan,Central Michigan
+223060153,North Carolina,Maryland
+223060008,Arkansas,Troy
+223060235,Memphis,Houston
+223062641,Texas Tech,Baylor
+223060344,Mississippi State,Kentucky
+223060252,BYU,San Diego State
+223060202,Tulsa,Rice
+223062032,Arkansas State,Southern Utah
+223062567,SMU,Nevada
+223062006,Akron,Marshall
+223060204,Oregon State,Arizona
+223060249,North Texas,Louisiana Monroe
+223060309,Louisiana Lafayette,Idaho
+223060166,New Mexico State,Middle Tennessee
+223060058,South Florida,Charleston Southern
+223060264,Washington,UCLA
+223062439,UNLV,Wyoming
+223062116,UCF,Syracuse
+223062638,UTEP,Boise State
+223060062,Hawaii,San José State

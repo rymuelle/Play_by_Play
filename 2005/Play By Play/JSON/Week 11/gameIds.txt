@@ -1,0 +1,54 @@
+253120276,Marshall,Southern Mississippi
+253132132,Cincinnati,West Virginia
+253140278,Fresno State,Boise State
+253150097,Louisville,Rutgers
+253160025,California,USC
+253160251,Texas,Kansas
+253160154,Wake Forest,Miami
+253160333,Alabama,LSU
+253160087,Notre Dame,Navy
+253160061,Georgia,Auburn
+253160194,Ohio State,Northwestern
+253160265,Washington State,Oregon
+253162579,South Carolina,Florida
+253160197,Oklahoma State,Texas Tech
+253160026,UCLA,Arizona State
+253160228,Clemson,Florida State
+253162628,TCU,UNLV
+253160275,Wisconsin,Iowa
+253150130,Michigan,Indiana
+253160066,Iowa State,Colorado
+253160258,Virginia,Georgia Tech
+253160135,Minnesota,Michigan State
+253160153,North Carolina,Maryland
+253160221,Pittsburgh,Connecticut
+253160201,Oklahoma,Texas A&M
+253160349,Army,Massachusetts
+253162509,Purdue,Illinois
+253162226,Florida Atlantic,North Texas
+253162309,Kent State,Buffalo
+253160183,Syracuse,South Florida
+253162633,Tennessee,Memphis
+253162711,Western Michigan,Central Michigan
+253160142,Missouri,Baylor
+253160145,Ole Miss,Arkansas
+253160158,Nebraska,Kansas State
+253160238,Vanderbilt,Kentucky
+253160242,Rice,Tulane
+253160202,Tulsa,East Carolina
+253160036,Colorado State,San Diego State
+253162393,Middle Tennessee,Louisiana Monroe
+253160166,New Mexico State,Nevada
+253160005,UAB,UCF
+253160070,Idaho,Louisiana Tech
+253160012,Arizona,Washington
+253162751,Wyoming,BYU
+253162199,Eastern Michigan,Ball State
+253160254,Utah,New Mexico
+253160204,Oregon State,Stanford
+253160309,Louisiana Lafayette,Florida Intl
+253162032,Arkansas State,Troy
+253160103,Boston College,NC State
+253162638,UTEP,Texas Southern
+253160062,Hawaii,Utah State
+253160248,Houston,Southern Mississippi

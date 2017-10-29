@@ -1,0 +1,50 @@
+283160193,Miami (OH),Ball State
+283172309,Kent State,Temple
+283172459,Northern Illinois,Central Michigan
+283182006,Akron,Buffalo
+283182390,Miami,Virginia Tech
+283182439,UNLV,Wyoming
+283190097,Louisville,Cincinnati
+283200333,Alabama,Mississippi State
+283202305,Kansas,Texas
+283200057,Florida,South Carolina
+283200024,Stanford,USC
+283200021,San Diego State,Utah
+283200213,Penn State,Indiana
+283200070,Idaho,Boise State
+283200002,Auburn,Georgia
+283200356,Illinois,Ohio State
+283200066,Iowa State,Missouri
+283200038,Colorado,Oklahoma State
+283200120,Maryland,North Carolina
+283202005,Air Force,BYU
+283200052,Florida State,Boston College
+283200099,LSU,Troy
+283200248,Houston,Tulsa
+283200152,NC State,Wake Forest
+283200058,South Florida,Rutgers
+283200130,Michigan,Northwestern
+283200228,Clemson,Duke
+283202426,Navy,Notre Dame
+283202294,Iowa,Purdue
+283200098,Western Kentucky,Middle Tennessee
+283200145,Ole Miss,Louisiana Monroe
+283200036,Colorado State,New Mexico
+283202711,Western Michigan,Toledo
+283202348,Louisiana Tech,Utah State
+283202655,Tulane,UAB
+283202572,Southern Mississippi,East Carolina
+283200204,Oregon State,California
+283200275,Wisconsin,Minnesota
+283202306,Kansas State,Nebraska
+283202226,Florida Atlantic,Louisiana Lafayette
+283202440,Nevada,San José State
+283200239,Baylor,Texas A&M
+283200276,Marshall,UCF
+283200278,Fresno State,New Mexico State
+283200009,Arizona State,Washington State
+283202483,Oregon,Arizona
+283200183,Syracuse,Connecticut
+283200096,Kentucky,Vanderbilt
+283202638,UTEP,SMU
+283200264,Washington,UCLA

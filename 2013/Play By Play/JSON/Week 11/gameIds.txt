@@ -1,0 +1,53 @@
+333090193,Miami (OH),Bowling Green
+333092084,Buffalo,Ohio
+333102050,Ball State,Central Michigan
+333110024,Stanford,Oregon
+333110239,Baylor,Oklahoma
+333110309,Louisiana Lafayette,Troy
+333120041,Connecticut,Louisville
+333120167,New Mexico,Air Force
+333130333,Alabama,LSU
+333130154,Wake Forest,Florida State
+333130096,Kentucky,Missouri
+333132633,Tennessee,Auburn
+333132390,Miami,Virginia Tech
+333130197,Oklahoma State,Kansas
+333130245,Texas A&M,Mississippi State
+333132751,Wyoming,Fresno State
+333130012,Arizona,UCLA
+333132116,UCF,Houston
+333130254,Utah,Arizona State
+333130221,Pittsburgh,Notre Dame
+333130275,Wisconsin,BYU
+333132641,Texas Tech,Kansas State
+333130057,Florida,Vanderbilt
+333130066,Iowa State,TCU
+333130135,Minnesota,Penn State
+333130276,Marshall,UAB
+333132132,Cincinnati,SMU
+333130349,Army,Western Kentucky
+333132509,Purdue,Iowa
+333130145,Ole Miss,Arkansas
+333130153,North Carolina,Virginia
+333130061,Georgia,Appalachian State
+333132199,Eastern Michigan,Western Michigan
+333132636,Texas San Antonio,Tulane
+333130025,California,USC
+333130036,Colorado State,Nevada
+333130120,Maryland,Syracuse
+333130130,Michigan,Nebraska
+333130249,North Texas,UTEP
+333130084,Indiana,Illinois
+333130166,New Mexico State,Boston College
+333132426,Navy,Hawaii
+333130151,East Carolina,Tulsa
+333130150,Duke,NC State
+333132393,Middle Tennessee,Florida Intl
+333130235,Memphis,Tennessee-Martin
+333130070,Idaho,Old Dominion
+333130277,West Virginia,Texas
+333132348,Louisiana Tech,Southern Mississippi
+333132433,Louisiana Monroe,Arkansas State
+333132439,UNLV,Utah State
+333130264,Washington,Colorado
+333130023,San José State,San Diego State

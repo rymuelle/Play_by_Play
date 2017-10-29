@@ -1,0 +1,54 @@
+252770249,North Texas,Troy
+252782459,Northern Illinois,Miami (OH)
+252790059,Georgia Tech,NC State
+252790309,Louisiana Lafayette,Florida Atlantic
+252800041,Connecticut,Syracuse
+252810030,USC,Arizona
+252810251,Texas,Oklahoma
+252810259,Virginia Tech,Marshall
+252810052,Florida State,Wake Forest
+252812633,Tennessee,Georgia
+252810213,Penn State,Ohio State
+252812390,Miami,Duke
+252810026,UCLA,California
+252810238,Vanderbilt,LSU
+252810057,Florida,Mississippi State
+252810077,Northwestern,Wisconsin
+252810158,Nebraska,Texas Tech
+252810009,Arizona State,Oregon
+252810103,Boston College,Virginia
+252810130,Michigan,Minnesota
+252810097,Louisville,North Carolina
+252810084,Indiana,Illinois
+252810164,Rutgers,West Virginia
+252812306,Kansas State,Kansas
+252810218,Temple,Maryland
+252812579,South Carolina,Kentucky
+252810349,Army,Central Michigan
+252812084,Buffalo,Akron
+252812426,Navy,Air Force
+252810145,Ole Miss,The Citadel
+252810221,Pittsburgh,Cincinnati
+252810197,Oklahoma State,Missouri
+252810066,Iowa State,Baylor
+252812439,UNLV,San Diego State
+252812751,Wyoming,TCU
+252810328,Utah State,San José State
+252812440,Nevada,Idaho
+252812509,Purdue,Iowa
+252810265,Washington State,Stanford
+252810189,Bowling Green,Ohio
+252810151,East Carolina,Rice
+252812116,UCF,Memphis
+252812655,Tulane,Houston
+252810036,Colorado State,Utah
+252810038,Colorado,Texas A&M
+252810005,UAB,SMU
+252810008,Arkansas,Louisiana Monroe
+252812711,Western Michigan,Ball State
+252812649,Toledo,Eastern Michigan
+252812348,Louisiana Tech,Hawaii
+252810167,New Mexico,BYU
+252812572,Southern Mississippi,Tulsa
+252810068,Boise State,Portland State
+252810166,New Mexico State,Fresno State

@@ -1,0 +1,58 @@
+262640059,Georgia Tech,Virginia
+262652440,Nevada,Northwestern
+262660194,Ohio State,Penn State
+262660002,Auburn,Buffalo
+262660012,Arizona,USC
+262660151,East Carolina,West Virginia
+262660057,Florida,Kentucky
+262660130,Michigan,Wisconsin
+262660251,Texas,Iowa State
+262662306,Kansas State,Louisville
+262660061,Georgia,Colorado
+262660099,LSU,Tulane
+262660259,Virginia Tech,Cincinnati
+262660127,Michigan State,Notre Dame
+262660356,Illinois,Iowa
+262662633,Tennessee,Marshall
+262660201,Oklahoma,Middle Tennessee
+262660052,Florida State,Rice
+262660228,Clemson,North Carolina
+262660152,NC State,Boston College
+262660025,California,Arizona State
+262660158,Nebraska,Troy
+262660068,Boise State,Hawaii
+262662509,Purdue,Minnesota
+262660189,Bowling Green,Kent State
+262660221,Pittsburgh,The Citadel
+262662426,Navy,Tulsa
+262660164,Rutgers,Howard
+262660142,Missouri,Ohio
+262660252,BYU,Utah State
+262662459,Northern Illinois,Indiana State
+262662199,Eastern Michigan,Central Michigan
+262660008,Arkansas,Alabama
+262660084,Indiana,Connecticut
+262662751,Wyoming,Air Force
+262660167,New Mexico,UTEP
+262660024,Stanford,Washington State
+262660309,Louisiana Lafayette,North Carolina A&T
+262662006,Akron,North Texas
+262660023,San José State,Cal Poly
+262660120,Maryland,Florida Intl
+262660145,Ole Miss,Wake Forest
+262662050,Ball State,North Dakota State
+262662305,Kansas,South Florida
+262660264,Washington,UCLA
+262662641,Texas Tech,Southeastern Louisiana
+262662649,Toledo,McNeese State
+262662711,Western Michigan,Temple
+262662579,South Carolina,Florida Atlantic
+262660183,Syracuse,Miami (OH)
+262660238,Vanderbilt,Tennessee State
+262660239,Baylor,Army
+262660245,Texas A&M,Louisiana Tech
+262660005,UAB,Mississippi State
+262660021,San Diego State,Utah
+262662567,SMU,Arkansas State
+262660248,Houston,Oklahoma State
+262660204,Oregon State,Idaho

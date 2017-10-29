@@ -1,0 +1,73 @@
+282410239,Baylor,Wake Forest
+282412050,Ball State,Northeastern
+282412084,Buffalo,UTEP
+282412117,Central Michigan,Eastern Illinois
+282412199,Eastern Michigan,Indiana State
+282412390,Miami,Charleston Southern
+282412393,Middle Tennessee,Troy
+282412132,Cincinnati,Eastern Kentucky
+282410041,Connecticut,Hofstra
+282410059,Georgia Tech,Jacksonville State
+282410193,Miami (OH),Vanderbilt
+282410066,Iowa State,South Dakota State
+282412579,South Carolina,NC State
+282410024,Stanford,Oregon State
+282420349,Army,Temple
+282420242,Rice,SMU
+282430061,Georgia,Georgia Southern
+282430194,Ohio State,Youngstown State
+282430258,Virginia,USC
+282430201,Oklahoma,Chattanooga
+282430057,Florida,Hawaii
+282430142,Missouri,Illinois
+282430099,LSU,Appalachian State
+282430277,West Virginia,Villanova
+282430228,Clemson,Alabama
+282430002,Auburn,Louisiana Monroe
+282430251,Texas,Florida Atlantic
+282432641,Texas Tech,Eastern Washington
+282430275,Wisconsin,Akron
+282432305,Kansas,Florida Intl
+282430009,Arizona State,Northern Arizona
+282430252,BYU,Northern Iowa
+282430151,East Carolina,Virginia Tech
+282430058,South Florida,Tennessee-Martin
+282432483,Oregon,Washington
+282430213,Penn State,Coastal Carolina
+282430221,Pittsburgh,Bowling Green
+282430077,Northwestern,Syracuse
+282430084,Indiana,Western Kentucky
+282432294,Iowa,Maine
+282432005,Air Force,Southern Utah
+282432751,Wyoming,Ohio
+282432426,Navy,Towson
+282430265,Washington State,Oklahoma State
+282430130,Michigan,Utah
+282430120,Maryland,Delaware
+282430005,UAB,Tulsa
+282430276,Marshall,Illinois State
+282430153,North Carolina,McNeese State
+282430167,New Mexico,TCU
+282432116,UCF,South Carolina State
+282432348,Louisiana Tech,Mississippi State
+282432572,Southern Mississippi,Louisiana Lafayette
+282430158,Nebraska,Western Michigan
+282430248,Houston,Southern
+282430008,Arkansas,Western Illinois
+282430135,Minnesota,Northern Illinois
+282430145,Ole Miss,Memphis
+282430150,Duke,James Madison
+282430245,Texas A&M,Arkansas State
+282432306,Kansas State,North Texas
+282432309,Kent State,Boston College
+282430068,Boise State,Idaho State
+282430023,San José State,UC Davis
+282430025,California,Michigan State
+282432440,Nevada,Grambling State
+282430021,San Diego State,Cal Poly
+282432439,UNLV,Utah State
+282430012,Arizona,Idaho
+282440097,Louisville,Kentucky
+282440038,Colorado,Colorado State
+282450026,UCLA,Tennessee
+282450164,Rutgers,Fresno State

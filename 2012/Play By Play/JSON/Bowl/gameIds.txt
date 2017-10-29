@@ -1,0 +1,35 @@
+323500328,Utah State,Toledo
+323500012,Arizona,Nevada
+323550021,San Diego State,BYU
+323562116,UCF,Ball State
+323570068,Boise State,Washington
+323570309,Louisiana,East Carolina
+323592567,SMU,Fresno State
+323612117,Central Michigan,Western Kentucky
+323620026,UCLA,Baylor
+323620189,Bowling Green,San José State
+323620150,Duke,Cincinnati
+323632433,Louisiana Monroe,Ohio
+323630259,Virginia Tech,Rutgers
+323632641,Texas Tech,Minnesota
+323640204,Oregon State,Texas
+323642005,Air Force,Rice
+323640183,Syracuse,West Virginia
+323640009,Arizona State,Navy
+323640127,Michigan State,TCU
+323660228,Clemson,LSU
+323660238,Vanderbilt,NC State
+323660059,Georgia Tech,USC
+323660202,Tulsa,Iowa State
+330010024,Stanford,Wisconsin
+330010158,Nebraska,Georgia
+330010130,Michigan,South Carolina
+330010052,Florida State,Northern Illinois
+330010077,Northwestern,Mississippi State
+330010197,Oklahoma State,Purdue
+330020057,Florida,Louisville
+330032306,Kansas State,Oregon
+330040201,Oklahoma,Texas A&M
+330050145,Ole Miss,Pittsburgh
+330062032,Arkansas State,Kent State
+330070333,Alabama,Notre Dame

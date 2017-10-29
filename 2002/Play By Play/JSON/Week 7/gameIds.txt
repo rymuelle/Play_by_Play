@@ -1,0 +1,49 @@
+222760052,Florida State,Clemson
+222760135,Minnesota,Illinois
+222770278,Fresno State,Colorado State
+222770328,Utah State,BYU
+222782390,Miami,Connecticut
+222780251,Texas,Oklahoma State
+222780142,Missouri,Oklahoma
+222780077,Northwestern,Ohio State
+222780145,Ole Miss,Florida
+222780333,Alabama,Georgia
+222780012,Arizona,Oregon
+222780087,Notre Dame,Stanford
+222782633,Tennessee,Arkansas
+222780264,Washington,California
+222780038,Colorado,Kansas State
+222780265,Washington State,USC
+222780275,Wisconsin,Penn State
+222780099,LSU,Louisiana Lafayette
+222780245,Texas A&M,Texas Tech
+222782294,Iowa,Purdue
+222780150,Duke,Virginia
+222780183,Syracuse,Pittsburgh
+222780277,West Virginia,Maryland
+222780158,Nebraska,McNeese State
+222782084,Buffalo,Western Michigan
+222782132,Cincinnati,Miami (OH)
+222782579,South Carolina,Mississippi State
+222782309,Kent State,Marshall
+222782050,Ball State,Northern Illinois
+222780239,Baylor,Kansas
+222780151,East Carolina,Army
+222782005,Air Force,Navy
+222782628,TCU,Houston
+222782567,SMU,San José State
+222782751,Wyoming,The Citadel
+222780070,Idaho,Montana
+222780059,Georgia Tech,Wake Forest
+222780204,Oregon State,UCLA
+222780189,Bowling Green,Ohio
+222782032,Arkansas State,Middle Tennessee
+222782199,Eastern Michigan,Akron
+222782653,Troy,Austin Peay
+222782433,Louisiana Monroe,Tulane
+222780166,New Mexico State,UTEP
+222780242,Rice,Louisiana Tech
+222780249,North Texas,South Florida
+222780068,Boise State,Hawaii
+222780009,Arizona State,North Carolina
+222782439,UNLV,Nevada

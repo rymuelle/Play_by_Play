@@ -1,0 +1,34 @@
+283550012,Arizona,BYU
+283552426,Navy,Wake Forest
+283550278,Fresno State,Colorado State
+283550058,South Florida,Memphis
+283562653,Troy,Southern Mississippi
+283582628,TCU,Boise State
+283590087,Notre Dame,Hawai'i
+283612117,Central Michigan,Florida Atlantic
+283620153,North Carolina,West Virginia
+283620052,Florida State,Wisconsin
+283620025,California,Miami
+283632348,Louisiana Tech,Northern Illinois
+283640077,Northwestern,Missouri
+283640164,Rutgers,NC State
+283652483,Oregon,Oklahoma State
+283652440,Nevada,Maryland
+283650242,Rice,Western Michigan
+283660059,Georgia Tech,LSU
+283660221,Pittsburgh,Oregon State
+283660238,Vanderbilt,Boston College
+283662005,Air Force,Houston
+283660135,Minnesota,Kansas
+290010030,USC,Penn State
+290010259,Virginia Tech,Cincinnati
+290010127,Michigan State,Georgia
+290012294,Iowa,South Carolina
+290010228,Clemson,Nebraska
+290020333,Alabama,Utah
+290022641,Texas Tech,Ole Miss
+290020151,East Carolina,Kentucky
+290030041,Connecticut,Buffalo
+290050251,Texas,Ohio State
+290060202,Tulsa,Ball State
+290080201,Oklahoma,Florida

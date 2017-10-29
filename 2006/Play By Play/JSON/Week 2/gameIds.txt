@@ -1,0 +1,64 @@
+262500068,Boise State,Oregon State
+262512132,Cincinnati,Pittsburgh
+262520251,Texas,Ohio State
+262520344,Mississippi State,Auburn
+262520087,Notre Dame,Penn State
+262520277,West Virginia,Eastern Washington
+262520057,Florida,UCF
+262520099,LSU,Arizona
+262520052,Florida State,Troy
+262520130,Michigan,Central Michigan
+262522633,Tennessee,Air Force
+262522579,South Carolina,Georgia
+262520218,Temple,Louisville
+262520183,Syracuse,Iowa
+262520201,Oklahoma,Washington
+262520153,North Carolina,Virginia Tech
+262522390,Miami,Florida A&M
+262520103,Boston College,Clemson
+262520278,Fresno State,Oregon
+262520158,Nebraska,Nicholls State
+262520025,California,Minnesota
+262522628,TCU,UC Davis
+262522638,UTEP,Texas Tech
+262520009,Arizona State,Nevada
+262520152,NC State,Akron
+262520154,Wake Forest,Duke
+262520164,Rutgers,Illinois
+262520142,Missouri,Ole Miss
+262520349,Army,Kent State
+262522509,Purdue,Miami (OH)
+262522426,Navy,Massachusetts
+262520077,Northwestern,New Hampshire
+262520189,Bowling Green,Buffalo
+262522459,Northern Illinois,Ohio
+262520333,Alabama,Vanderbilt
+262520275,Wisconsin,Western Illinois
+262520258,Virginia,Wyoming
+262520127,Michigan State,Eastern Michigan
+262520059,Georgia Tech,Samford
+262520265,Washington State,Idaho
+262520252,BYU,Tulsa
+262520276,Marshall,Hofstra
+262520038,Colorado State,Colorado
+262520023,San José State,Stanford
+262520096,Kentucky,Texas State
+262520120,Maryland,Middle Tennessee
+262522050,Ball State,Indiana
+262522305,Kansas,Louisiana Monroe
+262520239,Baylor,Northwestern State
+262520245,Texas A&M,Louisiana Lafayette
+262520248,Houston,Tulane
+262520249,North Texas,SMU
+262522572,Southern Mississippi,Southeastern Louisiana
+262522711,Western Michigan,Toledo
+262520066,Iowa State,UNLV
+262520058,South Florida,Florida Intl
+262520005,UAB,East Carolina
+262520008,Arkansas,Utah State
+262522032,Arkansas State,Oklahoma State
+262522306,Kansas State,Florida Atlantic
+262520254,Utah,Northern Arizona
+262520166,New Mexico State,New Mexico
+262520235,Memphis,Chattanooga
+262520026,UCLA,Rice

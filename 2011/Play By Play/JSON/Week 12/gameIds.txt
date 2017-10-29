@@ -1,0 +1,60 @@
+313192459,Northern Illinois,Ball State
+313200189,Bowling Green,Ohio
+313200193,Miami (OH),Western Michigan
+313210259,Virginia Tech,North Carolina
+313210005,UAB,Southern Mississippi
+313210235,Memphis,Marshall
+313220066,Iowa State,Oklahoma State
+313222117,Central Michigan,Toledo
+313230145,Ole Miss,LSU
+313230333,Alabama,Georgia Southern
+313232483,Oregon,USC
+313230239,Baylor,Oklahoma
+313230008,Arkansas,Mississippi State
+313230152,NC State,Clemson
+313230024,Stanford,California
+313230021,San Diego State,Boise State
+313230248,Houston,SMU
+313232579,South Carolina,The Citadel
+313230251,Texas,Kansas State
+313230061,Georgia,Kentucky
+313230127,Michigan State,Indiana
+313230130,Michigan,Nebraska
+313230356,Illinois,Wisconsin
+313232628,TCU,Colorado State
+313230194,Ohio State,Penn State
+313230002,Auburn,Samford
+313230052,Florida State,Virginia
+313230041,Connecticut,Louisville
+313230077,Northwestern,Minnesota
+313230164,Rutgers,Cincinnati
+313230245,Texas A&M,Kansas
+313232084,Buffalo,Akron
+313232509,Purdue,Iowa
+313230150,Duke,Georgia Tech
+313230218,Temple,Army
+313230057,Florida,Furman
+313232309,Kent State,Eastern Michigan
+313232751,Wyoming,New Mexico
+313232638,UTEP,Tulsa
+313230154,Wake Forest,Maryland
+313232393,Middle Tennessee,Arkansas State
+313230242,Rice,Tulane
+313232653,Troy,Florida Atlantic
+313230058,South Florida,Miami
+313230204,Oregon State,Washington
+313230142,Missouri,Texas Tech
+313230087,Notre Dame,Boston College
+313230023,San José State,Navy
+313232440,Nevada,Louisiana Tech
+313232433,Louisiana Monroe,Florida Intl
+313230265,Washington State,Utah
+313230070,Idaho,Utah State
+313232005,Air Force,UNLV
+313230249,North Texas,Western Kentucky
+313232633,Tennessee,Vanderbilt
+313230151,East Carolina,UCF
+313230026,UCLA,Colorado
+313230009,Arizona State,Arizona
+313230252,BYU,New Mexico State
+313230062,Hawaii,Fresno State

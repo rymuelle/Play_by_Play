@@ -1,0 +1,22 @@
+313350058,South Florida,West Virginia
+313362483,Oregon,UCLA
+313362459,Northern Illinois,Ohio
+313370099,LSU,Georgia
+313370197,Oklahoma State,Oklahoma
+313370068,Boise State,New Mexico
+313372306,Kansas State,Iowa State
+313370127,Michigan State,Wisconsin
+313370228,Clemson,Virginia Tech
+313370239,Baylor,Texas
+313372628,TCU,UNLV
+313370248,Houston,Southern Mississippi
+313370221,Pittsburgh,Syracuse
+313372132,Cincinnati,Connecticut
+313370036,Colorado State,Wyoming
+313370166,New Mexico State,Utah State
+313370249,North Texas,Middle Tennessee
+313362226,Florida Atlantic,Louisiana Monroe
+313372440,Nevada,Idaho
+313362032,Arkansas State,Troy
+313370062,Hawaii,BYU
+313370021,San Diego State,Fresno State

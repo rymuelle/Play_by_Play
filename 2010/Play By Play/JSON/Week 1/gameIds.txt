@@ -1,0 +1,78 @@
+302450194,Ohio State,Marshall
+302452390,Miami,Florida A&M
+302450062,Hawaii,USC
+302450254,Utah,Pittsburgh
+302450154,Wake Forest,Presbyterian College
+302452050,Ball State,Southeast Missouri State
+302452084,Buffalo,Rhode Island
+302452117,Central Michigan,Hampton
+302452309,Kent State,Murray State
+302452393,Middle Tennessee,Minnesota
+302452579,South Carolina,Southern Mississippi
+302450164,Rutgers,Norfolk State
+302450084,Indiana,Towson
+302450005,UAB,Florida Atlantic
+302450066,Iowa State,Northern Illinois
+302452655,Tulane,Southeastern Louisiana
+302450070,Idaho,North Dakota
+302452440,Nevada,Eastern Washington
+302460218,Temple,Villanova
+302462649,Toledo,Arizona
+302470333,Alabama,San José State
+302470057,Florida,Miami (OH)
+302470242,Rice,Texas
+302472628,TCU,Oregon State
+302470201,Oklahoma,Utah State
+302470158,Nebraska,Western Kentucky
+302472294,Iowa,Eastern Illinois
+302472483,Oregon,New Mexico
+302472439,UNLV,Wisconsin
+302470059,Georgia Tech,South Carolina State
+302470008,Arkansas,Tennessee Tech
+302470153,North Carolina,LSU
+302470213,Penn State,Youngstown State
+302470052,Florida State,Samford
+302470002,Auburn,Arkansas State
+302470061,Georgia,Louisiana Lafayette
+302470277,West Virginia,Coastal Carolina
+302470127,Michigan State,Western Michigan
+302470142,Missouri,Illinois
+302470103,Boston College,Weber State
+302472005,Air Force,Northwestern State
+302470036,Colorado State,Colorado
+302470145,Ole Miss,Jacksonville State
+302470087,Notre Dame,Purdue
+302470097,Louisville,Kentucky
+302470130,Michigan,Connecticut
+302472306,Kansas State,UCLA
+302470228,Clemson,North Texas
+302470025,California,UC Davis
+302470152,NC State,Western Carolina
+302470258,Virginia,Richmond
+302472633,Tennessee,Tennessee-Martin
+302472006,Akron,Syracuse
+302472116,UCF,South Dakota
+302470024,Stanford,Sacramento State
+302470150,Duke,Elon
+302472199,Eastern Michigan,Army
+302472305,Kansas,North Dakota State
+302472755,Grambling State,Louisiana Tech
+302470252,BYU,Washington
+302470245,Texas A&M,Stephen F Austin
+302470344,Mississippi State,Memphis
+302470239,Baylor,Sam Houston State
+302470195,Ohio,Wofford
+302470197,Oklahoma State,Washington State
+302472653,Troy,Bowling Green
+302470058,South Florida,Stony Brook
+302470238,Vanderbilt,Northwestern
+302470248,Houston,Texas State
+302470021,San Diego State,Nicholls State
+302472751,Wyoming,Southern Utah
+302472638,UTEP,Arkansas-Pine Bluff
+302470278,Fresno State,Cincinnati
+302470009,Arizona State,Portland State
+302480151,East Carolina,Tulsa
+302482641,Texas Tech,SMU
+302490259,Virginia Tech,Boise State
+302490120,Maryland,Navy

@@ -1,0 +1,54 @@
+222900120,Maryland,Georgia Tech
+222910068,Boise State,Fresno State
+222920201,Oklahoma,Iowa State
+222920259,Virginia Tech,Rutgers
+222920275,Wisconsin,Ohio State
+222920061,Georgia,Vanderbilt
+222922483,Oregon,Arizona State
+222922005,Air Force,Notre Dame
+222922306,Kansas State,Texas
+222922509,Purdue,Michigan
+222920152,NC State,Duke
+222920099,LSU,South Carolina
+222920084,Indiana,Iowa
+222920030,USC,Washington
+222920213,Penn State,Northwestern
+222920333,Alabama,Ole Miss
+222920038,Colorado,Baylor
+222920189,Bowling Green,Western Michigan
+222920041,Connecticut,Temple
+222920103,Boston College,Navy
+222920258,Virginia,North Carolina
+222920277,West Virginia,Syracuse
+222922393,Middle Tennessee,Louisiana Lafayette
+222920127,Michigan State,Minnesota
+222920197,Oklahoma State,Nebraska
+222922084,Buffalo,Miami (OH)
+222922305,Kansas,Texas A&M
+222922309,Kent State,Ohio
+222922572,Southern Mississippi,Cincinnati
+222920097,Louisville,TCU
+222920151,East Carolina,South Florida
+222920008,Arkansas,Kentucky
+222922459,Northern Illinois,Central Michigan
+222922050,Ball State,Eastern Michigan
+222922567,SMU,Louisiana Tech
+222922751,Wyoming,San Diego State
+222920248,Houston,Army
+222920254,Utah,Colorado State
+222920228,Clemson,Wake Forest
+222922655,Tulane,UAB
+222920166,New Mexico State,Louisiana Monroe
+222922440,Nevada,San José State
+222920276,Marshall,Troy
+222920024,Stanford,Arizona
+222920328,Utah State,New Mexico
+222922116,UCF,Toledo
+222920057,Florida,Auburn
+222920025,California,UCLA
+222920252,BYU,UNLV
+222922032,Arkansas State,North Texas
+222922641,Texas Tech,Missouri
+222920235,Memphis,Mississippi State
+222922638,UTEP,Rice
+222920062,Hawaii,Tulsa

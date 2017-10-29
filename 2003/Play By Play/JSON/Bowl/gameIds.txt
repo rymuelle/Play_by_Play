@@ -1,0 +1,28 @@
+233500249,North Texas,Memphis
+233520097,Louisville,Miami (OH)
+233562305,Kansas,NC State
+233570068,Boise State,TCU
+233580167,New Mexico,Oregon State
+233590062,Hawai'i,Houston
+233600189,Bowling Green,Northwestern
+233600025,California,Virginia Tech
+233610258,Virginia,Pittsburgh
+233630158,Nebraska,Michigan State
+233640265,Washington State,Texas
+233642641,Texas Tech,Navy
+233640278,Fresno State,UCLA
+233650135,Minnesota,Oregon
+233650002,Auburn,Wisconsin
+233652572,Southern Mississippi,Utah
+233650008,Arkansas,Missouri
+233650036,Colorado State,Boston College
+240010030,USC,Michigan
+240012509,Purdue,Georgia
+240010052,Florida State,Miami
+240010057,Florida,Iowa
+240010277,West Virginia,Maryland
+240020228,Clemson,Tennessee
+240020194,Ohio State,Kansas State
+240020197,Ole Miss,Oklahoma State
+240030202,Tulsa,Georgia Tech
+240040099,LSU,Oklahoma

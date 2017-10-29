@@ -1,0 +1,64 @@
+292602390,Miami,Georgia Tech
+292610278,Fresno State,Boise State
+292620057,Florida,Tennessee
+292620251,Texas,Texas Tech
+292620264,Washington,USC
+292620333,Alabama,North Texas
+292620213,Penn State,Temple
+292620145,Ole Miss,Southeastern Louisiana
+292620252,BYU,Florida State
+292620135,Minnesota,California
+292620099,LSU,Louisiana Lafayette
+292622649,Toledo,Ohio State
+292620201,Oklahoma,Tulsa
+292620259,Virginia Tech,Nebraska
+292622628,TCU,Texas State
+292620197,Oklahoma State,Rice
+292620204,Oregon State,Cincinnati
+292622483,Oregon,Utah
+292622305,Kansas,Duke
+292620008,Arkansas,Georgia
+292620153,North Carolina,East Carolina
+292620130,Michigan,Eastern Michigan
+292620096,Kentucky,Louisville
+292620228,Clemson,Boston College
+292620275,Wisconsin,Wofford
+292620349,Army,Ball State
+292622509,Purdue,Northern Illinois
+292620142,Missouri,Furman
+292620038,Colorado,Wyoming
+292620087,Notre Dame,Michigan State
+292620120,Maryland,Middle Tennessee
+292622653,Troy,UAB
+292622572,Southern Mississippi,Virginia
+292622006,Akron,Indiana
+292622117,Central Michigan,Alcorn State
+292622294,Iowa,Arizona
+292620265,Washington State,SMU
+292620239,Baylor,Connecticut
+292620164,Rutgers,Florida Intl
+292620036,Colorado State,Nevada
+292620070,Idaho,San Diego State
+292620152,NC State,Gardner-Webb
+292620221,Pittsburgh,Navy
+292620154,Wake Forest,Elon
+292620183,Syracuse,Northwestern
+292620195,Ohio,Cal Poly
+292620098,Western Kentucky,Central Arkansas
+292620058,South Florida,Charleston Southern
+292620245,Texas A&M,Utah State
+292620238,Vanderbilt,Mississippi State
+292620276,Marshall,Bowling Green
+292622309,Kent State,Iowa State
+292622348,Louisiana Tech,Nicholls State
+292622579,South Carolina,Florida Atlantic
+292622711,Western Michigan,Miami (OH)
+292622116,UCF,Buffalo
+292620167,New Mexico,Air Force
+292620002,Auburn,West Virginia
+292620166,New Mexico State,UTEP
+292620235,Memphis,Tennessee-Martin
+292620024,Stanford,San José State
+292620009,Arizona State,Louisiana Monroe
+292620026,UCLA,Kansas State
+292622439,UNLV,Hawaii

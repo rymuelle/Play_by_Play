@@ -1,0 +1,75 @@
+332412579,South Carolina,North Carolina
+332410062,Hawaii,USC
+332412309,Kent State,Liberty
+332410154,Wake Forest,Presbyterian College
+332410189,Bowling Green,Tulsa
+332410084,Indiana,Indiana State
+332410135,Minnesota,UNLV
+332412050,Ball State,Illinois State
+332412116,UCF,Akron
+332412393,Middle Tennessee,Western Carolina
+332410006,South Alabama,Southern Utah
+332410041,Connecticut,Towson
+332412655,Tulane,Jackson State
+332410254,Utah,Utah State
+332410238,Vanderbilt,Ole Miss
+332410023,San José State,Sacramento State
+332410278,Fresno State,Rutgers
+332420349,Army,Morgan State
+332422247,Georgia State,Samford
+332420127,Michigan State,Western Michigan
+332422390,Miami,Florida Atlantic
+332422567,SMU,Texas Tech
+332420248,Houston,Southern
+332422306,Kansas State,North Dakota State
+332420012,Arizona,Northern Arizona
+332430259,Virginia Tech,Alabama
+332430194,Ohio State,Buffalo
+332432483,Oregon,Nicholls State
+332430228,Clemson,Georgia
+332430245,Texas A&M,Rice
+332430057,Florida,Toledo
+332432628,TCU,LSU
+332430197,Oklahoma State,Mississippi State
+332430087,Notre Dame,Temple
+332430251,Texas,New Mexico State
+332430201,Oklahoma,Louisiana Monroe
+332430130,Michigan,Central Michigan
+332430158,Nebraska,Wyoming
+332430264,Washington,Boise State
+332430026,UCLA,Nevada
+332430025,California,Northwestern
+332430275,Wisconsin,Massachusetts
+332430204,Oregon State,Eastern Washington
+332430059,Georgia Tech,Elon
+332430103,Boston College,Villanova
+332430277,West Virginia,William & Mary
+332430356,Illinois,Southern Illinois
+332432132,Cincinnati,Purdue
+332430120,Maryland,Florida Intl
+332430152,NC State,Louisiana Tech
+332432005,Air Force,Colgate
+332432294,Iowa,Northern Illinois
+332430258,Virginia,BYU
+332430213,Penn State,Syracuse
+332430008,Arkansas,Louisiana Lafayette
+332430150,Duke,North Carolina Central
+332432633,Tennessee,Austin Peay
+332432199,Eastern Michigan,Howard
+332430276,Marshall,Miami (OH)
+332432032,Arkansas State,Arkansas-Pine Bluff
+332432653,Troy,UAB
+332432572,Southern Mississippi,Texas State
+332430249,North Texas,Idaho
+332430151,East Carolina,Old Dominion
+332430002,Auburn,Washington State
+332430142,Missouri,Murray State
+332430058,South Florida,McNeese State
+332430098,Western Kentucky,Kentucky
+332430239,Baylor,Wofford
+332430167,New Mexico,Texas San Antonio
+332430066,Iowa State,Northern Iowa
+332430021,San Diego State,Eastern Illinois
+332440097,Louisville,Ohio
+332440036,Colorado State,Colorado
+332450221,Pittsburgh,Florida State
