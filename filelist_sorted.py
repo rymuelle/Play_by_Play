@@ -234,4 +234,5 @@ fileList = ["./2002/Play By Play/CSV/PBP - 2002 - Week 3.csv",
 "./2017/CSV/PBP - 2017 - Week 7.csv",
 "./2017/CSV/PBP - 2017 - Week 8.csv",
 "./2017/CSV/PBP - 2017 - Week 9.csv",
+"./2017/CSV/PBP - 2017 - Week 10.csv",
 ]

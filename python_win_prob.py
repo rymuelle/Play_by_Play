@@ -3,12 +3,12 @@ import matplotlib
 import matplotlib.pyplot as plt
 import csv
 
-import filelist
+import filelist_sorted
 
 
 readers = []
 
-for file in filelist.fileList:
+for file in filelist_sorted.fileList:
 	readers.append(csv.DictReader(open(file)) )
 
 
