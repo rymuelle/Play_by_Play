@@ -21,8 +21,8 @@ for row in reader:
 	homeElo = float(teamELO[row['homeId']])
 	awayElo = float(teamELO[row['awayId']])
 
-	homeScore = float(row['homeScore'])/7
-	awayScore = float(row['awayScore'])/7
+	homeScore = (float(row['homeScore'])/7)
+	awayScore = (float(row['awayScore'])/7)
 
 	if homeScore > awayScore:
 		winScore = homeScore
@@ -37,10 +37,21 @@ for row in reader:
 
 	integral = 0
 	for i in range(100):
-		integral = integral + poisson.cdf(i, lossScore)*poisson.pmf(i, winScore)
+		#integral = integral + poisson.cdf(i, lossScore)*poisson.pmf(i, winScore)
+		integral = integral + poisson.pmf(i, lossScore)*poisson.sf(i, winScore)
+		#print poisson.cdf(i, lossScore), poisson.pmf(i, winScore)
 	
 
 	print "prob ", integral, winScore , lossScore
+
+	integral = 0
+	for i in range(100):
+		#integral = integral + poisson.cdf(i, winScore)*poisson.pmf(i, lossScore)
+		integral = integral + poisson.pmf(i, winScore)*poisson.sf(i, lossScore)
+
+	print "prob flip ", integral, winScore , lossScore
+
+	
 
 	#outcome = 
 
