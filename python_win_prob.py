@@ -35,7 +35,7 @@ AwayDefenseScore = 0
 
 
 f = open('output.csv','wb')
-field_names=["gameId", "homeTeam", "homeId", "awayTeam", "awayId", "year", "homeScore", "awayScore", "nHomeTD", "nAwayTD", "HomeOffenseScore", "HomeDefenseScore", "AwayOffenseScore", "AwayDefenseScore", "elo", "eloOffense", "eloDefense"]
+field_names=["gameId", "homeTeam", "homeId", "awayTeam", "awayId", "year", "week", "homeScore", "awayScore", "nHomeTD", "nAwayTD", "HomeOffenseScore", "HomeDefenseScore", "AwayOffenseScore", "AwayDefenseScore", "elo", "eloOffense", "eloDefense"]
 w = csv.DictWriter(f,fieldnames=field_names, delimiter='\t')
 w.writeheader()
 
@@ -55,7 +55,7 @@ for reader in readers:
 		# add up stats
 		if current_gameID == row['gameId'] and good_game==True:
 			if homeScore- int(row['homeScore']) + awayScore - int(row['awayScore']) < 0:
-				print current_gameID, clock, row['quarter'], row['homeScore'], row['awayScore'], row['description'], row['homeTeam'], row['awayTeam'], row['year'], row['type']
+				#print current_gameID, clock, row['quarter'], row['homeScore'], row['awayScore'], row['description'], row['homeTeam'], row['awayTeam'], row['year'], row['type']
 
 				if homeScore- int(row['homeScore']) !=0 and row['offenseId'] == row['homeId']:
 					HomeOffenseScore = HomeOffenseScore - homeScore + int(row['homeScore']) 
@@ -82,11 +82,12 @@ for reader in readers:
 			homeScore = int(row['homeScore'])
 			awayScore = int(row['awayScore'])
 			playtype = row['type']
+
 				
 		if current_gameID != row['gameId']:
 			
 			#last play
-	 		if good_game:
+	 		if good_game and awayScore + homeScore != 0 and quarter > 3:
 
 				
 				
@@ -99,7 +100,7 @@ for reader in readers:
 				games["HomeDefenseScore"] = HomeDefenseScore
 				games["AwayOffenseScore"] = AwayOffenseScore
 				games["AwayDefenseScore"] = AwayDefenseScore
-				print playtype
+				#print playtype
 				w.writerow(games)
 
 
@@ -113,6 +114,7 @@ for reader in readers:
 			games["homeId"] = row['homeId']
 			games["awayId"] = row['awayId']
 			games["year"] = row['year']
+			games["week"] = row['week']
 
 
 			current_gameID = row['gameId']
@@ -130,11 +132,15 @@ for reader in readers:
 			AwayOffenseScore = 0
 			AwayDefenseScore = 0
 
+			
 			#if clock[0] > 13 and clock[1] > 30 and "isScoringPlay" in row.keys():
-			if clock[0] > 13 and clock[1] > 30 and int(row['homeScore'])+int(row['awayScore']) == 0:
+			if clock[0] > 13 and int(row['homeScore'])+int(row['awayScore']) == 0:
+				
 
 				
 				good_game =True
+			
+			quarter = row['quarter']
 
 
 
