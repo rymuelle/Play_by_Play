@@ -232,4 +232,5 @@ fileList = ["./2002/Play By Play/CSV/PBP - 2002 - Bowl Week.csv",
 "./2017/CSV/PBP - 2017 - Week 5.csv",
 "./2017/CSV/PBP - 2017 - Week 6.csv",
 "./2017/CSV/PBP - 2017 - Week 7.csv",
-"./2017/CSV/PBP - 2017 - Week 8.csv"]
+"./2017/CSV/PBP - 2017 - Week 8.csv",
+"./2017/CSV/PBP - 2017 - Week 9.csv"]
