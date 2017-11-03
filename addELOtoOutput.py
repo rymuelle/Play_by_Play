@@ -8,15 +8,16 @@ from scipy.stats import poisson, norm
 reader = csv.DictReader(open("output.csv"), delimiter = '\t') 
 
 f = open('output_step2.csv','wb')
-field_names=["gameId", "homeTeam", "homeId", "awayTeam", "awayId", "year", "week", "homeScore", "awayScore", "nHomeTD", "nAwayTD", "HomeOffenseScore", "HomeDefenseScore", "AwayOffenseScore", "AwayDefenseScore", "homeElo", "awayElo", "predWin", "homeEloFast", "awayEloFast", "predWinFast" ,"obsWin"]
+field_names=["gameId", "homeTeam", "homeId", "awayTeam", "awayId", "year", "week", "homeScore", "awayScore", "nHomeTD", "nAwayTD", "HomeOffenseScore", "HomeDefenseScore", "AwayOffenseScore", "AwayDefenseScore", "homeElo", "awayElo", "predWin", "homeEloFast", "awayEloFast", "predWinFast" ,"homeEloPerformance", "awayEloPerformance" ,"obsWin"]
 w = csv.DictWriter(f,fieldnames=field_names, delimiter='\t')
 w.writeheader()
 
+double_smoothing = {}
 teamElo = {}
 teamEloFast = {}
 teamID_to_Ab = {}
 for row in reader:
-    #if row['year'] == "2007": break
+   # if row['year'] == "2006": break
 
     print "\n"
 
@@ -36,10 +37,12 @@ for row in reader:
 
     # set default elo to new teams
     if homeId not in teamElo.keys():
+        double_smoothing[homeId] = {"st": 0, "st-1":0, "bt": 0, "bt-1":0, "F+": 0}
         teamElo[homeId] = 1500
         teamElo[homeId+"_count"] = 0
         teamEloFast[homeId] = 1500
     if awayId not in teamElo.keys():
+        double_smoothing[awayId] = {"st": 0, "st-1":0, "bt": 0, "bt-1":0, "F+": 0}
         teamElo[awayId] = 1500
         teamElo[awayId+"_count"] = 0
         teamEloFast[awayId] = 1500
@@ -125,7 +128,7 @@ for row in reader:
         #homeWinValuePredFast = norm.ppf(homeWinPredFast)
         #homeWinValueObs = norm.ppf(adjustedHomeWinProb)
         homeWinValuePred = homeWinPred
-        homeWinValuePredFast = homeEloFast-awayEloFast
+        homeWinValuePredFast = homeWinPredFast #homeEloFast-awayEloFast
         homeWinValueObs = adjustedHomeWinProb
         print "obs, pred, predFast: ", homeWinValueObs, homeWinValuePred, homeWinValuePredFast
 
@@ -141,11 +144,48 @@ for row in reader:
         #kFast = (k + 160/(week+2))#200/(teamCountTotal + 2) + 80/(week))
         kFast = .04 +.02/week
         if adjustedHomeWinProb > .99: adjustedHomeWinProb = .99
-        homeEloFast = (homeEloFast + kFast*(-math.log(1/adjustedHomeWinProb -1)/math.log(10)*400  - homeWinValuePredFast))
-        awayEloFast = (awayEloFast - kFast*(-math.log(1/adjustedHomeWinProb -1)/math.log(10)*400  - homeWinValuePredFast))
-     
-
+        #homeEloFast = (homeEloFast + kFast*(-math.log(1/adjustedHomeWinProb -1)/math.log(10)*400  - homeWinValuePredFast))
+        #awayEloFast = (awayEloFast - kFast*(-math.log(1/adjustedHomeWinProb -1)/math.log(10)*400  - homeWinValuePredFast))
         
+        homeEloPerformance = (-math.log(1/adjustedHomeWinProb -1)/math.log(10)*400) + awayElo
+        awayEloPerformance = ( math.log(1/adjustedHomeWinProb -1)/math.log(10)*400) + homeElo
+
+        writeDict["homeEloPerformance"] = int(homeEloPerformance)
+        writeDict["awayEloPerformance"] = int(awayEloPerformance)
+
+
+        def double_exp_smooth(smoothingDict, eloPerformance):
+            st = smoothingDict['st'] 
+            bt = smoothingDict['bt']
+            st1 = smoothingDict['st-1'] 
+            bt1 = smoothingDict['bt-1']  
+
+            if week == 1:
+                st = eloPerformance
+                bt = 0
+
+            if week == 2: 
+                st = eloPerformance 
+                bt = 0 
+            else:
+                alpha = .5
+                beta = 0.1
+                st1 = st
+                bt1 = bt
+                st = alpha*eloPerformance + (1-alpha)*(st+bt)
+                bt = beta*(st-st1)+(1-beta)*bt1
+            Ft = st + bt
+            print "predicted Elo: {}, Elo perf: {}, st: {}, bt: {}".format(Ft,eloPerformance,st,bt)
+            smoothingDict = {"st": st, "st-1": st1, "bt": bt, "bt-1":bt1, "F+": Ft}
+            return smoothingDict
+
+        double_smoothing[homeId] = double_exp_smooth(double_smoothing[homeId], homeElo)
+        double_smoothing[awayId] = double_exp_smooth(double_smoothing[awayId], awayElo)
+        homeEloFast = int(double_smoothing[homeId]['F+'])
+        awayEloFast = int(double_smoothing[awayId]['F+'])
+    
+
+
         print "k factor , kFast , chaos factor", k, kFast, chaosFactor
     
         
@@ -155,12 +195,13 @@ for row in reader:
         teamEloFast[homeId] = homeEloFast
         teamEloFast[awayId] = awayEloFast
     
-
+        print "elo performance rating home: {}, away: {}".format(int(homeEloPerformance),int(awayEloPerformance))
         print "new Elo , new EloFast", int(teamElo[homeId]), int(teamElo[awayId]), int(teamEloFast[homeId]), int(teamEloFast[awayId])
         homeElo = float(teamElo[homeId])
         awayElo = float(teamElo[awayId])
         homeWinPred = 1/(10**(-( homeElo - awayElo)/400) +1 ) 
         print "new home win prediction , fast , adjustment", homeWinPred, homeWinPredFast, k*(adjustedHomeWinProb - homeWinPred)
+
     writeDict["homeElo"] = int(homeElo)
     writeDict["awayElo"] = int(awayElo)
     writeDict["homeEloFast"] = int(homeEloFast)
