@@ -27,26 +27,64 @@ class team():
     def __init__(self, year, week, teamId, teamName):
         self.elo = [1500]
         self.eloPerformance = [1500]
+        self.st = [1500]
+        self.bt = [0]
+        self.Ft = [1500]
         self.year = [int(year)]
         self.week = [get_week(week)]
-        self.home = []
+        self.home = [True]
         self.nGames = 0
         self.id = teamId
         self.name = teamName
 
+
     def probCountAGreaterThanB(self, countA, countB):
         prob = 0
         integral_factor = 5
-        for i in range(int(countA+countB)*integral_factor):
+        for i in range((int(countA+countB)+1)*integral_factor):
             dprob = poisson.pmf(i, countB)*poisson.sf(i, countA)
             prob = prob + dprob
             if dprob < .0001: break
         return prob
 
+    def double_exp_smooth(self, verbose): 
+        nGames = self.nGames
+        week = self.week[nGames]
+        st = self.st[nGames]
+        st1 = self.st[nGames-1]
+        bt = self.bt[nGames]
+        bt1 = self.bt[nGames-1]
+        Ft = self.Ft[nGames]
+        print "week ", week
+        eloPerformance = self.elo[nGames+1]
+        print eloPerformance
+        if nGames == 0:
+            st = eloPerformance
+            bt = 0
+            self.st.append(st)
+            self.bt.append(0)
+        if nGames == 1:
+            st = eloPerformance
+            bt = 0
+            lastEloPerformance = self.elo[nGames] 
+            self.st.append(st)
+            self.bt.append(eloPerformance - lastEloPerformance)
+        else:
+            alpha = .1
+            beta = .1
+            st = alpha*eloPerformance + (1-alpha)*(st+bt)
+            bt = beta*(st-st1)+(1-beta)*bt1
+            
+            self.st.append(st)
+            self.bt.append(bt)
+        Ft = st +bt
+        self.Ft.append(Ft)
+        if verbose: print "st: {} bt: {} Ft: {}".format(st, bt, Ft)
+
     def obsWinProb(self, countA, countB):
         homeWinProb = self.probCountAGreaterThanB(countA,countB)
         awayWinProb = self.probCountAGreaterThanB(countB,countA)
-        homeWinProbAdjusted = (homeWinProb)/(homeWinProb + awayWinProb)
+        homeWinProbAdjusted = (homeWinProb)/(homeWinProb + awayWinProb) 
         return homeWinProbAdjusted
 
     def computedWinProb(self, homeElo, awayElo):
@@ -56,12 +94,13 @@ class team():
          return (-math.log(1/prob -1)/math.log(10)*400)
 
     def addGame(self, newElo, eloPerformance, year, week, home):
-        self.nGames = self.nGames  +1
         self.elo.append(newElo)
         self.eloPerformance.append(eloPerformance)
         self.year.append(int(year))
         self.week.append(get_week(week))
         self.home.append(home)
+        self.double_exp_smooth(True)
+        self.nGames = self.nGames  +1
 
     def returnElo(self):
         return self.elo[self.nGames]
@@ -81,11 +120,13 @@ class team():
         obsProb = self.obsWinProb(score, opponentScore)
         if verbose: print "elo: {} opponent elo: {} win prediction: {} score: {} {} obsWinProb: {}".format(elo, opponentElo, predProb, score, opponentScore, obsProb)
 
+        elo = elo + kFactor*(obsProb - predProb)
+        opponentElo = opponentElo - kFactor*(obsProb-predProb)
+
         eloPerformance = opponentElo + self.computeElofromProb(obsProb)
         opponentEloPerformance = elo - self.computeElofromProb(obsProb)
 
-        elo = elo + kFactor*(obsProb - predProb)
-        opponentElo = opponentElo - kFactor*(obsProb-predProb)
+       
 
         if verbose: print "uptdated elo: {} opponent elo: {} elo performance: {} opponent elo performance: {} k factor: {}".format(elo, opponentElo, eloPerformance, opponentEloPerformance, kFactor)
         self.addGame(elo, eloPerformance, year, week, True)
@@ -269,7 +310,7 @@ for row in reader:
             bt = smoothingDict['bt']
             st1 = smoothingDict['st-1'] 
             bt1 = smoothingDict['bt-1']  
-
+            print "week ", week
             if week == 1:
                 st = eloPerformance
                 bt = 0
