@@ -4,7 +4,8 @@ import matplotlib
 import matplotlib.pyplot as plt
 import csv
 from scipy.stats import poisson, norm
-#import pickle
+import pickle
+
 
 reader = csv.DictReader(open("output.csv"), delimiter = '\t') 
 
@@ -40,6 +41,23 @@ class team():
         self.id = teamId
         self.name = teamName
 
+    def returnEloByTime(self, year, week):
+        year = int(year)
+        week = get_week(week)
+        goal = week + year*100
+
+        elo = -1000
+        for i in range(self.nGames):
+            current = self.week[i] + self.year[i]*100
+            print "name: {} i: {} week: {}  year: {} looking at week: {} year: {} elo: {}".format(self.name, i, week, year, self.week[i], self.year[i], self.elo[i])
+            if (goal - current) < 5:
+                elo = self.elo[i]
+            if goal == current and i != 0:
+                elo = self.elo[i]
+                break
+            if goal < current and week!=16: break
+        print self.elo
+        return elo
 
     def probCountAGreaterThanB(self, countA, countB):
         prob = 0
@@ -151,13 +169,13 @@ for row in reader:
     print "game ID ", row['gameId']
 
 
-  
+    
     writeDict = {}
     for key in row:
         if key in field_names:
             writeDict[key] = row[key]
 
-    year = row['year']
+    year = int(row['year'])
     week = get_week(row['week'])
 
     homeId = row['homeId']
@@ -169,6 +187,7 @@ for row in reader:
 
     homeScore = float(row['homeScore'])
     awayScore = float(row['awayScore'])
+    if year > 2007: break
 
     if homeId not in teamDict:
         teamDict[homeId] = team(year, week, homeId, homeTeam)
@@ -192,9 +211,14 @@ for row in reader:
     w.writerow(writeDict)
 
 
+pickleFile  = open('pickledTeamDict.dat','wb')
+pickle.dump(teamDict, pickleFile)
+pickleFile.close()
+
 print "\n"
 
-#for keys in teamDict:
+
+
 #keylist = teamElo.keys()
 #
 #
