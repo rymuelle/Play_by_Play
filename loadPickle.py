@@ -12,7 +12,7 @@ teamDict = pickle.load(open('pickledTeamDict.dat', 'rb'))
 
 
 for keys in teamDict:
-    year = 2006
+    year = 2017
     week = 10
     elo =  teamDict[keys].returnEloByTime(year, week)
-    print elo#
+    print elo, teamDict[keys].name
