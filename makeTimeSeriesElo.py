@@ -18,10 +18,6 @@ teamDict = pickle.load(open('pickledTeamDict.dat', 'rb'))
 targetName = "TAMU"
 name = ""
 
-def newElo(obsProb, predProb, Elo, k):
-	Elo = Elo + k*(obsProb - predProb)
-	return Elo
-
 for key in teamDict:
 	if targetName ==  teamDict[key].name:
 		team = teamDict[key]
@@ -86,39 +82,33 @@ else:
 
 
 
-		k = 120 + 80/week
-		if i == 0: 
-			elo = newElo(obsWin, predWin, 1500, k)
-		else: elo = newElo(obsWin, predWin, eloArray[i-1], k)
-		if i == 0: #or week == 1
-			stArray.append(elo)
+
+		if i == 0: #or week == 1:
+			stArray.append(team.elo[i])
 			btArray.append(0)
 		elif i == 2: #or week == 2:
-			stArray.append(elo)
-			btArray.append(0) #elo - team.elo[i-1])
+			stArray.append(team.elo[i])
+			btArray.append(0) #team.elo[i] - team.elo[i-1])
 		else:
 			st = stArray[i-1]
 			bt = btArray[i-1]
 			alpha = .2
 			beta = .05
-			stArray.append(alpha*elo +(1-alpha)*(st+bt) )
+			stArray.append(alpha*team.elo[i] +(1-alpha)*(st+bt) )
 			btArray.append(beta*(stArray[i] -st ) + (1-beta)*bt )
 		m = 1
 		if week == 1:
 			m = 2
 		FtArray.append(stArray[i] + m*btArray[i])
 
-
-
 		#stArray.append(team.st[i])
 		#eloArray.append(team.st[i])
 		#FtArray.append(team.Ft[i])
-		eloArray.append(elo)
+		eloArray.append(team.elo[i])
 
 		timeArray.append(datetime.datetime(year, month, day, 19, 0))
-		print elo, year , month, day
+		print team.elo[i], year , month, day
 
-	print len(eloArray), len(eloArray)
 	eloArray = np.array(eloArray)
 	timeArray = np.array(timeArray)
 
