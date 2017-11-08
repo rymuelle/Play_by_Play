@@ -35,12 +35,23 @@ class play():
         self.distance  = int(playDict['distance'])
         self.endYardLine  = int(playDict['endYardLine'])
 
+        self.homeScore  = int(playDict['homeScore'])
+        self.awayScore  = int(playDict['awayScore'])
+
         self.type  = playDict['type']
         if verbose > 11: print "\t\toffense: {} defense: {} type: {} down: {} distance: {} yardsGained: {} yardLine: {}".format(playDict['offenseId'], playDict['defenseId'], self.type, self.down, self.distance, self.yardsGained,self.yardLine )
 
 
 class drive():
     def __init__(self, playDict, verbose, driveIndexRelative):
+        self.offenseId  = playDict['offenseId']
+        self.defenseId  = playDict['defenseId']
+
+        self.homeId  = playDict['homeId']
+        self.homeIsOffense = 1
+        if  self.homeId == self.offenseId:
+            self.homeIsOffense = -1
+
         self.driveIndexRelative = driveIndexRelative
         self.driveIndexAbsolute = playDict["driveIndex"]
 
@@ -49,27 +60,61 @@ class drive():
         self.clockStart = int(clock[0]), int(clock[1])
         self.clockEnd = [0,0]
 
-        self.driveStart = playDict["yardLine"]
+        self.downStart = int(playDict["down"])
+        self.downEnd = -100
+
+        self.driveStart = int(playDict["yardLine"])
         self.driveEnd = -100
+        self.driveLastYardLine = -100
+        self.yardsGained = -100
         
         self.plays = []
         self.nPlays = 0
 
+        self.deltaScore = 0
         self.result = -100
         if (verbose > 12): print "\tdriveIndex: {} quarter: {} clockStart: {} driveStart: {}".format(self.driveIndexAbsolute, self.quarter, self.clockStart, self.driveStart) 
 
     def addPlay(self, playDict, verbose):
-        nPlays = self.nPlays
+        self.nPlays = self.nPlays + 1
+
        # print playDict['down'], self.driveIndexAbsolute
         self.plays.append(play(playDict, verbose))
        # print "self.plays" , self.plays[nPlays-1].down
 
         #self.endDrive()
 
-    def endDrive(self):
+    def endDrive(self, verbose):
+        self.deltaScore =  self.plays[self.nPlays-1].homeScore - self.plays[0].homeScore - (self.plays[self.nPlays-1].awayScore - self.plays[0].awayScore)
 
-        for count, i in enumerate(self.plays):
-            print "\tdown: {}".format(i.down)
+        self.yardsGained = 0
+        #offensivePlays = ["Pass", "Rush", "Pen"]
+        #deffensivePlays  =["Interception" , ]
+        for count, playz in enumerate(self.plays):
+            if playz.down > 0:
+                if count != self.nPlays-1:
+                #self.deltaScore
+                        self.yardsGained = self.yardsGained + playz.yardsGained
+                self.downEnd = playz.down
+
+                self.driveEnd = playz.endYardLine
+                self.driveLastYardLine = playz.yardLine
+
+            flipField = 1
+            if self.quarter == 2 or self.quarter ==4:
+                flipField = -1
+
+            #self.yardsGained = (self.driveLastYardLine - self.driveStart)
+
+       # self.driveEnd = self.plays[self.nPlays-1].endYardLine
+        #self.driveLastYardLine = self.plays[self.nPlays-1].endYardLine
+        if  self.homeId != self.offenseId: self.deltaScore = -1*self.deltaScore
+
+        #self.clockEnd = self.plays[self.nPlays-1].clock
+
+        if verbose > 12: print "\tdelta score: {} yardsGained: {} start: {} end: {} result: {} down start: {} end: {}".format(self.deltaScore, self.yardsGained, self.driveStart,self.driveLastYardLine,  self.driveEnd, self.downStart, self.downEnd)
+        #for count, i in enumerate(self.plays):
+            #print "\tdown: {}".format(i.down)
 
 
 
@@ -114,7 +159,7 @@ class game():
             self.driveIndexAbsolute = currentDrive
             currentOffense = playDict['offenseId']
 
-            if  self.driveIndexRelative > -1 : self.drives[self.driveIndexRelative].endDrive()
+            if  self.driveIndexRelative > -1 : self.drives[self.driveIndexRelative].endDrive(verbose)
 
             self.driveIndexRelative = self.driveIndexRelative +1 
             self.drives.append(drive(playDict, verbose, currentDrive))
