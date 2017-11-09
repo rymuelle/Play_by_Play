@@ -40,7 +40,7 @@ class play():
 
         self.type  = playDict['type']
         if verbose > 12: print "\t\toffense: {} defense: {} type: {} down: {} distance: {} yardsGained: {} yardLine: {}".format(playDict['offenseId'], playDict['defenseId'], self.type, self.down, self.distance, self.yardsGained,self.yardLine )
-
+        if verbose > 12: print "\t\t description: {}".format(playDict['description'])
 
 class drive():
     def __init__(self, playDict, verbose, driveIndexRelative):
@@ -199,6 +199,7 @@ class game():
         if clock[0] > 13 and  self.startHomeScore + self.startAwayScore < 7:
             self.goodGame = True
         
+        self.plays = []
         self.drives = []
         self.driveIndexRelative = -1
         self.driveIndexAbsolute = -1
@@ -220,22 +221,25 @@ class game():
 
     def addPlay(self, playDict, verbose):
 
-        currentDrive = int(playDict['driveIndex'])
-
-        currentOffense = ""
-
-        #print playDict['down'] , playDict
-
-        if currentOffense!= playDict['offenseId'] and self.driveIndexAbsolute  != currentDrive:
-            self.driveIndexAbsolute = currentDrive
-            currentOffense = playDict['offenseId']
-
-            if  self.driveIndexRelative > -1 : self.drives[self.driveIndexRelative].endDrive(verbose)
-
-            self.driveIndexRelative = self.driveIndexRelative +1 
-            self.drives.append(drive(playDict, verbose, currentDrive))
-
-        self.drives[self.driveIndexRelative].addPlay(playDict, verbose)
+        #currentDrive = int(playDict['driveIndex'])
+#
+        #currentOffense = ""
+#
+        ##print playDict['down'] , playDict
+#
+        #if currentOffense!= playDict['offenseId'] and self.driveIndexAbsolute  != currentDrive:
+        #    self.driveIndexAbsolute = currentDrive
+        #    currentOffense = playDict['offenseId']
+#
+        #    if  self.driveIndexRelative > -1 : self.drives[self.driveIndexRelative].endDrive(verbose)
+#
+        #    self.driveIndexRelative = self.driveIndexRelative +1 
+        #    self.drives.append(drive(playDict, verbose, currentDrive))
+#
+        #self.drives[self.driveIndexRelative].addPlay(playDict, verbose)
+#
+        #if "Kickoff" in playDict['type'] or "Punt" in playDict['type']:
+         #   print "------------change posession-------------"
 
 
     def endGame(self, verbose):
@@ -252,6 +256,25 @@ class game():
 
         self.awayScore =  self.drives[self.driveIndexRelative].awayScore
         if verbose > 10: print "end of game: homeScore: {} awayScore: {} homeYards: {} awayYards: {}".format(self.homeScore, self.awayScore, self.homeOffenseYards, self.awayOffenseYards)
+
+    def returnSmallSummaryJSON(self, verbose):
+        listOfDrives = []
+        for drivez in self.drives:
+            summaryDict = {} 
+            summaryDict['startDown'] = drivez.downStart
+            summaryDict['homeIsOffense'] = drivez.homeIsOffense
+            summaryDict['startYards'] = drivez.driveStart
+            summaryDict['driveLastYardLine'] = drivez.driveLastYardLine
+            summaryDict['yardsGained'] = drivez.yardsGained
+            summaryDict['endDown'] = drivez.downEnd
+            summaryDict['deltaScore'] = drivez.deltaScore
+            summaryDict['driveValue'] = drivez.deltaScore
+            summaryDict['driveEnd'] = drivez.driveEnd
+            listOfDrives.append(summaryDict)
+            jsonString = json.dumps(listOfDrives)
+        if (verbose > 15): 
+            print jsonString
+        return jsonString
 
 
 
