@@ -11,7 +11,7 @@ from pickleTeamClass import play, drive, game
 
 readers = []
 
-verbose = 15
+verbose = 13
 
 for file in fileList:
     readers.append(csv.DictReader(open(file)) )
@@ -31,10 +31,11 @@ for reader in readers:
 
     good_game = False
 
-    gameId = 0
+    gameId = -1
     for row in reader:
 
        if gameId != row['gameId']:
+           if gameId > 0: gameDict[gameId].endGame(verbose)
            gameId = row['gameId']
            gameDict[gameId] = (game(row, verbose))
            print "-------new game------------"
@@ -44,8 +45,9 @@ for reader in readers:
         
 
 
-
-
+pickleFile  = open('pickledGameDict.dat','wb')
+pickle.dump(gameDict, pickleFile)
+pickleFile.close()
 
 
 f.close()

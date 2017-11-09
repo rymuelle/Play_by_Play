@@ -4,7 +4,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import csv
 from scipy.stats import poisson, norm
-import pickle
+import json
 
 
 
@@ -39,7 +39,7 @@ class play():
         self.awayScore  = int(playDict['awayScore'])
 
         self.type  = playDict['type']
-        if verbose > 11: print "\t\toffense: {} defense: {} type: {} down: {} distance: {} yardsGained: {} yardLine: {}".format(playDict['offenseId'], playDict['defenseId'], self.type, self.down, self.distance, self.yardsGained,self.yardLine )
+        if verbose > 12: print "\t\toffense: {} defense: {} type: {} down: {} distance: {} yardsGained: {} yardLine: {}".format(playDict['offenseId'], playDict['defenseId'], self.type, self.down, self.distance, self.yardsGained,self.yardLine )
 
 
 class drive():
@@ -67,13 +67,28 @@ class drive():
         self.driveEnd = -100
         self.driveLastYardLine = -100
         self.yardsGained = -100
+        self.yardsGainedPass = -100
+        self.yardsGainedRush = -100
+        self.yardsGainedSack = -100
+        self.yardsGainedPenalty = -100
+        self.yardsGainedPunt = -100
+        self.yardsGainedKickoff = -100
+        self.nPlay = 0
+        self.nPass = 0
+        self.nRush = 0
+        self.nSack = 0
+        self.nPenalty = 0
+        self.nPunt = 0
+        self.nKickoff = 0
         
         self.plays = []
         self.nPlays = 0
 
+        self.homeScore = -1000
+        self.awayScore = -1000
         self.deltaScore = 0
         self.result = -100
-        if (verbose > 12): print "\tdriveIndex: {} quarter: {} clockStart: {} driveStart: {}".format(self.driveIndexAbsolute, self.quarter, self.clockStart, self.driveStart) 
+        if (verbose > 11): print "\tdriveIndex: {} quarter: {} clockStart: {} driveStart: {}".format(self.driveIndexAbsolute, self.quarter, self.clockStart, self.driveStart) 
 
     def addPlay(self, playDict, verbose):
         self.nPlays = self.nPlays + 1
@@ -87,18 +102,62 @@ class drive():
     def endDrive(self, verbose):
         self.deltaScore =  self.plays[self.nPlays-1].homeScore - self.plays[0].homeScore - (self.plays[self.nPlays-1].awayScore - self.plays[0].awayScore)
 
+        self.homeScore = int(self.plays[self.nPlays-1].homeScore)
+        self.awayScore = int(self.plays[self.nPlays-1].awayScore)
         self.yardsGained = 0
+        self.yardsGainedPass = 0
+        self.yardsGainedRush = 0
+        self.yardsGainedSack = 0
+        self.yardsGainedPenalty = 0
+        self.yardsGainedPunt = 0
+        self.yardsGainedKickoff = 0
         #offensivePlays = ["Pass", "Rush", "Pen"]
         #deffensivePlays  =["Interception" , ]
         for count, playz in enumerate(self.plays):
             if playz.down > 0:
-                if count != self.nPlays-1:
-                #self.deltaScore
-                        self.yardsGained = self.yardsGained + playz.yardsGained
+                if "Pass" in playz.type and "Interception" not in playz.type: 
+                    self.yardsGainedPass = self.yardsGainedPass + playz.yardsGained
+                    self.nPass =  self.nPass +1
+                if "Rush" in playz.type: 
+                    self.yardsGainedRush = self.yardsGainedRush + playz.yardsGained
+                    self.nRush =  self.nRush +1
+                if "Sack" in playz.type: 
+                    self.yardsGainedSack = self.yardsGainedSack + playz.yardsGained
+                    self.nSack =  self.nSack +1
+                if "Penalty" in playz.type: 
+                    self.yardsGainedPenalty = self.yardsGainedPenalty + playz.yardsGained
+                    self.nPenalty =  self.nPenalty +1
+                if "Punt" in playz.type: 
+                    self.yardsGainedPunt = self.yardsGainedPunt + playz.yardsGained
+                    self.nPunt =  self.nPunt +1
+                if "Kickoff" in playz.type: 
+                    self.yardsGainedKickoff = self.yardsGainedKickoff + playz.yardsGained
+                    self.nKickoff =  self.nKickoff +1
+
+                #if count != self.nPlays-1:
+                ##self.deltaScore
+                #    if "Pass" in playz.type: 
+                #        self.yardsGainedPass = self.yardsGainedPass + playz.yardsGained
+                #        self.nPass =  self.nPass +1
+                #    if "Rush" in playz.type: 
+                #        self.yardsGainedRush = self.yardsGainedRush + playz.yardsGained
+                #        self.nRush =  self.nRush +1
+                #    if "Sack" in playz.type: 
+                #        self.yardsGainedSack = self.yardsGainedSack + playz.yardsGained
+                #        self.nSack =  self.nSack +1
+                #    if "Penalty" in playz.type: 
+                #        self.yardsGainedPenalty = self.yardsGainedPenalty + playz.yardsGained
+                #        self.nPenalty =  self.nPenalty +1
+#
+                self.nPlay =  self.nPlay +1
+
+
                 self.downEnd = playz.down
 
                 self.driveEnd = playz.endYardLine
                 self.driveLastYardLine = playz.yardLine
+
+            self.yardsGained = self.yardsGainedPass + self.yardsGainedRush + self.yardsGainedSack  +  self.yardsGainedPenalty
 
             flipField = 1
             if self.quarter == 2 or self.quarter ==4:
@@ -112,7 +171,7 @@ class drive():
 
         #self.clockEnd = self.plays[self.nPlays-1].clock
 
-        if verbose > 12: print "\tdelta score: {} yardsGained: {} start: {} end: {} result: {} down start: {} end: {}".format(self.deltaScore, self.yardsGained, self.driveStart,self.driveLastYardLine,  self.driveEnd, self.downStart, self.downEnd)
+        if verbose > 11: print "\tdelta score: {} yardsGained: {} rush: {} pass: {} start: {} end: {} result: {} down start: {} end: {}".format(self.deltaScore, self.yardsGained,self.yardsGainedRush, self.yardsGainedPass, self.driveStart,self.driveLastYardLine,  self.driveEnd, self.downStart, self.downEnd)
         #for count, i in enumerate(self.plays):
             #print "\tdown: {}".format(i.down)
 
@@ -144,6 +203,18 @@ class game():
         self.driveIndexRelative = -1
         self.driveIndexAbsolute = -1
 
+        self.homeScore = 0
+        self.homeOffenseYards = 0
+        self.homeRushOffenseYards = 0
+        self.homePassOffenseYards = 0
+        self.homeTFLOffenseYards = 0
+
+        self.awayScore = 0
+        self.awayOffenseYards = 0
+        self.awayRushOffenseYards = 0
+        self.awayPassOffenseYards = 0
+        self.awayTFLOffenseYards = 0
+
         if(verbose > 10): print "gameId: {} homeTeam: {} awayTeam: {} year: {} week: {}".format(self.gameId, self.homeAbbr, self.awayAbbr, self.year, self.week) 
 
 
@@ -166,6 +237,21 @@ class game():
 
         self.drives[self.driveIndexRelative].addPlay(playDict, verbose)
 
+
+    def endGame(self, verbose):
+        # finish last drive
+        self.drives[self.driveIndexRelative].endDrive(verbose)
+
+        self.homeScore =  self.drives[self.driveIndexRelative].homeScore
+
+        for drivez in self.drives:
+            if drivez.homeIsOffense > 0: 
+                self.homeOffenseYards = self.homeOffenseYards + drivez.yardsGained
+            if drivez.homeIsOffense < 0: 
+                self.awayOffenseYards = self.awayOffenseYards + drivez.yardsGained
+
+        self.awayScore =  self.drives[self.driveIndexRelative].awayScore
+        if verbose > 10: print "end of game: homeScore: {} awayScore: {} homeYards: {} awayYards: {}".format(self.homeScore, self.awayScore, self.homeOffenseYards, self.awayOffenseYards)
 
 
 
