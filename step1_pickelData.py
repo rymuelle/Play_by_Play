@@ -1,4 +1,4 @@
-import pickle
+#import pickle
 import numpy
 import matplotlib
 import matplotlib.pyplot as plt
@@ -9,9 +9,14 @@ gameDict  = {}
 
 from pickleTeamClass import play, drive, game
 
+import json
+
 readers = []
 
-verbose = 13
+verbose = 15
+
+jsonFile = open("jsonOutput.txt", "w")
+jsonFile.write("[")
 
 for file in fileList:
     readers.append(csv.DictReader(open(file)) )
@@ -26,6 +31,7 @@ for file in fileList:
         # makes Plays
 
 playArray = []
+
 gameId, driveIndex, playIndex = 0,0,0
 for reader in readers:
 
@@ -34,21 +40,33 @@ for reader in readers:
     gameId = -1
     for row in reader:
 
-       if gameId != row['gameId']:
-           if gameId > 0: gameDict[gameId].endGame(verbose)
-           gameId = row['gameId']
-           gameDict[gameId] = (game(row, verbose))
-           print "-------new game------------"
+        if int(row['year']) < 2006: continue
+        #if int(row['year']) > 2006: continue
+
+        if gameId != row['gameId']:
+            if gameId > 0: 
+                gameDict[gameId].endGame(verbose)
+                jsonString = gameDict[gameId].returnSmallSummaryJSON(verbose)
+                jsonString = jsonString[1:-1]
+                jsonFile.write(jsonString+ ", ")
+                gameDict  = {} # clear it for now
+            gameId = row['gameId']
+            gameDict[gameId] = (game(row, verbose))
+            print "-------new game------------"
     
     
-       gameDict[gameId].addPlay(row, verbose)
+        gameDict[gameId].addPlay(row, verbose)
         
 
 
-pickleFile  = open('pickledGameDict.dat','wb')
-pickle.dump(gameDict, pickleFile)
-pickleFile.close()
+jsonFile.write("]")
+
+#pickleFile  = open('pickledGameDict.dat','wb')
+#pickle.dump(gameDict, pickleFile)
+#pickleFile.close()
 
 
-f.close()
+#f.close()
 #print scoringTypes
+
+#jsonFile.close()

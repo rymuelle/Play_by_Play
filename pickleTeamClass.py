@@ -122,6 +122,9 @@ class drive():
         self.deltaHomeScore = -1000
         self.deltaAwayScore = -1000
         self.result = -1000
+        self.fieldGoalValue  = -1000
+        self.puntValue = -1000
+        self.deltaDriveValue = -1000
         if (verbose > 13): print "\tdriveIndex: {} quarter: {} clockStart: {} driveStart: {}".format(self.driveIndexAbsolute, self.quarter, self.clockStart, self.driveStart) 
 
     def addPlay(self, playz, verbose):
@@ -214,18 +217,37 @@ class drive():
 
             self.fourthDownDriveValue = 1.98-.0491*driveLastYardLine
         self.turnoverValue = -(4.95 - .0535*(100-driveEnd))
+        if self.deltaScore != 0:
+            self.turnoverValue = self.deltaScore
 
-        if self.endType == "Kickoff":
+        self.deltaDriveValue  = self.turnoverValue - self.startDriveValue
+
+        if "Kickoff" in self.endType :
             print "kickoff"
             yardLine =  self.plays[len(self.plays)-1].yardLine
             endYardLine =  self.plays[len(self.plays)-1].endYardLine
+            self.kickValue = 1 + self.turnoverValue
             if yardLine == 65:
                  self.kickValue = 0.969157327275 + self.turnoverValue
             if yardLine == 75:
                  self.kickValue = 1.08534969786 + self.turnoverValue
+        elif "Punt" in self.endType:
+            self.puntValue = self.turnoverValue - self.fourthDownDriveValue 
+        #    self.deltaDriveValue = self.fourthDownDriveValue - self.startDriveValue
+        #elif self.deltaScore > 5 or self.deltaScore < 0: # not field goal
+        #    self.deltaDriveValue  = self.deltaScore - self.startDriveValue
+        elif "Field Goal" in self.endType:
+            self.deltaDriveValue  = self.fourthDownDriveValue - self.startDriveValue
+            self.fieldGoalValue  = self.turnoverValue - self.fourthDownDriveValue
+            #self.fieldGoalValue  = self.deltaScore - self.fourthDownDriveValue
+           # if self.deltaScore == 0:
+            #    self.fieldGoalValue  =  self.turnoverValue - self.fourthDownDriveValue
 
 
-        print "\tvalueStart: {} value 4th: {} value Turnover: {} kickoffValue: {}".format(self.startDriveValue, self.fourthDownDriveValue,self.turnoverValue, self.kickValue)
+
+
+
+        print "\tvalueStart: {} value 4th: {} delta: {} value Turnover: {} fieldGoalValue: {} puntValue: {} kickoffValue: {}  positive is better for kicking team".format(self.startDriveValue, self.fourthDownDriveValue, self.deltaDriveValue, self.turnoverValue, self.fieldGoalValue, self.puntValue,  self.kickValue)
 
             #flipField = 1
             #if self.quarter == 2 or self.quarter ==4:
@@ -443,6 +465,25 @@ class game():
             print jsonString
         return jsonString
 
+    def returnJSONForDriveWorth(self, verbose):
+        listOfDrives = []
+        for drivez in self.drives:
+            summaryDict = {} 
+            summaryDict['startDown'] = drivez.downStart
+            summaryDict['homeIsOffense'] = drivez.homeIsOffense
+            summaryDict['startYards'] = drivez.driveStart
+            summaryDict['driveLastYardLine'] = drivez.driveLastYardLine
+            summaryDict['yardsGained'] = drivez.yardsGained
+            summaryDict['endDown'] = drivez.downEnd
+            summaryDict['deltaScore'] = drivez.deltaScore
+            summaryDict['driveValue'] = drivez.deltaScore
+            summaryDict['driveEnd'] = drivez.driveEnd
+            summaryDict['endType'] = drivez.endType
+            listOfDrives.append(summaryDict)
+            jsonString = json.dumps(listOfDrives)
+        if (verbose > 15): 
+            print jsonString
+        return jsonString
 
 
 class team():
