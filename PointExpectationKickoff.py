@@ -35,7 +35,7 @@ def loopOverDrives(dictYardValueStart,dictYardValueStartResult, datastore):
         value = float(drive['driveValue'])
         endType = drive['endType']
 
-        if "Kickoff" in endType: continue 
+        if "Kickoff" not in endType: continue 
         #flip the field for offense
         if drive['homeIsOffense'] == 1:
         #if (yardsGained*(startYards - driveLastYardLine)) < 0: #or yardsGained+(startYards - endYards) <0:
@@ -52,24 +52,24 @@ def loopOverDrives(dictYardValueStart,dictYardValueStartResult, datastore):
             continue
         if score not in possibleScores:
             continue
-        #print yardsGained, (startYards - endYards)
-        # cut out bad drives
-        #if score > 3  and  driveLastYardLine !=100: continue
-
-        if not(drive['startDown'] == 1): continue
-        if score not in possibleScores : continue
+        
 
         if startYards not in dictYardValueStartResult:
             dictYardValueStartResult[startYards] = 0
-        if 100-endYards not in dictYardValueStartResult:
-            dictYardValueStartResult[100-endYards] = 0
+        #if 100-endYards not in dictYardValueStartResult:
+        #    dictYardValueStartResult[100-endYards] = 0
 
         if score ==0:
-            value = -dictYardValueStartResult[100-endYards]
+            value = -(4.95-.0535*(100-endYards))
 
-        #print value, startYards, driveLastYardLine, endYards
+        #print endType, startYards,driveLastYardLine,  endYards
 
-        if startYards in badYards: continue
+        if startYards != 65 and startYards != 70:
+            continue
+            print value, startYards, driveLastYardLine, endYards
+
+
+       # if startYards in badYards: continue
         if startYards not in dictYardValueStart:
              dictYardValueStart[startYards] = []
         if startYards in dictYardValueStart:
@@ -88,32 +88,32 @@ def loopOverDrives(dictYardValueStart,dictYardValueStartResult, datastore):
 dictYardValueStartResult = {}
 dictYardValueStart = {}
 dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
-dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
+#dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
 #dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
 #dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)
 #dictYardValueStart, dictYardValueStartResult = loopOverDrives(dictYardValueStart, dictYardValueStartResult, datastore)

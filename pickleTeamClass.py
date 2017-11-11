@@ -76,24 +76,24 @@ class drive():
        
         self.driveIndexRelative = driveIndexRelative
         self.driveIndexAbsolute = playz.driveIndex
-        
+
         self.quarter = playz.quarter
         self.clockStart = playz.clock
         self.clockEnd = [0,0]
 
         self.downStart = playz.down
-        self.downEnd = -100
+        self.downEnd = -1000
 
         self.driveStart = playz.yardLine
-        self.driveEnd = -100
-        self.driveLastYardLine = -100
-        self.yardsGained = -100
-        self.yardsGainedPass = -100
-        self.yardsGainedRush = -100
-        self.yardsGainedSack = -100
-        self.yardsGainedPenalty = -100
-        self.yardsGainedPunt = -100
-        self.yardsGainedKickoff = -100
+        self.driveEnd = -1000
+        self.driveLastYardLine = -1000
+        self.yardsGained = -1000
+        self.yardsGainedPass = -1000
+        self.yardsGainedRush = -1000
+        self.yardsGainedSack = -1000
+        self.yardsGainedPenalty = -1000
+        self.yardsGainedPunt = -1000
+        self.yardsGainedKickoff = -1000
         self.nPlay = 0
         self.nPass = 0
         self.nRush = 0
@@ -107,12 +107,21 @@ class drive():
 
         self.endType = ""
 
+        driveStart = self.driveStart
+        if self.homeIsOffense == 1:
+            driveStart = 100 - self.driveStart
+
+        self.startDriveValue = 4.95 - .0535*driveStart
+        self.fourthDownDriveValue = -1000
+        self.turnoverValue = -1000
+        self.kickValue = -1000
+
         self.homeScore = -1000
         self.awayScore = -1000
         self.deltaScore = -1000
         self.deltaHomeScore = -1000
         self.deltaAwayScore = -1000
-        self.result = -100
+        self.result = -1000
         if (verbose > 13): print "\tdriveIndex: {} quarter: {} clockStart: {} driveStart: {}".format(self.driveIndexAbsolute, self.quarter, self.clockStart, self.driveStart) 
 
     def addPlay(self, playz, verbose):
@@ -187,12 +196,36 @@ class drive():
                 self.nPlay =  self.nPlay +1
 
 
-                self.downEnd = playz.down
+        self.downEnd = self.plays[self.nPlays-1].down
 
-                self.driveEnd = playz.endYardLine
-                self.driveLastYardLine = playz.yardLine
+        self.driveEnd = self.plays[self.nPlays-1].endYardLine
+        self.driveLastYardLine = self.plays[self.nPlays-1].yardLine
 
-            self.yardsGained = self.yardsGainedPass + self.yardsGainedRush + self.yardsGainedSack  +  self.yardsGainedPenalty
+        self.yardsGained = self.yardsGainedPass + self.yardsGainedRush + self.yardsGainedSack  +  self.yardsGainedPenalty
+
+        driveEnd = self.driveEnd
+        driveLastYardLine = self.driveLastYardLine
+
+        if self.homeIsOffense == 1:
+            driveEnd = 100 - self.driveEnd
+            driveLastYardLine = 100 - self.driveLastYardLine
+
+        if self.downEnd == 4:
+
+            self.fourthDownDriveValue = 1.98-.0491*driveLastYardLine
+        self.turnoverValue = -(4.95 - .0535*(100-driveEnd))
+
+        if self.endType == "Kickoff":
+            print "kickoff"
+            yardLine =  self.plays[len(self.plays)-1].yardLine
+            endYardLine =  self.plays[len(self.plays)-1].endYardLine
+            if yardLine == 65:
+                 self.kickValue = 0.969157327275 + self.turnoverValue
+            if yardLine == 75:
+                 self.kickValue = 1.08534969786 + self.turnoverValue
+
+
+        print "\tvalueStart: {} value 4th: {} value Turnover: {} kickoffValue: {}".format(self.startDriveValue, self.fourthDownDriveValue,self.turnoverValue, self.kickValue)
 
             #flipField = 1
             #if self.quarter == 2 or self.quarter ==4:
@@ -207,7 +240,7 @@ class drive():
         #self.clockEnd = self.plays[self.nPlays-1].clock
 
         #print self.plays[self.nPlays-1].homeScore, self.plays[0].homeScore, self.plays[self.nPlays-1].awayScore ,self.plays[0].awayScore
-        if verbose > 11: print "\tdelta score: {} yardsGained: {} rush: {} pass: {} start: {} end: {} result: {} down start: {} end: {}".format(self.deltaScore, self.yardsGained,self.yardsGainedRush, self.yardsGainedPass, self.driveStart,self.driveLastYardLine,  self.driveEnd, self.downStart, self.downEnd)
+        if verbose > 11: print "\tdelta score: {} yardsGained: {} rush: {} pass: {} start: {} end: {} result: {} down start: {} end: {} last play: {}".format(self.deltaScore, self.yardsGained,self.yardsGainedRush, self.yardsGainedPass, self.driveStart,self.driveLastYardLine,  self.driveEnd, self.downStart, self.downEnd,self.endType)
         #for count, i in enumerate(self.plays):
             #print "\tdown: {}".format(i.down)
 
@@ -300,7 +333,7 @@ class game():
             extraPoint = False
             
 
-            #play.printDetails()
+            if verbose > 12: play.printDetails()
 
 
 #escription: Swayze Waters kickoff for 65 yards returned b

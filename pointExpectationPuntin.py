@@ -15,7 +15,7 @@ with open("jsonOutput.txt", 'r') as f:
 
 possibleScores = [3,6,7,8, -2, -6, -7, -8, 0]
 
-badYards = [100, 0]
+badYards = [100, 0, 65]
 
 dictYardValueStart = {}
 
@@ -28,14 +28,20 @@ def loopOverDrives(dictYardValueStart,dictYardValueStartResult, datastore):
         score = int(drive['deltaScore'])
         startYards = int(drive['startYards']) # driveLastYardLine #int(drive['startYards'])
       
+        endType = (drive['endType'])
+        endDown = int(drive['endDown'])
         endYards = int(drive['driveEnd'])
         driveLastYardLine = int(drive['driveLastYardLine'])
         yardsGained = int(drive['yardsGained'])
         result = int(drive['driveEnd'])
         value = float(drive['driveValue'])
-        endType = drive['endType']
 
-        if "Kickoff" in endType: continue 
+        #if "Punt" not in endType: continue 
+        if "Field Goal" not in endType: continue 
+
+        #if endYards != driveLastYardLine: 
+        #if score > 0: continue
+        if endDown <4: continue
         #flip the field for offense
         if drive['homeIsOffense'] == 1:
         #if (yardsGained*(startYards - driveLastYardLine)) < 0: #or yardsGained+(startYards - endYards) <0:
@@ -59,21 +65,21 @@ def loopOverDrives(dictYardValueStart,dictYardValueStartResult, datastore):
         if not(drive['startDown'] == 1): continue
         if score not in possibleScores : continue
 
-        if startYards not in dictYardValueStartResult:
-            dictYardValueStartResult[startYards] = 0
+        if driveLastYardLine not in dictYardValueStartResult:
+            dictYardValueStartResult[driveLastYardLine] = 0
         if 100-endYards not in dictYardValueStartResult:
             dictYardValueStartResult[100-endYards] = 0
 
         if score ==0:
-            value = -dictYardValueStartResult[100-endYards]
+            value = -(4.95 - .0535*(100-endYards))# dictYardValueStartResult[100-endYards]
 
         #print value, startYards, driveLastYardLine, endYards
 
-        if startYards in badYards: continue
-        if startYards not in dictYardValueStart:
-             dictYardValueStart[startYards] = []
-        if startYards in dictYardValueStart:
-            dictYardValueStart[startYards].append(value)
+        if driveLastYardLine in badYards: continue
+        if driveLastYardLine not in dictYardValueStart:
+             dictYardValueStart[driveLastYardLine] = []
+        if driveLastYardLine in dictYardValueStart:
+            dictYardValueStart[driveLastYardLine].append(value)
             #print startYardsStr, value
 
 
