@@ -31,7 +31,7 @@ for file in fileList:
         # makes Plays
 
 playArray = []
-
+first = True
 gameId, driveIndex, playIndex = 0,0,0
 for reader in readers:
 
@@ -40,15 +40,20 @@ for reader in readers:
     gameId = -1
     for row in reader:
 
-        if int(row['year']) < 2006: continue
-        #if int(row['year']) > 2006: continue
+        if int(row['year']) < 2017: continue
+        #if int(row['year']) > 200: continue
 
         if gameId != row['gameId']:
             if gameId > 0: 
                 gameDict[gameId].endGame(verbose)
                 jsonString = gameDict[gameId].returnSmallSummaryJSON(verbose)
                 jsonString = jsonString[1:-1]
-                jsonFile.write(jsonString+ ", ")
+                if first:
+                    jsonFile.write(jsonString)
+                    first = False
+                else:
+                    jsonFile.write(", \n " + jsonString)
+
                 gameDict  = {} # clear it for now
             gameId = row['gameId']
             gameDict[gameId] = (game(row, verbose))
