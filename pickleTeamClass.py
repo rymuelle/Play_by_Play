@@ -27,6 +27,7 @@ class play():
         self.defense  = playDict['defenseId']
 
 
+        # 262590248 reversed home and away team
         self.quarter  = playDict['quarter']
         clock = playDict['clock'].split(":")
         self.clock  = playDict['clock']
@@ -115,6 +116,9 @@ class drive():
         self.fourthDownDriveValue = -1000
         self.turnoverValue = -1000
         self.kickValue = -1000
+        self.fieldGoalValue  = -1000
+        self.puntValue = -1000
+        self.deltaDriveValue = -1000
 
         self.homeScore = -1000
         self.awayScore = -1000
@@ -122,9 +126,7 @@ class drive():
         self.deltaHomeScore = -1000
         self.deltaAwayScore = -1000
         self.result = -1000
-        self.fieldGoalValue  = -1000
-        self.puntValue = -1000
-        self.deltaDriveValue = -1000
+
         if (verbose > 13): print "\tdriveIndex: {} quarter: {} clockStart: {} driveStart: {}".format(self.driveIndexAbsolute, self.quarter, self.clockStart, self.driveStart) 
 
     def addPlay(self, playz, verbose):
@@ -142,8 +144,9 @@ class drive():
         #else:
         #    self.deltaScore =  self.plays[self.nPlays-1].offenseScore - self.plays[0].defenseScore - (self.plays[self.nPlays-1].offenseScore - self.plays[0].defenseScore)
 
+
         self.deltaHomeScore = self.plays[self.nPlays-1].homeScore - score[0]
-        self.deltaAwayScore = self.plays[self.nPlays-1].awayScore - score[1]
+        self.deltaAwayScore = self.plays[self.nPlays-1].awayScore - score[0]
         self.deltaScore = (self.deltaHomeScore - self.deltaAwayScore)*self.plays[self.nPlays-1].homeIsOffense
         #print self.plays[self.nPlays-1].homeScore, self.plays[self.nPlays-1].awayScore
         self.homeScore = int(self.plays[self.nPlays-1].homeScore)
@@ -213,9 +216,10 @@ class drive():
             driveEnd = 100 - self.driveEnd
             driveLastYardLine = 100 - self.driveLastYardLine
 
-        if self.downEnd == 4:
+        #if self.downEnd == 4:
 
-            self.fourthDownDriveValue = 1.98-.0491*driveLastYardLine
+        self.fourthDownDriveValue = 1.98-.0491*driveLastYardLine # now just last drive value
+
         self.turnoverValue = -(4.95 - .0535*(100-driveEnd))
         if self.deltaScore != 0:
             self.turnoverValue = self.deltaScore
@@ -240,13 +244,14 @@ class drive():
             self.deltaDriveValue  = self.fourthDownDriveValue - self.startDriveValue
             self.fieldGoalValue  = self.turnoverValue - self.fourthDownDriveValue
             #self.fieldGoalValue  = self.deltaScore - self.fourthDownDriveValue
-           # if self.deltaScore == 0:
+            #if self.deltaScore == 3:
             #    self.fieldGoalValue  =  self.turnoverValue - self.fourthDownDriveValue
 
 
 
 
 
+        print "offense: ",  self.offenseId, "defense: ",  self.defenseId
         print "\tvalueStart: {} value 4th: {} delta: {} value Turnover: {} fieldGoalValue: {} puntValue: {} kickoffValue: {}  positive is better for kicking team".format(self.startDriveValue, self.fourthDownDriveValue, self.deltaDriveValue, self.turnoverValue, self.fieldGoalValue, self.puntValue,  self.kickValue)
 
             #flipField = 1
@@ -307,7 +312,7 @@ class game():
         self.awayPassOffenseYards = 0
         self.awayTFLOffenseYards = 0
 
-        if(verbose > 10): print "gameId: {} homeTeam: {} awayTeam: {} year: {} week: {}".format(self.gameId, self.homeAbbr, self.awayAbbr, self.year, self.week) 
+        if(verbose > 5): print "gameId: {} homeTeam: {} awayTeam: {} year: {} week: {}".format(self.gameId, self.homeAbbr, self.awayAbbr, self.year, self.week) 
 
 
     def addPlay(self, playDict, verbose):
@@ -339,6 +344,9 @@ class game():
         print "endgame"
         newDrive = True
 
+        self.homeScore = self.plays[len(self.plays) - 1].homeScore
+        self.awayScore = self.plays[len(self.plays) - 1].awayScore
+
         for count, play in enumerate(self.plays):
             #print "..."
             beforeKickOff = False
@@ -353,78 +361,145 @@ class game():
             afterKickOff = False
             endWithExtra = False
             extraPoint = False
+            deltaDriveIndex = 0
             
 
             if verbose > 12: play.printDetails()
-
-
-#escription: Swayze Waters kickoff for 65 yards returned b
-            if len(self.plays) > count+1: 
-                deltaScore = ( self.plays[count+1].homeScore - self.plays[count ].homeScore - (self.plays[count+1].awayScore - self.plays[count].awayScore) )
-
-                deltaTeam = not(self.plays[count+1].offense == self.plays[count].offense)
-            #    print deltaScore, deltaTeam, play.homeIsOffense
 #
-            if count > 0: 
-                deltaScoreBefore = ( +self.plays[count].homeScore - self.plays[count-1].homeScore - (self.plays[count].awayScore - self.plays[count-1].awayScore) )
+            #print "drive index: ", play.driveIndex
+#escription:# Swayze Waters kickoff for 65 yards returned b
+            #if len(self.plays) > count+1: 
+            #    deltaScore = ( self.plays[count+1].homeScore - self.plays[count ].homeScore - (self.plays[count+1].awayScore - self.plays[count].awayScore) )
+#
+            #    deltaTeam = not(self.plays[count+1].offense == self.plays[count].offense)
+            ##    print deltaScore, deltaTeam, play.homeIsOffense
+##
+            #if count > 0: 
+            #    deltaScoreBefore = ( +self.plays[count].homeScore - self.plays[count-1].homeScore - (self.plays[count].awayScore - self.plays[count-1].awayScore) )
+            #    deltaDriveIndex = int(self.plays[count].driveIndex) - int(self.plays[count-1].driveIndex)
+#
+            #if endWithExtra:# and "Kickoff":
+            #    extraPoint = True
+#
+            #if deltaDriveIndex !=0:
+            #    print "------------drive index------------"
 
-            if endWithExtra and "Kickoff":
-                extraPoint = True
+            #if deltaScoreBefore == 7 or deltaScoreBefore == 3:
 
+
+            #if (deltaTeam):
+            #    if deltaScore==0:
+            #        Turnover = True
+            #      #  print "------------Turnover-------------"
+            #    else:
+            #        endWithExtra = True
+##
+            ##count > 0 and 
+
+            #if count !=0 and len(self.plays) > count+1 and  "Kickoff" in self.plays[count+1].type and  ("Field" not in self.plays[count+1].type  or "Penalty" not in self.plays[count+1].type):
+            #    beforeKickOff = True
+            #    print "------------kickoff next ------------"
+
+            #if "Kickoff" in self.plays[count].type and deltaScore==0:
+            #     if deltaScore==0 or extraPoint:
+            #      #  print "------------After Kickoff posession-------------"
+            #    afterKickOff = True
+            #    print "------------ kickoff ------------"
+            #     else:
+            #        endWithExtra = True
+#
+            #if len(self.plays) > count+1 and "Kickoff" in self.plays[count+1].type:
+            #    #print "------------Before Kickoff posession-------------"
+            #    beforeKickOff = True
+##
+           ##
+            ##if len(self.plays) > count+1 and self.plays[count+1].offense != play.offense and "Extra Point" not in self.plays[count+1].type:
+            ##    #print "------------Turnover Change Posession-------------"
+            ##    Turnover = True
+##
+            ##if 0 < count and self.plays[count-1].offense != play.offense and "Extra Point" in self.plays[count].type:
+            ##    #print "------------Turnover Change Posession-------------"
+            ##    Turnover = True
+##
+##
+            #if len(self.plays) > count+1 and self.plays[count+1].quarter != play.quarter and int(play.quarter) == 2:
+            #     #print "------------End of Half Change Posession-------------"
+            #     Half = True #this halftime flag might be inperfect, i've seen one situaiton in a game where the first play in second half is marked as first half
+##
+            #if len(self.plays) == count:
+            #    #print "------------End of Game-------------"
+            #    End = True
+            #
+            #    
+#
             
-            if (deltaTeam):
-                if deltaScore==0:
-                    Turnover = True
-                  #  print "------------Turnover-------------"
-                else:
-                    endWithExtra = True
-#
-            if count > 0 and "Kickoff" in self.plays[count].type and deltaScore==0:
-                 if deltaScore==0 or extraPoint:
-                  #  print "------------After Kickoff posession-------------"
-                    afterKickOff = True
-                 else:
-                    endWithExtra = True
-
-            if len(self.plays) > count+1 and "Kickoff" in self.plays[count+1].type:
-                #print "------------Before Kickoff posession-------------"
-                beforeKickOff = True
-#
-           #
-            #if len(self.plays) > count+1 and self.plays[count+1].offense != play.offense and "Extra Point" not in self.plays[count+1].type:
-            #    #print "------------Turnover Change Posession-------------"
-            #    Turnover = True
-#
-            #if 0 < count and self.plays[count-1].offense != play.offense and "Extra Point" in self.plays[count].type:
-            #    #print "------------Turnover Change Posession-------------"
-            #    Turnover = True
-#
-#
-            if len(self.plays) > count+1 and self.plays[count+1].quarter != play.quarter and int(play.quarter) == 2:
-                 #print "------------End of Half Change Posession-------------"
-                 Half = True #this halftime flag might be inperfect, i've seen one situaiton in a game where the first play in second half is marked as first half
-#
-            if len(self.plays) == count:
-                #print "------------End of Game-------------"
-                End = True
-            
-                
-
             if newDrive==True:
                 self.driveIndexRelative = self.driveIndexRelative + 1
+                print "------------ new Drive ------------"
                 self.drives.append(drive(play, verbose, self.driveIndexRelative))
                 newDrive=False
-#
+
+##
+            
             self.drives[self.driveIndexRelative].addPlay(play, verbose)
 #
-            if newDrive == False and count > 0 and (afterKickOff or Half or End or Turnover or extraPoint or beforeKickOff):
+            #print count, len(self.plays)-1, newDrive, afterKickOff
+##
+
+            if deltaDriveIndex != 0 or afterKickOff or beforeKickOff: #count == len(self.plays)-1 or (newDrive == False and count > 0 and (afterKickOff or Half or End or Turnover or extraPoint or beforeKickOff)):
                 #self.drives[self.driveIndexRelative].addPlay(play, verbose)
+                print "------------ endDrive ------------"
                 score = 0,0 
                 if self.driveIndexRelative - 1 > -1: score = self.drives[self.driveIndexRelative-1].homeScore, self.drives[self.driveIndexRelative-1].awayScore
-                self.drives[self.driveIndexRelative].endDrive(score, verbose)
+                self.drives[self.driveIndexRelative-1].endDrive(score, verbose)
                
                 #print "------------End Drive------------"
                 newDrive = True
+
+
+
+        #self.startDriveValue = 4.95 - .0535*driveStart
+        #self.fourthDownDriveValue = -1000
+        #self.turnoverValue = -1000
+        #self.kickValue = -1000
+        #self.fieldGoalValue  = -1000
+        #self.puntValue = -1000
+        #self.deltaDriveValue = -1000
+        self.homeOvsAwayD = 0
+        self.awayOvsHomeD = 0
+        self.homeKickoff = 0
+        self.awayKickoff = 0
+        self.homePunt = 0
+        self.awayPunt = 0
+        self.homeFieldGoal = 0
+        self.awayFieldGoal = 0
+        for drivez in self.drives:
+
+            if "Kickoff" not in drivez.endType:
+                if drivez.homeIsOffense == 1:
+                    self.homeOvsAwayD = drivez.deltaDriveValue + self.homeOvsAwayD
+                    if "Punt"  in drivez.endType: self.homePunt = drivez.puntValue +  self.homePunt
+                    if "Field"  in drivez.endType: self.homeFieldGoal = drivez.fieldGoalValue +  self.homeFieldGoal
+
+
+                elif drivez.homeIsOffense == -1:
+                    self.awayOvsHomeD = drivez.deltaDriveValue +  self.awayOvsHomeD
+                    if "Punt"  in drivez.endType: self.awayPunt = drivez.puntValue +  self.awayPunt
+                    if "Field"  in drivez.endType: self.awayFieldGoal = drivez.fieldGoalValue +  self.awayFieldGoal
+
+            if "Kickoff" in drivez.endType:
+                if drivez.homeIsOffense == 1:
+                    self.homeKickoff = drivez.kickValue + self.homeKickoff
+                elif drivez.homeIsOffense == -1:
+                    self.awayKickoff = drivez.kickValue +  self.awayKickoff
+
+
+        self.sumHomeValue = self.homeOvsAwayD +  self.homeKickoff + self.homePunt + self.homeFieldGoal
+        self.sumAwayValue = self.awayOvsHomeD +  self.awayKickoff + self.awayPunt + self.awayFieldGoal
+
+        if verbose > 10:
+            print "endgame id: {} homeScore: {} awayScore: {} home offense vs away defense: {} away offense vs home defense: {} ".format(self.gameId, self.homeScore, self.awayScore, self.homeOvsAwayD, self.awayOvsHomeD)
+            print "home kick: {} away kick: {} home punt: {} away punt: {} home field Goal: {} away field goal: {} sum Home: {} sum away: {}".format( self.homeKickoff, self.awayKickoff, self.homePunt, self.awayPunt, self.homeFieldGoal, self.awayFieldGoal, self.sumHomeValue, self.sumAwayValue)
 
            
      
@@ -455,8 +530,15 @@ class game():
             summaryDict['driveLastYardLine'] = drivez.driveLastYardLine
             summaryDict['yardsGained'] = drivez.yardsGained
             summaryDict['endDown'] = drivez.downEnd
+
             summaryDict['deltaScore'] = drivez.deltaScore
-            summaryDict['driveValue'] = drivez.deltaScore
+            summaryDict['deltaDriveValue'] = drivez.deltaDriveValue
+            summaryDict['puntValue'] = drivez.puntValue
+            summaryDict['fieldGoalValue'] = drivez.fieldGoalValue
+            summaryDict['kickValue'] = drivez.kickValue
+            summaryDict['turnoverValue'] = drivez.turnoverValue
+            summaryDict['startDriveValue'] = drivez.startDriveValue
+
             summaryDict['driveEnd'] = drivez.driveEnd
             summaryDict['endType'] = drivez.endType
             listOfDrives.append(summaryDict)
