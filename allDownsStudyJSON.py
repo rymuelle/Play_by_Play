@@ -71,6 +71,7 @@ def loopOverDrives(dictYardValueStart,dictYardValueStartResult, datastore):
 
         #if downCount > 4: continue
 
+        if score not in possibleScores: continue
         if playYardLineStart < 20 or playYardLineStart > 80: continue
         if distanceToGo < 0 or distanceToGo > 25: continue
         if "END"  in endType: continue 

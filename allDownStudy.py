@@ -108,7 +108,7 @@ for file in fileListJson:
                         #print down
                         downCount[down-1] = downCount[down-1] +1
                     distanceToGo = play['start']['distance']
-                    endYardToEndZone = play['end']['yardsToEndzone']
+                    endYardToEndZonePlay = play['end']['yardsToEndzone']
                     typePlay = play['type']['text']
 
                     downDict['playYardLineStart'] =playYardLineStart
@@ -118,6 +118,7 @@ for file in fileListJson:
                     downDict['yardsToEndzoneFPStart']   = yardsToEndzoneFPStart     
                     downDict['deltaOffenseScore']   = deltaOffenseScore   
                     downDict['endYardToEndZone']    = endYardToEndZone   
+                    downDict['endYardToEndZonePlay']    = endYardToEndZonePlay   
                     downDict['typePlay']    = typePlay   
                     downDict['downCount']   = downCount[down-1]   
 
