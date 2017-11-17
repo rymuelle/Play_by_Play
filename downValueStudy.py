@@ -101,7 +101,6 @@ for file in fileListJson:
                 
 
                 for count, play in enumerate(drive['plays']):
-                    if 
                     #secondDownPlayWeight
                 #    print play['type']['text']
                 #    playDown = play['start']['down'] 
