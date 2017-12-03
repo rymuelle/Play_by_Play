@@ -114,6 +114,7 @@ def minimizeElo(teamDict, kFactor):
         if nGames < 5: continue
 
         eloErrorArray = []
+        opponentErrorNormalization = 0
         for games in teamDict[teamKey]['games']:
             opponent = games
             nOpponentGames = len(teamDict[opponent]['games'])
@@ -130,9 +131,11 @@ def minimizeElo(teamDict, kFactor):
             deltaWinProb = winProbability - compWinProb
             #print deltaWinProb
             #deltaElo = computeElofromProb(deltaWinProb)
-            sumDeltaElo = kFactor*deltaWinProb + sumDeltaElo
+            sumDeltaElo = kFactor*deltaWinProb/(1/opponentError*opponentError) + sumDeltaElo
+            opponentErrorNormalization = opponentErrorNormalization + (1/opponentError*opponentError)
     
             sumSquareDeltaElo = sumSquareDeltaElo + abs(deltaWinProb)
+           
             nIterations = nIterations +1
 
             eloPerf =  computeElofromProb(winProbability) + opponentElo
@@ -142,7 +145,9 @@ def minimizeElo(teamDict, kFactor):
 
         #print eloErrorArray
 
+        sumDeltaElo = sumDeltaElo/opponentErrorNormalization
 
+        if nIterations < 5: continue 
         stdDev = numpy.std(eloErrorArray)
 
         teamDict[teamKey]['error'] = stdDev/math.sqrt(float(nOponentes))
@@ -152,7 +157,7 @@ def minimizeElo(teamDict, kFactor):
         for games in teamDict[teamKey]['games']:
             opponent = games
             deltaEloPerGamePerGame = deltaEloPerGame/nOponentes
-            teamDict[opponent]['elo'] = teamDict[opponent]['elo'] - deltaEloPerGamePerGame
+            teamDict[opponent]['elo'] = teamDict[opponent]['elo'] #- deltaEloPerGamePerGame
             #print opponent, teamDict[opponent]['elo'], -deltaEloPerGamePerGame, deltaEloPerGame, nOponentes
     
     print " {}".format(sumSquareDeltaElo/nIterations)
@@ -161,9 +166,9 @@ def minimizeElo(teamDict, kFactor):
 #minimizeElo(teamDict)
 
 for i in range(156):
-    teamDict, error = minimizeElo(teamDict, 500)
+    teamDict, error = minimizeElo(teamDict, 5000)
 
-k = 500
+k = 5000
 error2 = error
 print "=-----------"
 
