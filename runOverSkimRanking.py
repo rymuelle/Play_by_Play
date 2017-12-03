@@ -104,6 +104,7 @@ with open("gameSummaryJsonForRanking.txt", 'r') as f:
 def minimizeElo(teamDict, kFactor):
     nIterations = 0.0
     sumSquareDeltaElo = 0.0
+
     for teamKey in teamDict:
         #pprint.pprint(teamKey)
         nOponentes = 0.0
@@ -111,6 +112,8 @@ def minimizeElo(teamDict, kFactor):
         name = teamDict[teamKey]['name']
         nGames = len(teamDict[teamKey]['games'])
         if nGames < 5: continue
+
+        eloErrorArray = []
         for games in teamDict[teamKey]['games']:
             opponent = games
             nOpponentGames = len(teamDict[opponent]['games'])
@@ -119,20 +122,30 @@ def minimizeElo(teamDict, kFactor):
             winProbability = (teamDict[teamKey]['games'][games])
             elo = teamDict[teamKey]['elo']
             opponentElo = teamDict[opponent]['elo']
+            opponentError = teamDict[opponent]['error']
             nOponentes = nOponentes + 1
             
             compWinProb = (computedWinProb(elo,opponentElo))
 
             deltaWinProb = winProbability - compWinProb
-            #print computeElofromProb(winProbability) + opponentElo
             #print deltaWinProb
             #deltaElo = computeElofromProb(deltaWinProb)
             sumDeltaElo = kFactor*deltaWinProb + sumDeltaElo
     
             sumSquareDeltaElo = sumSquareDeltaElo + abs(deltaWinProb)
             nIterations = nIterations +1
+
+            eloPerf =  computeElofromProb(winProbability) + opponentElo
+            eloErrorArray.append(eloPerf)
     
             if "WIU" == name : print opponent, winProbability, compWinProb, deltaWinProb, elo, opponentElo
+
+        #print eloErrorArray
+
+
+        stdDev = numpy.std(eloErrorArray)
+
+        teamDict[teamKey]['error'] = stdDev/math.sqrt(float(nOponentes))
         deltaEloPerGame = sumDeltaElo/nOponentes
         if "WIU" == name :  print name, deltaEloPerGame, elo + deltaEloPerGame, nOponentes
         teamDict[teamKey]['elo'] = deltaEloPerGame + elo
@@ -188,7 +201,9 @@ shortTeamDict = {}
 for teamKey in teamDict:
     elo = teamDict[teamKey]['elo']
     name = teamDict[teamKey]['name']
-    shortTeamDict[elo] = name
+    error = teamDict[teamKey]['error']
+    elo = elo - error
+    shortTeamDict[elo] = (name, error)
 
 pprint.pprint(shortTeamDict)
 
