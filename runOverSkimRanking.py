@@ -157,7 +157,7 @@ def minimizeElo(teamDict, kFactor):
         for games in teamDict[teamKey]['games']:
             opponent = games
             deltaEloPerGamePerGame = deltaEloPerGame/nOponentes
-            teamDict[opponent]['elo'] = teamDict[opponent]['elo'] #- deltaEloPerGamePerGame
+            teamDict[opponent]['elo'] = teamDict[opponent]['elo'] - deltaEloPerGamePerGame
             #print opponent, teamDict[opponent]['elo'], -deltaEloPerGamePerGame, deltaEloPerGame, nOponentes
     
     print " {}".format(sumSquareDeltaElo/nIterations)
@@ -207,7 +207,7 @@ for teamKey in teamDict:
     elo = teamDict[teamKey]['elo']
     name = teamDict[teamKey]['name']
     error = teamDict[teamKey]['error']
-    elo = elo - error
+   # elo = elo - error
     shortTeamDict[elo] = (name, error)
 
 pprint.pprint(shortTeamDict)
